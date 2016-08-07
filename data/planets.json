@@ -1,0 +1,722 @@
+[
+  {
+    "code": 1,
+    "name": "Earth",
+    "type": "Solar",
+    "gravity": "1.00G",
+    "creature": "Human",
+    "resource": "Garbage"
+  },
+  {
+    "code": 2,
+    "name": "Caramel Apple",
+    "type": "Cuisine",
+    "gravity": "2.22G",
+    "creature": "Pombat",
+    "resource": "Apple"
+  },
+  {
+    "code": 3,
+    "name": "Honeycomb",
+    "type": "Animal",
+    "gravity": "2.31G",
+    "creature": "Honey Bee",
+    "resource": "Honey"
+  },
+  {
+    "code": 4,
+    "name": "King of Cows",
+    "type": "Animal",
+    "gravity": "3.14G",
+    "creature": "Milk Poring",
+    "resource": "Milk"
+  },
+  {
+    "code": 5,
+    "name": "Water World",
+    "type": "Element",
+    "gravity": "0.12G",
+    "creature": "Watery Tako",
+    "resource": "Water"
+  },
+  {
+    "code": 6,
+    "name": "Fossil Fern",
+    "type": "Plant",
+    "gravity": "2.34G",
+    "creature": "Green Slime",
+    "resource": "Spores"
+  },
+  {
+    "code": 7,
+    "name": "Meteor Adrift",
+    "type": "Element",
+    "gravity": "9.41G",
+    "creature": "Rock Beetle",
+    "resource": "Stones"
+  },
+  {
+    "code": 8,
+    "name": "Ventricular Machine",
+    "type": "Unique",
+    "gravity": "2.31G",
+    "creature": "Golden Andrew",
+    "resource": "Gears"
+  },
+  {
+    "code": 9,
+    "name": "Snow World",
+    "type": "Element",
+    "gravity": "1.01G",
+    "creature": "Snowman",
+    "resource": "Snow"
+  },
+  {
+    "code": 10,
+    "name": "Golden Gusher",
+    "type": "Plant",
+    "gravity": "2.00G",
+    "creature": "Golden Poring",
+    "resource": "Oil"
+  },
+  {
+    "code": 11,
+    "name": "Moon Athena",
+    "type": "Unique",
+    "gravity": "2.33G",
+    "creature": "Little Helper",
+    "resource": "Aerolite"
+  },
+  {
+    "code": 12,
+    "name": "Ice Age",
+    "type": "Element",
+    "gravity": "5.31G",
+    "creature": "Ice Slime",
+    "resource": "Ice"
+  },
+  {
+    "code": 13,
+    "name": "Eagle's Nest",
+    "type": "Animal",
+    "gravity": "1.42G",
+    "creature": "Chick-Chick",
+    "resource": "Eggs"
+  },
+  {
+    "code": 14,
+    "name": "Citrus Trampoline",
+    "type": "Cuisine",
+    "gravity": "4.12G",
+    "creature": "Jelly Slime",
+    "resource": "Jelly"
+  },
+  {
+    "code": 15,
+    "name": "Bubble Gum",
+    "type": "Element",
+    "gravity": "0.23G",
+    "creature": "Air Poring",
+    "resource": "Air"
+  },
+  {
+    "code": 16,
+    "name": "Pineapple Foothills",
+    "type": "Cuisine",
+    "gravity": "4.56G",
+    "creature": "Spiky Beetle",
+    "resource": "Pineapples"
+  },
+  {
+    "code": 17,
+    "name": "Strawberry Cookies",
+    "type": "Cuisine",
+    "gravity": "1.42G",
+    "creature": "Princess Bee",
+    "resource": "Strawberries"
+  },
+  {
+    "code": 18,
+    "name": "Steam Age",
+    "type": "Unique",
+    "gravity": "9.13G",
+    "creature": "Metal Andrew",
+    "resource": "Screws"
+  },
+  {
+    "code": 19,
+    "name": "Snow Berry",
+    "type": "Cuisine",
+    "gravity": "1.66G",
+    "creature": "Fruit Bee",
+    "resource": "Hami Melons"
+  },
+  {
+    "code": 20,
+    "name": "Coral Reef",
+    "type": "Animal",
+    "gravity": "1.21G",
+    "creature": "Azure Fish",
+    "resource": "Coral"
+  },
+  {
+    "code": 21,
+    "name": "Lonely Dune",
+    "type": "Element",
+    "gravity": "5.31G",
+    "creature": "Sandworm",
+    "resource": "Soil"
+  },
+  {
+    "code": 22,
+    "name": "Octopus Cavern",
+    "type": "Animal",
+    "gravity": "4.10G",
+    "creature": "Trident Hunter",
+    "resource": "Octopus"
+  },
+  {
+    "code": 23,
+    "name": "Swamp of Crocs",
+    "type": "Plant",
+    "gravity": "9.13G",
+    "creature": "Viscous Tako",
+    "resource": "Gas"
+  },
+  {
+    "code": 24,
+    "name": "Smoky Secret",
+    "type": "Unique",
+    "gravity": "1.32G",
+    "creature": "Gassy Tako",
+    "resource": "Steam"
+  },
+  {
+    "code": 25,
+    "name": "Molten Lava",
+    "type": "Element",
+    "gravity": "5.31G",
+    "creature": "Fiery Tako",
+    "resource": "Fossils"
+  },
+  {
+    "code": 26,
+    "name": "Luminous Fungus",
+    "type": "Plant",
+    "gravity": "3.00G",
+    "creature": "Noctiluca",
+    "resource": "Mushrooms"
+  },
+  {
+    "code": 27,
+    "name": "Banana Boat",
+    "type": "Cuisine",
+    "gravity": "5.68G",
+    "creature": "Fat Slime",
+    "resource": "Sundaes"
+  },
+  {
+    "code": 28,
+    "name": "Antler Ravine",
+    "type": "Animal",
+    "gravity": "1.12G",
+    "creature": "White Treant",
+    "resource": "Leather"
+  },
+  {
+    "code": 29,
+    "name": "Sugar Rush",
+    "type": "Cuisine",
+    "gravity": "2.41G",
+    "creature": "Cane Tako",
+    "resource": "Candy"
+  },
+  {
+    "code": 30,
+    "name": "Tater Tower",
+    "type": "Plant",
+    "gravity": "4.21G",
+    "creature": "Tater Crab",
+    "resource": "Taters"
+  },
+  {
+    "code": 31,
+    "name": "Cat's Play",
+    "type": "Animal",
+    "gravity": "3.56G",
+    "creature": "Kitty Long",
+    "resource": "Cloth"
+  },
+  {
+    "code": 32,
+    "name": "Crystalline",
+    "type": "Unique",
+    "gravity": "0.02G",
+    "creature": "Radiant Beetle",
+    "resource": "Crystal"
+  },
+  {
+    "code": 33,
+    "name": "Desert Breeze",
+    "type": "Plant",
+    "gravity": "7.13G",
+    "creature": "Cactus Slime",
+    "resource": "Jus de Cact"
+  },
+  {
+    "code": 34,
+    "name": "Sweet Donut",
+    "type": "Cuisine",
+    "gravity": "4.33G",
+    "creature": "Sugar Cuber",
+    "resource": "Sugar"
+  },
+  {
+    "code": 35,
+    "name": "Botanical Garden",
+    "type": "Plant",
+    "gravity": "2.13G",
+    "creature": "Color Bee",
+    "resource": "Flowers"
+  },
+  {
+    "code": 36,
+    "name": "HA42N55",
+    "type": "Unique",
+    "gravity": "0.16G",
+    "creature": "Shapeshifter",
+    "resource": "Virus"
+  },
+  {
+    "code": 37,
+    "name": "Colossal Pepper",
+    "type": "Plant",
+    "gravity": "6.13G",
+    "creature": "Pepper Crab",
+    "resource": "Bell Pepper"
+  },
+  {
+    "code": 38,
+    "name": "Zombie Cortex",
+    "type": "Unique",
+    "gravity": "9.98G",
+    "creature": "Zombie",
+    "resource": "Blood"
+  },
+  {
+    "code": 39,
+    "name": "Red Crater",
+    "type": "Animal",
+    "gravity": "5.13G",
+    "creature": "Fire Beetle",
+    "resource": "Dye"
+  },
+  {
+    "code": 40,
+    "name": "Cello Valley",
+    "type": "Unique",
+    "gravity": "6.11G",
+    "creature": "Musical Andrew",
+    "resource": "Notes"
+  },
+  {
+    "code": 41,
+    "name": "Sunset Savanna",
+    "type": "Plant",
+    "gravity": "2.13G",
+    "creature": "Scarecrow",
+    "resource": "Wheat"
+  },
+  {
+    "code": 42,
+    "name": "Peaceful Prairie",
+    "type": "Plant",
+    "gravity": "10.00G",
+    "creature": "Farmer",
+    "resource": "Spices"
+  },
+  {
+    "code": 43,
+    "name": "Witch's Den",
+    "type": "Unique",
+    "gravity": "4.85G",
+    "creature": "Ebony Bat",
+    "resource": "Pumpkins"
+  },
+  {
+    "code": 44,
+    "name": "Circuit City",
+    "type": "Unique",
+    "gravity": "2.52G",
+    "creature": "Electric Andrew",
+    "resource": "Chips"
+  },
+  {
+    "code": 45,
+    "name": "Vault of Secrets",
+    "type": "Element",
+    "gravity": "2.84G",
+    "creature": "Golden Treant",
+    "resource": "Metal"
+  },
+  {
+    "code": 46,
+    "name": "Heart of Flames",
+    "type": "Element",
+    "gravity": "2.48G",
+    "creature": "Fire Poring",
+    "resource": "Fire"
+  },
+  {
+    "code": 47,
+    "name": "Boar Tribe",
+    "type": "Animal",
+    "gravity": "2.22G",
+    "creature": "Wild Boar",
+    "resource": "Meat"
+  },
+  {
+    "code": 48,
+    "name": "Woolly Peak",
+    "type": "Animal",
+    "gravity": "9.99G",
+    "creature": "Shaggy Bat",
+    "resource": "Wool"
+  },
+  {
+    "code": 49,
+    "name": "Watermelon Canyon",
+    "type": "Cuisine",
+    "gravity": "10.29G",
+    "creature": "Crabbermelons",
+    "resource": "Watermelons"
+  },
+  {
+    "code": 50,
+    "name": "Amazon Rainforest",
+    "type": "Element",
+    "gravity": "3.46G",
+    "creature": "Forest Treant",
+    "resource": "Wood"
+  },
+  {
+    "code": 51,
+    "name": "Chocolate River",
+    "type": "Cuisine",
+    "gravity": "8.11G",
+    "creature": "Choco Crab",
+    "resource": "Chocolate"
+  },
+  {
+    "code": 52,
+    "name": "China Town",
+    "type": "Festival",
+    "gravity": "0.92G",
+    "creature": "Chinese Doll",
+    "resource": "Ingot"
+  },
+  {
+    "code": 53,
+    "name": "The Two Mountains",
+    "type": "Festival",
+    "gravity": "0.92G",
+    "creature": "Pair Beetle",
+    "resource": "Diamond"
+  },
+  {
+    "code": 54,
+    "name": "City of Children",
+    "type": "Festival",
+    "gravity": "0.92G",
+    "creature": "Nutcracker",
+    "resource": "Toy"
+  },
+  {
+    "code": 55,
+    "name": "Rainbow Eggs",
+    "type": "Festival",
+    "gravity": "0.92G",
+    "creature": "Bunny",
+    "resource": "Color"
+  },
+  {
+    "code": 56,
+    "name": "Housework Factory",
+    "type": "Festival",
+    "gravity": "0.92G",
+    "creature": "Mom Andrew",
+    "resource": "Love"
+  },
+  {
+    "code": 57,
+    "name": "River of Dragon",
+    "type": "Festival",
+    "gravity": "1.50G",
+    "creature": "Poet",
+    "resource": "Leaf"
+  },
+  {
+    "code": 58,
+    "name": "Peace River",
+    "type": "Festival",
+    "gravity": "0.01G",
+    "creature": "Jiangshi",
+    "resource": "Spirit"
+  },
+  {
+    "code": 59,
+    "name": "Busy City",
+    "type": "Festival",
+    "gravity": "8.12G",
+    "creature": "Dad Andrew",
+    "resource": "Button"
+  },
+  {
+    "code": 60,
+    "name": "Moon Lake",
+    "type": "Festival",
+    "gravity": "6.12G",
+    "creature": "Rabbit",
+    "resource": "Light"
+  },
+  {
+    "code": 61,
+    "name": "Scary Pumpkin",
+    "type": "Festival",
+    "gravity": "1.24G",
+    "creature": "Little Ghost",
+    "resource": "Screaming"
+  },
+  {
+    "code": 62,
+    "name": "Many Givings",
+    "type": "Festival",
+    "gravity": "0.92G",
+    "creature": "Jumper",
+    "resource": "Chicken"
+  },
+  {
+    "code": 63,
+    "name": "Ring Forest",
+    "type": "Festival",
+    "gravity": "0.92G",
+    "creature": "Santa Claus",
+    "resource": "Jingle"
+  },
+  {
+    "code": 64,
+    "name": "Deep-Sea Aquarium",
+    "type": "Animal",
+    "gravity": "3.56G",
+    "creature": "Goldfish",
+    "resource": "Fishbone"
+  },
+  {
+    "code": 65,
+    "name": "Legacy Gate",
+    "type": "Unique",
+    "gravity": "1.99G",
+    "creature": "Wisp",
+    "resource": "Conscious"
+  },
+  {
+    "code": 66,
+    "name": "The Light of Ideas",
+    "type": "Element",
+    "gravity": "0.14G",
+    "creature": "Bulbee",
+    "resource": "Idea"
+  },
+  {
+    "code": 67,
+    "name": "Soccer Sphere",
+    "type": "Unique",
+    "gravity": "9.88G",
+    "creature": "Soccer Ref",
+    "resource": "Passion"
+  },
+  {
+    "code": 68,
+    "name": "Invisible Base",
+    "type": "Element",
+    "gravity": "0.00G",
+    "creature": "Invisible Poring",
+    "resource": "Invisibility"
+  },
+  {
+    "code": 69,
+    "name": "Burger Mountain",
+    "type": "Cuisine",
+    "gravity": "9.99G",
+    "creature": "Fatty",
+    "resource": "Fries"
+  },
+  {
+    "code": 70,
+    "name": "Popcorn Prison",
+    "type": "Cuisine",
+    "gravity": "8.13G",
+    "creature": "Butterling",
+    "resource": "Popcorn"
+  },
+  {
+    "code": 71,
+    "name": "Doggii's Home",
+    "type": "Element",
+    "gravity": "1.23G",
+    "creature": "Frisbee",
+    "resource": "Tooth"
+  },
+  {
+    "code": 72,
+    "name": "Raining Cloud",
+    "type": "Element",
+    "gravity": "0.92G",
+    "creature": "Gray Bat",
+    "resource": "Cloud"
+  },
+  {
+    "code": 73,
+    "name": "Infinite Racing",
+    "type": "Unique",
+    "gravity": "5.33G",
+    "creature": "Racing Andrew",
+    "resource": "Hurray"
+  },
+  {
+    "code": 74,
+    "name": "Rome Arena",
+    "type": "Unique",
+    "gravity": "8.13G",
+    "creature": "Roman",
+    "resource": "Soul"
+  },
+  {
+    "code": 75,
+    "name": "Ancient Worldtree",
+    "type": "Plant",
+    "gravity": "7.12G",
+    "creature": "Colossus",
+    "resource": "Rune"
+  },
+  {
+    "code": 76,
+    "name": "Viking Warship",
+    "type": "Plant",
+    "gravity": "0.92G",
+    "creature": "Viking Beetle",
+    "resource": "Copper"
+  },
+  {
+    "code": 77,
+    "name": "Stone Age",
+    "type": "Animal",
+    "gravity": "0.92G",
+    "creature": "Tiny Dino",
+    "resource": "Plate"
+  },
+  {
+    "code": 78,
+    "name": "Angry Dragon",
+    "type": "Animal",
+    "gravity": "0.92G",
+    "creature": "Tiny Knight",
+    "resource": "Dragonclaw"
+  },
+  {
+    "code": 79,
+    "name": "Black & White",
+    "type": "Animal",
+    "gravity": "4.55G",
+    "creature": "Black Tako",
+    "resource": "Bamboo"
+  },
+  {
+    "code": 80,
+    "name": "Floating Library",
+    "type": "Unique",
+    "gravity": "8.11G",
+    "creature": "Librarian",
+    "resource": "Knowledge"
+  },
+  {
+    "code": 81,
+    "name": "Peaceful Graveyard",
+    "type": "Plant",
+    "gravity": "5.12G",
+    "creature": "Ghost Fire",
+    "resource": "Bone"
+  },
+  {
+    "code": 82,
+    "name": "Star Portal",
+    "type": "Unique",
+    "gravity": "0.92G",
+    "creature": "Super Andrew",
+    "resource": "Superpower"
+  },
+  {
+    "code": 83,
+    "name": "Waving Ocean",
+    "type": "Element",
+    "gravity": "2.11G",
+    "creature": "Ocean Pori",
+    "resource": "Salt"
+  },
+  {
+    "code": 84,
+    "name": "Dreamland",
+    "type": "Unique",
+    "gravity": "0.01G",
+    "creature": "Dreamcatcher",
+    "resource": "Dream"
+  },
+  {
+    "code": 85,
+    "name": "Aquatic Wonderland",
+    "type": "Plant",
+    "gravity": "0.92G",
+    "creature": "Neon Fish",
+    "resource": "Sea Weed"
+  },
+  {
+    "code": 86,
+    "name": "Lotus Lake",
+    "type": "Plant",
+    "gravity": "2.15G",
+    "creature": "Werefish",
+    "resource": "Lotus Seed"
+  },
+  {
+    "code": 87,
+    "name": "Neon Party",
+    "type": "Element",
+    "gravity": "3.33G",
+    "creature": "Neon Warm",
+    "resource": "Neon"
+  },
+  {
+    "code": 88,
+    "name": "Crown Circus",
+    "type": "Unique",
+    "gravity": "5.52G",
+    "creature": "Clown",
+    "resource": "Ticket"
+  },
+  {
+    "code": 89,
+    "name": "Great Whale",
+    "type": "Animal",
+    "gravity": "6.77G",
+    "creature": "Flying Fish",
+    "resource": "Wave"
+  },
+  {
+    "code": 90,
+    "name": "Lion Land",
+    "type": "Unique",
+    "gravity": "6.35G",
+    "creature": "Masker",
+    "resource": "Symbol"
+  }
+]

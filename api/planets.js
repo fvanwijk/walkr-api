@@ -6,14 +6,24 @@ module.exports = function (router) {
   router.route('/planets')
     .get(CommonApi.getAll(Planet))
     .post(function (req, res) {
-      var planet = new Planet();
-      planet.name = 'Planeet 1';
-      planet.save(function (err) {
+      Planet.remove({});
+      var planets = require('../data/planets.json');
+      planets.forEach(planet => {
+        var model = new Planet(planet);
+        model.save(function (err) {
+          if (err) {
+            res.send(err);
+          }
+        })
+      });
+      res.json({ message: 'Planets created!' });
+    })
+    .delete(function (req, res) {
+      Planet.remove({}, function (err) {
         if (err) {
           res.send(err);
         }
-
-        res.json({ message: 'Planet created!', planet: planet });
+        res.send(200);
       });
     });
 
