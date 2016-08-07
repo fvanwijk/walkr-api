@@ -6,6 +6,8 @@ router.use(function (req, res, next) {
   next();
 });
 
+require('./api/planets')(router);
+
 router.get('/', function (req, res) {
   return res.json({ message: 'Hello world!' });
 });
