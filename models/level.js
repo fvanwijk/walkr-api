@@ -10,6 +10,7 @@ var LevelSchema = new Schema({
 
 var level = mongoose.model('Level', LevelSchema);
 level.slug = 'levels';
+level.identifierField = 'level';
 level.nameField = 'level';
 
 module.exports = level;

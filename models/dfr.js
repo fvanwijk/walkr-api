@@ -9,6 +9,7 @@ var DFRSchema = new Schema({
 
 var dfr = mongoose.model('DFR', DFRSchema);
 dfr.slug = 'dfrs';
+dfr.identifierField = 'code';
 dfr.nameField = 'name';
 
 module.exports = dfr;

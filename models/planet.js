@@ -13,6 +13,7 @@ var PlanetSchema = new Schema({
 
 var planet = mongoose.model('Planet', PlanetSchema);
 planet.slug = 'planets';
+planet.identifierField = 'code';
 planet.nameField = 'name';
 
 module.exports = planet;

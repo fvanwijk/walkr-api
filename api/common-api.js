@@ -18,7 +18,7 @@ module.exports = {
       });
     }
   },
-  postAll: function (Model, identifier, filename) {
+  postAll: function (Model, filename) {
     return function (req, res) {
       Model.remove({}, function (err) {
         if (err) {
@@ -26,7 +26,7 @@ module.exports = {
         }
       });
       var items = require(`../data/${filename}`).map(item => {
-        item.url = url.create(Model.slug, item[identifier]);
+        item.url = url.create(Model.slug, item[Model.identifierField]);
         return item;
       });
       Model.insertMany(items, function (err) {
@@ -47,9 +47,9 @@ module.exports = {
       });
     }
   },
-  get: function (Model, field) {
+  get: function (Model) {
     return function(req, res) {
-      Model.findOne({ [field]: req.params.id }, function(err, item) {
+      Model.findOne({ [Model.identifierField]: req.params.id }, function(err, item) {
         if (err) {
           res.send(err);
         }
@@ -61,9 +61,9 @@ module.exports = {
       });
     }
   },
-  post: function (Model, identifier) {
+  post: function (Model) {
     return function (req, res) {
-      req.body.url = req.body.url || url.create(Model.slug, req.body[identifier]);
+      req.body.url = req.body.url || url.create(Model.slug, req.body[Model.identifierField]);
       Model.create(req.body, function (err, item) {
         if (err) {
           res.send(err);
@@ -72,9 +72,9 @@ module.exports = {
       })
     }
   },
-  put: function (Model, field) {
+  put: function (Model) {
     return function(req, res) {
-      Model.findOneAndUpdate({ [field]: req.params.id }, req.body, { new: true }, function(err, item) {
+      Model.findOneAndUpdate({ [Model.identifierField]: req.params.id }, req.body, { new: true }, function(err, item) {
         if (err) {
           res.send(err);
         }
@@ -86,9 +86,9 @@ module.exports = {
       });
     }
   },
-  delete: function (Model, field) {
+  delete: function (Model) {
     return function (req, res) {
-      Model.remove({ [field]: req.params.id }, function (err, item) {
+      Model.remove({ [Model.identifierField]: req.params.id }, function (err, item) {
         if (err) {
           res.send(err);
         }
