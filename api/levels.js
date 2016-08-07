@@ -9,5 +9,8 @@ module.exports = function (router) {
     .delete(CommonApi.deleteAll(Level));
 
   router.route('/levels/:level')
-    .get(CommonApi.get(Level, 'level', 'level'));
+    .get(CommonApi.get(Level, 'level', 'level'))
+    .post(CommonApi.post(Level, 'level'))
+    .put(CommonApi.put(Level, 'level', 'level'))
+    .delete(CommonApi.delete(Level, 'level', 'level'));
 };
