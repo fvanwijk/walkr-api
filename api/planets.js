@@ -8,9 +8,9 @@ module.exports = function (router) {
     .post(CommonApi.postAll(Planet, 'code', 'planets.json'))
     .delete(CommonApi.deleteAll(Planet));
 
-  router.route('/planets/:planet_code')
-    .get(CommonApi.get(Planet, 'code', 'planet_code'))
+  router.route('/planets/:id')
+    .get(CommonApi.get(Planet, 'code'))
     .post(CommonApi.post(Planet, 'code'))
-    .put(CommonApi.put(Planet, 'code', 'planet_code'))
-    .delete(CommonApi.delete(Planet, 'code', 'planet_code'));
+    .put(CommonApi.put(Planet, 'code'))
+    .delete(CommonApi.delete(Planet, 'code'));
 };

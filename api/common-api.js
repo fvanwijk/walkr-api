@@ -47,9 +47,9 @@ module.exports = {
       });
     }
   },
-  get: function (Model, field, paramName) {
+  get: function (Model, field) {
     return function(req, res) {
-      Model.findOne({ [field]: req.params[paramName] }, function(err, item) {
+      Model.findOne({ [field]: req.params.id }, function(err, item) {
         if (err) {
           res.send(err);
         }
@@ -72,9 +72,9 @@ module.exports = {
       })
     }
   },
-  put: function (Model, field, paramName) {
+  put: function (Model, field) {
     return function(req, res) {
-      Model.findOneAndUpdate({ [field]: req.params[paramName] }, req.body, { new: true }, function(err, item) {
+      Model.findOneAndUpdate({ [field]: req.params.id }, req.body, { new: true }, function(err, item) {
         if (err) {
           res.send(err);
         }
@@ -86,9 +86,9 @@ module.exports = {
       });
     }
   },
-  delete: function (Model, field, paramName) {
+  delete: function (Model, field) {
     return function (req, res) {
-      Model.remove({ [field]: req.params[paramName] }, function (err, item) {
+      Model.remove({ [field]: req.params.id }, function (err, item) {
         if (err) {
           res.send(err);
         }
