@@ -10,5 +10,6 @@ require('./api/api')(router);
 require('./api/planets')(router);
 require('./api/levels')(router);
 require('./api/dfrs')(router);
+require('./api/satellites')(router);
 
 module.exports = router;

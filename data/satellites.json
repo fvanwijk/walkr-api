@@ -1,0 +1,770 @@
+[
+  {
+    "id": 1,
+    "name": "Hubble Telescope",
+    "boost": "Increase Population",
+    "level_1": "3",
+    "level_2": "3",
+    "planet": null
+  },
+  {
+    "id": 2,
+    "name": "Armillary Sphere",
+    "boost": "Increase Population",
+    "level_1": "3",
+    "level_2": "3",
+    "planet": null
+  },
+  {
+    "id": 3,
+    "name": "Arc Net Shield",
+    "boost": "Increase Population",
+    "level_1": "4",
+    "level_2": "4",
+    "planet": null
+  },
+  {
+    "id": 4,
+    "name": "Gamegirl",
+    "boost": "Increase Population",
+    "level_1": "5",
+    "level_2": "5",
+    "planet": null
+  },
+  {
+    "id": 5,
+    "name": "The Crown of Endurance",
+    "boost": "Increase Population",
+    "level_1": "4",
+    "level_2": "4",
+    "planet": null
+  },
+  {
+    "id": 6,
+    "name": "Magic Cube",
+    "boost": "Increase Population",
+    "level_1": "6",
+    "level_2": "6",
+    "planet": null
+  },
+  {
+    "id": 7,
+    "name": "The Moon",
+    "boost": null,
+    "level_1": null,
+    "level_2": null,
+    "planet": "Earth"
+  },
+  {
+    "id": 8,
+    "name": "Lolly",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Caramel Apple"
+  },
+  {
+    "id": 9,
+    "name": "Honey Dipper",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Honeycomb"
+  },
+  {
+    "id": 10,
+    "name": "Cheeeese",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "King of Cows"
+  },
+  {
+    "id": 11,
+    "name": "Letter in the Bottle",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Water World"
+  },
+  {
+    "id": 12,
+    "name": "Space Crud",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Fossil Fern"
+  },
+  {
+    "id": 13,
+    "name": "Artificial Satellite",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Meteor Adrift"
+  },
+  {
+    "id": 14,
+    "name": "Gear",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Ventricular Machine"
+  },
+  {
+    "id": 15,
+    "name": "Snowball",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Snow World"
+  },
+  {
+    "id": 16,
+    "name": "Olive Sapling",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Golden Gusher"
+  },
+  {
+    "id": 17,
+    "name": "Christmas Star",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Moon Athena"
+  },
+  {
+    "id": 18,
+    "name": "Flake",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Ice Age"
+  },
+  {
+    "id": 19,
+    "name": "Feather Pom",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Eagle's Nest"
+  },
+  {
+    "id": 20,
+    "name": "Ice Lolly",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Citrus Trampoline"
+  },
+  {
+    "id": 21,
+    "name": "Rainbow Orb",
+    "boost": "Decrease Food Requirement",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Bubble Gum"
+  },
+  {
+    "id": 22,
+    "name": "Yellow Juicer",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Pineapple Foothills"
+  },
+  {
+    "id": 23,
+    "name": "Dairy Juice",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Strawberry Cookies"
+  },
+  {
+    "id": 24,
+    "name": "Probe",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Steam Age"
+  },
+  {
+    "id": 25,
+    "name": "Green Juicer",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Snow Berry"
+  },
+  {
+    "id": 26,
+    "name": "Pearl of Wisdom",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Coral Reef"
+  },
+  {
+    "id": 27,
+    "name": "Magic Stone",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Lonely Dune"
+  },
+  {
+    "id": 28,
+    "name": "Shipwreck",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Octopus Cavern"
+  },
+  {
+    "id": 29,
+    "name": "Fisheye",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Swamp of Crocs"
+  },
+  {
+    "id": 30,
+    "name": "Space Pirate Battleship",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Smoky Secret"
+  },
+  {
+    "id": 31,
+    "name": "Galactic Drill",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Molten Lava"
+  },
+  {
+    "id": 32,
+    "name": "Sapphire",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Luminous Fungus"
+  },
+  {
+    "id": 33,
+    "name": "Tiny Parasol",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Banana Boat"
+  },
+  {
+    "id": 34,
+    "name": "Mossy",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Antler Ravine"
+  },
+  {
+    "id": 35,
+    "name": "Candy Cane",
+    "boost": "Decrease Food Requirement",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Sugar Rush"
+  },
+  {
+    "id": 36,
+    "name": "Snackysnacks",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Tater Tower"
+  },
+  {
+    "id": 37,
+    "name": "Rattykin",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Cat's Play"
+  },
+  {
+    "id": 38,
+    "name": "Amber",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Crystalline"
+  },
+  {
+    "id": 39,
+    "name": "Ball o' Sun",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Desert Breeze"
+  },
+  {
+    "id": 40,
+    "name": "Macaron",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Sweet Donut"
+  },
+  {
+    "id": 41,
+    "name": "Blue Orb",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Botanical Garden"
+  },
+  {
+    "id": 42,
+    "name": "Spacecraft of Dr. Evil",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "HA42N55"
+  },
+  {
+    "id": 43,
+    "name": "Ruby",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Colossal Pepper"
+  },
+  {
+    "id": 44,
+    "name": "Drippy Dropper",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Zombie Cortex"
+  },
+  {
+    "id": 45,
+    "name": "Gumbear",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Red Crater"
+  },
+  {
+    "id": 46,
+    "name": "Ding-Donger",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Cello Valley"
+  },
+  {
+    "id": 47,
+    "name": "Scarecrow",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Sunset Savanna"
+  },
+  {
+    "id": 48,
+    "name": "Emerald",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Peaceful Prairie"
+  },
+  {
+    "id": 49,
+    "name": "Bat",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Witch's Den"
+  },
+  {
+    "id": 50,
+    "name": "Energizer",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Circuit City"
+  },
+  {
+    "id": 51,
+    "name": "Diamond",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Vault of Secrets"
+  },
+  {
+    "id": 52,
+    "name": "Fireball",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Heart of Flame"
+  },
+  {
+    "id": 53,
+    "name": "Hami Ham",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Boar Tribe"
+  },
+  {
+    "id": 54,
+    "name": "Ball o' Yarn",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Woolly Peak"
+  },
+  {
+    "id": 55,
+    "name": "Red Juicer",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Watermelon Canyon"
+  },
+  {
+    "id": 56,
+    "name": "Florb",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Amazon Rainforest"
+  },
+  {
+    "id": 57,
+    "name": "Cottony Candy",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Chocolate River"
+  },
+  {
+    "id": 58,
+    "name": "Chinese�Dragon",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "China Town"
+  },
+  {
+    "id": 59,
+    "name": "Love Letter",
+    "boost": "Increase Production",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "The Two Mountains"
+  },
+  {
+    "id": 60,
+    "name": "Toy Blocks",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "City of Children"
+  },
+  {
+    "id": 61,
+    "name": "Easter Egg",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Rainbow Eggs"
+  },
+  {
+    "id": 62,
+    "name": "Sweet Heart",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Housework Factory"
+  },
+  {
+    "id": 63,
+    "name": "Sachet",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "River of Dragon"
+  },
+  {
+    "id": 64,
+    "name": "Magic Rune",
+    "boost": "Increase Production",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Peace River"
+  },
+  {
+    "id": 65,
+    "name": "Pipe",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Busy City"
+  },
+  {
+    "id": 66,
+    "name": "Moon Cake",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Moon Lake"
+  },
+  {
+    "id": 67,
+    "name": "Magic Circle",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Scary Pumpkin"
+  },
+  {
+    "id": 68,
+    "name": "Turkey Feather",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Many Givings"
+  },
+  {
+    "id": 69,
+    "name": "X'mas Gift",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Ring Forest"
+  },
+  {
+    "id": 70,
+    "name": "Buccinidae",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Deep-Sea Aquarium"
+  },
+  {
+    "id": 71,
+    "name": "Scoutship",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "The Legacy Gate"
+  },
+  {
+    "id": 72,
+    "name": "Plug",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "The Light of Ideas"
+  },
+  {
+    "id": 73,
+    "name": "Soccer",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Soccer Sphere"
+  },
+  {
+    "id": 74,
+    "name": "Invisible Walkr",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Invisible Base"
+  },
+  {
+    "id": 75,
+    "name": "Coke",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Burger Mountain"
+  },
+  {
+    "id": 76,
+    "name": "DVD",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Popcorn Prison"
+  },
+  {
+    "id": 77,
+    "name": "Dog Bowl",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Doggii's Home"
+  },
+  {
+    "id": 78,
+    "name": "Raven",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Rainin' Cloud"
+  },
+  {
+    "id": 79,
+    "name": "Tire",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Infinite Racing"
+  },
+  {
+    "id": 80,
+    "name": "Roman Helmet",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Rome Arena"
+  },
+  {
+    "id": 81,
+    "name": "Rune Stone",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Ancient Worldtree"
+  },
+  {
+    "id": 82,
+    "name": "Horn",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Viking Warship"
+  },
+  {
+    "id": 83,
+    "name": "Rune Plate",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Stone Age"
+  },
+  {
+    "id": 84,
+    "name": "Knight Shield",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Angry Dragon"
+  },
+  {
+    "id": 85,
+    "name": "Bamboo",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Black & White"
+  },
+  {
+    "id": 86,
+    "name": "Dictionary",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Floating Library"
+  },
+  {
+    "id": 87,
+    "name": "Monument",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Peaceful Graveyard"
+  },
+  {
+    "id": 88,
+    "name": "Energy Stone",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Star Portal"
+  },
+  {
+    "id": 89,
+    "name": "Bilge Plug",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Waving Ocean"
+  },
+  {
+    "id": 90,
+    "name": "Malayan Tapir",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Dreamland"
+  },
+  {
+    "id": 91,
+    "name": "Starfish",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Aquatic Wonderland"
+  },
+  {
+    "id": 92,
+    "name": "Shower",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": "Lotus Lake"
+  },
+  {
+    "id": 93,
+    "name": "Neon Lights",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": "Neon Party"
+  },
+  {
+    "id": 94,
+    "name": "Fire Ring Lion",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": "Crown Circus"
+  },
+  {
+    "id": 95,
+    "name": "Tropical Fish",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": "Great Whale"
+  },
+  {
+    "id": 96,
+    "name": "Djembe",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": "Lion Land"
+  }
+]
