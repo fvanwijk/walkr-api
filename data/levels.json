@@ -1,35 +1,42 @@
 [
   {
+    "url": null,
     "level": 1,
     "production_rate": 6,
     "description": "Hi, we're new to the Galaxy."
   },
   {
+    "url": null,
     "level": 2,
     "production_rate": 6.6,
     "description": "A unique one is born among us."
   },
   {
+    "url": null,
     "level": 3,
     "production_rate": 7.26,
     "description": "A queen is crowned."
   },
   {
+    "url": null,
     "level": 4,
     "production_rate": 7.986,
     "description": "Monumental Wonder flag is raised."
   },
   {
+    "url": null,
     "level": 5,
     "production_rate": 8.7846,
     "description": "The unique come in pairs."
   },
   {
+    "url": null,
     "level": 6,
     "production_rate": 9.66306,
     "description": "A king is crowned."
   },
   {
+    "url": null,
     "level": 7,
     "production_rate": 10.629366,
     "description": "The Monumental Wonder is finished."
