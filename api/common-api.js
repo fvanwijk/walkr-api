@@ -26,15 +26,12 @@ module.exports = {
         }
       });
       var items = require(`../data/${filename}`);
-      items.forEach(item => {
-        var model = new Model(item);
-        model.save(function (err) {
-          if (err) {
-            res.send(err);
-          }
-        })
+      Model.insertMany(items, function (err) {
+        if (err) {
+          res.send(err);
+        }
+        res.sendStatus(200);
       });
-      res.sendStatus(200);
     }
   },
   deleteAll: function (Model) {
