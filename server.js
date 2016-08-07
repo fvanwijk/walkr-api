@@ -6,6 +6,7 @@ var mongoosemask = require('mongoosemask');
 var bodyParser = require('body-parser');
 var url = require('./api/url');
 
+mongoose.Promise = global.Promise;
 mongoose.connect('mongodb://localhost:27017');
 
 app.use(bodyParser.urlencoded({ extended: true }));
