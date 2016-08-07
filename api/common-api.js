@@ -53,7 +53,11 @@ module.exports = {
         if (err) {
           res.send(err);
         }
-        res.json(item);
+        if (item) {
+          res.json(item);
+        } else {
+          res.sendStatus(404);
+        }
       });
     }
   }
