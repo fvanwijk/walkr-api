@@ -1,5 +1,7 @@
+var url = require('./url');
+
 module.exports = {
-  getAll: function (Model) {
+  getAll: function (Model, slug, identifier) {
     return function (req, res) {
       Model.find(function (err, items) {
         if (err) {
@@ -10,7 +12,7 @@ module.exports = {
           count: items.length,
           results: items.map((item) => ({
             name: item.name,
-            url: `http://localhost:1337/api/planets/${item.id}`
+            url: `${url.host}:${url.port}/api/${slug}/${item[identifier]}`
           }))
         });
       });

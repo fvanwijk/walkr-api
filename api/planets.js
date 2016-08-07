@@ -4,7 +4,7 @@ var CommonApi = require('./common-api');
 
 module.exports = function (router) {
   router.route('/planets')
-    .get(CommonApi.getAll(Planet))
+    .get(CommonApi.getAll(Planet, 'planets', 'code'))
     .post(CommonApi.postAll(Planet, 'planets.json'))
     .delete(CommonApi.deleteAll(Planet));
 
