@@ -1,0 +1,16 @@
+{
+  "name": "walkr-api",
+  "version": "1.0.0",
+  "description": "REST API for Walkr",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Frank van Wijk <fvanwijk@xebia.com> (http://www.frankvanwijk.nl)",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "4.14.0",
+    "mongoose": "4.5.8"
+  }
+}
