@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 router.use(function (req, res, next) {
-  console.log('Receiving request');
+  console.log('Request:', req.method, req.url, res.statusCode);
   next();
 });
 
