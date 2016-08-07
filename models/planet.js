@@ -11,4 +11,8 @@ var PlanetSchema = new Schema({
   resource: String
 });
 
-module.exports = mongoose.model('Planet', PlanetSchema);
+var planet = mongoose.model('Planet', PlanetSchema);
+planet.slug = 'planets';
+planet.nameField = 'name';
+
+module.exports = planet;

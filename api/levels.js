@@ -4,8 +4,8 @@ var CommonApi = require('./common-api');
 
 module.exports = function (router) {
   router.route('/levels')
-    .get(CommonApi.getAll(Level, 'levels', 'level'))
-    .post(CommonApi.postAll(Level, 'levels.json'))
+    .get(CommonApi.getAll(Level))
+    .post(CommonApi.postAll(Level, 'level', 'levels.json'))
     .delete(CommonApi.deleteAll(Level));
 
   router.route('/levels/:level')

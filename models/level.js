@@ -8,4 +8,8 @@ var LevelSchema = new Schema({
   description: String
 });
 
-module.exports = mongoose.model('Level', LevelSchema);
+var level = mongoose.model('Level', LevelSchema);
+level.slug = 'levels';
+level.nameField = 'level';
+
+module.exports = level;
