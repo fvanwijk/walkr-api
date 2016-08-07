@@ -20,7 +20,11 @@ module.exports = {
   },
   postAll: function (Model, filename) {
     return function (req, res) {
-      Model.remove({});
+      Model.remove({}, function (err) {
+        if (err) {
+          res.send(err);
+        }
+      });
       var items = require(`../data/${filename}`);
       items.forEach(item => {
         var model = new Model(item);
