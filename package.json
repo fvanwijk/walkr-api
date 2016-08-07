@@ -10,7 +10,10 @@
   "author": "Frank van Wijk <fvanwijk@xebia.com> (http://www.frankvanwijk.nl)",
   "license": "MIT",
   "devDependencies": {
+  },
+  "dependencies": {
     "express": "4.14.0",
-    "mongoose": "4.5.8"
+    "mongoose": "4.5.8",
+    "mongoosemask": "0.0.6"
   }
 }
