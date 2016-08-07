@@ -2,8 +2,9 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var LevelSchema = new Schema({
-  level: 'number',
-  production_rate: 'number',
+  url: String,
+  level: Number,
+  production_rate: Number,
   description: String
 });
 
