@@ -9,5 +9,6 @@ router.use(function (req, res, next) {
 require('./api/api')(router);
 require('./api/planets')(router);
 require('./api/levels')(router);
+require('./api/dfrs')(router);
 
 module.exports = router;

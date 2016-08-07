@@ -1,0 +1,42 @@
+[
+  {
+    "code": "A",
+    "name": "Super Blender"
+  },
+  {
+    "code": "B",
+    "name": "Space Percolator"
+  },
+  {
+    "code": "C",
+    "name": "Ultrasound Juicer"
+  },
+  {
+    "code": "D",
+    "name": "Rice Cooker"
+  },
+  {
+    "code": "E",
+    "name": "Sonic Toaster"
+  },
+  {
+    "code": "F",
+    "name": "Coffee Supplier"
+  },
+  {
+    "code": "G",
+    "name": "Sushi Master"
+  },
+  {
+    "code": "H",
+    "name": "Meat Grill"
+  },
+  {
+    "code": "I",
+    "name": "Ice Cream Diner"
+  },
+  {
+    "code": "J",
+    "name": "Bread Maker"
+  }
+]
