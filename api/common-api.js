@@ -6,7 +6,13 @@ module.exports = {
           res.send(err);
         }
 
-        res.json(items);
+        res.json({
+          count: items.length,
+          results: items.map((item) => ({
+            name: item.name,
+            url: `http://localhost:1337/api/planets/${item.id}`
+          }))
+        });
       });
     }
   }
