@@ -12,7 +12,7 @@ module.exports = {
           count: items.length,
           results: items.map((item) => ({
             name: item.name,
-            url: `${url.host}:${url.port}/api/${slug}/${item[identifier]}`
+            url: url.create(slug, item[identifier])
           }))
         });
       });
