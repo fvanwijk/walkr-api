@@ -8,6 +8,8 @@ module.exports = function (router) {
       res.json({
         levels: `${baseUrl}/levels/`,
         planets: `${baseUrl}/planets/`,
+        dfrs: `${baseUrl}/dfrs/`,
+        satellites: `${baseUrl}/satellites/`
       });
     });
 };
