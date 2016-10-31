@@ -1,0 +1,2541 @@
+[
+  {
+    "id": 1,
+    "name": "Chinese Garden",
+    "resources": [
+      {
+        "name": "Bamboo",
+        "quantity": 1600
+      },
+      {
+        "name": "Leaf",
+        "quantity": 1000
+      },
+      {
+        "name": "Soil",
+        "quantity": 400
+      }
+    ],
+    "cubes": 15
+  },
+  {
+    "id": 2,
+    "name": "Lubricant",
+    "resources": [
+      {
+        "name": "Oil",
+        "quantity": 4000
+      },
+      {
+        "name": "Gears",
+        "quantity": 2400
+      }
+    ],
+    "cubes": 16
+  },
+  {
+    "id": 3,
+    "name": "Aerodynamics",
+    "resources": [
+      {
+        "name": "Gas",
+        "quantity": 3600
+      },
+      {
+        "name": "Steam",
+        "quantity": 4000
+      }
+    ],
+    "cubes": 19
+  },
+  {
+    "id": 4,
+    "name": "Superbot",
+    "resources": [
+      {
+        "name": "Knowledge",
+        "quantity": 800
+      },
+      {
+        "name": "Superpower",
+        "quantity": 800
+      },
+      {
+        "name": "Chips",
+        "quantity": 400
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 5,
+    "name": "Invisibility Lab",
+    "resources": [
+      {
+        "name": "Invisibility",
+        "quantity": 600
+      },
+      {
+        "name": "Soul",
+        "quantity": 600
+      },
+      {
+        "name": "Conscious",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 12
+  },
+  {
+    "id": 6,
+    "name": "Pineapple Milk",
+    "resources": [
+      {
+        "name": "Pineapples",
+        "quantity": 2400
+      },
+      {
+        "name": "Milk",
+        "quantity": 4800
+      }
+    ],
+    "cubes": 18
+  },
+  {
+    "id": 7,
+    "name": "Poached Egg",
+    "resources": [
+      {
+        "name": "Oil",
+        "quantity": 800
+      },
+      {
+        "name": "Spices",
+        "quantity": 1600
+      },
+      {
+        "name": "Eggs",
+        "quantity": 2000
+      }
+    ],
+    "cubes": 11
+  },
+  {
+    "id": 8,
+    "name": "Hami Jelly",
+    "resources": [
+      {
+        "name": "Hami Melons",
+        "quantity": 1600
+      },
+      {
+        "name": "Jelly",
+        "quantity": 2400
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 9,
+    "name": "Flying Fish",
+    "resources": [
+      {
+        "name": "Cloud",
+        "quantity": 1800
+      },
+      {
+        "name": "Fishbone",
+        "quantity": 1200
+      },
+      {
+        "name": "Tooth",
+        "quantity": 1600
+      }
+    ],
+    "cubes": 23
+  },
+  {
+    "id": 10,
+    "name": "Hami Candy",
+    "resources": [
+      {
+        "name": "Hami Melons",
+        "quantity": 2000
+      },
+      {
+        "name": "Candy",
+        "quantity": 2000
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 11,
+    "name": "Memory Stick",
+    "resources": [
+      {
+        "name": "Chips",
+        "quantity": 4800
+      },
+      {
+        "name": "Crystal",
+        "quantity": 4000
+      }
+    ],
+    "cubes": 22
+  },
+  {
+    "id": 12,
+    "name": "Red Dye",
+    "resources": [
+      {
+        "name": "Bell Peppers",
+        "quantity": 3600
+      },
+      {
+        "name": "Dye",
+        "quantity": 4000
+      }
+    ],
+    "cubes": 19
+  },
+  {
+    "id": 13,
+    "name": "Fruit with Leaf",
+    "resources": [
+      {
+        "name": "Leaf",
+        "quantity": 800
+      },
+      {
+        "name": "Hami Melons",
+        "quantity": 800
+      },
+      {
+        "name": "Watermelons",
+        "quantity": 400
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 14,
+    "name": "Zombie Virus",
+    "resources": [
+      {
+        "name": "Virus",
+        "quantity": 1000
+      },
+      {
+        "name": "Conscious",
+        "quantity": 600
+      }
+    ],
+    "cubes": 8
+  },
+  {
+    "id": 15,
+    "name": "Bookcase",
+    "resources": [
+      {
+        "name": "Wood",
+        "quantity": 2000
+      },
+      {
+        "name": "Stones",
+        "quantity": 2000
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 16,
+    "name": "A.I. Robot",
+    "resources": [
+      {
+        "name": "Gears",
+        "quantity": 14400
+      },
+      {
+        "name": "Chips",
+        "quantity": 2400
+      },
+      {
+        "name": "Steam",
+        "quantity": 9600
+      }
+    ],
+    "cubes": 66
+  },
+  {
+    "id": 17,
+    "name": "Music Box",
+    "resources": [
+      {
+        "name": "Notes",
+        "quantity": 7600
+      },
+      {
+        "name": "Gears",
+        "quantity": 4400
+      },
+      {
+        "name": "Screws",
+        "quantity": 4000
+      }
+    ],
+    "cubes": 40
+  },
+  {
+    "id": 18,
+    "name": "Botanical Garden",
+    "resources": [
+      {
+        "name": "Spores",
+        "quantity": 4000
+      },
+      {
+        "name": "Flowers",
+        "quantity": 4400
+      }
+    ],
+    "cubes": 21
+  },
+  {
+    "id": 19,
+    "name": "Colorful Leaf",
+    "resources": [
+      {
+        "name": "Color",
+        "quantity": 400
+      },
+      {
+        "name": "Leaf",
+        "quantity": 400
+      }
+    ],
+    "cubes": 4
+  },
+  {
+    "id": 20,
+    "name": "Dumpling",
+    "resources": [
+      {
+        "name": "Ingot",
+        "quantity": 1000
+      },
+      {
+        "name": "Cloth",
+        "quantity": 800
+      }
+    ],
+    "cubes": 9
+  },
+  {
+    "id": 21,
+    "name": "Afternoon Tea",
+    "resources": [
+      {
+        "name": "Popcorn",
+        "quantity": 2200
+      },
+      {
+        "name": "Bone",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 17
+  },
+  {
+    "id": 22,
+    "name": "Weddings",
+    "resources": [
+      {
+        "name": "Diamond",
+        "quantity": 1200
+      },
+      {
+        "name": "Flowers",
+        "quantity": 1000
+      }
+    ],
+    "cubes": 11
+  },
+  {
+    "id": 23,
+    "name": "Sweaters",
+    "resources": [
+      {
+        "name": "Wool",
+        "quantity": 7200
+      },
+      {
+        "name": "Dye",
+        "quantity": 5000
+      }
+    ],
+    "cubes": 31
+  },
+  {
+    "id": 24,
+    "name": "Toxic Weapon",
+    "resources": [
+      {
+        "name": "Poison Sting",
+        "quantity": 600
+      },
+      {
+        "name": "Tooth",
+        "quantity": 800
+      }
+    ],
+    "cubes": 7
+  },
+  {
+    "id": 25,
+    "name": "Davenport",
+    "resources": [
+      {
+        "name": "Wood",
+        "quantity": 3600
+      },
+      {
+        "name": "Leather",
+        "quantity": 3200
+      }
+    ],
+    "cubes": 17
+  },
+  {
+    "id": 26,
+    "name": "Halloween",
+    "resources": [
+      {
+        "name": "Candy",
+        "quantity": 3200
+      },
+      {
+        "name": "Blood",
+        "quantity": 1600
+      },
+      {
+        "name": "Pumpkins",
+        "quantity": 4400
+      }
+    ],
+    "cubes": 23
+  },
+  {
+    "id": 27,
+    "name": "Weather Forecast",
+    "resources": [
+      {
+        "name": "Air",
+        "quantity": 800
+      },
+      {
+        "name": "Cloud",
+        "quantity": 1000
+      },
+      {
+        "name": "Snow",
+        "quantity": 400
+      }
+    ],
+    "cubes": 11
+  },
+  {
+    "id": 28,
+    "name": "Vespene",
+    "resources": [
+      {
+        "name": "Crystal",
+        "quantity": 12000
+      },
+      {
+        "name": "Gas",
+        "quantity": 14400
+      }
+    ],
+    "cubes": 66
+  },
+  {
+    "id": 29,
+    "name": "Snowflake Ice",
+    "resources": [
+      {
+        "name": "Sugar",
+        "quantity": 2400
+      },
+      {
+        "name": "Ice",
+        "quantity": 4400
+      },
+      {
+        "name": "Snow",
+        "quantity": 3600
+      }
+    ],
+    "cubes": 26
+  },
+  {
+    "id": 30,
+    "name": "Diving Tank",
+    "resources": [
+      {
+        "name": "Coral",
+        "quantity": 2400
+      },
+      {
+        "name": "Metal",
+        "quantity": 2800
+      }
+    ],
+    "cubes": 13
+  },
+  {
+    "id": 31,
+    "name": "Watermelon Slush",
+    "resources": [
+      {
+        "name": "Ice",
+        "quantity": 2800
+      },
+      {
+        "name": "Watermelons",
+        "quantity": 4000
+      }
+    ],
+    "cubes": 17
+  },
+  {
+    "id": 32,
+    "name": "Diamond Field",
+    "resources": [
+      {
+        "name": "Soil",
+        "quantity": 1200
+      },
+      {
+        "name": "Diamond",
+        "quantity": 800
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 33,
+    "name": "Fragrant Air Bubble",
+    "resources": [
+      {
+        "name": "Air",
+        "quantity": 2200
+      },
+      {
+        "name": "Neon",
+        "quantity": 1600
+      }
+    ],
+    "cubes": 19
+  },
+  {
+    "id": 34,
+    "name": "Motherboard",
+    "resources": [
+      {
+        "name": "Chips",
+        "quantity": 1200
+      },
+      {
+        "name": "Spirit",
+        "quantity": 1800
+      }
+    ],
+    "cubes": 15
+  },
+  {
+    "id": 35,
+    "name": "Wisdom Roll",
+    "resources": [
+      {
+        "name": "Knowledge",
+        "quantity": 1600
+      },
+      {
+        "name": "Ticket",
+        "quantity": 800
+      }
+    ],
+    "cubes": 12
+  },
+  {
+    "id": 36,
+    "name": "Hot Cocoa",
+    "resources": [
+      {
+        "name": "Chocolate",
+        "quantity": 1600
+      },
+      {
+        "name": "Milk",
+        "quantity": 1600
+      }
+    ],
+    "cubes": 8
+  },
+  {
+    "id": 37,
+    "name": "BBQ",
+    "resources": [
+      {
+        "name": "Meat",
+        "quantity": 7600
+      },
+      {
+        "name": "Mushrooms",
+        "quantity": 4400
+      },
+      {
+        "name": "Fire",
+        "quantity": 2400
+      }
+    ],
+    "cubes": 36
+  },
+  {
+    "id": 38,
+    "name": "Box of Dr. Science",
+    "resources": [
+      {
+        "name": "Light",
+        "quantity": 400
+      },
+      {
+        "name": "Aerolite",
+        "quantity": 400
+      }
+    ],
+    "cubes": 4
+  },
+  {
+    "id": 39,
+    "name": "Kite",
+    "resources": [
+      {
+        "name": "Wood",
+        "quantity": 1200
+      },
+      {
+        "name": "Cloth",
+        "quantity": 1600
+      }
+    ],
+    "cubes": 7
+  },
+  {
+    "id": 40,
+    "name": "Gas Burner",
+    "resources": [
+      {
+        "name": "Gas",
+        "quantity": 4800
+      },
+      {
+        "name": "Fire",
+        "quantity": 4000
+      }
+    ],
+    "cubes": 22
+  },
+  {
+    "id": 41,
+    "name": "Honey Chicken",
+    "resources": [
+      {
+        "name": "Honey",
+        "quantity": 800
+      },
+      {
+        "name": "Chicken",
+        "quantity": 400
+      }
+    ],
+    "cubes": 6
+  },
+  {
+    "id": 42,
+    "name": "Alien Salad",
+    "resources": [
+      {
+        "name": "Bell Peppers",
+        "quantity": 1600
+      },
+      {
+        "name": "Spores",
+        "quantity": 2800
+      },
+      {
+        "name": "Jus de Cactus",
+        "quantity": 2400
+      }
+    ],
+    "cubes": 17
+  },
+  {
+    "id": 43,
+    "name": "Pumpkin Man",
+    "resources": [
+      {
+        "name": "Snow",
+        "quantity": 4000
+      },
+      {
+        "name": "Pumpkins",
+        "quantity": 3600
+      }
+    ],
+    "cubes": 19
+  },
+  {
+    "id": 44,
+    "name": "Idea Machine",
+    "resources": [
+      {
+        "name": "Screws",
+        "quantity": 600
+      },
+      {
+        "name": "Steam",
+        "quantity": 600
+      },
+      {
+        "name": "Idea",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 12
+  },
+  {
+    "id": 45,
+    "name": "Sukiyaki",
+    "resources": [
+      {
+        "name": "Meat",
+        "quantity": 1000
+      },
+      {
+        "name": "Bone",
+        "quantity": 1200
+      },
+      {
+        "name": "Plate",
+        "quantity": 4000
+      }
+    ],
+    "cubes": 31
+  },
+  {
+    "id": 46,
+    "name": "Energy Drink",
+    "resources": [
+      {
+        "name": "Hami Melons",
+        "quantity": 4800
+      },
+      {
+        "name": "Jus de Cactus",
+        "quantity": 4400
+      }
+    ],
+    "cubes": 23
+  },
+  {
+    "id": 47,
+    "name": "Petroleum",
+    "resources": [
+      {
+        "name": "Fossils",
+        "quantity": 7200
+      },
+      {
+        "name": "Oil",
+        "quantity": 4800
+      }
+    ],
+    "cubes": 30
+  },
+  {
+    "id": 48,
+    "name": "Takoyaki",
+    "resources": [
+      {
+        "name": "Wheat",
+        "quantity": 2400
+      },
+      {
+        "name": "Stones",
+        "quantity": 2000
+      },
+      {
+        "name": "Octopus",
+        "quantity": 4400
+      }
+    ],
+    "cubes": 22
+  },
+  {
+    "id": 49,
+    "name": "Suit",
+    "resources": [
+      {
+        "name": "Leather",
+        "quantity": 400
+      },
+      {
+        "name": "Button",
+        "quantity": 600
+      }
+    ],
+    "cubes": 5
+  },
+  {
+    "id": 50,
+    "name": "Potato Chips",
+    "resources": [
+      {
+        "name": "Taters",
+        "quantity": 2600
+      },
+      {
+        "name": "Spices",
+        "quantity": 2000
+      }
+    ],
+    "cubes": 12
+  },
+  {
+    "id": 51,
+    "name": "Soul of Brave",
+    "resources": [
+      {
+        "name": "Soul",
+        "quantity": 800
+      },
+      {
+        "name": "Rune",
+        "quantity": 2200
+      },
+      {
+        "name": "Metal",
+        "quantity": 800
+      }
+    ],
+    "cubes": 19
+  },
+  {
+    "id": 52,
+    "name": "Cinema Set",
+    "resources": [
+      {
+        "name": "Fries",
+        "quantity": 2200
+      },
+      {
+        "name": "Popcorn",
+        "quantity": 2500
+      }
+    ],
+    "cubes": 24
+  },
+  {
+    "id": 53,
+    "name": "Popcorn Salad",
+    "resources": [
+      {
+        "name": "Popcorn",
+        "quantity": 800
+      },
+      {
+        "name": "Chicken",
+        "quantity": 800
+      },
+      {
+        "name": "Spices",
+        "quantity": 400
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 54,
+    "name": "Invisible Jelly",
+    "resources": [
+      {
+        "name": "Invisibility",
+        "quantity": 800
+      },
+      {
+        "name": "Jelly",
+        "quantity": 400
+      }
+    ],
+    "cubes": 6
+  },
+  {
+    "id": 55,
+    "name": "Oxygen Canister",
+    "resources": [
+      {
+        "name": "Air",
+        "quantity": 4000
+      },
+      {
+        "name": "Metal",
+        "quantity": 1600
+      }
+    ],
+    "cubes": 14
+  },
+  {
+    "id": 56,
+    "name": "Winter Candy",
+    "resources": [
+      {
+        "name": "Sugar",
+        "quantity": 400
+      },
+      {
+        "name": "Jingle",
+        "quantity": 600
+      }
+    ],
+    "cubes": 5
+  },
+  {
+    "id": 57,
+    "name": "Fragrant Hairball",
+    "resources": [
+      {
+        "name": "Cloud",
+        "quantity": 400
+      },
+      {
+        "name": "Sea Weed",
+        "quantity": 600
+      }
+    ],
+    "cubes": 9
+  },
+  {
+    "id": 58,
+    "name": "Xmas Decor",
+    "resources": [
+      {
+        "name": "Apples",
+        "quantity": 4000
+      },
+      {
+        "name": "Dye",
+        "quantity": 7200
+      }
+    ],
+    "cubes": 28
+  },
+  {
+    "id": 59,
+    "name": "Pumpkin Lantern",
+    "resources": [
+      {
+        "name": "Pumpkins",
+        "quantity": 2400
+      },
+      {
+        "name": "Fire",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 9
+  },
+  {
+    "id": 60,
+    "name": "The Great Cactus",
+    "resources": [
+      {
+        "name": "Jus de Cactus",
+        "quantity": 1000
+      },
+      {
+        "name": "Spirit",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 11
+  },
+  {
+    "id": 61,
+    "name": "Guitar",
+    "resources": [
+      {
+        "name": "Notes",
+        "quantity": 1600
+      },
+      {
+        "name": "Wood",
+        "quantity": 2400
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 62,
+    "name": "Poison Gas",
+    "resources": [
+      {
+        "name": "Gas",
+        "quantity": 4000
+      },
+      {
+        "name": "Virus",
+        "quantity": 3600
+      }
+    ],
+    "cubes": 19
+  },
+  {
+    "id": 63,
+    "name": "Mini Dino",
+    "resources": [
+      {
+        "name": "Leather",
+        "quantity": 5600
+      },
+      {
+        "name": "Fossils",
+        "quantity": 3600
+      }
+    ],
+    "cubes": 23
+  },
+  {
+    "id": 64,
+    "name": "Xmas Ring",
+    "resources": [
+      {
+        "name": "Jingle",
+        "quantity": 600
+      },
+      {
+        "name": "Snow",
+        "quantity": 400
+      },
+      {
+        "name": "Leaf",
+        "quantity": 400
+      }
+    ],
+    "cubes": 7
+  },
+  {
+    "id": 65,
+    "name": "Victory",
+    "resources": [
+      {
+        "name": "Hurray",
+        "quantity": 1200
+      },
+      {
+        "name": "Soul",
+        "quantity": 1600
+      },
+      {
+        "name": "Spirit",
+        "quantity": 1800
+      }
+    ],
+    "cubes": 23
+  },
+  {
+    "id": 66,
+    "name": "Pot O' Choc",
+    "resources": [
+      {
+        "name": "Strawberries",
+        "quantity": 3200
+      },
+      {
+        "name": "Chocolate",
+        "quantity": 6400
+      }
+    ],
+    "cubes": 24
+  },
+  {
+    "id": 67,
+    "name": "Passion Film",
+    "resources": [
+      {
+        "name": "Light",
+        "quantity": 800
+      },
+      {
+        "name": "Eggs",
+        "quantity": 1600
+      },
+      {
+        "name": "Conscious",
+        "quantity": 600
+      }
+    ],
+    "cubes": 12
+  },
+  {
+    "id": 68,
+    "name": "Picking Lotus",
+    "resources": [
+      {
+        "name": "Lotus Seed",
+        "quantity": 1000
+      },
+      {
+        "name": "Leaf",
+        "quantity": 1600
+      }
+    ],
+    "cubes": 13
+  },
+  {
+    "id": 69,
+    "name": "French Fries",
+    "resources": [
+      {
+        "name": "Oil",
+        "quantity": 2000
+      },
+      {
+        "name": "Taters",
+        "quantity": 4400
+      }
+    ],
+    "cubes": 16
+  },
+  {
+    "id": 70,
+    "name": "Greatcoat",
+    "resources": [
+      {
+        "name": "Wool",
+        "quantity": 800
+      },
+      {
+        "name": "Button",
+        "quantity": 600
+      }
+    ],
+    "cubes": 7
+  },
+  {
+    "id": 71,
+    "name": "Screaming Box",
+    "resources": [
+      {
+        "name": "Hurray",
+        "quantity": 1000
+      },
+      {
+        "name": "Blood",
+        "quantity": 400
+      },
+      {
+        "name": "Screaming",
+        "quantity": 800
+      }
+    ],
+    "cubes": 11
+  },
+  {
+    "id": 72,
+    "name": "Exorcism",
+    "resources": [
+      {
+        "name": "Lantern",
+        "quantity": 800
+      },
+      {
+        "name": "Bamboo",
+        "quantity": 1400
+      },
+      {
+        "name": "Salt",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 17
+  },
+  {
+    "id": 73,
+    "name": "Alien Pets",
+    "resources": [
+      {
+        "name": "Octopus",
+        "quantity": 2000
+      },
+      {
+        "name": "Virus",
+        "quantity": 2000
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 74,
+    "name": "Watermelon Juice",
+    "resources": [
+      {
+        "name": "Watermelons",
+        "quantity": 9600
+      },
+      {
+        "name": "Water",
+        "quantity": 9000
+      }
+    ],
+    "cubes": 57
+  },
+  {
+    "id": 75,
+    "name": "Crispy Pork",
+    "resources": [
+      {
+        "name": "Taters",
+        "quantity": 2400
+      },
+      {
+        "name": "Meat",
+        "quantity": 3600
+      }
+    ],
+    "cubes": 15
+  },
+  {
+    "id": 76,
+    "name": "Pineapple Pork",
+    "resources": [
+      {
+        "name": "Pineapples",
+        "quantity": 4400
+      },
+      {
+        "name": "Meat",
+        "quantity": 5000
+      }
+    ],
+    "cubes": 24
+  },
+  {
+    "id": 77,
+    "name": "Apple Juice",
+    "resources": [
+      {
+        "name": "Apples",
+        "quantity": 1200
+      },
+      {
+        "name": "Water",
+        "quantity": 2400
+      }
+    ],
+    "cubes": 9
+  },
+  {
+    "id": 78,
+    "name": "Infection",
+    "resources": [
+      {
+        "name": "Blood",
+        "quantity": 4000
+      },
+      {
+        "name": "Virus",
+        "quantity": 7200
+      }
+    ],
+    "cubes": 28
+  },
+  {
+    "id": 79,
+    "name": "Zombie Film",
+    "resources": [
+      {
+        "name": "Screaming",
+        "quantity": 800
+      },
+      {
+        "name": "Virus",
+        "quantity": 1000
+      }
+    ],
+    "cubes": 9
+  },
+  {
+    "id": 80,
+    "name": "Scary Doll",
+    "resources": [
+      {
+        "name": "Spirit",
+        "quantity": 600
+      },
+      {
+        "name": "Toy",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 9
+  },
+  {
+    "id": 81,
+    "name": "Bell Pepper Jelly",
+    "resources": [
+      {
+        "name": "Bell Peppers",
+        "quantity": 3200
+      },
+      {
+        "name": "Jelly",
+        "quantity": 3600
+      }
+    ],
+    "cubes": 17
+  },
+  {
+    "id": 82,
+    "name": "Watermelon Drop",
+    "resources": [
+      {
+        "name": "Watermelons",
+        "quantity": 2400
+      },
+      {
+        "name": "Candy",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 9
+  },
+  {
+    "id": 83,
+    "name": "Fishbone Salad",
+    "resources": [
+      {
+        "name": "Flowers",
+        "quantity": 1000
+      },
+      {
+        "name": "Sundaes",
+        "quantity": 1200
+      },
+      {
+        "name": "Fishbone",
+        "quantity": 1000
+      }
+    ],
+    "cubes": 16
+  },
+  {
+    "id": 84,
+    "name": "Venus Flytrap",
+    "resources": [
+      {
+        "name": "Soil",
+        "quantity": 2400
+      },
+      {
+        "name": "Mushrooms",
+        "quantity": 7200
+      }
+    ],
+    "cubes": 24
+  },
+  {
+    "id": 85,
+    "name": "Potato Monster",
+    "resources": [
+      {
+        "name": "Taters",
+        "quantity": 1600
+      },
+      {
+        "name": "Virus",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 7
+  },
+  {
+    "id": 86,
+    "name": "Octopus Doll",
+    "resources": [
+      {
+        "name": "Toy",
+        "quantity": 1000
+      },
+      {
+        "name": "Octopus",
+        "quantity": 1600
+      }
+    ],
+    "cubes": 13
+  },
+  {
+    "id": 87,
+    "name": "Alien Remains",
+    "resources": [
+      {
+        "name": "Aerolite",
+        "quantity": 7200
+      },
+      {
+        "name": "Soil",
+        "quantity": 9600
+      }
+    ],
+    "cubes": 42
+  },
+  {
+    "id": 88,
+    "name": "Purple Button",
+    "resources": [
+      {
+        "name": "Dye",
+        "quantity": 1200
+      },
+      {
+        "name": "Button",
+        "quantity": 400
+      }
+    ],
+    "cubes": 8
+  },
+  {
+    "id": 89,
+    "name": "Hawaiian Salad",
+    "resources": [
+      {
+        "name": "Flowers",
+        "quantity": 2000
+      },
+      {
+        "name": "Sundaes",
+        "quantity": 2400
+      }
+    ],
+    "cubes": 11
+  },
+  {
+    "id": 90,
+    "name": "Rune Copper",
+    "resources": [
+      {
+        "name": "Rune",
+        "quantity": 800
+      },
+      {
+        "name": "Copper",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 91,
+    "name": "UFO",
+    "resources": [
+      {
+        "name": "Aerolite",
+        "quantity": 9600
+      },
+      {
+        "name": "Screws",
+        "quantity": 7200
+      }
+    ],
+    "cubes": 42
+  },
+  {
+    "id": 92,
+    "name": "Mystery Club",
+    "resources": [
+      {
+        "name": "Neon",
+        "quantity": 1600
+      },
+      {
+        "name": "Symbol",
+        "quantity": 800
+      },
+      {
+        "name": "Wave",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 18
+  },
+  {
+    "id": 93,
+    "name": "Color Bubble",
+    "resources": [
+      {
+        "name": "Air",
+        "quantity": 2200
+      },
+      {
+        "name": "Color",
+        "quantity": 800
+      }
+    ],
+    "cubes": 15
+  },
+  {
+    "id": 94,
+    "name": "Ancient Ceremony",
+    "resources": [
+      {
+        "name": "Tooth",
+        "quantity": 400
+      },
+      {
+        "name": "Color",
+        "quantity": 600
+      },
+      {
+        "name": "Leaf",
+        "quantity": 400
+      }
+    ],
+    "cubes": 7
+  },
+  {
+    "id": 95,
+    "name": "Dragonslayer",
+    "resources": [
+      {
+        "name": "Dragonclaw",
+        "quantity": 800
+      },
+      {
+        "name": "Soul",
+        "quantity": 2200
+      },
+      {
+        "name": "Hurray",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 21
+  },
+  {
+    "id": 96,
+    "name": "Pumpkin Pie",
+    "resources": [
+      {
+        "name": "Wheat",
+        "quantity": 2800
+      },
+      {
+        "name": "Pumpkins",
+        "quantity": 4000
+      },
+      {
+        "name": "Eggs",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 20
+  },
+  {
+    "id": 97,
+    "name": "Trumpet",
+    "resources": [
+      {
+        "name": "Notes",
+        "quantity": 1000
+      },
+      {
+        "name": "Jingle",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 98,
+    "name": "Coral Earrings",
+    "resources": [
+      {
+        "name": "Coral",
+        "quantity": 2400
+      },
+      {
+        "name": "Metal",
+        "quantity": 3200
+      }
+    ],
+    "cubes": 14
+  },
+  {
+    "id": 99,
+    "name": "Valentine's Gift",
+    "resources": [
+      {
+        "name": "Flowers",
+        "quantity": 5000
+      },
+      {
+        "name": "Notes",
+        "quantity": 2400
+      }
+    ],
+    "cubes": 19
+  },
+  {
+    "id": 100,
+    "name": "Superman",
+    "resources": [
+      {
+        "name": "Conscious",
+        "quantity": 1000
+      },
+      {
+        "name": "Superpower",
+        "quantity": 1000
+      },
+      {
+        "name": "Rune",
+        "quantity": 1000
+      }
+    ],
+    "cubes": 15
+  },
+  {
+    "id": 101,
+    "name": "Hot Sauce",
+    "resources": [
+      {
+        "name": "Bell Peppers",
+        "quantity": 1200
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 6
+  },
+  {
+    "id": 102,
+    "name": "Strawberry Slush",
+    "resources": [
+      {
+        "name": "Ice",
+        "quantity": 2400
+      },
+      {
+        "name": "Strawberries",
+        "quantity": 7200
+      }
+    ],
+    "cubes": 24
+  },
+  {
+    "id": 103,
+    "name": "Valentine Sundae",
+    "resources": [
+      {
+        "name": "Sundaes",
+        "quantity": 400
+      },
+      {
+        "name": "Love",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 8
+  },
+  {
+    "id": 104,
+    "name": "Space Coins",
+    "resources": [
+      {
+        "name": "Copper",
+        "quantity": 800
+      },
+      {
+        "name": "Spirit",
+        "quantity": 1000
+      },
+      {
+        "name": "Aerolite",
+        "quantity": 400
+      }
+    ],
+    "cubes": 11
+  },
+  {
+    "id": 105,
+    "name": "Jurassic Park",
+    "resources": [
+      {
+        "name": "Spores",
+        "quantity": 4400
+      },
+      {
+        "name": "Fossils",
+        "quantity": 3600
+      }
+    ],
+    "cubes": 20
+  },
+  {
+    "id": 106,
+    "name": "Torch",
+    "resources": [
+      {
+        "name": "Fire",
+        "quantity": 2000
+      },
+      {
+        "name": "Wood",
+        "quantity": 3200
+      }
+    ],
+    "cubes": 13
+  },
+  {
+    "id": 107,
+    "name": "Aquarium",
+    "resources": [
+      {
+        "name": "Coral",
+        "quantity": 1600
+      },
+      {
+        "name": "Octopus",
+        "quantity": 2400
+      },
+      {
+        "name": "Water",
+        "quantity": 8000
+      }
+    ],
+    "cubes": 30
+  },
+  {
+    "id": 108,
+    "name": "Gradcert",
+    "resources": [
+      {
+        "name": "Knowledge",
+        "quantity": 800
+      },
+      {
+        "name": "Passion",
+        "quantity": 1200
+      },
+      {
+        "name": "Love",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 16
+  },
+  {
+    "id": 109,
+    "name": "Sausage",
+    "resources": [
+      {
+        "name": "Meat",
+        "quantity": 4400
+      },
+      {
+        "name": "Spices",
+        "quantity": 1600
+      }
+    ],
+    "cubes": 15
+  },
+  {
+    "id": 110,
+    "name": "Chicken Soup",
+    "resources": [
+      {
+        "name": "Steam",
+        "quantity": 400
+      },
+      {
+        "name": "Mushrooms",
+        "quantity": 600
+      },
+      {
+        "name": "Chicken",
+        "quantity": 400
+      }
+    ],
+    "cubes": 7
+  },
+  {
+    "id": 111,
+    "name": "Quilt",
+    "resources": [
+      {
+        "name": "Wood",
+        "quantity": 2800
+      },
+      {
+        "name": "Air",
+        "quantity": 5200
+      }
+    ],
+    "cubes": 20
+  },
+  {
+    "id": 112,
+    "name": "Bonsai",
+    "resources": [
+      {
+        "name": "Flowers",
+        "quantity": 7000
+      },
+      {
+        "name": "Soil",
+        "quantity": 4800
+      }
+    ],
+    "cubes": 30
+  },
+  {
+    "id": 113,
+    "name": "Invisible Fishbone",
+    "resources": [
+      {
+        "name": "Invisibility",
+        "quantity": 800
+      },
+      {
+        "name": "Fishbone",
+        "quantity": 600
+      }
+    ],
+    "cubes": 7
+  },
+  {
+    "id": 114,
+    "name": "Jingle of Ideas",
+    "resources": [
+      {
+        "name": "Idea",
+        "quantity": 1000
+      },
+      {
+        "name": "Jingle",
+        "quantity": 400
+      }
+    ],
+    "cubes": 7
+  },
+  {
+    "id": 115,
+    "name": "Jewel Case",
+    "resources": [
+      {
+        "name": "Diamond",
+        "quantity": 800
+      },
+      {
+        "name": "Ingot",
+        "quantity": 1000
+      }
+    ],
+    "cubes": 9
+  },
+  {
+    "id": 116,
+    "name": "Hunter",
+    "resources": [
+      {
+        "name": "Dragonclaw",
+        "quantity": 1000
+      },
+      {
+        "name": "Tooth",
+        "quantity": 600
+      },
+      {
+        "name": "Leather",
+        "quantity": 1600
+      }
+    ],
+    "cubes": 16
+  },
+  {
+    "id": 117,
+    "name": "Computer",
+    "resources": [
+      {
+        "name": "Chips",
+        "quantity": 4000
+      },
+      {
+        "name": "Metal",
+        "quantity": 9000
+      }
+    ],
+    "cubes": 33
+  },
+  {
+    "id": 118,
+    "name": "Salted Sakura",
+    "resources": [
+      {
+        "name": "Salt",
+        "quantity": 800
+      },
+      {
+        "name": "Sakura",
+        "quantity": 1000
+      }
+    ],
+    "cubes": 9
+  },
+  {
+    "id": 119,
+    "name": "Valentine's Day",
+    "resources": [
+      {
+        "name": "Love",
+        "quantity": 600
+      },
+      {
+        "name": "Passion",
+        "quantity": 1000
+      }
+    ],
+    "cubes": 12
+  },
+  {
+    "id": 120,
+    "name": "Screaming Kit",
+    "resources": [
+      {
+        "name": "Screaming",
+        "quantity": 1000
+      },
+      {
+        "name": "Candy",
+        "quantity": 400
+      },
+      {
+        "name": "Toy",
+        "quantity": 600
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 121,
+    "name": "Snowball",
+    "resources": [
+      {
+        "name": "Snow",
+        "quantity": 2000
+      },
+      {
+        "name": "Crystal",
+        "quantity": 2400
+      }
+    ],
+    "cubes": 11
+  },
+  {
+    "id": 122,
+    "name": "Shining Chick",
+    "resources": [
+      {
+        "name": "Light",
+        "quantity": 800
+      },
+      {
+        "name": "Eggs",
+        "quantity": 1600
+      }
+    ],
+    "cubes": 12
+  },
+  {
+    "id": 123,
+    "name": "T-Shirt",
+    "resources": [
+      {
+        "name": "Cloth",
+        "quantity": 10000
+      },
+      {
+        "name": "Dye",
+        "quantity": 7200
+      }
+    ],
+    "cubes": 43
+  },
+  {
+    "id": 124,
+    "name": "Popcorn Virus",
+    "resources": [
+      {
+        "name": "Popcorn",
+        "quantity": 600
+      },
+      {
+        "name": "Virus",
+        "quantity": 400
+      },
+      {
+        "name": "Oil",
+        "quantity": 400
+      }
+    ],
+    "cubes": 7
+  },
+  {
+    "id": 125,
+    "name": "Honey Pudding",
+    "resources": [
+      {
+        "name": "Milk",
+        "quantity": 7200
+      },
+      {
+        "name": "Honey",
+        "quantity": 2400
+      },
+      {
+        "name": "Eggs",
+        "quantity": 4400
+      }
+    ],
+    "cubes": 35
+  },
+  {
+    "id": 126,
+    "name": "Finished Seafood",
+    "resources": [
+      {
+        "name": "Plate",
+        "quantity": 1600
+      },
+      {
+        "name": "Fishbone",
+        "quantity": 1800
+      }
+    ],
+    "cubes": 17
+  },
+  {
+    "id": 127,
+    "name": "Future Toys",
+    "resources": [
+      {
+        "name": "Toy",
+        "quantity": 1300
+      },
+      {
+        "name": "Superpower",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 13
+  },
+  {
+    "id": 128,
+    "name": "Museum",
+    "resources": [
+      {
+        "name": "Fossils",
+        "quantity": 6000
+      },
+      {
+        "name": "Stones",
+        "quantity": 8400
+      },
+      {
+        "name": "Aerolite",
+        "quantity": 4400
+      }
+    ],
+    "cubes": 47
+  },
+  {
+    "id": 129,
+    "name": "Honey Jelly",
+    "resources": [
+      {
+        "name": "Honey",
+        "quantity": 4400
+      },
+      {
+        "name": "Jelly",
+        "quantity": 3600
+      }
+    ],
+    "cubes": 20
+  },
+  {
+    "id": 130,
+    "name": "Premium Currency",
+    "resources": [
+      {
+        "name": "Diamond",
+        "quantity": 600
+      },
+      {
+        "name": "Copper",
+        "quantity": 800
+      }
+    ],
+    "cubes": 7
+  },
+  {
+    "id": 131,
+    "name": "Beer",
+    "resources": [
+      {
+        "name": "Wheat",
+        "quantity": 6000
+      },
+      {
+        "name": "Water",
+        "quantity": 8800
+      }
+    ],
+    "cubes": 37
+  },
+  {
+    "id": 132,
+    "name": "Dispersive Prism",
+    "resources": [
+      {
+        "name": "Light",
+        "quantity": 800
+      },
+      {
+        "name": "Ice",
+        "quantity": 400
+      }
+    ],
+    "cubes": 6
+  },
+  {
+    "id": 133,
+    "name": "Honey Bread",
+    "resources": [
+      {
+        "name": "Honey",
+        "quantity": 3200
+      },
+      {
+        "name": "Wheat",
+        "quantity": 7200
+      }
+    ],
+    "cubes": 26
+  },
+  {
+    "id": 134,
+    "name": "Secret Order",
+    "resources": [
+      {
+        "name": "Start Badge",
+        "quantity": 3000
+      },
+      {
+        "name": "Invisibility",
+        "quantity": 2800
+      }
+    ],
+    "cubes": 29
+  },
+  {
+    "id": 135,
+    "name": "Cactus Sundae",
+    "resources": [
+      {
+        "name": "Jus de Cactus",
+        "quantity": 1200
+      },
+      {
+        "name": "Sundaes",
+        "quantity": 2400
+      }
+    ],
+    "cubes": 9
+  },
+  {
+    "id": 136,
+    "name": "Venomous Dragon",
+    "resources": [
+      {
+        "name": "Seaweed",
+        "quantity": 800
+      },
+      {
+        "name": "Dragonclaw",
+        "quantity": 1000
+      },
+      {
+        "name": "Symbol",
+        "quantity": 400
+      }
+    ],
+    "cubes": 11
+  },
+  {
+    "id": 137,
+    "name": "First Aid Kit",
+    "resources": [
+      {
+        "name": "Cloth",
+        "quantity": 4400
+      },
+      {
+        "name": "Blood",
+        "quantity": 2400
+      },
+      {
+        "name": "Wood",
+        "quantity": 1600
+      }
+    ],
+    "cubes": 21
+  },
+  {
+    "id": 138,
+    "name": "Love Love",
+    "resources": [
+      {
+        "name": "Love",
+        "quantity": 600
+      },
+      {
+        "name": "Spices",
+        "quantity": 800
+      },
+      {
+        "name": "Color",
+        "quantity": 600
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 139,
+    "name": "Seafood Salad",
+    "resources": [
+      {
+        "name": "Salt",
+        "quantity": 400
+      },
+      {
+        "name": "Octopus",
+        "quantity": 1400
+      },
+      {
+        "name": "Bamboo",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 15
+  },
+  {
+    "id": 140,
+    "name": "Itty Bitty Robot",
+    "resources": [
+      {
+        "name": "Screws",
+        "quantity": 2400
+      },
+      {
+        "name": "Steam",
+        "quantity": 7200
+      }
+    ],
+    "cubes": 24
+  },
+  {
+    "id": 141,
+    "name": "Watch",
+    "resources": [
+      {
+        "name": "Gears",
+        "quantity": 9600
+      },
+      {
+        "name": "Leather",
+        "quantity": 5000
+      }
+    ],
+    "cubes": 37
+  },
+  {
+    "id": 142,
+    "name": "Poison Mushroom",
+    "resources": [
+      {
+        "name": "Mushrooms",
+        "quantity": 1600
+      },
+      {
+        "name": "Chocolate",
+        "quantity": 800
+      }
+    ],
+    "cubes": 6
+  },
+  {
+    "id": 143,
+    "name": "Sugar Apple",
+    "resources": [
+      {
+        "name": "Apples",
+        "quantity": 3000
+      },
+      {
+        "name": "Sugar",
+        "quantity": 6000
+      }
+    ],
+    "cubes": 23
+  },
+  {
+    "id": 144,
+    "name": "Classic Worshiper",
+    "resources": [
+      {
+        "name": "Ingot",
+        "quantity": 1000
+      },
+      {
+        "name": "Fire",
+        "quantity": 400
+      }
+    ],
+    "cubes": 7
+  },
+  {
+    "id": 153,
+    "name": "Pop",
+    "resources": [
+      {
+        "name": "Air",
+        "quantity": 1200
+      },
+      {
+        "name": "Water",
+        "quantity": 1600
+      }
+    ],
+    "cubes": 7
+  },
+  {
+    "id": 155,
+    "name": "Butter",
+    "resources": [
+      {
+        "name": "Oil",
+        "quantity": 1600
+      },
+      {
+        "name": "Milk",
+        "quantity": 3200
+      }
+    ],
+    "cubes": 12
+  },
+  {
+    "id": 157,
+    "name": "Brekkie",
+    "resources": [
+      {
+        "name": "Meat",
+        "quantity": 2400
+      },
+      {
+        "name": "Eggs",
+        "quantity": 4800
+      }
+    ],
+    "cubes": 18
+  },
+  {
+    "id": 154,
+    "name": "Steak Set",
+    "resources": [
+      {
+        "name": "Fries",
+        "quantity": 1000
+      },
+      {
+        "name": "Meat",
+        "quantity": 400
+      },
+      {
+        "name": "Taters",
+        "quantity": 600
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 147,
+    "name": "Gift Basket",
+    "resources": [
+      {
+        "name": "Pineapples",
+        "quantity": 2400
+      },
+      {
+        "name": "Strawberries",
+        "quantity": 3200
+      },
+      {
+        "name": "Apples",
+        "quantity": 3600
+      }
+    ],
+    "cubes": 23
+  },
+  {
+    "id": 149,
+    "name": "Health Potion",
+    "resources": [
+      {
+        "name": "Love",
+        "quantity": 1200
+      },
+      {
+        "name": "Blood",
+        "quantity": 400
+      }
+    ],
+    "cubes": 6
+  },
+  {
+    "id": 145,
+    "name": "Pineapple Chicken",
+    "resources": [
+      {
+        "name": "Pineapples",
+        "quantity": 600
+      },
+      {
+        "name": "Chicken",
+        "quantity": 1200
+      }
+    ],
+    "cubes": 9
+  },
+  {
+    "id": 146,
+    "name": "Wedding Ring",
+    "resources": [
+      {
+        "name": "Crystal",
+        "quantity": 1600
+      },
+      {
+        "name": "Metal",
+        "quantity": 2400
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 150,
+    "name": "Chocolate Sundae",
+    "resources": [
+      {
+        "name": "Chocolate",
+        "quantity": 12000
+      },
+      {
+        "name": "Sundaes",
+        "quantity": 8000
+      }
+    ],
+    "cubes": 50
+  },
+  {
+    "id": 148,
+    "name": "Toolbox",
+    "resources": [
+      {
+        "name": "Screws",
+        "quantity": 4800
+      },
+      {
+        "name": "Stones",
+        "quantity": 4000
+      }
+    ],
+    "cubes": 22
+  },
+  {
+    "id": 151,
+    "name": "Fish and Chips",
+    "resources": [
+      {
+        "name": "Fries",
+        "quantity": 1200
+      },
+      {
+        "name": "Salt",
+        "quantity": 400
+      },
+      {
+        "name": "Fishbone",
+        "quantity": 400
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 152,
+    "name": "Submarine Relics",
+    "resources": [
+      {
+        "name": "Bone",
+        "quantity": 800
+      },
+      {
+        "name": "Wave",
+        "quantity": 800
+      },
+      {
+        "name": "Fishbone",
+        "quantity": 400
+      }
+    ],
+    "cubes": 10
+  },
+  {
+    "id": 156,
+    "name": "Mandala",
+    "resources": [
+      {
+        "name": "Spores",
+        "quantity": 1000
+      },
+      {
+        "name": "Screaming",
+        "quantity": 400
+      }
+    ],
+    "cubes": 7
+  }
+]

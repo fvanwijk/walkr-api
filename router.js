@@ -11,5 +11,6 @@ require('./api/planets')(router);
 require('./api/levels')(router);
 require('./api/dfrs')(router);
 require('./api/satellites')(router);
+require('./api/missions')(router);
 
 module.exports = router;

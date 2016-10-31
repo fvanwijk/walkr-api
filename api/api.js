@@ -9,7 +9,8 @@ module.exports = function (router) {
         levels: `${baseUrl}/levels/`,
         planets: `${baseUrl}/planets/`,
         dfrs: `${baseUrl}/dfrs/`,
-        satellites: `${baseUrl}/satellites/`
+        satellites: `${baseUrl}/satellites/`,
+        missions: `${baseUrl}/missions/`
       });
     });
 };
