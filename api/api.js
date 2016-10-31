@@ -10,7 +10,8 @@ module.exports = function (router) {
         planets: `${baseUrl}/planets/`,
         dfrs: `${baseUrl}/dfrs/`,
         satellites: `${baseUrl}/satellites/`,
-        missions: `${baseUrl}/missions/`
+        missions: `${baseUrl}/missions/`,
+        valuta: `${baseUrl}/valuta/`
       });
     });
 };
