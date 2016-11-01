@@ -47,9 +47,10 @@ module.exports = {
       });
     }
   },
-  get: function (Model) {
+  get: function (Model, projection) {
     return function(req, res) {
-      Model.findOne({ [Model.identifierField]: req.params.id }, function(err, item) {
+      projection = Object.assign({ '_id': false }, projection || {});
+      Model.findOne({ [Model.identifierField]: req.params.id }, projection, function(err, item) {
         if (err) {
           res.send(err);
         }
