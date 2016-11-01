@@ -53,7 +53,10 @@
     "boost": null,
     "level_1": null,
     "level_2": null,
-    "planet": "Earth"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/1",
+      "name": "Earth"
+    }
   },
   {
     "id": 8,
@@ -61,7 +64,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Caramel Apple"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/2",
+      "name": "Caramel Apple"
+    }
   },
   {
     "id": 9,
@@ -69,7 +75,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Honeycomb"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/3",
+      "name": "Honeycomb"
+    }
   },
   {
     "id": 10,
@@ -77,7 +86,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "King of Cows"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/4",
+      "name": "King of Cows"
+    }
   },
   {
     "id": 11,
@@ -85,7 +97,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Water World"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/5",
+      "name": "Water World"
+    }
   },
   {
     "id": 12,
@@ -93,7 +108,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Fossil Fern"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/6",
+      "name": "Fossil Fern"
+    }
   },
   {
     "id": 13,
@@ -101,7 +119,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Meteor Adrift"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/7",
+      "name": "Meteor Adrift"
+    }
   },
   {
     "id": 14,
@@ -109,7 +130,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Ventricular Machine"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/8",
+      "name": "Ventricular Machine"
+    }
   },
   {
     "id": 15,
@@ -117,7 +141,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Snow World"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/9",
+      "name": "Snow World"
+    }
   },
   {
     "id": 16,
@@ -125,7 +152,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Golden Gusher"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/10",
+      "name": "Golden Gusher"
+    }
   },
   {
     "id": 17,
@@ -133,7 +163,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Moon Athena"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/11",
+      "name": "Moon Athena"
+    }
   },
   {
     "id": 18,
@@ -141,7 +174,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Ice Age"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/12",
+      "name": "Ice Age"
+    }
   },
   {
     "id": 19,
@@ -149,7 +185,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Eagle's Nest"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/13",
+      "name": "Eagle's Nest"
+    }
   },
   {
     "id": 20,
@@ -157,7 +196,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Citrus Trampoline"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/14",
+      "name": "Citrus Trampoline"
+    }
   },
   {
     "id": 21,
@@ -165,7 +207,10 @@
     "boost": "Decrease Food Requirement",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Bubble Gum"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/15",
+      "name": "Bubble Gum"
+    }
   },
   {
     "id": 22,
@@ -173,7 +218,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Pineapple Foothills"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/16",
+      "name": "Pineapple Foothills"
+    }
   },
   {
     "id": 23,
@@ -181,7 +229,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Strawberry Cookies"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/17",
+      "name": "Strawberry Cookies"
+    }
   },
   {
     "id": 24,
@@ -189,7 +240,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Steam Age"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/18",
+      "name": "Steam Age"
+    }
   },
   {
     "id": 25,
@@ -197,7 +251,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Snow Berry"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/19",
+      "name": "Snow Berry"
+    }
   },
   {
     "id": 26,
@@ -205,7 +262,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Coral Reef"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/20",
+      "name": "Coral Reef"
+    }
   },
   {
     "id": 27,
@@ -213,7 +273,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Lonely Dune"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/21",
+      "name": "Lonely Dune"
+    }
   },
   {
     "id": 28,
@@ -221,7 +284,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Octopus Cavern"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/22",
+      "name": "Octopus Cavern"
+    }
   },
   {
     "id": 29,
@@ -229,7 +295,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Swamp of Crocs"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/23",
+      "name": "Swamp of Crocs"
+    }
   },
   {
     "id": 30,
@@ -237,7 +306,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Smoky Secret"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/24",
+      "name": "Smoky Secret"
+    }
   },
   {
     "id": 31,
@@ -245,7 +317,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Molten Lava"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/25",
+      "name": "Molten Lava"
+    }
   },
   {
     "id": 32,
@@ -253,7 +328,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Luminous Fungus"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/26",
+      "name": "Luminous Fungus"
+    }
   },
   {
     "id": 33,
@@ -261,7 +339,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Banana Boat"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/27",
+      "name": "Banana Boat"
+    }
   },
   {
     "id": 34,
@@ -269,7 +350,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Antler Ravine"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/28",
+      "name": "Antler Ravine"
+    }
   },
   {
     "id": 35,
@@ -277,7 +361,10 @@
     "boost": "Decrease Food Requirement",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Sugar Rush"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/29",
+      "name": "Sugar Rush"
+    }
   },
   {
     "id": 36,
@@ -285,7 +372,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Tater Tower"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/30",
+      "name": "Tater Tower"
+    }
   },
   {
     "id": 37,
@@ -293,7 +383,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Cat's Play"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/31",
+      "name": "Cat's Play"
+    }
   },
   {
     "id": 38,
@@ -301,7 +394,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Crystalline"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/32",
+      "name": "Crystalline"
+    }
   },
   {
     "id": 39,
@@ -309,7 +405,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Desert Breeze"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/33",
+      "name": "Desert Breeze"
+    }
   },
   {
     "id": 40,
@@ -317,7 +416,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Sweet Donut"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/34",
+      "name": "Sweet Donut"
+    }
   },
   {
     "id": 41,
@@ -325,7 +427,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Botanical Garden"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/35",
+      "name": "Botanical Garden"
+    }
   },
   {
     "id": 42,
@@ -333,7 +438,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "HA42N55"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/36",
+      "name": "HA42N55"
+    }
   },
   {
     "id": 43,
@@ -341,7 +449,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Colossal Pepper"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/37",
+      "name": "Colossal Pepper"
+    }
   },
   {
     "id": 44,
@@ -349,7 +460,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Zombie Cortex"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/38",
+      "name": "Zombie Cortex"
+    }
   },
   {
     "id": 45,
@@ -357,7 +471,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Red Crater"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/39",
+      "name": "Red Crater"
+    }
   },
   {
     "id": 46,
@@ -365,7 +482,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Cello Valley"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/40",
+      "name": "Cello Valley"
+    }
   },
   {
     "id": 47,
@@ -373,7 +493,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Sunset Savanna"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/41",
+      "name": "Sunset Savanna"
+    }
   },
   {
     "id": 48,
@@ -381,7 +504,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Peaceful Prairie"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/42",
+      "name": "Peaceful Prairie"
+    }
   },
   {
     "id": 49,
@@ -389,7 +515,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Witch's Den"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/43",
+      "name": "Witch's Den"
+    }
   },
   {
     "id": 50,
@@ -397,7 +526,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Circuit City"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/44",
+      "name": "Circuit City"
+    }
   },
   {
     "id": 51,
@@ -405,7 +537,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Vault of Secrets"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/45",
+      "name": "Vault of Secrets"
+    }
   },
   {
     "id": 52,
@@ -413,7 +548,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Heart of Flame"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/46",
+      "name": "Heart of Flames"
+    }
   },
   {
     "id": 53,
@@ -421,7 +559,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Boar Tribe"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/47",
+      "name": "Boar Tribe"
+    }
   },
   {
     "id": 54,
@@ -429,7 +570,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Woolly Peak"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/48",
+      "name": "Woolly Peak"
+    }
   },
   {
     "id": 55,
@@ -437,7 +581,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Watermelon Canyon"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/49",
+      "name": "Watermelon Canyon"
+    }
   },
   {
     "id": 56,
@@ -445,7 +592,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Amazon Rainforest"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/50",
+      "name": "Amazon Rainforest"
+    }
   },
   {
     "id": 57,
@@ -453,7 +603,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Chocolate River"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/51",
+      "name": "Chocolate River"
+    }
   },
   {
     "id": 58,
@@ -461,7 +614,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "China Town"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/52",
+      "name": "China Town"
+    }
   },
   {
     "id": 59,
@@ -469,7 +625,10 @@
     "boost": "Increase Production",
     "level_1": "2",
     "level_2": "4",
-    "planet": "The Two Mountains"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/53",
+      "name": "The Two Mountains"
+    }
   },
   {
     "id": 60,
@@ -477,7 +636,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "City of Children"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/54",
+      "name": "City of Children"
+    }
   },
   {
     "id": 61,
@@ -485,7 +647,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Rainbow Eggs"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/55",
+      "name": "Rainbow Eggs"
+    }
   },
   {
     "id": 62,
@@ -493,7 +658,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Housework Factory"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/56",
+      "name": "Housework Factory"
+    }
   },
   {
     "id": 63,
@@ -501,7 +669,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "River of Dragon"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/57",
+      "name": "River of Dragon"
+    }
   },
   {
     "id": 64,
@@ -509,7 +680,10 @@
     "boost": "Increase Production",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Peace River"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/58",
+      "name": "Peace River"
+    }
   },
   {
     "id": 65,
@@ -517,7 +691,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Busy City"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/59",
+      "name": "Busy City"
+    }
   },
   {
     "id": 66,
@@ -525,7 +702,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Moon Lake"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/60",
+      "name": "Moon Lake"
+    }
   },
   {
     "id": 67,
@@ -533,7 +713,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Scary Pumpkin"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/61",
+      "name": "Scary Pumpkin"
+    }
   },
   {
     "id": 68,
@@ -541,7 +724,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Many Givings"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/62",
+      "name": "Many Givings"
+    }
   },
   {
     "id": 69,
@@ -549,7 +735,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Ring Forest"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/63",
+      "name": "Ring Forest"
+    }
   },
   {
     "id": 70,
@@ -557,7 +746,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Deep-Sea Aquarium"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/64",
+      "name": "Deep-Sea Aquarium"
+    }
   },
   {
     "id": 71,
@@ -565,7 +757,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "The Legacy Gate"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/65",
+      "name": "The Legacy Gate"
+    }
   },
   {
     "id": 72,
@@ -573,7 +768,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "The Light of Ideas"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/66",
+      "name": "The Light of Ideas"
+    }
   },
   {
     "id": 73,
@@ -581,7 +779,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Soccer Sphere"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/67",
+      "name": "Soccer Sphere"
+    }
   },
   {
     "id": 74,
@@ -589,7 +790,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Invisible Base"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/68",
+      "name": "Invisible Base"
+    }
   },
   {
     "id": 75,
@@ -597,7 +801,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Burger Mountain"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/69",
+      "name": "Burger Mountain"
+    }
   },
   {
     "id": 76,
@@ -605,7 +812,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Popcorn Prison"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/70",
+      "name": "Popcorn Prison"
+    }
   },
   {
     "id": 77,
@@ -613,7 +823,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Doggii's Home"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/71",
+      "name": "Doggii's Home"
+    }
   },
   {
     "id": 78,
@@ -621,7 +834,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Rainin' Cloud"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/72",
+      "name": "Raining Cloud"
+    }
   },
   {
     "id": 79,
@@ -629,7 +845,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Infinite Racing"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/73",
+      "name": "Infinite Racing"
+    }
   },
   {
     "id": 80,
@@ -637,7 +856,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Rome Arena"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/74",
+      "name": "Rome Arena"
+    }
   },
   {
     "id": 81,
@@ -645,7 +867,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Ancient Worldtree"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/75",
+      "name": "Ancient Worldtree"
+    }
   },
   {
     "id": 82,
@@ -653,7 +878,10 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Viking Warship"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/76",
+      "name": "Viking Warship"
+    }
   },
   {
     "id": 83,
@@ -661,7 +889,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Stone Age"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/77",
+      "name": "Stone Age"
+    }
   },
   {
     "id": 84,
@@ -669,7 +900,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Angry Dragon"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/78",
+      "name": "Angry Dragon"
+    }
   },
   {
     "id": 85,
@@ -677,7 +911,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Black & White"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/79",
+      "name": "Black & White"
+    }
   },
   {
     "id": 86,
@@ -685,7 +922,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Floating Library"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/80",
+      "name": "Floating Library"
+    }
   },
   {
     "id": 87,
@@ -693,7 +933,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Peaceful Graveyard"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/81",
+      "name": "Peaceful Graveyard"
+    }
   },
   {
     "id": 88,
@@ -701,7 +944,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Star Portal"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/82",
+      "name": "Star Portal"
+    }
   },
   {
     "id": 89,
@@ -709,7 +955,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Waving Ocean"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/83",
+      "name": "Waving Ocean"
+    }
   },
   {
     "id": 90,
@@ -717,7 +966,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Dreamland"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/84",
+      "name": "Dreamland"
+    }
   },
   {
     "id": 91,
@@ -725,7 +977,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Aquatic Wonderland"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/85",
+      "name": "Aquatic Wonderland"
+    }
   },
   {
     "id": 92,
@@ -733,7 +988,10 @@
     "boost": "Increase Production",
     "level_1": "5",
     "level_2": "10",
-    "planet": "Lotus Lake"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/86",
+      "name": "Lotus Lake"
+    }
   },
   {
     "id": 93,
@@ -741,7 +999,10 @@
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
-    "planet": "Neon Party"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/87",
+      "name": "Neon Party"
+    }
   },
   {
     "id": 94,
@@ -749,7 +1010,10 @@
     "boost": "Extend Happy Time",
     "level_1": "50%",
     "level_2": "100%",
-    "planet": "Crown Circus"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/88",
+      "name": "Crown Circus"
+    }
   },
   {
     "id": 95,
@@ -757,7 +1021,10 @@
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
-    "planet": "Great Whale"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/89",
+      "name": "Great Whale"
+    }
   },
   {
     "id": 96,
@@ -765,6 +1032,9 @@
     "boost": "Extend Production Time",
     "level_1": "5%",
     "level_2": "10%",
-    "planet": "Lion Land"
+    "planet": {
+      "url": "http://localhost:1337/api/planets/90",
+      "name": "Lion Land"
+    }
   }
 ]

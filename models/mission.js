@@ -5,7 +5,10 @@ var MissionSchema = new Schema({
   url: String,
   id: String,
   name: String,
-  resources: Array
+  resources: [{
+    resource: String,
+    quantity: Number
+  }]
 });
 
 var mission = mongoose.model('Mission', MissionSchema);
