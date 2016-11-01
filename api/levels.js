@@ -1,5 +1,5 @@
 var router = require('../router');
-var Level = require('../models/level');
+var Level = require('../models/level').model;
 var CommonApi = require('./common-api');
 
 module.exports = function (router) {

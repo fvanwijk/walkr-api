@@ -1,5 +1,5 @@
 var router = require('../router');
-var mission = require('../models/mission');
+var mission = require('../models/mission').model;
 var CommonApi = require('./common-api');
 
 module.exports = function (router) {

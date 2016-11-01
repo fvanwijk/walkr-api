@@ -12,4 +12,7 @@ dfr.slug = 'dfrs';
 dfr.identifierField = 'code';
 dfr.nameField = 'name';
 
-module.exports = dfr;
+module.exports = {
+  model: dfr,
+  schema: DFRSchema
+};

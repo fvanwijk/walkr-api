@@ -1,3 +1,5 @@
+const Planet = require('./planet');
+
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
@@ -8,7 +10,7 @@ var SatelliteSchema = new Schema({
   boost: String,
   level_1: String,
   level_2: String,
-  planet: String
+  planet: Planet.schema
 });
 
 var satellite = mongoose.model('Satellite', SatelliteSchema);
@@ -16,4 +18,7 @@ satellite.slug = 'satellites';
 satellite.identifierField = 'id';
 satellite.nameField = 'name';
 
-module.exports = satellite;
+module.exports = {
+  model: satellite,
+  schema: SatelliteSchema
+};

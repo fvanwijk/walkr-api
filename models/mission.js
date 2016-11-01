@@ -13,4 +13,7 @@ mission.slug = 'missions';
 mission.identifierField = 'id';
 mission.nameField = 'name';
 
-module.exports = mission;
+module.exports = {
+  model: mission,
+  schema: MissionSchema
+};

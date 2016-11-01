@@ -1,5 +1,5 @@
 var router = require('../router');
-var Planet = require('../models/planet');
+var Planet = require('../models/planet').model;
 var CommonApi = require('./common-api');
 
 module.exports = function (router) {

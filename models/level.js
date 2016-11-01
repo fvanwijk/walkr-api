@@ -13,4 +13,7 @@ level.slug = 'levels';
 level.identifierField = 'level';
 level.nameField = 'level';
 
-module.exports = level;
+module.exports = {
+  model: level,
+  schema: LevelSchema
+};

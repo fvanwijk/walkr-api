@@ -1,5 +1,5 @@
 var router = require('../router');
-var DFR = require('../models/dfr');
+var DFR = require('../models/dfr').model;
 var CommonApi = require('./common-api');
 
 module.exports = function (router) {

@@ -1,5 +1,5 @@
 var router = require('../router');
-var Satellite = require('../models/satellite');
+var Satellite = require('../models/satellite').model;
 var CommonApi = require('./common-api');
 
 module.exports = function (router) {

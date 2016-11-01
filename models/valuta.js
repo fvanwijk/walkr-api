@@ -13,4 +13,7 @@ valuta.slug = 'valuta';
 valuta.identifierField = 'id';
 valuta.nameField = 'name';
 
-module.exports = valuta;
+module.exports = {
+  model: valuta,
+  schema: ValutaSchema
+};

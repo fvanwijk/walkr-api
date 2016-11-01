@@ -1,5 +1,5 @@
 var router = require('../router');
-var valuta = require('../models/valuta');
+var valuta = require('../models/valuta').model;
 var CommonApi = require('./common-api');
 
 module.exports = function (router) {

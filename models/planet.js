@@ -16,4 +16,7 @@ planet.slug = 'planets';
 planet.identifierField = 'code';
 planet.nameField = 'name';
 
-module.exports = planet;
+module.exports = {
+  model: planet,
+  schema: PlanetSchema
+};
