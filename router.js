@@ -7,6 +7,7 @@ router.use(function (req, res, next) {
 });
 
 require('./api/api')(router);
+require('./api/core')(router);
 require('./api/planets')(router);
 require('./api/levels')(router);
 require('./api/dfrs')(router);
