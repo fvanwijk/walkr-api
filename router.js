@@ -12,6 +12,7 @@ require('./api/levels')(router);
 require('./api/dfrs')(router);
 require('./api/satellites')(router);
 require('./api/missions')(router);
+require('./api/epics')(router);
 require('./api/valuta')(router);
 
 module.exports = router;

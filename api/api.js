@@ -11,6 +11,7 @@ module.exports = function (router) {
         dfrs: `${baseUrl}/dfrs/`,
         satellites: `${baseUrl}/satellites/`,
         missions: `${baseUrl}/missions/`,
+        epics: `${baseUrl}/epics/`,
         valuta: `${baseUrl}/valuta/`
       });
     });

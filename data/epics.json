@@ -1,0 +1,324 @@
+[
+  {
+    "id": 9,
+    "name": "Reflections from home",
+    "requirements": 35,
+    "members": {
+      "min": 4,
+      "max": 10
+    },
+    "rewards": {
+      "coins": 30000000,
+      "galaxy_map": {
+        "name": "Doggii's Home"
+      },
+      "cubes": 250
+    },
+    "donations": {
+      "energy": 318000,
+      "coins": 5450000,
+      "food": 500000,
+      "resources": 178000
+    },
+    "rounds": [
+      {
+        "name": "Create a space fleet",
+        "subrounds": [
+          {
+            "round_type": "donation",
+            "donation": [
+              {
+                "name": "coins",
+                "quantity": [1650000]
+              },
+              {
+                "name": "food",
+                "quantity": [140000]
+              }
+            ]
+          },
+          {
+            "round_type": "fuel",
+            "donation": [
+              {
+                "name": "energy",
+                "quantity": [6000]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Stray dogs in space",
+        "subrounds": [
+          {
+            "round_type": "donation",
+            "donation": [
+              {
+                "name": "food",
+                "quantity": [80000]
+              }
+            ]
+          },
+          {
+            "round_type": "fuel",
+            "donation": [
+              {
+                "name": "energy",
+                "quantity": [12000]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Space Tako",
+        "subrounds": [
+          {
+            "round_type": "donation",
+            "donation": [
+              {
+                "name": "resources",
+                "quantity": [30000, 30000]
+              }
+            ]
+          },
+          {
+            "round_type": "fuel",
+            "donation": [
+              {
+                "name": "energy",
+                "quantity": [24000]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "The angry slime",
+        "round_type": "choice",
+        "subrounds": [
+          {
+            "round_type": "choice",
+            "choices": ["Fight back", "Bribe them"]
+          },
+          {
+            "round_type": "fuel",
+            "donation": [
+              {
+                "name": "energy",
+                "quantity": [36000]
+              }
+            ]
+          }
+        ],
+        "choices": [
+          {
+            "rounds": [
+              {
+                "name": "Sudden Slime attack",
+                "subrounds": [
+                  {
+                    "round_type": "donation",
+                    "donation": [
+                      {
+                        "name": "coins",
+                        "quantity": [1500000]
+                      }
+                    ]
+                  },
+                  {
+                    "round_type": "fuel",
+                    "donation": [
+                      {
+                        "name": "energy",
+                        "quantity": [36000]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Set up a fighting ring",
+                "subrounds": [
+                  {
+                    "round_type": "donation",
+                    "donation": [
+                      {
+                        "name": "resources",
+                        "quantity": [28000, 30000]
+                      }
+                    ]
+                  },
+                  {
+                    "round_type": "fuel",
+                    "donation": [
+                      {
+                        "name": "energy",
+                        "quantity": [36000]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Tako wins",
+                "subrounds": [
+                  {
+                    "round_type": "donation",
+                    "donation": [
+                      {
+                        "name": "coins",
+                        "quantity": [1500000]
+                      }
+                    ]
+                  },
+                  {
+                    "round_type": "fuel",
+                    "donation": [
+                      {
+                        "name": "energy",
+                        "quantity": [36000]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "rounds": [
+              {
+                "name": "Lure the Slime to open the mysterious treasure chest",
+                "subrounds": [
+                  {
+                    "round_type": "donation",
+                    "donation": [
+                      {
+                        "name": "food",
+                        "quantity": [72000]
+                      }
+                    ]
+                  },
+                  {
+                    "round_type": "fuel",
+                    "donation": [
+                      {
+                        "name": "energy",
+                        "quantity": [36000]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Ancient Slime",
+                "subrounds": [
+                  {
+                    "round_type": "donation",
+                    "donation": [
+                      {
+                        "name": "resource",
+                        "quantity": [28000, 28000]
+                      }
+                    ]
+                  },
+                  {
+                    "round_type": "fuel",
+                    "donation": [
+                      {
+                        "name": "energy",
+                        "quantity": [36000]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Find the Space frisbee",
+        "subrounds": [
+          {
+            "round_type": "donation",
+            "donation": [
+              {
+                "name": "resource",
+                "quantity": [60000]
+              }
+            ]
+          },
+          {
+            "round_type": "fuel",
+            "donation": [
+              {
+                "name": "energy",
+                "quantity": [36000]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Create a large dog food machine",
+        "subrounds": [
+          {
+            "round_type": "donation",
+            "donation": [
+              {
+                "name": "coins",
+                "quantity": [800000]
+              },
+              {
+                "name": "food",
+                "quantity": [100000]
+              }
+            ]
+          },
+          {
+            "round_type": "fuel",
+            "donation": [
+              {
+                "name": "energy",
+                "quantity": [42000]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Doggii and Frisbee party",
+        "subrounds": [
+          {
+            "round_type": "donation",
+            "donation": [
+              {
+                "name": "food",
+                "quantity": [180000]
+              }
+            ]
+          },
+          {
+            "round_type": "fuel",
+            "donation": [
+              {
+                "name": "energy",
+                "quantity": [54000]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Returning home",
+        "subrounds": [
+          {
+            "round_type": "reward"
+          }
+        ]
+      }
+    ]
+  }
+]
