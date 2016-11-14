@@ -7,6 +7,7 @@ var ShipSchema = new Schema({
   name: String,
   variants: [
     {
+      id: String,
       paint: String,
       speed: Number,
       boost: Number,
