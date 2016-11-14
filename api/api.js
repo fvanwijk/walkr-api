@@ -7,6 +7,7 @@ module.exports = function (router) {
     .get(function (req, res) {
       res.json({
         core: `${baseUrl}/core/`,
+        ships: `${baseUrl}/ships/`,
         planets: `${baseUrl}/planets/`,
         levels: `${baseUrl}/levels/`,
         dfrs: `${baseUrl}/dfrs/`,

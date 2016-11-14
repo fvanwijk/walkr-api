@@ -1,0 +1,1197 @@
+[
+  {
+    "id": 1,
+    "name": "Walkr",
+    "variants": [
+      {
+        "id": "red-white",
+        "paint": "Red / white",
+        "speed": 200,
+        "boost": 400,
+        "energy": 10000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 350
+        },
+        "requirement": null
+      },
+      {
+        "id": "gold",
+        "paint": "Gold",
+        "speed": 260,
+        "boost": 660,
+        "energy": 14000,
+        "skill": {
+          "unit": "comment"
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 350
+        },
+        "requirement": null
+      },
+      {
+        "id": "black-red",
+        "paint": "Black / red",
+        "speed": 320,
+        "boost": 520,
+        "energy": 14000,
+        "skill": null,
+        "cubes": null,
+        "requirement": {
+          "progress": "planets",
+          "quantity": 30
+        }
+      },
+      {
+        "id": "blue",
+        "paint": "Blue",
+        "speed": 260,
+        "boost": 520,
+        "energy": 20000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 350
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Walkr Pro",
+    "variants": [
+      {
+        "id": "grey",
+        "paint": "Grey",
+        "speed": 230,
+        "boost": 520,
+        "energy": 12000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 150
+        },
+        "requirement": null
+      },
+      {
+        "id": "red-white",
+        "paint": "Red / white",
+        "speed": 230,
+        "boost": 520,
+        "energy": 12000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 150
+        },
+        "requirement": null
+      },
+      {
+        "id": "blue-white",
+        "paint": "Blue / white",
+        "speed": 230,
+        "boost": 520,
+        "energy": 12000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 150
+        },
+        "requirement": null
+      },
+      {
+        "id": "green-white",
+        "paint": "Green / white",
+        "speed": 230,
+        "boost": 520,
+        "energy": 12000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 150
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Squishr",
+    "variants": [
+      {
+        "id": "black",
+        "paint": "Black",
+        "speed": 260,
+        "boost": 660,
+        "energy": 14000,
+        "skill": {
+          "unit": "food",
+          "quantity": 2000
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "green-white",
+        "paint": "Green / white",
+        "speed": 260,
+        "boost": 660,
+        "energy": 14000,
+        "skill": {
+          "unit": "energy",
+          "quantity": 10
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "white",
+        "paint": "White",
+        "speed": 300,
+        "boost": 800,
+        "energy": 16000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "transparent",
+        "paint": "Transparent",
+        "speed": 300,
+        "boost": 800,
+        "energy": 16000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "UFO",
+    "variants": [
+      {
+        "id": "red",
+        "paint": "Red",
+        "speed": 260,
+        "boost": 460,
+        "energy": 12000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 75
+        },
+        "requirement": null
+      },
+      {
+        "id": "yellow",
+        "paint": "Yellow",
+        "speed": 260,
+        "boost": 460,
+        "energy": 12000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 75
+        },
+        "requirement": null
+      },
+      {
+        "id": "cow",
+        "paint": "Cow",
+        "speed": 260,
+        "boost": 460,
+        "energy": 12000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 75
+        },
+        "requirement": null
+      },
+      {
+        "id": "watermelon",
+        "paint": "Watermelon",
+        "speed": 260,
+        "boost": 460,
+        "energy": 12000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 75
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Red Rovr",
+    "variants": [
+      {
+        "id": "red-white squares",
+        "paint": "Red / white squares",
+        "speed": 260,
+        "boost": 660,
+        "energy": 14000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 700
+        },
+        "requirement": null
+      },
+      {
+        "id": "red-white stripes",
+        "paint": "Red / white stripes",
+        "speed": 260,
+        "boost": 660,
+        "energy": 14000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 700
+        },
+        "requirement": null
+      },
+      {
+        "id": "red-white text",
+        "paint": "Red / white text",
+        "speed": 260,
+        "boost": 660,
+        "energy": 14000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 700
+        },
+        "requirement": null
+      },
+      {
+        "id": "red-orange flames",
+        "paint": "Red / orange flames",
+        "speed": 260,
+        "boost": 660,
+        "energy": 14000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 700
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Chompr",
+    "variants": [
+      {
+        "id": "grey",
+        "paint": "Grey",
+        "speed": 230,
+        "boost": 460,
+        "energy": 15000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 150
+        },
+        "requirement": null
+      },
+      {
+        "id": "blue",
+        "paint": "Blue",
+        "speed": 230,
+        "boost": 460,
+        "energy": 15000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 150
+        },
+        "requirement": {
+          "progress": "missions",
+          "quantity": 30
+        }
+      },
+      {
+        "id": "red-yellow",
+        "paint": "Red / yellow",
+        "speed": 230,
+        "boost": 460,
+        "energy": 15000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 150
+        },
+        "requirement": null
+      },
+      {
+        "id": "transparent",
+        "paint": "Transparent",
+        "speed": 230,
+        "boost": 460,
+        "energy": 15000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 150
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "UFO Pro",
+    "variants": [
+      {
+        "id": "light grey",
+        "paint": "Light grey",
+        "speed": 320,
+        "boost": 520,
+        "energy": 14000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 350
+        },
+        "requirement": null
+      },
+      {
+        "id": "red",
+        "paint": "Red",
+        "speed": 320,
+        "boost": 520,
+        "energy": 14000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 350
+        },
+        "requirement": null
+      },
+      {
+        "id": "blue",
+        "paint": "Blue",
+        "speed": 320,
+        "boost": 520,
+        "energy": 14000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 350
+        },
+        "requirement": null
+      },
+      {
+        "id": "gold camouflage",
+        "paint": "Gold camouflage",
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 350
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Papr Papr",
+    "variants": [
+      {
+        "id": "newspaper",
+        "paint": "Newspaper",
+        "speed": 260,
+        "boost": 520,
+        "energy": 20000,
+        "skill": {
+          "unit": "dfr",
+          "quantity": 10
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "blue-white",
+        "paint": "Blue / white",
+        "speed": 260,
+        "boost": 520,
+        "energy": 20000,
+        "skill": {
+          "unit": "energy",
+          "quantity": 10
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "white",
+        "paint": "White",
+        "speed": 300,
+        "boost": 600,
+        "energy": 25000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "gold",
+        "paint": "Gold",
+        "speed": 300,
+        "boost": 600,
+        "energy": 25000,
+        "skill": {
+          "unit": "comment"
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Killr",
+    "variants": [
+      {
+        "id": "black-white",
+        "paint": "Black / white",
+        "speed": 260,
+        "boost": 520,
+        "energy": 20000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 700
+        },
+        "requirement": null
+      },
+      {
+        "id": "light grey-green",
+        "paint": "Light grey / green",
+        "speed": 260,
+        "boost": 520,
+        "energy": 20000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 700
+        },
+        "requirement": null
+      },
+      {
+        "id": "blue",
+        "paint": "Blue",
+        "speed": 260,
+        "boost": 520,
+        "energy": 20000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 700
+        },
+        "requirement": null
+      },
+      {
+        "id": "giraffe",
+        "paint": "Giraffe",
+        "speed": 260,
+        "boost": 520,
+        "energy": 20000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 700
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "UFO Super",
+    "variants": [
+      {
+        "id": "transparent-yellow",
+        "paint": "Transparent / yellow",
+        "speed": 320,
+        "boost": 520,
+        "energy": 14000,
+        "skill": {
+          "unit": "dfr",
+          "quantity": 10
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "green-grey",
+        "paint": "Green / grey",
+        "speed": 320,
+        "boost": 520,
+        "energy": 14000,
+        "skill": {
+          "unit": "food",
+          "quantity": 2000
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "light grey-green",
+        "paint": "Light grey / green",
+        "speed": 400,
+        "boost": 600,
+        "energy": 16000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "gold",
+        "paint": "Gold",
+        "speed": 400,
+        "boost": 600,
+        "energy": 16000,
+        "skill": {
+          "unit": "comment"
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "SS Doggii",
+    "variants": [
+      {
+        "id": "yellow",
+        "paint": "Yellow",
+        "speed": 230,
+        "boost": 460,
+        "energy": 50000,
+        "skill": null,
+        "cubes": null,
+        "requirement": {
+          "progress": "steps",
+          "quantity": 20000
+        }
+      },
+      {
+        "id": "grey/white",
+        "paint": "Grey/white",
+        "speed": 230,
+        "boost": 460,
+        "energy": 50000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "tiger",
+        "paint": "Tiger",
+        "speed": 230,
+        "boost": 460,
+        "energy": 50000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "white",
+        "paint": "White",
+        "speed": 230,
+        "boost": 460,
+        "energy": 50000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Divr",
+    "variants": [
+      {
+        "id": "yellow",
+        "paint": "Yellow",
+        "speed": 260,
+        "boost": 900,
+        "energy": 12000,
+        "skill": null,
+        "cubes": null,
+        "requirement": {
+          "progress": "missions",
+          "quantity": 40
+        }
+      },
+      {
+        "id": "yellow",
+        "paint": "Yellow",
+        "speed": 260,
+        "boost": 900,
+        "energy": 12000,
+        "skill": null,
+        "cubes": null,
+        "requirement": {
+          "progress": "missions",
+          "quantity": 80
+        }
+      },
+      {
+        "id": "dark grey-red",
+        "paint": "Dark grey / red",
+        "speed": 260,
+        "boost": 900,
+        "energy": 12000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 700
+        },
+        "requirement": null
+      },
+      {
+        "id": "dark grey-blue",
+        "paint": "Dark grey / blue",
+        "speed": 260,
+        "boost": 900,
+        "energy": 12000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 700
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Koinobori",
+    "variants": [
+      {
+        "id": "blue",
+        "paint": "Blue",
+        "speed": 400,
+        "boost": 600,
+        "energy": 12000,
+        "skill": null,
+        "cubes": null,
+        "requirement": {
+          "progress": "planets",
+          "quantity": 80
+        }
+      },
+      {
+        "id": "red",
+        "paint": "Red",
+        "speed": 400,
+        "boost": 600,
+        "energy": 12000,
+        "skill": null,
+        "cubes": null,
+        "requirement": {
+          "progress": "planets",
+          "quantity": 60
+        }
+      },
+      {
+        "id": "green",
+        "paint": "Green",
+        "speed": 400,
+        "boost": 600,
+        "energy": 12000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 700
+        },
+        "requirement": null
+      },
+      {
+        "id": "black",
+        "paint": "Black",
+        "speed": 400,
+        "boost": 600,
+        "energy": 12000,
+        "skill": null,
+        "costs": {
+          "resource": "cubes",
+          "quantity": 700
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Carton Rovr",
+    "variants": [
+      {
+        "id": "white-red",
+        "paint": "White / red",
+        "speed": 230,
+        "boost": 520,
+        "energy": 25000,
+        "skill": {
+          "unit": "food",
+          "quantity": 2000
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 1500
+        },
+        "requirement": null
+      },
+      {
+        "id": "cow",
+        "paint": "Cow",
+        "speed": 230,
+        "boost": 520,
+        "energy": 25000,
+        "skill": {
+          "unit": "food",
+          "quantity": 2000
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 1500
+        },
+        "requirement": null
+      },
+      {
+        "id": "oranges",
+        "paint": "Oranges",
+        "skill": {
+          "unit": "food",
+          "quantity": 2000
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 1500
+        },
+        "requirement": null
+      },
+      {
+        "id": "white-brown",
+        "paint": "White / brown",
+        "speed": 230,
+        "boost": 520,
+        "energy": 25000,
+        "skill": {
+          "unit": "food",
+          "quantity": 2000
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 1500
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Noah's ark",
+    "variants": [
+      {
+        "id": "brown",
+        "paint": "Brown",
+        "speed": 260,
+        "boost": 660,
+        "energy": 35000,
+        "skill": {
+          "unit": "dfr",
+          "quantity": 10
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "brown-blue",
+        "paint": "Brown / blue",
+        "speed": 260,
+        "boost": 660,
+        "energy": 35000,
+        "skill": {
+          "unit": "dfr",
+          "quantity": 10
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "gold",
+        "paint": "Gold",
+        "speed": 260,
+        "boost": 660,
+        "energy": 35000,
+        "skill": {
+          "unit": "dfr",
+          "quantity": 10
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      },
+      {
+        "id": "orange-blue",
+        "paint": "Orange / blue",
+        "speed": 260,
+        "boost": 660,
+        "energy": 35000,
+        "skill": {
+          "unit": "dfr",
+          "quantity": 10
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2100
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Airship",
+    "variants": [
+      {
+        "id": "brown-white",
+        "paint": "Brown / white",
+        "speed": 260,
+        "boost": 520,
+        "energy": 60000,
+        "skill": {
+          "unit": "energy",
+          "quantity": 20
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 5
+        },
+        "requirement": null
+      },
+      {
+        "id": "red-black",
+        "paint": "Red / black",
+        "speed": 260,
+        "boost": 520,
+        "energy": 60000,
+        "skill": {
+          "unit": "energy",
+          "quantity": 20
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 5000
+        },
+        "requirement": null
+      },
+      {
+        "id": "red-beige",
+        "paint": "Red / beige",
+        "speed": 260,
+        "boost": 520,
+        "energy": 60000,
+        "skill": {
+          "unit": "energy",
+          "quantity": 20
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 5000
+        },
+        "requirement": null
+      },
+      {
+        "id": "blue-white",
+        "paint": "Blue / white",
+        "speed": 260,
+        "boost": 520,
+        "energy": 60000,
+        "skill": {
+          "unit": "energy",
+          "quantity": 20
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 5000
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Detective",
+    "variants": [
+      {
+        "id": "red",
+        "paint": "Red",
+        "speed": 400,
+        "boost": 600,
+        "energy": 25000,
+        "skill": {
+          "unit": "food",
+          "quantity": 3000
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2000
+        },
+        "requirement": null
+      },
+      {
+        "id": "blue",
+        "paint": "Blue",
+        "speed": 400,
+        "boost": 600,
+        "energy": 25000,
+        "skill": {
+          "unit": "food",
+          "quantity": 3000
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2000
+        },
+        "requirement": null
+      },
+      {
+        "id": "yellow-green",
+        "paint": "Yellow / green",
+        "speed": 400,
+        "boost": 600,
+        "energy": 25000,
+        "skill": {
+          "unit": "food",
+          "quantity": 3000
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2000
+        },
+        "requirement": null
+      },
+      {
+        "id": "black-yellow",
+        "paint": "Black / yellow",
+        "speed": 400,
+        "boost": 600,
+        "energy": 25000,
+        "skill": {
+          "unit": "food",
+          "quantity": 3000
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2000
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Sentry",
+    "variants": [
+      {
+        "id": "white",
+        "paint": "White",
+        "speed": 300,
+        "boost": 640,
+        "energy": 40000,
+        "skill": {
+          "unit": "dfr",
+          "quantity": 20
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2500
+        },
+        "requirement": null
+      },
+      {
+        "id": "blue",
+        "paint": "Blue",
+        "speed": 300,
+        "boost": 640,
+        "energy": 40000,
+        "skill": {
+          "unit": "dfr",
+          "quantity": 20
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2500
+        },
+        "requirement": null
+      },
+      {
+        "id": "transparent",
+        "paint": "Transparent",
+        "speed": 300,
+        "boost": 640,
+        "energy": 40000,
+        "skill": {
+          "unit": "dfr",
+          "quantity": 20
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2500
+        },
+        "requirement": null
+      },
+      {
+        "id": "yellow",
+        "paint": "Yellow",
+        "speed": 300,
+        "boost": 640,
+        "energy": 40000,
+        "skill": {
+          "unit": "dfr",
+          "quantity": 20
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 2500
+        },
+        "requirement": null
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Probe",
+    "variants": [
+      {
+        "id": "white",
+        "paint": "White",
+        "speed": 260,
+        "boost": 900,
+        "energy": 70000,
+        "skill": {
+          "unit": "energy",
+          "quantity": 25
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 7000
+        },
+        "requirement": null
+      },
+      {
+        "id": "red",
+        "paint": "Red",
+        "speed": 260,
+        "boost": 900,
+        "energy": 70000,
+        "skill": {
+          "unit": "energy",
+          "quantity": 25
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 7000
+        },
+        "requirement": null
+      },
+      {
+        "id": "green",
+        "paint": "Green",
+        "speed": 260,
+        "boost": 900,
+        "energy": 70000,
+        "skill": {
+          "unit": "energy",
+          "quantity": 25
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 7000
+        },
+        "requirement": null
+      },
+      {
+        "id": "yellow",
+        "paint": "Yellow",
+        "speed": 260,
+        "boost": 900,
+        "energy": 70000,
+        "skill": {
+          "unit": "energy",
+          "quantity": 25
+        },
+        "costs": {
+          "resource": "cubes",
+          "quantity": 7000
+        },
+        "requirement": null
+      }
+    ]
+  }
+]
