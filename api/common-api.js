@@ -1,6 +1,16 @@
 var url = require('./url');
 
 module.exports = {
+  catchWrapper: function (res, err, item) {
+    if (err) {
+      res.send(err);
+    }
+    if (item) {
+      res.json(item);
+    } else {
+      res.sendStatus(404);
+    }
+  },
   getAll: function (Model) {
     return function (req, res) {
       Model.find(function (err, items) {
@@ -48,43 +58,35 @@ module.exports = {
     }
   },
   get: function (Model, projection) {
+    const commonApi = this;
     return function(req, res) {
       projection = Object.assign({ '_id': false }, projection || {});
-      Model.findOne({ [Model.identifierField]: req.params.id }, projection, function(err, item) {
-        if (err) {
-          res.send(err);
-        }
-        if (item) {
-          res.json(item);
-        } else {
-          res.sendStatus(404);
-        }
-      });
+      Model.findOne(
+        { [Model.identifierField]: req.params.id },
+        projection,
+        commonApi.catchWrapper.bind(commonApi, res)
+      );
     }
   },
   post: function (Model) {
+    const commonApi = this;
     return function (req, res) {
       req.body.url = req.body.url || url.create(Model.slug, req.body[Model.identifierField]);
-      Model.create(req.body, function (err, item) {
-        if (err) {
-          res.send(err);
-        }
-        res.json(item);
-      })
+      Model.create(
+        req.body,
+        commonApi.catchWrapper.bind(commonApi, res)
+      );
     }
   },
   put: function (Model) {
+    const commonApi = this;
     return function(req, res) {
-      Model.findOneAndUpdate({ [Model.identifierField]: req.params.id }, req.body, { new: true }, function(err, item) {
-        if (err) {
-          res.send(err);
-        }
-        if (item) {
-          res.json(item);
-        } else {
-          res.sendStatus(404);
-        }
-      });
+      Model.findOneAndUpdate(
+        { [Model.identifierField]: req.params.id },
+        req.body,
+        { new: true },
+        commonApi.catchWrapper.bind(commonApi, res)
+      );
     }
   },
   delete: function (Model) {
