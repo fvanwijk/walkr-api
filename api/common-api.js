@@ -1,32 +1,39 @@
 var url = require('./url');
 
 module.exports = {
-  catchWrapper: function (res, err, item) {
+  /**
+   * @param res Object response
+   * @param err Object error
+   * @param item Object that is returned by Mongoose
+   * @param successCb optional callback to set a different response than the item in JSON
+   */
+  catchWrapper: function (err, item, res, successCb) {
     if (err) {
       res.send(err);
     }
     if (item) {
-      res.json(item);
+      successCb ? successCb(res, item) : res.json(item);
     } else {
       res.sendStatus(404);
     }
   },
   getAll: function (Model) {
+    const commonApi = this;
+    const successCb = function (res, items) {
+      res.json({
+        count: items.length,
+        results: items.map((item) => ({
+          [Model.nameField]: item[Model.nameField],
+          url: item.url
+        }))
+      });
+    };
+
     return function (req, res) {
       Model.find(function (err, items) {
-        if (err) {
-          res.send(err);
-        }
-
-        res.json({
-          count: items.length,
-          results: items.map((item) => ({
-            [Model.nameField]: item[Model.nameField],
-            url: item.url
-          }))
-        });
+        return commonApi.catchWrapper(err, items, res, successCb);
       });
-    }
+    };
   },
   postAll: function (Model, filename) {
     return function (req, res) {
@@ -59,12 +66,14 @@ module.exports = {
   },
   get: function (Model, projection) {
     const commonApi = this;
-    return function(req, res) {
+    return function (req, res) {
       projection = Object.assign({ '_id': false }, projection || {});
       Model.findOne(
         { [Model.identifierField]: req.params.id },
         projection,
-        commonApi.catchWrapper.bind(commonApi, res)
+        function (err, items) {
+          return commonApi.catchWrapper(err, items, res);
+        }
       );
     }
   },
@@ -74,7 +83,9 @@ module.exports = {
       req.body.url = req.body.url || url.create(Model.slug, req.body[Model.identifierField]);
       Model.create(
         req.body,
-        commonApi.catchWrapper.bind(commonApi, res)
+        function (err, item) {
+          return commonApi.catchWrapper(err, item, res);
+        }
       );
     }
   },
@@ -85,21 +96,18 @@ module.exports = {
         { [Model.identifierField]: req.params.id },
         req.body,
         { new: true },
-        commonApi.catchWrapper.bind(commonApi, res)
+        function (err, item) {
+          return commonApi.catchWrapper(err, item, res);
+        }
       );
     }
   },
   delete: function (Model) {
+    const commonApi = this;
+    const successCb = function (res) { res.sendStatus(200); };
     return function (req, res) {
       Model.remove({ [Model.identifierField]: req.params.id }, function (err, item) {
-        if (err) {
-          res.send(err);
-        }
-        if (item) {
-          res.sendStatus(200);
-        } else {
-          res.sendStatus(404);
-        }
+        commonApi.catchWrapper(err, item, res, successCb);
       });
     }
   }
