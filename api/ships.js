@@ -25,7 +25,7 @@ module.exports = function (router) {
     .get(function (req, res) {
       Ship.findOne(
         { id: req.params.id, 'variants.id': req.params.variant },
-        { _id: false },
+        { 'variants._id': false },
         function (err, item) {
           CommonApi.catchWrapper(err, item, res, function (res, item) {
             res.json(item.variants.find(variant => { return variant.id === req.params.variant }));
