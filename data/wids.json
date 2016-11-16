@@ -1,0 +1,305 @@
+[
+  {
+    "wid": "y1mGy1QTqtD",
+    "name": "Frank van Wijk",
+    "title": "Captain",
+    "level": 23,
+    "population": 872,
+    "planets": [
+      {
+        "name": "Colossal Pepper",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/37",
+        "level": 7,
+        "discovery_date": "2016-04-03"
+      },
+      {
+        "name": "Desert Breeze",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/33"
+      },
+      {
+        "name": "Luminous Fungus",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/26"
+      },
+      {
+        "name": "Golden Gusher",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/10"
+      },
+      {
+        "name": "Ancient Worldtree",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/75"
+      },
+      {
+        "name": "Rainbow Eggs",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/55"
+      },
+      {
+        "name": "Swamp of Crocs",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/23"
+      },
+      {
+        "name": "Tater Tower",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/30"
+      },
+      {
+        "name": "Fossil Fern",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/6"
+      },
+      {
+        "name": "Botanical Garden",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/35"
+      },
+      {
+        "name": "Peaceful Prairie",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/42"
+      },
+      {
+        "name": "Sunset Savanna",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/41"
+      },
+      {
+        "name": "Boar Tribe",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/47"
+      },
+      {
+        "name": "Cat's Play",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/31"
+      },
+      {
+        "name": "Black & White",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/79"
+      },
+      {
+        "name": "Woolly Peak",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/48"
+      },
+      {
+        "name": "Coral Reef",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/20"
+      },
+      {
+        "name": "Eagle's Nest",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/13"
+      },
+      {
+        "name": "Honeycomb",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/3"
+      },
+      {
+        "name": "King of Cows",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/4"
+      },
+      {
+        "name": "Red Crater",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/39"
+      },
+      {
+        "name": "Antler Ravine",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/28"
+      },
+      {
+        "name": "Octopus Cavern",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/22"
+      },
+      {
+        "name": "Deep-Sea Aquarium",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/64"
+      },
+      {
+        "name": "Caramel Apple",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/2"
+      },
+      {
+        "name": "Strawberry Cookies",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/17"
+      },
+      {
+        "name": "Peaceful Graveyard",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/81"
+      },
+      {
+        "name": "Housework Factory",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/56"
+      },
+      {
+        "name": "Citrus Trampoline",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/14"
+      },
+      {
+        "name": "Pineapple Foothills",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/16"
+      },
+      {
+        "name": "Snow Berry",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/19"
+      },
+      {
+        "name": "Sweet Donut",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/34"
+      },
+      {
+        "name": "Chocolate River",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/51"
+      },
+      {
+        "name": "Watermelon Canyon",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/49"
+      },
+      {
+        "name": "Sugar Rush",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/29"
+      },
+      {
+        "name": "Banana Boat",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/27"
+      },
+      {
+        "name": "Bubble Gum",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/15"
+      },
+      {
+        "name": "Meteor Adrift",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/7"
+      },
+      {
+        "name": "Amazon Rainforest",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/50"
+      },
+      {
+        "name": "River of Dragon",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/57"
+      },
+      {
+        "name": "Molten Lava",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/25"
+      },
+      {
+        "name": "Burger Mountain",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/69"
+      },
+      {
+        "name": "Neon Party",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/87"
+      },
+      {
+        "name": "Invisible Base",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/68"
+      },
+      {
+        "name": "Popcorn Prison",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/70"
+      },
+      {
+        "name": "Vault of Secrets",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/45"
+      },
+      {
+        "name": "The Light of Ideas",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/66"
+      },
+      {
+        "name": "Peace River",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/58"
+      },
+      {
+        "name": "Rome Arena",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/74"
+      },
+      {
+        "name": "Ice Age",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/12"
+      },
+      {
+        "name": "Water World",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/5"
+      },
+      {
+        "name": "Snow World",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/9"
+      },
+      {
+        "name": "Waving Ocean",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/83"
+      },
+      {
+        "name": "Lonely Dune",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/21"
+      },
+      {
+        "name": "Busy City",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/59"
+      },
+      {
+        "name": "Viking Warship",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/76"
+      },
+      {
+        "name": "Heart of Flames",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/46"
+      },
+      {
+        "name": "Aquatic Wonderland",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/85"
+      },
+      {
+        "name": "Lotus Lake",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/86"
+      },
+      {
+        "name": "Stone Age",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/77"
+      },
+      {
+        "name": "Great Whale",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/89"
+      },
+      {
+        "name": "Moon Lake",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/60"
+      },
+      {
+        "name": "Raining Cloud",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/72"
+      },
+      {
+        "name": "Ocean City",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/96"
+      },
+      {
+        "name": "Infinite Racing",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/73"
+      },
+      {
+        "name": "Baby Hedgehog",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/91"
+      },
+      {
+        "name": "Scary Pumpkin",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/61"
+      },
+      {
+        "name": "Doggii's Home",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/71"
+      },
+      {
+        "name": "Soccer Sphere",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/67"
+      },
+      {
+        "name": "Lantern City",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/92"
+      },
+      {
+        "name": "Golden Town",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/93"
+      },
+      {
+        "name": "Many Givings",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/62"
+      },
+      {
+        "name": "Angry Dragon",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/78"
+      }
+    ]
+  }
+]

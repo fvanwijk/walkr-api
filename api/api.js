@@ -14,7 +14,8 @@ module.exports = function (router) {
         satellites: `${baseUrl}/satellites/`,
         missions: `${baseUrl}/missions/`,
         epics: `${baseUrl}/epics/`,
-        valuta: `${baseUrl}/valuta/`
+        valuta: `${baseUrl}/valuta/`,
+        wids: `${baseUrl}/wids/`
       });
     });
 };

@@ -16,5 +16,6 @@ require('./api/satellites')(router);
 require('./api/missions')(router);
 require('./api/epics')(router);
 require('./api/valuta')(router);
+require('./api/wids')(router);
 
 module.exports = router;

@@ -17,9 +17,7 @@
     "gravity": "2.22G",
     "creature": "Pombat",
     "creature_description": "Pombats can only see the color red. They like to use their sharp teeth to pierce apples and enjoy the sweet juice through the small holes in their teeth.",
-    "resource": "Apple",
-    "level": 7,
-    "discovery_date": "2016-04-24"
+    "resource": "Apple"
   },
   {
     "url": null,
