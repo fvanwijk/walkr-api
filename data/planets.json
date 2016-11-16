@@ -555,7 +555,7 @@
     "code": 62,
     "name": "Many Givings",
     "type": "Festival",
-    "gravity": "0.92G",
+    "gravity": "6.77G",
     "creature": "Jumper",
     "resource": "Chicken"
   },
@@ -810,5 +810,59 @@
     "gravity": "6.35G",
     "creature": "Masker",
     "resource": "Symbol"
+  },
+  {
+    "url": null,
+    "code": 91,
+    "name": "Baby Hedgehog",
+    "type": "Animal",
+    "gravity": "6.88G",
+    "creature": "Hedgehog",
+    "resource": "Poison String"
+  },
+  {
+    "url": null,
+    "code": 92,
+    "name": "Lantern City",
+    "type": "Unique",
+    "gravity": "8.13G",
+    "creature": "Vendor",
+    "resource": "Lantern"
+  },
+  {
+    "url": null,
+    "code": 93,
+    "name": "Golden Town",
+    "type": "Unique",
+    "gravity": "2.34G",
+    "creature": "Cowboy",
+    "resource": "Start Badge"
+  },
+  {
+    "url": null,
+    "code": 94,
+    "name": "The Great Wall",
+    "type": "Special",
+    "gravity": "5.79G",
+    "creature": "Hun",
+    "resource": "Brick"
+  },
+  {
+    "url": null,
+    "code": 95,
+    "name": "Sakura Temple",
+    "type": "Unique",
+    "gravity": null,
+    "creature": "Fairy Fox",
+    "resource": "Sakura"
+  },
+  {
+    "url": null,
+    "code": 96,
+    "name": "Ocean City",
+    "type": "Element",
+    "gravity": "3.41G",
+    "creature": "Olive Treant",
+    "resource": "Olive"
   }
 ]
