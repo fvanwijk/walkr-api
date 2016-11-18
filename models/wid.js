@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
-const Planet = require('./planet');
+const Discovery = require('./discovery');
 
 var WIDSchema = new Schema({
   url: String,
@@ -8,7 +8,7 @@ var WIDSchema = new Schema({
   name: String,
   title: String,
   level: Number,
-  planets: [Planet.schema]
+  planets: [Discovery.schema]
 });
 
 var wid = mongoose.model('WID', WIDSchema);

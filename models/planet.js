@@ -10,14 +10,7 @@ var PlanetSchema = new Schema({
   gravity: String,
   creature: String,
   creature_description: String,
-  resource: String,
-  level: Number,
-  discovery_date: Date,
-  base_price: { name: String, quantity: Number },
-  next_upgrade_price: { name: String, quantity: Number },
-  requirements: { name: String, quantity: Number },
-  resource_value: { name: String, quantity: Number },
-  completion_time: Number // minutes
+  resource: String
 });
 
 var planet = mongoose.model('Planet', PlanetSchema);
