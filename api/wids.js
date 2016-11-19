@@ -1,5 +1,6 @@
 var router = require('../router');
 var WID = require('../models/wid').model;
+var Discovery = require('../models/discovery').model;
 var CommonApi = require('./common-api');
 var url = require('./url');
 
@@ -10,7 +11,7 @@ module.exports = function (router) {
     .delete(CommonApi.deleteAll(WID));
 
   router.route('/wids/:id')
-    .get(CommonApi.get(WID, { 'planets._id': false }))
+    .get(CommonApi.get(WID, CommonApi.projectionMapper(Object.keys(Discovery.schema.tree), ['url', 'wid', 'planet'], 'planets')))
     .post(CommonApi.post(WID))
     .put(CommonApi.put(WID))
     .delete(CommonApi.delete(WID));
@@ -20,6 +21,7 @@ module.exports = function (router) {
       const discoveryUrl = url.create('wids', req.params.id, 'planets', req.params.planetid);
       WID.findOne(
         { 'planets.url': discoveryUrl },
+        { 'planets._id': false, 'planets.__v': false },
         function (err, item) {
           CommonApi.catchWrapper(err, item, res, function (res, item) {
             res.json(item.planets.find(discovery => { return discovery.url === discoveryUrl }));

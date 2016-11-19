@@ -8,15 +8,8 @@ module.exports = function (router) {
     .post(CommonApi.postAll(Ship, 'ships.json'))
     .delete(CommonApi.deleteAll(Ship));
 
-  const excludeVariantFields = Object.keys(Ship.schema.tree.variants[0]).concat('_id').reduce((acc, field) => {
-    if (['id', 'paint', 'url'].indexOf(field) === -1) {
-      acc['variants.' + field] = false;
-    }
-    return acc;
-  }, {});
-
   router.route('/ships/:id')
-    .get(CommonApi.get(Ship, excludeVariantFields))
+    .get(CommonApi.get(Ship, CommonApi.projectionMapper(Object.keys(Ship.schema.tree.variants[0]), ['id', 'paint', 'url'], 'variants')))
     .post(CommonApi.post(Ship))
     .put(CommonApi.put(Ship))
     .delete(CommonApi.delete(Ship));

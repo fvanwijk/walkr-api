@@ -17,6 +17,14 @@ module.exports = {
       res.sendStatus(404);
     }
   },
+  projectionMapper: function (schemaKeys, excludeKeys, collectionKey) {
+    return schemaKeys.concat('_id', '__v').reduce((acc, field) => {
+      if (excludeKeys.indexOf(field) === -1) {
+        acc[collectionKey + '.' + field] = false;
+      }
+      return acc;
+    }, {});
+  },
   getAll: function (Model) {
     const commonApi = this;
     const successCb = function (res, items) {
@@ -67,7 +75,7 @@ module.exports = {
   get: function (Model, projection) {
     const commonApi = this;
     return function (req, res) {
-      projection = Object.assign({ '_id': false }, projection || {});
+      projection = Object.assign({ '_id': false, '__v': false }, projection || {});
       Model.findOne(
         { [Model.identifierField]: req.params.id },
         projection,
