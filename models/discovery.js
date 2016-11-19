@@ -7,6 +7,7 @@ var DiscoverySchema = new Schema({
   planet: String,
   level: Number,
   discovery_date: Date,
+  distance: Number,
   base_price: { name: String, quantity: Number },
   next_upgrade_price: { name: String, quantity: Number },
   requirements: { name: String, quantity: Number },
