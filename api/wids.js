@@ -33,5 +33,18 @@ module.exports = function (router) {
           });
         }
       );
-    })
+    });
+
+  router.route('/wids/:id/dfrs/:dfrid')
+    .get(function (req, res) {
+      WID.findOne(
+        { 'dfrs.id': req.params.dfrid },
+        { 'dfrs._id': false, 'dfrs.__v': false },
+        function (err, item) {
+          CommonApi.catchWrapper(err, item, res, function (res, item) {
+            res.json(item.dfrs.find(discovery => { return discovery.id == req.params.dfrid }));
+          });
+        }
+      );
+    });
 };

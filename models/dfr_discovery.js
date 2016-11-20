@@ -2,6 +2,7 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var DFRDiscoverySchema = new Schema({
+  id: Number,
   url: String,
   wid: String,
   dfr: String,
