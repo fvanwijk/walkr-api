@@ -598,6 +598,228 @@
         "discovery_date": "2016-04-02T22:00:00.000Z",
         "level": 7
       }
+    ],
+    "dfrs": [
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/D",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/D",
+        "distance": 3122,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/C",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/C",
+        "distance": 4882,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/E",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/E",
+        "distance": 7972,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/D",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/D",
+        "distance": 10293,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/B",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/B",
+        "distance": 12151,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/A",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/A",
+        "distance": 13033,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/B",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/B",
+        "distance": 14922,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/A",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/A",
+        "distance": 1693,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/D",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/D",
+        "distance": 19437,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/C",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/C",
+        "distance": 21742,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/D",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/D",
+        "distance": 23367,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/B",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/B",
+        "distance": 25058,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/D",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/D",
+        "distance": 27228,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/F",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/F",
+        "distance": 28741,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/A",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/A",
+        "distance": 30897,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/D",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/D",
+        "distance": 30897,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/D",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/D",
+        "distance": 30897,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/D",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/D",
+        "distance": 30897,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/E",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/E",
+        "distance": 30897,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/A",
+        "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+        "dfr": "http://localhost:1337/api/dfrs/A",
+        "distance": 727,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
+      }
     ]
   }
 ]
