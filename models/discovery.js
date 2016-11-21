@@ -12,7 +12,7 @@ var DiscoverySchema = new Schema({
   next_upgrade_price: { name: String, quantity: Number },
   requirements: { name: String, quantity: Number }, // Food to start new harvest round
   resource_value: { name: String, quantity: Number }, // Total resources
-  completion_time: Number // minutes
+  completion_time: Number // seconds
 });
 
 var discovery = mongoose.model('Discovery', DiscoverySchema);

@@ -72,6 +72,7 @@ module.exports = function (router) {
               name: 'food',
               quantity: Math.round(351 * Math.pow(1.25, discovery.level - 1))
             };
+            discovery.completion_time = discovery.resource_value.quantity * 6;
             discovery.next_upgrade_price = CommonApi.getUpgradePrice(discovery.base_price.quantity, discovery.level);
             res.json(discovery);
           });
