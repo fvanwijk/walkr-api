@@ -66,7 +66,7 @@
         "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/30",
         "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
         "planet": "http://localhost:1337/api/planets/30",
-        "distance": 407,
+        "distance": 4070,
         "discovery_date": "2016-04-04T22:00:00.000Z",
         "level": 7
       },
@@ -338,7 +338,7 @@
         "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/69",
         "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
         "planet": "http://localhost:1337/api/planets/69",
-        "distance": 2254,
+        "distance": 22540,
         "discovery_date": "2016-06-07T22:00:00.000Z",
         "level": 4
       },
@@ -346,7 +346,7 @@
         "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/87",
         "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
         "planet": "http://localhost:1337/api/planets/87",
-        "distance": 2295,
+        "distance": 22950,
         "discovery_date": "2016-06-10T22:00:00.000Z",
         "level": 4
       },
@@ -354,7 +354,7 @@
         "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/68",
         "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
         "planet": "http://localhost:1337/api/planets/68",
-        "distance": 2378,
+        "distance": 23780,
         "discovery_date": "2016-06-15T22:00:00.000Z",
         "level": 4
       },
@@ -370,7 +370,7 @@
         "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/45",
         "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
         "planet": "http://localhost:1337/api/planets/45",
-        "distance": 2474,
+        "distance": 24740,
         "discovery_date": "2016-06-24T22:00:00.000Z",
         "level": 4
       },
@@ -442,7 +442,7 @@
         "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/59",
         "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
         "planet": "http://localhost:1337/api/planets/59",
-        "distance": 2969,
+        "distance": 29690,
         "discovery_date": "2016-07-31T22:00:00.000Z",
         "level": 3
       },
@@ -466,7 +466,7 @@
         "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/85",
         "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
         "planet": "http://localhost:1337/api/planets/85",
-        "distance": 3131,
+        "distance": 31310,
         "discovery_date": "2016-08-14T22:00:00.000Z",
         "level": 3
       },
@@ -586,7 +586,7 @@
         "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/78",
         "wid": "http://localhost:1337/api/wids/y1mGy1QTqtD",
         "planet": "http://localhost:1337/api/planets/78",
-        "distance": 39,
+        "distance": 39000,
         "discovery_date": "2016-11-11T23:00:00.000Z",
         "level": 1
       },
