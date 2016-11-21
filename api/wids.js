@@ -41,6 +41,10 @@ module.exports = function (router) {
               name: 'coins',
               quantity: 300 * Math.pow(discovery.index, 2) - 150 * discovery.index
             };
+            discovery.next_upgrade_price = {
+              name: 'coins',
+              quantity: discovery.base_price.quantity * Math.pow(2, discovery.level - 1)
+            };
 
             res.json(discovery);
           });
