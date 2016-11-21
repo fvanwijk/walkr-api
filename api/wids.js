@@ -29,7 +29,20 @@ module.exports = function (router) {
         { 'planets._id': false, 'planets.__v': false },
         function (err, item) {
           CommonApi.catchWrapper(err, item, res, function (res, item) {
-            res.json(item.planets.find(discovery => { return discovery.url === discoveryUrl }));
+
+            item.planets.sort((a, b) => a.distance < b.distance ? -1 : 1);
+
+            const discovery = item.planets.find((discovery, i) => {
+              discovery.index = i;
+              return discovery.url === discoveryUrl
+            });
+
+            discovery.base_price = {
+              name: 'coins',
+              quantity: 300 * Math.pow(discovery.index, 2) - 150 * discovery.index
+            };
+
+            res.json(discovery);
           });
         }
       );
