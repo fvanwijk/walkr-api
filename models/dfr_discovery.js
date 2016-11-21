@@ -10,7 +10,7 @@ var DFRDiscoverySchema = new Schema({
   distance: Number,
   base_price: { name: String, quantity: Number },
   next_upgrade_price: { name: String, quantity: Number },
-  resource_value: { name: String, quantity: Number },
+  resource_value: { name: String, quantity: Number }, // Total food
   completion_time: Number // minutes
 });
 

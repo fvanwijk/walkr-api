@@ -10,8 +10,8 @@ var DiscoverySchema = new Schema({
   distance: Number,
   base_price: { name: String, quantity: Number },
   next_upgrade_price: { name: String, quantity: Number },
-  requirements: { name: String, quantity: Number },
-  resource_value: { name: String, quantity: Number },
+  requirements: { name: String, quantity: Number }, // Food to start new harvest round
+  resource_value: { name: String, quantity: Number }, // Total resources
   completion_time: Number // minutes
 });
 
