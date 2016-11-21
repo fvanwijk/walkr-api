@@ -1,5 +1,6 @@
 var router = require('../router');
 var WID = require('../models/wid').model;
+var Planet = require('../models/planet').model;
 var Discovery = require('../models/discovery').model;
 var DFRDiscovery = require('../models/dfr_discovery').model;
 var CommonApi = require('./common-api');
@@ -46,8 +47,14 @@ module.exports = function (router) {
               name: 'food',
               quantity: 100 + 20 * discovery.index
             };
+            Planet.findOne({ code: req.params.planetid }, function (err, planet) {
+              discovery.resource_value = {
+                name: planet.resource,
+                quantity: Math.round(discovery.requirements.quantity * 6 * Math.pow(1.1, discovery.level - 1))
+              };
 
-            res.json(discovery);
+              res.json(discovery);
+            });
           });
         }
       );
