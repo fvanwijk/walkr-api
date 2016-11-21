@@ -59,7 +59,12 @@ module.exports = function (router) {
         { 'dfrs._id': false, 'dfrs.__v': false },
         function (err, item) {
           CommonApi.catchWrapper(err, item, res, function (res, item) {
-            res.json(item.dfrs.find(discovery => { return discovery.id == req.params.dfrid }));
+            const discovery = item.dfrs.find(discovery => { return discovery.id == req.params.dfrid });
+            discovery.resource_value = {
+              name: 'food',
+              quantity: Math.round(351 * Math.pow(1.25, discovery.level - 1))
+            };
+            res.json(discovery);
           });
         }
       );
