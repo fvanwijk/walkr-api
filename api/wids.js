@@ -42,6 +42,10 @@ module.exports = function (router) {
               quantity: 300 * Math.pow(discovery.index, 2) - 150 * discovery.index
             };
             discovery.next_upgrade_price = CommonApi.getUpgradePrice(discovery.base_price.quantity, discovery.level);
+            discovery.requirements = {
+              name: 'food',
+              quantity: 100 + 20 * discovery.index
+            };
 
             res.json(discovery);
           });
