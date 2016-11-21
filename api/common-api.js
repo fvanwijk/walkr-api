@@ -25,6 +25,12 @@ module.exports = {
       return acc;
     }, {});
   },
+  getUpgradePrice(basePrice, level) {
+    return {
+      name: 'coins',
+      quantity: basePrice * Math.pow(2, level - 1)
+    };
+  },
   getAll: function (Model) {
     const commonApi = this;
     const successCb = function (res, items) {

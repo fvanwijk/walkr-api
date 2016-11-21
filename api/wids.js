@@ -41,10 +41,7 @@ module.exports = function (router) {
               name: 'coins',
               quantity: 300 * Math.pow(discovery.index, 2) - 150 * discovery.index
             };
-            discovery.next_upgrade_price = {
-              name: 'coins',
-              quantity: discovery.base_price.quantity * Math.pow(2, discovery.level - 1)
-            };
+            discovery.next_upgrade_price = CommonApi.getUpgradePrice(discovery.base_price.quantity, discovery.level);
 
             res.json(discovery);
           });
@@ -64,6 +61,7 @@ module.exports = function (router) {
               name: 'food',
               quantity: Math.round(351 * Math.pow(1.25, discovery.level - 1))
             };
+            discovery.next_upgrade_price = CommonApi.getUpgradePrice(discovery.base_price.quantity, discovery.level);
             res.json(discovery);
           });
         }
