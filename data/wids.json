@@ -840,6 +840,364 @@
           "quantity": 2000
         }
       }
+    ],
+    "missions": [
+      {
+        "name": "Chinese Garden",
+        "url": "http://localhost:1337/api/missions/1"
+      },
+      {
+        "name": "Pineapple Milk",
+        "url": "http://localhost:1337/api/missions/6"
+      },
+      {
+        "name": "Poached Egg",
+        "url": "http://localhost:1337/api/missions/7"
+      },
+      {
+        "name": "Hami Jelly",
+        "url": "http://localhost:1337/api/missions/8"
+      },
+      {
+        "name": "Flying Fish",
+        "url": "http://localhost:1337/api/missions/9"
+      },
+      {
+        "name": "Hami Candy",
+        "url": "http://localhost:1337/api/missions/10"
+      },
+      {
+        "name": "Red Dye",
+        "url": "http://localhost:1337/api/missions/12"
+      },
+      {
+        "name": "Fruit with Leaf",
+        "url": "http://localhost:1337/api/missions/13"
+      },
+      {
+        "name": "Bookcase",
+        "url": "http://localhost:1337/api/missions/15"
+      },
+      {
+        "name": "Botanical Garden",
+        "url": "http://localhost:1337/api/missions/18"
+      },
+      {
+        "name": "Colorful Leaf",
+        "url": "http://localhost:1337/api/missions/19"
+      },
+      {
+        "name": "Afternoon Tea",
+        "url": "http://localhost:1337/api/missions/21"
+      },
+      {
+        "name": "Sweaters",
+        "url": "http://localhost:1337/api/missions/23"
+      },
+      {
+        "name": "Toxic Weapon",
+        "url": "http://localhost:1337/api/missions/24"
+      },
+      {
+        "name": "Davenport",
+        "url": "http://localhost:1337/api/missions/25"
+      },
+      {
+        "name": "Weather Forecast",
+        "url": "http://localhost:1337/api/missions/27"
+      },
+      {
+        "name": "Snowflake Ice",
+        "url": "http://localhost:1337/api/missions/29"
+      },
+      {
+        "name": "Diving Tank",
+        "url": "http://localhost:1337/api/missions/30"
+      },
+      {
+        "name": "Watermelon Slush",
+        "url": "http://localhost:1337/api/missions/31"
+      },
+      {
+        "name": "Hot Cocoa",
+        "url": "http://localhost:1337/api/missions/36"
+      },
+      {
+        "name": "BBQ",
+        "url": "http://localhost:1337/api/missions/37"
+      },
+      {
+        "name": "Kite",
+        "url": "http://localhost:1337/api/missions/39"
+      },
+      {
+        "name": "Gas Burner",
+        "url": "http://localhost:1337/api/missions/40"
+      },
+      {
+        "name": "Alien Salad",
+        "url": "http://localhost:1337/api/missions/42"
+      },
+      {
+        "name": "Sukiyaki",
+        "url": "http://localhost:1337/api/missions/45"
+      },
+      {
+        "name": "Energy Drink",
+        "url": "http://localhost:1337/api/missions/46"
+      },
+      {
+        "name": "Petroleum",
+        "url": "http://localhost:1337/api/missions/47"
+      },
+      {
+        "name": "Takoyaki",
+        "url": "http://localhost:1337/api/missions/48"
+      },
+      {
+        "name": "Suit",
+        "url": "http://localhost:1337/api/missions/49"
+      },
+      {
+        "name": "Potato Chips",
+        "url": "http://localhost:1337/api/missions/50"
+      },
+      {
+        "name": "Soul of Brave",
+        "url": "http://localhost:1337/api/missions/51"
+      },
+      {
+        "name": "Cinema Set",
+        "url": "http://localhost:1337/api/missions/52"
+      },
+      {
+        "name": "Invisible Jelly",
+        "url": "http://localhost:1337/api/missions/54"
+      },
+      {
+        "name": "Oxygen Canister",
+        "url": "http://localhost:1337/api/missions/55"
+      },
+      {
+        "name": "Fragrant Hairball",
+        "url": "http://localhost:1337/api/missions/57"
+      },
+      {
+        "name": "Xmas Decor",
+        "url": "http://localhost:1337/api/missions/58"
+      },
+      {
+        "name": "The Great Cactus",
+        "url": "http://localhost:1337/api/missions/60"
+      },
+      {
+        "name": "Mini Dino",
+        "url": "http://localhost:1337/api/missions/63"
+      },
+      {
+        "name": "Victory",
+        "url": "http://localhost:1337/api/missions/65"
+      },
+      {
+        "name": "Pot O' Choc",
+        "url": "http://localhost:1337/api/missions/66"
+      },
+      {
+        "name": "Picking Lotus",
+        "url": "http://localhost:1337/api/missions/68"
+      },
+      {
+        "name": "French Fries",
+        "url": "http://localhost:1337/api/missions/69"
+      },
+      {
+        "name": "Greatcoat",
+        "url": "http://localhost:1337/api/missions/70"
+      },
+      {
+        "name": "Exorcism",
+        "url": "http://localhost:1337/api/missions/72"
+      },
+      {
+        "name": "Watermelon Juice",
+        "url": "http://localhost:1337/api/missions/74"
+      },
+      {
+        "name": "Crispy Pork",
+        "url": "http://localhost:1337/api/missions/75"
+      },
+      {
+        "name": "Pineapple Pork",
+        "url": "http://localhost:1337/api/missions/76"
+      },
+      {
+        "name": "Apple Juice",
+        "url": "http://localhost:1337/api/missions/77"
+      },
+      {
+        "name": "Bell Pepper Jelly",
+        "url": "http://localhost:1337/api/missions/81"
+      },
+      {
+        "name": "Watermelon Drop",
+        "url": "http://localhost:1337/api/missions/82"
+      },
+      {
+        "name": "Fishbone Salad",
+        "url": "http://localhost:1337/api/missions/83"
+      },
+      {
+        "name": "Venus Flytrap",
+        "url": "http://localhost:1337/api/missions/84"
+      },
+      {
+        "name": "Purple Button",
+        "url": "http://localhost:1337/api/missions/88"
+      },
+      {
+        "name": "Hawaiian Salad",
+        "url": "http://localhost:1337/api/missions/89"
+      },
+      {
+        "name": "Rune Copper",
+        "url": "http://localhost:1337/api/missions/90"
+      },
+      {
+        "name": "Color Bubble",
+        "url": "http://localhost:1337/api/missions/93"
+      },
+      {
+        "name": "Ancient Ceremony",
+        "url": "http://localhost:1337/api/missions/94"
+      },
+      {
+        "name": "Coral Earrings",
+        "url": "http://localhost:1337/api/missions/98"
+      },
+      {
+        "name": "Hot Sauce",
+        "url": "http://localhost:1337/api/missions/101"
+      },
+      {
+        "name": "Strawberry Slush",
+        "url": "http://localhost:1337/api/missions/102"
+      },
+      {
+        "name": "Valentine Sundae",
+        "url": "http://localhost:1337/api/missions/103"
+      },
+      {
+        "name": "Jurassic Park",
+        "url": "http://localhost:1337/api/missions/105"
+      },
+      {
+        "name": "Torch",
+        "url": "http://localhost:1337/api/missions/106"
+      },
+      {
+        "name": "Aquarium",
+        "url": "http://localhost:1337/api/missions/107"
+      },
+      {
+        "name": "Sausage",
+        "url": "http://localhost:1337/api/missions/109"
+      },
+      {
+        "name": "Quilt",
+        "url": "http://localhost:1337/api/missions/111"
+      },
+      {
+        "name": "Bonsai",
+        "url": "http://localhost:1337/api/missions/112"
+      },
+      {
+        "name": "Invisible Fishbone",
+        "url": "http://localhost:1337/api/missions/113"
+      },
+      {
+        "name": "Shining Chick",
+        "url": "http://localhost:1337/api/missions/122"
+      },
+      {
+        "name": "T-Shirt",
+        "url": "http://localhost:1337/api/missions/123"
+      },
+      {
+        "name": "Honey Pudding",
+        "url": "http://localhost:1337/api/missions/125"
+      },
+      {
+        "name": "Finished Seafood",
+        "url": "http://localhost:1337/api/missions/126"
+      },
+      {
+        "name": "Honey Jelly",
+        "url": "http://localhost:1337/api/missions/129"
+      },
+      {
+        "name": "Beer",
+        "url": "http://localhost:1337/api/missions/131"
+      },
+      {
+        "name": "Dispersive Prism",
+        "url": "http://localhost:1337/api/missions/132"
+      },
+      {
+        "name": "Honey Bread",
+        "url": "http://localhost:1337/api/missions/133"
+      },
+      {
+        "name": "Cactus Sundae",
+        "url": "http://localhost:1337/api/missions/135"
+      },
+      {
+        "name": "Love Love",
+        "url": "http://localhost:1337/api/missions/138"
+      },
+      {
+        "name": "Seafood Salad",
+        "url": "http://localhost:1337/api/missions/139"
+      },
+      {
+        "name": "Poison Mushroom",
+        "url": "http://localhost:1337/api/missions/142"
+      },
+      {
+        "name": "Sugar Apple",
+        "url": "http://localhost:1337/api/missions/143"
+      },
+      {
+        "name": "Pop",
+        "url": "http://localhost:1337/api/missions/153"
+      },
+      {
+        "name": "Butter",
+        "url": "http://localhost:1337/api/missions/155"
+      },
+      {
+        "name": "Brekkie",
+        "url": "http://localhost:1337/api/missions/157"
+      },
+      {
+        "name": "Steak Set",
+        "url": "http://localhost:1337/api/missions/154"
+      },
+      {
+        "name": "Gift Basket",
+        "url": "http://localhost:1337/api/missions/147"
+      },
+      {
+        "name": "Chocolate Sunday",
+        "url": "http://localhost:1337/api/missions/150"
+      },
+      {
+        "name": "Fish and Chips",
+        "url": "http://localhost:1337/api/missions/151"
+      },
+      {
+        "name": "Submarine Relic",
+        "url": "http://localhost:1337/api/missions/152"
+      }
     ]
   }
 ]
