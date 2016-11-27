@@ -3,8 +3,8 @@ var Schema = mongoose.Schema;
 
 var DiscoverySchema = new Schema({
   url: String,
-  wid: String,
-  planet: String,
+  wid: { name: String, url: String },
+  planet: { name: String, url: String },
   level: Number,
   discovery_date: Date,
   distance: Number,

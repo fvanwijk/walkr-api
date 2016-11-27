@@ -4,8 +4,8 @@ var Schema = mongoose.Schema;
 var DFRDiscoverySchema = new Schema({
   id: Number,
   url: String,
-  wid: String,
-  dfr: String,
+  wid: { name: String, url: String },
+  dfr: { name: String, url: String },
   level: Number,
   distance: Number,
   base_price: { name: String, quantity: Number },
