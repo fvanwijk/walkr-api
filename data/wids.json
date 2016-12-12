@@ -21,6 +21,20 @@
         "level": null
       },
       {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/37",
+        "wid": {
+          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "name": "Frank van Wijk"
+        },
+        "planet": {
+          "name": "Colossal Pepper",
+          "url": "http://localhost:1337/api/planets/37"
+        },
+        "distance": 319,
+        "discovery_date": "2016-04-02T22:00:00.000Z",
+        "level": 7
+      },
+      {
         "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/33",
         "wid": {
           "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
@@ -1026,21 +1040,63 @@
         },
         "distance": 39000,
         "discovery_date": "2016-11-11T23:00:00.000Z",
-        "level": 1
+        "level": 2
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/37",
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/84",
         "wid": {
           "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
-          "name": "Colossal Pepper",
-          "url": "http://localhost:1337/api/planets/37"
+          "name": "Dreamland",
+          "url": "http://localhost:1337/api/planets/84"
         },
-        "distance": 319,
-        "discovery_date": "2016-04-02T22:00:00.000Z",
-        "level": 7
+        "distance": 39539,
+        "discovery_date": "2016-11-18T23:00:00.000Z",
+        "level": 2
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/24",
+        "wid": {
+          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "name": "Frank van Wijk"
+        },
+        "planet": {
+          "name": "Smokey Secret",
+          "url": "http://localhost:1337/api/planets/24"
+        },
+        "distance": 39737,
+        "discovery_date": "2016-11-25T23:00:00.000Z",
+        "level": 2
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/82",
+        "wid": {
+          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "name": "Frank van Wijk"
+        },
+        "planet": {
+          "name": "Star Portal",
+          "url": "http://localhost:1337/api/planets/82"
+        },
+        "distance": 40460,
+        "discovery_date": "2016-11-29T23:00:00.000Z",
+        "level": 2
+      },
+      {
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/63",
+        "wid": {
+          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "name": "Frank van Wijk"
+        },
+        "planet": {
+          "name": "Ring Forest",
+          "url": "http://localhost:1337/api/planets/63"
+        },
+        "distance": 40910,
+        "discovery_date": null,
+        "level": 1
       }
     ],
     "dfrs": [
@@ -1403,12 +1459,34 @@
           "name": "coins",
           "quantity": 2000
         }
+      },
+      {
+        "id": 21,
+        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/21",
+        "wid": {
+          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "name": "Frank van Wijk"
+        },
+        "dfr": {
+          "name": "Sonic Toaster",
+          "url": "http://localhost:1337/api/dfrs/E"
+        },
+        "distance": 40078,
+        "level": 8,
+        "base_price": {
+          "name": "coins",
+          "quantity": 2000
+        }
       }
     ],
     "missions": [
       {
         "name": "Chinese Garden",
         "url": "http://localhost:1337/api/missions/1"
+      },
+      {
+        "name": "Aerodynamics",
+        "url": "http://localhost:1337/api/missions/3"
       },
       {
         "name": "Pineapple Milk",
