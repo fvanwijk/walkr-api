@@ -3,10 +3,15 @@
     "url": null,
     "code": 1,
     "name": "Earth",
+    "image_url": "assets/planets/earth.png",
+    "description": "Earth is the most beautiful planet in the solar system. With 70% of its surface covered in oceans, it supports countless lifeforms.",
     "type": "Solar",
     "gravity": "1.00G",
     "creature": "Human",
-    "resource": "Garbage"
+    "creature_description": "Human ... You know.",
+    "creature_image_url": "assets/creatures/human.png",
+    "resource": "Garbage",
+    "resource_image_url": "assets/resources/garbage.png"
   },
   {
     "url": null,
@@ -27,9 +32,11 @@
     "code": 3,
     "name": "Honeycomb",
     "image_url": "assets/planets/honeycomb.png",
+    "description": "Filled with honey bees and honeycomb, this planet is home to worker bees who travel to distant floral planets to gather nectar before returning for a rest in their sweetly fragrant hive hideaways.",
     "type": "Animal",
     "gravity": "2.31G",
     "creature": "Honey Bee",
+    "creature_description": "The Honey Bee enjoys collecting nectar from flowers in full bloom. Normally, they are super friendly, but when angry they become extremely aggressive. Leave them alone if you know what's good for you!",
     "creature_image_url": "assets/creatures/honey-bee.png",
     "resource": "Honey",
     "resource_image_url": "assets/resources/honey.png"
