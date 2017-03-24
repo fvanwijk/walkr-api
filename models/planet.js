@@ -5,12 +5,15 @@ var PlanetSchema = new Schema({
   url: String,
   code: Number,
   name: String,
+  image_url: String,
   description: String,
   type: String,
   gravity: String,
   creature: String,
   creature_description: String,
-  resource: String
+  creature_image_url: String,
+  resource: String,
+  resource_image_url: String
 });
 
 var planet = mongoose.model('Planet', PlanetSchema);
