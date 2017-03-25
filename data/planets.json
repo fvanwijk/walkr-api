@@ -49,7 +49,9 @@
     "type": "Animal",
     "gravity": "3.14G",
     "creature": "Milk Poring",
-    "resource": "Milk"
+    "creature_image_url": "assets/creatures/cow.png",
+    "resource": "Milk",
+    "resource_image_url": "assets/resources/cow.png"
   },
   {
     "url": null,
@@ -59,7 +61,9 @@
     "type": "Element",
     "gravity": "0.12G",
     "creature": "Watery Tako",
-    "resource": "Water"
+    "creature_image_url": "assets/creatures/water.png",
+    "resource": "Water",
+    "resource_image_url": "assets/resources/water.png"
   },
   {
     "url": null,
@@ -69,7 +73,9 @@
     "type": "Plant",
     "gravity": "2.34G",
     "creature": "Green Slime",
-    "resource": "Spores"
+    "creature_image_url": "assets/creatures/fern.png",
+    "resource": "Spores",
+    "resource_image_url": "assets/resources/fern.png"
   },
   {
     "url": null,
@@ -79,7 +85,9 @@
     "type": "Element",
     "gravity": "9.41G",
     "creature": "Rock Beetle",
-    "resource": "Stones"
+    "creature_image_url": "assets/creatures/stone.png",
+    "resource": "Stones",
+    "resource_image_url": "assets/resources/stone.png"
   },
   {
     "url": null,
@@ -89,7 +97,9 @@
     "type": "Unique",
     "gravity": "2.31G",
     "creature": "Golden Andrew",
-    "resource": "Gears"
+    "creature_image_url": "assets/creatures/gear.png",
+    "resource": "Gears",
+    "resource_image_url": "assets/resources/gear.png"
   },
   {
     "url": null,
@@ -99,7 +109,9 @@
     "type": "Element",
     "gravity": "1.01G",
     "creature": "Snowman",
-    "resource": "Snow"
+    "creature_image_url": "assets/creatures/snow.png",
+    "resource": "Snow",
+    "resource_image_url": "assets/resources/snow.png"
   },
   {
     "url": null,
@@ -109,7 +121,9 @@
     "type": "Plant",
     "gravity": "2.00G",
     "creature": "Golden Poring",
-    "resource": "Oil"
+    "creature_image_url": "assets/creatures/olive.png",
+    "resource": "Oil",
+    "resource_image_url": "assets/resources/olive.png"
   },
   {
     "url": null,
@@ -119,7 +133,9 @@
     "type": "Unique",
     "gravity": "2.33G",
     "creature": "Little Helper",
-    "resource": "Aerolite"
+    "creature_image_url": "assets/creatures/star.png",
+    "resource": "Aerolite",
+    "resource_image_url": "assets/resources/star.png"
   },
   {
     "url": null,
@@ -129,7 +145,9 @@
     "type": "Element",
     "gravity": "5.31G",
     "creature": "Ice Slime",
-    "resource": "Ice"
+    "creature_image_url": "assets/creatures/iceberg.png",
+    "resource": "Ice",
+    "resource_image_url": "assets/resources/iceberg.png"
   },
   {
     "url": null,
@@ -139,7 +157,9 @@
     "type": "Animal",
     "gravity": "1.42G",
     "creature": "Chick-Chick",
-    "resource": "Eggs"
+    "creature_image_url": "assets/creatures/nest.png",
+    "resource": "Eggs",
+    "resource_image_url": "assets/resources/nest.png"
   },
   {
     "url": null,
@@ -149,7 +169,9 @@
     "type": "Cuisine",
     "gravity": "4.12G",
     "creature": "Jelly Slime",
-    "resource": "Jelly"
+    "creature_image_url": "assets/creatures/jelly.png",
+    "resource": "Jelly",
+    "resource_image_url": "assets/resources/jelly.png"
   },
   {
     "url": null,
@@ -159,7 +181,9 @@
     "type": "Element",
     "gravity": "0.23G",
     "creature": "Air Poring",
-    "resource": "Air"
+    "creature_image_url": "assets/creatures/bubble.png",
+    "resource": "Air",
+    "resource_image_url": "assets/resources/bubble.png"
   },
   {
     "url": null,
@@ -169,7 +193,9 @@
     "type": "Cuisine",
     "gravity": "4.56G",
     "creature": "Spiky Beetle",
-    "resource": "Pineapples"
+    "creature_image_url": "assets/creatures/pineapple.png",
+    "resource": "Pineapples",
+    "resource_image_url": "assets/resources/pineapple.png"
   },
   {
     "url": null,
@@ -179,7 +205,9 @@
     "type": "Cuisine",
     "gravity": "1.42G",
     "creature": "Princess Bee",
-    "resource": "Strawberries"
+    "creature_image_url": "assets/creatures/strawberry.png",
+    "resource": "Strawberries",
+    "resource_image_url": "assets/resources/strawberry.png"
   },
   {
     "url": null,
@@ -189,7 +217,9 @@
     "type": "Unique",
     "gravity": "9.13G",
     "creature": "Metal Andrew",
-    "resource": "Screws"
+    "creature_image_url": "assets/creatures/iron.png",
+    "resource": "Screws",
+    "resource_image_url": "assets/resources/iron.png"
   },
   {
     "url": null,
@@ -199,7 +229,9 @@
     "type": "Cuisine",
     "gravity": "1.66G",
     "creature": "Fruit Bee",
-    "resource": "Hami Melons"
+    "creature_image_url": "assets/creatures/hami.png",
+    "resource": "Hami Melons",
+    "resource_image_url": "assets/resources/hami.png"
   },
   {
     "url": null,
@@ -209,7 +241,9 @@
     "type": "Animal",
     "gravity": "1.21G",
     "creature": "Azure Fish",
-    "resource": "Coral"
+    "creature_image_url": "assets/creatures/coral.png",
+    "resource": "Coral",
+    "resource_image_url": "assets/resources/coral.png"
   },
   {
     "url": null,
@@ -219,7 +253,9 @@
     "type": "Element",
     "gravity": "5.31G",
     "creature": "Sandworm",
-    "resource": "Soil"
+    "creature_image_url": "assets/creatures/sand.png",
+    "resource": "Soil",
+    "resource_image_url": "assets/resources/sand.png"
   },
   {
     "url": null,
@@ -229,7 +265,9 @@
     "type": "Animal",
     "gravity": "4.10G",
     "creature": "Trident Hunter",
-    "resource": "Octopus"
+    "creature_image_url": "assets/creatures/octopus.png",
+    "resource": "Octopus",
+    "resource_image_url": "assets/resources/octopus.png"
   },
   {
     "url": null,
@@ -239,7 +277,9 @@
     "type": "Plant",
     "gravity": "9.13G",
     "creature": "Viscous Tako",
-    "resource": "Gas"
+    "creature_image_url": "assets/creatures/swamp.png",
+    "resource": "Gas",
+    "resource_image_url": "assets/resources/swamp.png"
   },
   {
     "url": null,
@@ -249,7 +289,9 @@
     "type": "Unique",
     "gravity": "1.32G",
     "creature": "Gassy Tako",
-    "resource": "Steam"
+    "creature_image_url": "assets/creatures/smoky.png",
+    "resource": "Steam",
+    "resource_image_url": "assets/resources/smoky.png"
   },
   {
     "url": null,
@@ -259,7 +301,9 @@
     "type": "Element",
     "gravity": "5.31G",
     "creature": "Fiery Tako",
-    "resource": "Fossils"
+    "creature_image_url": "assets/creatures/lava.png",
+    "resource": "Fossils",
+    "resource_image_url": "assets/resources/lava.png"
   },
   {
     "url": null,
@@ -269,7 +313,9 @@
     "type": "Plant",
     "gravity": "3.00G",
     "creature": "Noctiluca",
-    "resource": "Mushrooms"
+    "creature_image_url": "assets/creatures/mushroom.png",
+    "resource": "Mushrooms",
+    "resource_image_url": "assets/resources/mushroom.png"
   },
   {
     "url": null,
@@ -279,7 +325,9 @@
     "type": "Cuisine",
     "gravity": "5.68G",
     "creature": "Fat Slime",
-    "resource": "Sundaes"
+    "creature_image_url": "assets/creatures/banana.png",
+    "resource": "Sundaes",
+    "resource_image_url": "assets/resources/banana.png"
   },
   {
     "url": null,
@@ -289,7 +337,9 @@
     "type": "Animal",
     "gravity": "1.12G",
     "creature": "White Treant",
-    "resource": "Leather"
+    "creature_image_url": "assets/creatures/deer.png",
+    "resource": "Leather",
+    "resource_image_url": "assets/resources/deer.png"
   },
   {
     "url": null,
@@ -299,7 +349,9 @@
     "type": "Cuisine",
     "gravity": "2.41G",
     "creature": "Cane Tako",
-    "resource": "Candy"
+    "creature_image_url": "assets/creatures/candy.png",
+    "resource": "Candy",
+    "resource_image_url": "assets/resources/candy.png"
   },
   {
     "url": null,
@@ -309,7 +361,9 @@
     "type": "Plant",
     "gravity": "4.21G",
     "creature": "Tater Crab",
-    "resource": "Taters"
+    "creature_image_url": "assets/creatures/potato.png",
+    "resource": "Taters",
+    "resource_image_url": "assets/resources/potato.png"
   },
   {
     "url": null,
@@ -319,7 +373,9 @@
     "type": "Animal",
     "gravity": "3.56G",
     "creature": "Kitty Long",
-    "resource": "Cloth"
+    "creature_image_url": "assets/creatures/cat.png",
+    "resource": "Cloth",
+    "resource_image_url": "assets/resources/cat.png"
   },
   {
     "url": null,
@@ -329,7 +385,9 @@
     "type": "Unique",
     "gravity": "0.02G",
     "creature": "Radiant Beetle",
-    "resource": "Crystal"
+    "creature_image_url": "assets/creatures/crystal.png",
+    "resource": "Crystal",
+    "resource_image_url": "assets/resources/crystal.png"
   },
   {
     "url": null,
@@ -339,7 +397,9 @@
     "type": "Plant",
     "gravity": "7.13G",
     "creature": "Cactus Slime",
-    "resource": "Jus de Cact"
+    "creature_image_url": "assets/creatures/cactus.png",
+    "resource": "Jus de Cact",
+    "resource_image_url": "assets/resources/cactus.png"
   },
   {
     "url": null,
@@ -349,7 +409,9 @@
     "type": "Cuisine",
     "gravity": "4.33G",
     "creature": "Sugar Cuber",
-    "resource": "Sugar"
+    "creature_image_url": "assets/creatures/donut.png",
+    "resource": "Sugar",
+    "resource_image_url": "assets/resources/donut.png"
   },
   {
     "url": null,
@@ -359,7 +421,9 @@
     "type": "Plant",
     "gravity": "2.13G",
     "creature": "Color Bee",
-    "resource": "Flowers"
+    "creature_image_url": "assets/creatures/flower.png",
+    "resource": "Flowers",
+    "resource_image_url": "assets/resources/flower.png"
   },
   {
     "url": null,
@@ -369,7 +433,9 @@
     "type": "Unique",
     "gravity": "0.16G",
     "creature": "Shapeshifter",
-    "resource": "Virus"
+    "creature_image_url": "assets/creatures/virus.png",
+    "resource": "Virus",
+    "resource_image_url": "assets/resources/virus.png"
   },
   {
     "url": null,
@@ -379,7 +445,9 @@
     "type": "Plant",
     "gravity": "6.13G",
     "creature": "Pepper Crab",
-    "resource": "Bell Pepper"
+    "creature_image_url": "assets/creatures/pepper.png",
+    "resource": "Bell Pepper",
+    "resource_image_url": "assets/resources/pepper.png"
   },
   {
     "url": null,
@@ -389,7 +457,9 @@
     "type": "Unique",
     "gravity": "9.98G",
     "creature": "Zombie",
-    "resource": "Blood"
+    "creature_image_url": "assets/creatures/brain.png",
+    "resource": "Blood",
+    "resource_image_url": "assets/resources/brain.png"
   },
   {
     "url": null,
@@ -399,7 +469,9 @@
     "type": "Animal",
     "gravity": "5.13G",
     "creature": "Fire Beetle",
-    "resource": "Dye"
+    "creature_image_url": "assets/creatures/beetle.png",
+    "resource": "Dye",
+    "resource_image_url": "assets/resources/beetle.png"
   },
   {
     "url": null,
@@ -409,7 +481,9 @@
     "type": "Unique",
     "gravity": "6.11G",
     "creature": "Musical Andrew",
-    "resource": "Notes"
+    "creature_image_url": "assets/creatures/music.png",
+    "resource": "Notes",
+    "resource_image_url": "assets/resources/music.png"
   },
   {
     "url": null,
@@ -419,7 +493,9 @@
     "type": "Plant",
     "gravity": "2.13G",
     "creature": "Scarecrow",
-    "resource": "Wheat"
+    "creature_image_url": "assets/creatures/wheat.png",
+    "resource": "Wheat",
+    "resource_image_url": "assets/resources/wheat.png"
   },
   {
     "url": null,
@@ -429,7 +505,9 @@
     "type": "Plant",
     "gravity": "10.00G",
     "creature": "Farmer",
-    "resource": "Spices"
+    "creature_image_url": "assets/creatures/grass.png",
+    "resource": "Spices",
+    "resource_image_url": "assets/resources/grass.png"
   },
   {
     "url": null,
@@ -439,7 +517,9 @@
     "type": "Unique",
     "gravity": "4.85G",
     "creature": "Ebony Bat",
-    "resource": "Pumpkins"
+    "creature_image_url": "assets/creatures/witch.png",
+    "resource": "Pumpkins",
+    "resource_image_url": "assets/resources/witch.png"
   },
   {
     "url": null,
@@ -449,7 +529,9 @@
     "type": "Unique",
     "gravity": "2.52G",
     "creature": "Electric Andrew",
-    "resource": "Chips"
+    "creature_image_url": "assets/creatures/circuit.png",
+    "resource": "Chips",
+    "resource_image_url": "assets/resources/circuit.png"
   },
   {
     "url": null,
@@ -459,7 +541,9 @@
     "type": "Element",
     "gravity": "2.84G",
     "creature": "Golden Treant",
-    "resource": "Metal"
+    "creature_image_url": "assets/creatures/mine.png",
+    "resource": "Metal",
+    "resource_image_url": "assets/resources/mine.png"
   },
   {
     "url": null,
@@ -469,7 +553,9 @@
     "type": "Element",
     "gravity": "2.48G",
     "creature": "Fire Poring",
-    "resource": "Fire"
+    "creature_image_url": "assets/creatures/flame.png",
+    "resource": "Fire",
+    "resource_image_url": "assets/resources/flame.png"
   },
   {
     "url": null,
@@ -479,7 +565,9 @@
     "type": "Animal",
     "gravity": "2.22G",
     "creature": "Wild Boar",
-    "resource": "Meat"
+    "creature_image_url": "assets/creatures/pig.png",
+    "resource": "Meat",
+    "resource_image_url": "assets/resources/pig.png"
   },
   {
     "url": null,
@@ -489,7 +577,9 @@
     "type": "Animal",
     "gravity": "9.99G",
     "creature": "Shaggy Bat",
-    "resource": "Wool"
+    "creature_image_url": "assets/creatures/sheep.png",
+    "resource": "Wool",
+    "resource_image_url": "assets/resources/sheep.png"
   },
   {
     "url": null,
@@ -499,7 +589,9 @@
     "type": "Cuisine",
     "gravity": "10.29G",
     "creature": "Crabbermelons",
-    "resource": "Watermelons"
+    "creature_image_url": "assets/creatures/watermelon.png",
+    "resource": "Watermelons",
+    "resource_image_url": "assets/resources/watermelon.png"
   },
   {
     "url": null,
@@ -509,7 +601,9 @@
     "type": "Element",
     "gravity": "3.46G",
     "creature": "Forest Treant",
-    "resource": "Wood"
+    "creature_image_url": "assets/creatures/forest.png",
+    "resource": "Wood",
+    "resource_image_url": "assets/resources/forest.png"
   },
   {
     "url": null,
@@ -519,7 +613,9 @@
     "type": "Cuisine",
     "gravity": "8.11G",
     "creature": "Choco Crab",
-    "resource": "Chocolate"
+    "creature_image_url": "assets/creatures/chocolate.png",
+    "resource": "Chocolate",
+    "resource_image_url": "assets/resources/chocolate.png"
   },
   {
     "url": null,
@@ -529,7 +625,9 @@
     "type": "Festival",
     "gravity": "5.28G",
     "creature": "Chinese Doll",
-    "resource": "Ingot"
+    "creature_image_url": "assets/creatures/newyear.png",
+    "resource": "Ingot",
+    "resource_image_url": "assets/resources/newyear.png"
   },
   {
     "url": null,
@@ -539,7 +637,9 @@
     "type": "Festival",
     "gravity": "9.99G",
     "creature": "Pair Beetle",
-    "resource": "Diamond"
+    "creature_image_url": "assets/creatures/valentine.png",
+    "resource": "Diamond",
+    "resource_image_url": "assets/resources/valentine.png"
   },
   {
     "url": null,
@@ -549,7 +649,9 @@
     "type": "Festival",
     "gravity": "6.13G",
     "creature": "Nutcracker",
-    "resource": "Toy"
+    "creature_image_url": "assets/creatures/childfes.png",
+    "resource": "Toy",
+    "resource_image_url": "assets/resources/childfes.png"
   },
   {
     "url": null,
@@ -559,7 +661,9 @@
     "type": "Festival",
     "gravity": "2.12G",
     "creature": "Bunny",
-    "resource": "Color"
+    "creature_image_url": "assets/creatures/easter.png",
+    "resource": "Color",
+    "resource_image_url": "assets/resources/easter.png"
   },
   {
     "url": null,
@@ -569,7 +673,9 @@
     "type": "Festival",
     "gravity": "9.99G",
     "creature": "Mom Andrew",
-    "resource": "Love"
+    "creature_image_url": "assets/creatures/mother.png",
+    "resource": "Love",
+    "resource_image_url": "assets/resources/mother.png"
   },
   {
     "url": null,
@@ -579,7 +685,9 @@
     "type": "Festival",
     "gravity": "1.50G",
     "creature": "Poet",
-    "resource": "Leaf"
+    "creature_image_url": "assets/creatures/dragonboat.png",
+    "resource": "Leaf",
+    "resource_image_url": "assets/resources/dragonboat.png"
   },
   {
     "url": null,
@@ -589,7 +697,9 @@
     "type": "Festival",
     "gravity": "0.01G",
     "creature": "Jiangshi",
-    "resource": "Spirit"
+    "creature_image_url": "assets/creatures/ghostfes.png",
+    "resource": "Spirit",
+    "resource_image_url": "assets/resources/ghostfes.png"
   },
   {
     "url": null,
@@ -599,7 +709,9 @@
     "type": "Festival",
     "gravity": "8.12G",
     "creature": "Dad Andrew",
-    "resource": "Button"
+    "creature_image_url": "assets/creatures/father.png",
+    "resource": "Button",
+    "resource_image_url": "assets/resources/father.png"
   },
   {
     "url": null,
@@ -609,7 +721,9 @@
     "type": "Festival",
     "gravity": "6.12G",
     "creature": "Rabbit",
-    "resource": "Light"
+    "creature_image_url": "assets/creatures/moonfes.png",
+    "resource": "Light",
+    "resource_image_url": "assets/resources/moonfes.png"
   },
   {
     "url": null,
@@ -619,7 +733,9 @@
     "type": "Festival",
     "gravity": "1.24G",
     "creature": "Little Ghost",
-    "resource": "Screaming"
+    "creature_image_url": "assets/creatures/hallowoon.png",
+    "resource": "Screaming",
+    "resource_image_url": "assets/resources/hallowoon.png"
   },
   {
     "url": null,
@@ -629,7 +745,9 @@
     "type": "Festival",
     "gravity": "6.77G",
     "creature": "Jumper",
-    "resource": "Chicken"
+    "creature_image_url": "assets/creatures/thanksgiving.png",
+    "resource": "Chicken",
+    "resource_image_url": "assets/resources/thanksgiving.png"
   },
   {
     "url": null,
@@ -639,7 +757,9 @@
     "type": "Festival",
     "gravity": "6.33G",
     "creature": "Santa Claus",
-    "resource": "Jingle"
+    "creature_image_url": "assets/creatures/christmas.png",
+    "resource": "Jingle",
+    "resource_image_url": "assets/resources/christmas.png"
   },
   {
     "url": null,
@@ -649,7 +769,9 @@
     "type": "Animal",
     "gravity": "3.56G",
     "creature": "Goldfish",
-    "resource": "Fishbone"
+    "creature_image_url": "assets/creatures/fishpot.png",
+    "resource": "Fishbone",
+    "resource_image_url": "assets/resources/fishpot.png"
   },
   {
     "url": null,
@@ -659,7 +781,9 @@
     "type": "Unique",
     "gravity": "1.99G",
     "creature": "Wisp",
-    "resource": "Conscious"
+    "creature_image_url": "assets/creatures/artifact.png",
+    "resource": "Conscious",
+    "resource_image_url": "assets/resources/artifact.png"
   },
   {
     "url": null,
@@ -669,7 +793,9 @@
     "type": "Element",
     "gravity": "0.14G",
     "creature": "Bulbee",
-    "resource": "Idea"
+    "creature_image_url": "assets/creatures/bulb.png",
+    "resource": "Idea",
+    "resource_image_url": "assets/resources/bulb.png"
   },
   {
     "url": null,
@@ -679,7 +805,9 @@
     "type": "Unique",
     "gravity": "9.88G",
     "creature": "Soccer Ref",
-    "resource": "Passion"
+    "creature_image_url": "assets/creatures/soccer.png",
+    "resource": "Passion",
+    "resource_image_url": "assets/resources/soccer.png"
   },
   {
     "url": null,
@@ -689,7 +817,9 @@
     "type": "Element",
     "gravity": "0.00G",
     "creature": "Invisible Poring",
-    "resource": "Invisibility"
+    "creature_image_url": "assets/creatures/invisible.png",
+    "resource": "Invisibility",
+    "resource_image_url": "assets/resources/invisible.png"
   },
   {
     "url": null,
@@ -699,7 +829,9 @@
     "type": "Cuisine",
     "gravity": "9.99G",
     "creature": "Fatty",
-    "resource": "Fries"
+    "creature_image_url": "assets/creatures/burger.png",
+    "resource": "Fries",
+    "resource_image_url": "assets/resources/burger.png"
   },
   {
     "url": null,
@@ -709,7 +841,9 @@
     "type": "Cuisine",
     "gravity": "8.13G",
     "creature": "Butterling",
-    "resource": "Popcorn"
+    "creature_image_url": "assets/creatures/popcorn.png",
+    "resource": "Popcorn",
+    "resource_image_url": "assets/resources/popcorn.png"
   },
   {
     "url": null,
@@ -719,7 +853,9 @@
     "type": "Element",
     "gravity": "1.23G",
     "creature": "Frisbee",
-    "resource": "Tooth"
+    "creature_image_url": "assets/creatures/bone.png",
+    "resource": "Tooth",
+    "resource_image_url": "assets/resources/bone.png"
   },
   {
     "url": null,
@@ -729,7 +865,9 @@
     "type": "Element",
     "gravity": "0.01G",
     "creature": "Gray Bat",
-    "resource": "Cloud"
+    "creature_image_url": "assets/creatures/cloud.png",
+    "resource": "Cloud",
+    "resource_image_url": "assets/resources/cloud.png"
   },
   {
     "url": null,
@@ -739,7 +877,9 @@
     "type": "Unique",
     "gravity": "5.33G",
     "creature": "Racing Andrew",
-    "resource": "Hurray"
+    "creature_image_url": "assets/creatures/racing.png",
+    "resource": "Hurray",
+    "resource_image_url": "assets/resources/racing.png"
   },
   {
     "url": null,
@@ -749,7 +889,9 @@
     "type": "Unique",
     "gravity": "8.13G",
     "creature": "Roman",
-    "resource": "Soul"
+    "creature_image_url": "assets/creatures/roman.png",
+    "resource": "Soul",
+    "resource_image_url": "assets/resources/roman.png"
   },
   {
     "url": null,
@@ -759,7 +901,9 @@
     "type": "Plant",
     "gravity": "7.12G",
     "creature": "Colossus",
-    "resource": "Rune"
+    "creature_image_url": "assets/creatures/ruins.png",
+    "resource": "Rune",
+    "resource_image_url": "assets/resources/ruins.png"
   },
   {
     "url": null,
@@ -769,7 +913,9 @@
     "type": "Plant",
     "gravity": "9.33G",
     "creature": "Viking Beetle",
-    "resource": "Copper"
+    "creature_image_url": "assets/creatures/viking.png",
+    "resource": "Copper",
+    "resource_image_url": "assets/resources/viking.png"
   },
   {
     "url": null,
@@ -779,7 +925,9 @@
     "type": "Animal",
     "gravity": "4.12G",
     "creature": "Tiny Dino",
-    "resource": "Plate"
+    "creature_image_url": "assets/creatures/stoneage.png",
+    "resource": "Plate",
+    "resource_image_url": "assets/resources/stoneage.png"
   },
   {
     "url": null,
@@ -789,7 +937,9 @@
     "type": "Animal",
     "gravity": "9.99G",
     "creature": "Tiny Knight",
-    "resource": "Dragonclaw"
+    "creature_image_url": "assets/creatures/dragon.png",
+    "resource": "Dragonclaw",
+    "resource_image_url": "assets/resources/dragon.png"
   },
   {
     "url": null,
@@ -799,7 +949,9 @@
     "type": "Animal",
     "gravity": "4.55G",
     "creature": "Black Tako",
-    "resource": "Bamboo"
+    "creature_image_url": "assets/creatures/panda.png",
+    "resource": "Bamboo",
+    "resource_image_url": "assets/resources/panda.png"
   },
   {
     "url": null,
@@ -809,7 +961,9 @@
     "type": "Unique",
     "gravity": "8.11G",
     "creature": "Librarian",
-    "resource": "Knowledge"
+    "creature_image_url": "assets/creatures/library.png",
+    "resource": "Knowledge",
+    "resource_image_url": "assets/resources/library.png"
   },
   {
     "url": null,
@@ -819,7 +973,9 @@
     "type": "Plant",
     "gravity": "5.12G",
     "creature": "Ghost Fire",
-    "resource": "Bone"
+    "creature_image_url": "assets/creatures/tomb.png",
+    "resource": "Bone",
+    "resource_image_url": "assets/resources/tomb.png"
   },
   {
     "url": null,
@@ -829,7 +985,9 @@
     "type": "Unique",
     "gravity": "0.12G",
     "creature": "Super Andrew",
-    "resource": "Superpower"
+    "creature_image_url": "assets/creatures/portal.png",
+    "resource": "Superpower",
+    "resource_image_url": "assets/resources/portal.png"
   },
   {
     "url": null,
@@ -839,7 +997,9 @@
     "type": "Element",
     "gravity": "2.11G",
     "creature": "Ocean Pori",
-    "resource": "Salt"
+    "creature_image_url": "assets/creatures/ocean.png",
+    "resource": "Salt",
+    "resource_image_url": "assets/resources/ocean.png"
   },
   {
     "url": null,
@@ -849,7 +1009,9 @@
     "type": "Unique",
     "gravity": "0.01G",
     "creature": "Dreamcatcher",
-    "resource": "Dream"
+    "creature_image_url": "assets/creatures/fluffy.png",
+    "resource": "Dream",
+    "resource_image_url": "assets/resources/fluffy.png"
   },
   {
     "url": null,
@@ -859,7 +1021,9 @@
     "type": "Plant",
     "gravity": "0.13G",
     "creature": "Neon Fish",
-    "resource": "Sea Weed"
+    "creature_image_url": "assets/creatures/seaweed.png",
+    "resource": "Sea Weed",
+    "resource_image_url": "assets/resources/seaweed.png"
   },
   {
     "url": null,
@@ -869,7 +1033,9 @@
     "type": "Plant",
     "gravity": "2.15G",
     "creature": "Werefish",
-    "resource": "Lotus Seed"
+    "creature_image_url": "assets/creatures/pond.png",
+    "resource": "Lotus Seed",
+    "resource_image_url": "assets/resources/pond.png"
   },
   {
     "url": null,
@@ -879,7 +1045,9 @@
     "type": "Element",
     "gravity": "3.33G",
     "creature": "Neon Warm",
-    "resource": "Neon"
+    "creature_image_url": "assets/creatures/neon.png",
+    "resource": "Neon",
+    "resource_image_url": "assets/resources/neon.png"
   },
   {
     "url": null,
@@ -889,7 +1057,9 @@
     "type": "Unique",
     "gravity": "5.52G",
     "creature": "Clown",
-    "resource": "Ticket"
+    "creature_image_url": "assets/creatures/circus.png",
+    "resource": "Ticket",
+    "resource_image_url": "assets/resources/circus.png"
   },
   {
     "url": null,
@@ -899,7 +1069,9 @@
     "type": "Animal",
     "gravity": "6.77G",
     "creature": "Flying Fish",
-    "resource": "Wave"
+    "creature_image_url": "assets/creatures/whale.png",
+    "resource": "Wave",
+    "resource_image_url": "assets/resources/whale.png"
   },
   {
     "url": null,
@@ -909,7 +1081,9 @@
     "type": "Unique",
     "gravity": "6.35G",
     "creature": "Masker",
-    "resource": "Symbol"
+    "creature_image_url": "assets/creatures/aborigine.png",
+    "resource": "Symbol",
+    "resource_image_url": "assets/resources/aborigine.png"
   },
   {
     "url": null,
@@ -919,7 +1093,9 @@
     "type": "Animal",
     "gravity": "6.88G",
     "creature": "Hedgehog",
-    "resource": "Poison String"
+    "creature_image_url": "assets/creatures/hedgehog.png",
+    "resource": "Poison String",
+    "resource_image_url": "assets/resources/hedgehog.png"
   },
   {
     "url": null,
@@ -929,7 +1105,9 @@
     "type": "Unique",
     "gravity": "8.13G",
     "creature": "Vendor",
-    "resource": "Lantern"
+    "creature_image_url": "assets/creatures/jiufen.png",
+    "resource": "Lantern",
+    "resource_image_url": "assets/resources/jiufen.png"
   },
   {
     "url": null,
@@ -939,7 +1117,9 @@
     "type": "Unique",
     "gravity": "2.34G",
     "creature": "Cowboy",
-    "resource": "Start Badge"
+    "creature_image_url": "assets/creatures/cowboy.png",
+    "resource": "Start Badge",
+    "resource_image_url": "assets/resources/cowboy.png"
   },
   {
     "url": null,
@@ -949,7 +1129,9 @@
     "type": "Special",
     "gravity": "5.79G",
     "creature": "Hun",
-    "resource": "Brick"
+    "creature_image_url": "assets/creatures/greatwall.png",
+    "resource": "Brick",
+    "resource_image_url": "assets/resources/greatwall.png"
   },
   {
     "url": null,
@@ -959,7 +1141,9 @@
     "type": "Unique",
     "gravity": null,
     "creature": "Fairy Fox",
-    "resource": "Sakura"
+    "creature_image_url": "assets/creatures/sakura.png",
+    "resource": "Sakura",
+    "resource_image_url": "assets/resources/sakura.png"
   },
   {
     "url": null,
@@ -969,7 +1153,9 @@
     "type": "Element",
     "gravity": "3.41G",
     "creature": "Olive Treant",
-    "resource": "Olive"
+    "creature_image_url": "assets/creatures/mediterranean.png",
+    "resource": "Olive",
+    "resource_image_url": "assets/resources/mediterranean.png"
   },
   {
     "url": null,
@@ -979,7 +1165,9 @@
     "type": "Cuisine",
     "gravity": "5.77G",
     "creature": "Bob",
-    "resource": "Bubble Gum"
+    "creature_image_url": "assets/creatures/bubblegum.png",
+    "resource": "Bubble Gum",
+    "resource_image_url": "assets/resources/bubblegum.png"
   },
   {
     "url": null,
@@ -989,7 +1177,9 @@
     "type": "Animal",
     "gravity": "1.11G",
     "creature": "Seahorse",
-    "resource": "Angry"
+    "creature_image_url": "assets/creatures/pufferfish.png",
+    "resource": "Angry",
+    "resource_image_url": "assets/resources/pufferfish.png"
   },
   {
     "url": null,
@@ -999,7 +1189,9 @@
     "type": "Animal",
     "gravity": "2.31G",
     "creature": "Cabbage",
-    "resource": "Carrot"
+    "creature_image_url": "assets/creatures/rabbit.png",
+    "resource": "Carrot",
+    "resource_image_url": "assets/resources/rabbit.png"
   },
   {
     "url": null,
@@ -1009,7 +1201,9 @@
     "type": "Special",
     "gravity": "8.88G",
     "creature": "Magic",
-    "resource": "Seal"
+    "creature_image_url": "assets/creatures/seal.png",
+    "resource": "Seal",
+    "resource_image_url": "assets/resources/seal.png"
   },
   {
     "url": null,
@@ -1019,7 +1213,9 @@
     "type": "Element",
     "gravity": "5.98G",
     "creature": "Bone Fish",
-    "resource": "Evilbone"
+    "creature_image_url": "assets/creatures/cage.png",
+    "resource": "Evilbone",
+    "resource_image_url": "assets/resources/cage.png"
   },
   {
     "url": null,
@@ -1029,6 +1225,8 @@
     "type": "Element",
     "gravity": "2.19G",
     "creature": "Musk Deer",
-    "resource": "Musk"
+    "creature_image_url": "assets/creatures/perfume.png",
+    "resource": "Musk",
+    "resource_image_url": "assets/resources/perfume.png"
   }
 ]
