@@ -56,6 +56,9 @@ module.exports = function (router) {
                 quantity: totalResources
               };
               discovery.completion_time = 3 * totalResources;
+              discovery.population = 2 + 2 * discovery.level; // TODO: add additional population for correct satellite match
+            } else {
+              // discovery.population = Math.min(16, Math.floor(core.friends.length / 5));
             }
 
             Planet.findOne({ code: req.params.planetid }, function (err, planet) {
