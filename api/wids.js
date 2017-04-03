@@ -40,21 +40,23 @@ module.exports = function (router) {
               return discovery.url === discoveryUrl
             });
 
-            discovery.base_price = {
-              name: 'coins',
-              quantity: 300 * Math.pow(discovery.index, 2) - 150 * discovery.index
-            };
-            discovery.next_upgrade_price = discovery.level == 7 ? null : CommonApi.getUpgradePrice(discovery.base_price.quantity, discovery.level);
-            discovery.requirements = {
-              name: 'food',
-              quantity: 100 + 20 * discovery.index
-            };
-            const totalResources = Math.round(discovery.requirements.quantity * 6 * Math.pow(1.1, discovery.level - 1));
-            discovery.resource_value = {
-              name: null,
-              quantity: totalResources
-            };
-            discovery.completion_time = 3 * totalResources;
+            if (discovery.planet.name !== 'Earth') {
+              discovery.base_price = {
+                name: 'coins',
+                quantity: 300 * Math.pow(discovery.index, 2) - 150 * discovery.index
+              };
+              discovery.next_upgrade_price = discovery.level == 7 ? null : CommonApi.getUpgradePrice(discovery.base_price.quantity, discovery.level);
+              discovery.requirements = discovery.planet.name == 'Earth' ? null : {
+                name: 'food',
+                quantity: 100 + 20 * discovery.index
+              };
+              const totalResources = Math.round(discovery.requirements.quantity * 6 * Math.pow(1.1, discovery.level - 1));
+              discovery.resource_value = {
+                name: null,
+                quantity: totalResources
+              };
+              discovery.completion_time = 3 * totalResources;
+            }
 
             Planet.findOne({ code: req.params.planetid }, function (err, planet) {
               discovery.resource_value.name = planet.resource;
