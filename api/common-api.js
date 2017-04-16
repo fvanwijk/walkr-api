@@ -26,12 +26,13 @@ module.exports = {
     }, {});
   },
   getBasePrice(index) {
-    return 300 * Math.pow(index, 2) - 150 * (index - 3)
+    return { coins: 300 * Math.pow(index, 2) - 150 * (index - 3), cubes: undefined, time: undefined };
   },
   getUpgradePrice(basePrice, level) {
     return {
-      name: 'coins',
-      quantity: basePrice * Math.pow(2, level - 1)
+      coins: basePrice.coins * Math.pow(2, level - 1),
+      cubes: undefined, // TODO: determine formula,
+      time: undefined // TODO: determine formula
     };
   },
   getAll: function (Model) {
