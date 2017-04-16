@@ -43,7 +43,7 @@ module.exports = function (router) {
             if (discovery.planet.name !== 'Earth') {
               discovery.base_price = {
                 name: 'coins',
-                quantity: 300 * Math.pow(discovery.index, 2) - 150 * discovery.index
+                quantity: CommonApi.getBasePrice(discovery.index)
               };
               discovery.next_upgrade_price = discovery.level == 7 ? null : CommonApi.getUpgradePrice(discovery.base_price.quantity, discovery.level);
               discovery.requirements = discovery.planet.name == 'Earth' ? null : {

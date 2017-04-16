@@ -5,6 +5,7 @@ var DiscoverySchema = new Schema({
   url: String,
   wid: { name: String, url: String },
   planet: { name: String, url: String },
+  index: Number,
   level: Number,
   discovery_date: Date,
   distance: Number,

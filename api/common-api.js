@@ -25,6 +25,9 @@ module.exports = {
       return acc;
     }, {});
   },
+  getBasePrice(index) {
+    return 300 * Math.pow(index, 2) - 150 * (index - 3)
+  },
   getUpgradePrice(basePrice, level) {
     return {
       name: 'coins',
