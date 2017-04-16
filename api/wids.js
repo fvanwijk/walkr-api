@@ -24,7 +24,7 @@ module.exports = function (router) {
     .put(CommonApi.put(WID))
     .delete(CommonApi.delete(WID));
 
-  router.route('/wids/:id/planets/upgrading')
+  router.route('/wids/:id/planets/upgrades')
     .get(function (req, res) {
       WID.findOne({ [WID.identifierField]: req.params.id }).then(wid => {
         const upgrades = wid.planets
