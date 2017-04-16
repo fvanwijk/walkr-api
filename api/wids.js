@@ -24,6 +24,27 @@ module.exports = function (router) {
     .put(CommonApi.put(WID))
     .delete(CommonApi.delete(WID));
 
+  router.route('/wids/:id/planets/upgrading')
+    .get(function (req, res) {
+      WID.findOne({ [WID.identifierField]: req.params.id }).then(wid => {
+        const upgrades = wid.planets
+          .filter(discovery => discovery.planet.name != 'Earth')
+          .map((discovery, index) => {
+            const prices = [1,2,3,4,5,6,7].map(level => {
+              return Object.assign({ level }, CommonApi.getUpgradePrice(CommonApi.getBasePrice(index + 1), level));
+            });
+
+            return {
+              planet: discovery.planet,
+              level: discovery.level,
+              prices
+            };
+          });
+
+        res.json(upgrades);
+      });
+    });
+
   router.route('/wids/:id/planets/:planetid')
     .get(function (req, res) {
       const discoveryUrl = url.create('wids', req.params.id, 'planets', req.params.planetid);
