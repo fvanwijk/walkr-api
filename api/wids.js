@@ -63,7 +63,7 @@ module.exports = function (router) {
 
             if (discovery.planet.name !== 'Earth') {
               discovery.base_price = CommonApi.getBasePrice(discovery.index);
-              discovery.next_upgrade_price = discovery.level == 7 ? null : CommonApi.getUpgradePrice(discovery.base_price.quantity, discovery.level);
+              discovery.next_upgrade_price = discovery.level == 7 ? null : CommonApi.getUpgradePrice(discovery.base_price, discovery.level);
               discovery.requirements = discovery.planet.name == 'Earth' ? null : {
                 name: 'food',
                 quantity: 100 + 20 * discovery.index
@@ -102,7 +102,7 @@ module.exports = function (router) {
               quantity: Math.round(351 * Math.pow(1.25, discovery.level - 1))
             };
             discovery.completion_time = discovery.resource_value.quantity * 6;
-            discovery.next_upgrade_price = CommonApi.getUpgradePrice(discovery.base_price.quantity, discovery.level);
+            discovery.next_upgrade_price = CommonApi.getUpgradePrice(discovery.base_price, discovery.level);
             res.json(discovery);
           });
         }
