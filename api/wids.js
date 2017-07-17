@@ -62,8 +62,10 @@ module.exports = function (router) {
             });
 
             if (discovery.planet.name !== 'Earth') {
+              discovery.discovery.time = 90 * Math.pow(discovery.index, 2) + 1710 * discovery.index;
               discovery.upgrade = {
-                base_price: CommonApi.getBasePrice(discovery.index)
+                base_price: CommonApi.getBasePrice(discovery.index),
+                time: discovery.discovery.time
               };
               discovery.upgrade.next_price = discovery.level == 7 ? null : CommonApi.getUpgradePrice(discovery.upgrade.base_price, discovery.level);
 

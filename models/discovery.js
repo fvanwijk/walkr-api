@@ -16,7 +16,8 @@ var DiscoverySchema = new Schema({
   },
   upgrade: {
     base_price: { coins: Number },
-    next_price: { coins: Number, cubes: Number, time: Number },
+    next_price: { coins: Number, cubes: Number },
+    time: Number
   },
   production: {
     requirements: { name: String, quantity: Number }, // Food to start new harvest round

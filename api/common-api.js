@@ -32,7 +32,6 @@ module.exports = {
     return {
       coins: basePrice.coins * Math.pow(2, level - 1),
       cubes: undefined, // TODO: determine formula,
-      time: undefined // TODO: determine formula
     };
   },
   getAll: function (Model) {
