@@ -7,13 +7,23 @@ var DiscoverySchema = new Schema({
   planet: { name: String, url: String },
   index: Number,
   level: Number,
-  discovery_date: Date,
   distance: Number,
-  base_price: { coins: Number },
-  next_upgrade_price: { coins: Number, cubes: Number },
-  requirements: { name: String, quantity: Number }, // Food to start new harvest round
-  resource_value: { name: String, quantity: Number }, // Total resources
-  completion_time: Number, // seconds
+  discovery: {
+    date: Date,
+    time: Number, // seconds
+    boost: { cubes: Number, energy: Number },
+    price: { coins: Number }
+  },
+  upgrade: {
+    base_price: { coins: Number },
+    next_price: { coins: Number, cubes: Number, time: Number },
+  },
+  production: {
+    requirements: { name: String, quantity: Number }, // Food to start new harvest round
+    resources: { name: String, quantity: Number }, // Total resources
+    time: Number, // seconds
+    boost: { cubes: Number, energy: Number } // For a total completion
+  },
   population: Number
 });
 

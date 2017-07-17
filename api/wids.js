@@ -62,25 +62,31 @@ module.exports = function (router) {
             });
 
             if (discovery.planet.name !== 'Earth') {
-              discovery.base_price = CommonApi.getBasePrice(discovery.index);
-              discovery.next_upgrade_price = discovery.level == 7 ? null : CommonApi.getUpgradePrice(discovery.base_price, discovery.level);
-              discovery.requirements = discovery.planet.name == 'Earth' ? null : {
-                name: 'food',
-                quantity: 100 + 20 * discovery.index
+              discovery.upgrade = {
+                base_price: CommonApi.getBasePrice(discovery.index)
               };
-              const totalResources = Math.round(discovery.requirements.quantity * 6 * Math.pow(1.1, discovery.level - 1));
-              discovery.resource_value = {
-                name: null,
+              discovery.upgrade.next_price = discovery.level == 7 ? null : CommonApi.getUpgradePrice(discovery.upgrade.base_price, discovery.level);
+
+              discovery.production = {
+                requirements: discovery.planet.name == 'Earth' ? null : {
+                  name: 'food',
+                  quantity: 100 + 20 * discovery.index
+                }
+              };
+              const totalResources = Math.round(discovery.production.requirements.quantity * 6 * Math.pow(1.1, discovery.level - 1));
+              discovery.production.resources = {
+                name: null, // To be filled below
                 quantity: totalResources
               };
-              discovery.completion_time = 3 * totalResources;
+              discovery.production.time = 3 * totalResources;
+
               discovery.population = 2 + 2 * discovery.level; // TODO: add additional population for correct satellite match
             } else {
               // discovery.population = Math.min(16, Math.floor(core.friends.length / 5));
             }
 
             Planet.findOne({ code: req.params.planetid }, function (err, planet) {
-              discovery.resource_value.name = planet.resource;
+              discovery.production.resources.name = planet.resource;
 
               res.json(discovery);
             });
@@ -97,12 +103,20 @@ module.exports = function (router) {
         function (err, item) {
           CommonApi.catchWrapper(err, item, res, function (res, item) {
             const discovery = item.dfrs.find(discovery => { return discovery.id == req.params.dfrid });
-            discovery.resource_value = {
-              name: 'food',
-              quantity: Math.round(351 * Math.pow(1.25, discovery.level - 1))
+            discovery.production = {
+              resources: {
+                name: 'food',
+                quantity: Math.round(351 * Math.pow(1.25, discovery.level - 1))
+              }
             };
-            discovery.completion_time = discovery.resource_value.quantity * 6;
-            discovery.next_upgrade_price = CommonApi.getUpgradePrice(discovery.base_price, discovery.level);
+            discovery.production.time = discovery.production.resources.quantity * 6;
+            discovery.upgrade = {
+              base_price: {
+                coins: 2000
+              }
+            };
+            discovery.upgrade.next_price = CommonApi.getUpgradePrice(discovery.upgrade.base_price, discovery.level);
+
             res.json(discovery);
           });
         }

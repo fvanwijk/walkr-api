@@ -17,7 +17,9 @@
           "url": "http://localhost:1337/api/planets/1"
         },
         "distance": 0,
-        "discovery_date": null,
+        "discovery": {
+          "date": null
+        },
         "level": null
       },
       {
@@ -31,7 +33,9 @@
           "url": "http://localhost:1337/api/planets/37"
         },
         "distance": 319,
-        "discovery_date": "2016-04-02T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-02T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -45,7 +49,9 @@
           "url": "http://localhost:1337/api/planets/33"
         },
         "distance": 1165,
-        "discovery_date": "2016-04-02T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-02T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -59,7 +65,9 @@
           "url": "http://localhost:1337/api/planets/26"
         },
         "distance": 1637,
-        "discovery_date": "2016-04-02T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-02T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -73,7 +81,9 @@
           "url": "http://localhost:1337/api/planets/10"
         },
         "distance": 1998,
-        "discovery_date": "2016-04-02T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-02T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -87,7 +97,9 @@
           "url": "http://localhost:1337/api/planets/75"
         },
         "distance": 2306,
-        "discovery_date": "2016-04-03T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-03T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -101,7 +113,9 @@
           "url": "http://localhost:1337/api/planets/55"
         },
         "distance": 2721,
-        "discovery_date": "2016-04-03T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-03T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -115,7 +129,9 @@
           "url": "http://localhost:1337/api/planets/23"
         },
         "distance": 3575,
-        "discovery_date": "2016-04-04T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-04T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -129,7 +145,9 @@
           "url": "http://localhost:1337/api/planets/30"
         },
         "distance": 4070,
-        "discovery_date": "2016-04-04T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-04T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -143,7 +161,9 @@
           "url": "http://localhost:1337/api/planets/6"
         },
         "distance": 4577,
-        "discovery_date": "2016-04-05T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-05T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -157,7 +177,9 @@
           "url": "http://localhost:1337/api/planets/35"
         },
         "distance": 5269,
-        "discovery_date": "2016-04-06T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-06T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -171,7 +193,9 @@
           "url": "http://localhost:1337/api/planets/42"
         },
         "distance": 5638,
-        "discovery_date": "2016-04-07T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-07T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -185,7 +209,9 @@
           "url": "http://localhost:1337/api/planets/41"
         },
         "distance": 6172,
-        "discovery_date": "2016-04-07T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-07T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -199,7 +225,9 @@
           "url": "http://localhost:1337/api/planets/47"
         },
         "distance": 6524,
-        "discovery_date": "2016-04-08T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-08T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -213,7 +241,9 @@
           "url": "http://localhost:1337/api/planets/31"
         },
         "distance": 6998,
-        "discovery_date": "2016-04-09T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-09T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -227,7 +257,9 @@
           "url": "http://localhost:1337/api/planets/79"
         },
         "distance": 7451,
-        "discovery_date": "2016-04-09T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-09T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -241,7 +273,9 @@
           "url": "http://localhost:1337/api/planets/48"
         },
         "distance": 8324,
-        "discovery_date": "2016-04-10T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-10T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -255,7 +289,9 @@
           "url": "http://localhost:1337/api/planets/20"
         },
         "distance": 8683,
-        "discovery_date": "2016-04-11T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-11T22:00:00.000Z"
+        },
         "level": 7
       },
       {
@@ -269,7 +305,9 @@
           "url": "http://localhost:1337/api/planets/13"
         },
         "distance": 9174,
-        "discovery_date": "2016-04-12T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-12T22:00:00.000Z"
+        },
         "level": 6
       },
       {
@@ -283,7 +321,9 @@
           "url": "http://localhost:1337/api/planets/3"
         },
         "distance": 9524,
-        "discovery_date": "2016-04-13T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-13T22:00:00.000Z"
+        },
         "level": 6
       },
       {
@@ -297,7 +337,9 @@
           "url": "http://localhost:1337/api/planets/4"
         },
         "distance": 9934,
-        "discovery_date": "2016-04-15T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-15T22:00:00.000Z"
+        },
         "level": 6
       },
       {
@@ -311,7 +353,9 @@
           "url": "http://localhost:1337/api/planets/39"
         },
         "distance": 10727,
-        "discovery_date": "2016-04-17T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-17T22:00:00.000Z"
+        },
         "level": 6
       },
       {
@@ -325,7 +369,9 @@
           "url": "http://localhost:1337/api/planets/28"
         },
         "distance": 11235,
-        "discovery_date": "2016-04-18T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-18T22:00:00.000Z"
+        },
         "level": 6
       },
       {
@@ -339,7 +385,9 @@
           "url": "http://localhost:1337/api/planets/22"
         },
         "distance": 11722,
-        "discovery_date": "2016-04-20T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-20T22:00:00.000Z"
+        },
         "level": 6
       },
       {
@@ -353,7 +401,9 @@
           "url": "http://localhost:1337/api/planets/64"
         },
         "distance": 12554,
-        "discovery_date": "2016-04-21T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-21T22:00:00.000Z"
+        },
         "level": 6
       },
       {
@@ -367,7 +417,9 @@
           "url": "http://localhost:1337/api/planets/2"
         },
         "distance": 13464,
-        "discovery_date": "2016-04-23T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-23T22:00:00.000Z"
+        },
         "level": 6
       },
       {
@@ -381,7 +433,9 @@
           "url": "http://localhost:1337/api/planets/17"
         },
         "distance": 14001,
-        "discovery_date": "2016-04-25T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-25T22:00:00.000Z"
+        },
         "level": 5
       },
       {
@@ -395,7 +449,9 @@
           "url": "http://localhost:1337/api/planets/81"
         },
         "distance": 14418,
-        "discovery_date": "2016-04-27T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-27T22:00:00.000Z"
+        },
         "level": 5
       },
       {
@@ -409,7 +465,9 @@
           "url": "http://localhost:1337/api/planets/56"
         },
         "distance": 15396,
-        "discovery_date": "2016-04-30T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-30T22:00:00.000Z"
+        },
         "level": 5
       },
       {
@@ -423,7 +481,9 @@
           "url": "http://localhost:1337/api/planets/14"
         },
         "distance": 15857,
-        "discovery_date": "2016-05-03T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-05-03T22:00:00.000Z"
+        },
         "level": 5
       },
       {
@@ -437,7 +497,9 @@
           "url": "http://localhost:1337/api/planets/16"
         },
         "distance": 16251,
-        "discovery_date": "2016-05-05T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-05-05T22:00:00.000Z"
+        },
         "level": 5
       },
       {
@@ -451,7 +513,9 @@
           "url": "http://localhost:1337/api/planets/19"
         },
         "distance": 16618,
-        "discovery_date": "2016-05-07T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-05-07T22:00:00.000Z"
+        },
         "level": 5
       },
       {
@@ -465,7 +529,9 @@
           "url": "http://localhost:1337/api/planets/34"
         },
         "distance": 17334,
-        "discovery_date": "2016-05-10T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-05-10T22:00:00.000Z"
+        },
         "level": 5
       },
       {
@@ -479,7 +545,9 @@
           "url": "http://localhost:1337/api/planets/51"
         },
         "distance": 17731,
-        "discovery_date": "2016-05-12T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-05-12T22:00:00.000Z"
+        },
         "level": 5
       },
       {
@@ -493,7 +561,9 @@
           "url": "http://localhost:1337/api/planets/49"
         },
         "distance": 18121,
-        "discovery_date": "2016-05-15T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-05-15T22:00:00.000Z"
+        },
         "level": 5
       },
       {
@@ -507,7 +577,9 @@
           "url": "http://localhost:1337/api/planets/29"
         },
         "distance": 18592,
-        "discovery_date": "2016-05-18T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-05-18T22:00:00.000Z"
+        },
         "level": 5
       },
       {
@@ -521,7 +593,9 @@
           "url": "http://localhost:1337/api/planets/27"
         },
         "distance": 18968,
-        "discovery_date": "2016-05-21T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-05-21T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -535,7 +609,9 @@
           "url": "http://localhost:1337/api/planets/15"
         },
         "distance": 19919,
-        "discovery_date": "2016-05-23T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-05-23T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -549,7 +625,9 @@
           "url": "http://localhost:1337/api/planets/7"
         },
         "distance": 20427,
-        "discovery_date": "2016-05-27T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-05-27T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -563,7 +641,9 @@
           "url": "http://localhost:1337/api/planets/50"
         },
         "distance": 20849,
-        "discovery_date": "2016-05-29T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-05-29T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -577,7 +657,9 @@
           "url": "http://localhost:1337/api/planets/57"
         },
         "distance": 21281,
-        "discovery_date": "2016-06-01T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-06-01T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -591,7 +673,9 @@
           "url": "http://localhost:1337/api/planets/25"
         },
         "distance": 22055,
-        "discovery_date": "2016-06-04T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-06-04T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -605,7 +689,9 @@
           "url": "http://localhost:1337/api/planets/69"
         },
         "distance": 22540,
-        "discovery_date": "2016-06-07T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-06-07T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -619,7 +705,9 @@
           "url": "http://localhost:1337/api/planets/87"
         },
         "distance": 22950,
-        "discovery_date": "2016-06-10T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-06-10T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -633,7 +721,9 @@
           "url": "http://localhost:1337/api/planets/68"
         },
         "distance": 23780,
-        "discovery_date": "2016-06-15T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-06-15T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -647,7 +737,9 @@
           "url": "http://localhost:1337/api/planets/70"
         },
         "distance": 24285,
-        "discovery_date": "2016-06-21T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-06-21T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -661,7 +753,9 @@
           "url": "http://localhost:1337/api/planets/45"
         },
         "distance": 24740,
-        "discovery_date": "2016-06-24T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-06-24T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -675,7 +769,9 @@
           "url": "http://localhost:1337/api/planets/66"
         },
         "distance": 25592,
-        "discovery_date": "2016-04-29T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-04-29T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -689,7 +785,9 @@
           "url": "http://localhost:1337/api/planets/58"
         },
         "distance": 26004,
-        "discovery_date": "2016-07-04T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-07-04T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -703,7 +801,9 @@
           "url": "http://localhost:1337/api/planets/74"
         },
         "distance": 26393,
-        "discovery_date": "2016-07-07T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-07-07T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -717,7 +817,9 @@
           "url": "http://localhost:1337/api/planets/12"
         },
         "distance": 26727,
-        "discovery_date": "2016-07-10T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-07-10T22:00:00.000Z"
+        },
         "level": 4
       },
       {
@@ -731,7 +833,9 @@
           "url": "http://localhost:1337/api/planets/5"
         },
         "distance": 27591,
-        "discovery_date": "2016-07-15T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-07-15T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -745,7 +849,9 @@
           "url": "http://localhost:1337/api/planets/9"
         },
         "distance": 28114,
-        "discovery_date": "2016-07-19T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-07-19T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -759,7 +865,9 @@
           "url": "http://localhost:1337/api/planets/83"
         },
         "distance": 28416,
-        "discovery_date": "2016-07-23T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-07-23T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -773,7 +881,9 @@
           "url": "http://localhost:1337/api/planets/21"
         },
         "distance": 28741,
-        "discovery_date": "2016-07-27T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-07-27T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -787,7 +897,9 @@
           "url": "http://localhost:1337/api/planets/59"
         },
         "distance": 29690,
-        "discovery_date": "2016-07-31T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-07-31T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -801,7 +913,9 @@
           "url": "http://localhost:1337/api/planets/76"
         },
         "distance": 29994,
-        "discovery_date": "2016-08-05T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-08-05T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -815,7 +929,9 @@
           "url": "http://localhost:1337/api/planets/46"
         },
         "distance": 30417,
-        "discovery_date": "2016-08-09T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-08-09T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -829,7 +945,9 @@
           "url": "http://localhost:1337/api/planets/85"
         },
         "distance": 31310,
-        "discovery_date": "2016-08-14T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-08-14T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -843,7 +961,9 @@
           "url": "http://localhost:1337/api/planets/86"
         },
         "distance": 31793,
-        "discovery_date": "2016-08-20T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-08-20T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -857,7 +977,9 @@
           "url": "http://localhost:1337/api/planets/77"
         },
         "distance": 32202,
-        "discovery_date": "2016-08-25T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-08-25T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -871,7 +993,9 @@
           "url": "http://localhost:1337/api/planets/89"
         },
         "distance": 33108,
-        "discovery_date": "2016-08-30T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-08-30T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -885,7 +1009,9 @@
           "url": "http://localhost:1337/api/planets/60"
         },
         "distance": 33441,
-        "discovery_date": "2016-06-04T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-06-04T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -899,7 +1025,9 @@
           "url": "http://localhost:1337/api/planets/72"
         },
         "distance": 33878,
-        "discovery_date": "2016-09-10T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-09-10T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -913,7 +1041,9 @@
           "url": "http://localhost:1337/api/planets/96"
         },
         "distance": 34381,
-        "discovery_date": "2016-09-15T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-09-15T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -927,7 +1057,9 @@
           "url": "http://localhost:1337/api/planets/73"
         },
         "distance": 35061,
-        "discovery_date": "2016-09-21T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-09-21T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -941,7 +1073,9 @@
           "url": "http://localhost:1337/api/planets/91"
         },
         "distance": 35557,
-        "discovery_date": "2016-09-27T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-09-27T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -955,7 +1089,9 @@
           "url": "http://localhost:1337/api/planets/61"
         },
         "distance": 35898,
-        "discovery_date": "2016-10-03T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-10-03T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -969,7 +1105,9 @@
           "url": "http://localhost:1337/api/planets/71"
         },
         "distance": 36645,
-        "discovery_date": "2016-10-09T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-10-09T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -983,7 +1121,9 @@
           "url": "http://localhost:1337/api/planets/93"
         },
         "distance": 36804,
-        "discovery_date": "2016-10-28T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-10-28T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -997,7 +1137,9 @@
           "url": "http://localhost:1337/api/planets/67"
         },
         "distance": 36952,
-        "discovery_date": "2016-10-15T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-10-15T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -1011,7 +1153,9 @@
           "url": "http://localhost:1337/api/planets/92"
         },
         "distance": 37433,
-        "discovery_date": "2016-10-21T22:00:00.000Z",
+        "discovery": {
+          "date": "2016-10-21T22:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -1025,7 +1169,9 @@
           "url": "http://localhost:1337/api/planets/62"
         },
         "distance": 38698,
-        "discovery_date": "2016-11-04T23:00:00.000Z",
+        "discovery": {
+          "date": "2016-11-04T23:00:00.000Z"
+        },
         "level": 3
       },
       {
@@ -1039,7 +1185,9 @@
           "url": "http://localhost:1337/api/planets/78"
         },
         "distance": 39000,
-        "discovery_date": "2016-11-11T23:00:00.000Z",
+        "discovery": {
+          "date": "2016-11-11T23:00:00.000Z"
+        },
         "level": 2
       },
       {
@@ -1053,7 +1201,9 @@
           "url": "http://localhost:1337/api/planets/84"
         },
         "distance": 39539,
-        "discovery_date": "2016-11-18T23:00:00.000Z",
+        "discovery": {
+          "date": "2016-11-18T23:00:00.000Z"
+        },
         "level": 2
       },
       {
@@ -1067,7 +1217,9 @@
           "url": "http://localhost:1337/api/planets/24"
         },
         "distance": 39737,
-        "discovery_date": "2016-11-25T23:00:00.000Z",
+        "discovery": {
+          "date": "2016-11-25T23:00:00.000Z"
+        },
         "level": 2
       },
       {
@@ -1081,7 +1233,9 @@
           "url": "http://localhost:1337/api/planets/82"
         },
         "distance": 40460,
-        "discovery_date": "2016-11-29T23:00:00.000Z",
+        "discovery": {
+          "date": "2016-11-29T23:00:00.000Z"
+        },
         "level": 2
       },
       {
@@ -1095,7 +1249,9 @@
           "url": "http://localhost:1337/api/planets/63"
         },
         "distance": 40910,
-        "discovery_date": null,
+        "discovery": {
+          "date": null
+        },
         "level": 1
       }
     ],
@@ -1112,11 +1268,7 @@
           "url": "http://localhost:1337/api/dfrs/D"
         },
         "distance": 3122,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 2,
@@ -1130,11 +1282,7 @@
           "url": "http://localhost:1337/api/dfrs/C"
         },
         "distance": 4882,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 3,
@@ -1148,11 +1296,7 @@
           "url": "http://localhost:1337/api/dfrs/E"
         },
         "distance": 7972,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 4,
@@ -1166,11 +1310,7 @@
           "url": "http://localhost:1337/api/dfrs/D"
         },
         "distance": 10293,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 5,
@@ -1184,11 +1324,7 @@
           "url": "http://localhost:1337/api/dfrs/B"
         },
         "distance": 12151,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 6,
@@ -1202,11 +1338,7 @@
           "url": "http://localhost:1337/api/dfrs/A"
         },
         "distance": 13033,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 7,
@@ -1220,11 +1352,7 @@
           "url": "http://localhost:1337/api/dfrs/B"
         },
         "distance": 14922,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 8,
@@ -1238,11 +1366,7 @@
           "url": "http://localhost:1337/api/dfrs/A"
         },
         "distance": 1693,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 9,
@@ -1256,11 +1380,7 @@
           "url": "http://localhost:1337/api/dfrs/D"
         },
         "distance": 19437,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 10,
@@ -1274,11 +1394,7 @@
           "url": "http://localhost:1337/api/dfrs/C"
         },
         "distance": 21742,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 11,
@@ -1292,11 +1408,7 @@
           "url": "http://localhost:1337/api/dfrs/D"
         },
         "distance": 23367,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 12,
@@ -1310,11 +1422,7 @@
           "url": "http://localhost:1337/api/dfrs/B"
         },
         "distance": 25058,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 13,
@@ -1328,11 +1436,7 @@
           "url": "http://localhost:1337/api/dfrs/D"
         },
         "distance": 27228,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 14,
@@ -1346,11 +1450,7 @@
           "url": "http://localhost:1337/api/dfrs/F"
         },
         "distance": 28741,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 15,
@@ -1364,11 +1464,7 @@
           "url": "http://localhost:1337/api/dfrs/A"
         },
         "distance": 30897,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 16,
@@ -1382,11 +1478,7 @@
           "url": "http://localhost:1337/api/dfrs/D"
         },
         "distance": 30897,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 17,
@@ -1400,11 +1492,7 @@
           "url": "http://localhost:1337/api/dfrs/D"
         },
         "distance": 30897,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 18,
@@ -1418,11 +1506,7 @@
           "url": "http://localhost:1337/api/dfrs/D"
         },
         "distance": 30897,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 19,
@@ -1436,11 +1520,7 @@
           "url": "http://localhost:1337/api/dfrs/E"
         },
         "distance": 30897,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 20,
@@ -1454,11 +1534,7 @@
           "url": "http://localhost:1337/api/dfrs/A"
         },
         "distance": 727,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       },
       {
         "id": 21,
@@ -1472,11 +1548,7 @@
           "url": "http://localhost:1337/api/dfrs/E"
         },
         "distance": 40078,
-        "level": 8,
-        "base_price": {
-          "name": "coins",
-          "quantity": 2000
-        }
+        "level": 8
       }
     ],
     "missions": [
