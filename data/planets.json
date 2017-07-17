@@ -11,7 +11,8 @@
     "creature_description": "Human ... You know.",
     "creature_image_url": "assets/creatures/human.png",
     "resource": "Garbage",
-    "resource_image_url": "assets/resources/garbage.png"
+    "resource_image_url": "assets/resources/garbage.png",
+    "wonders": "Aurora"
   },
   {
     "url": null,
@@ -25,7 +26,8 @@
     "creature_description": "Pombats can only see the color red. They like to use their sharp teeth to pierce apples and enjoy the sweet juice through the small holes in their teeth.",
     "creature_image_url": "assets/creatures/pombat.png",
     "resource": "Apple",
-    "resource_image_url": "assets/resources/apples.png"
+    "resource_image_url": "assets/resources/apples.png",
+    "wonders": "Giant Bowtie"
   },
   {
     "url": null,
@@ -39,7 +41,8 @@
     "creature_description": "The Honey Bee enjoys collecting nectar from flowers in full bloom. Normally, they are super friendly, but when angry they become extremely aggressive. Leave them alone if you know what's good for you!",
     "creature_image_url": "assets/creatures/honey-bee.png",
     "resource": "Honey",
-    "resource_image_url": "assets/resources/honey.png"
+    "resource_image_url": "assets/resources/honey.png",
+    "wonders": "Honey Ring"
   },
   {
     "url": null,
@@ -53,7 +56,8 @@
     "creature_description": "Milk Poring is a species evolved from milk's exposure to space radiation. They're as gentle and kind as cows and their favorite thing is hiding among the cowherds for a nap.",
     "creature_image_url": "assets/creatures/cow.png",
     "resource": "Milk",
-    "resource_image_url": "assets/resources/cow.png"
+    "resource_image_url": "assets/resources/cow.png",
+    "wonders": "Windy Cottages"
   },
   {
     "url": null,
@@ -67,7 +71,8 @@
     "creature_description": "The Watery Tako’s body is waterlike and transparent, its skin soft and very damp. Despite these traits, it still hates getting drenched by rain.",
     "creature_image_url": "assets/creatures/water.png",
     "resource": "Water",
-    "resource_image_url": "assets/resources/water.png"
+    "resource_image_url": "assets/resources/water.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -81,7 +86,8 @@
     "creature_description": "The body of the Green Slime is quite flexible, so it can squirm through the tiniest of openings. Its favorite food is the freshly-sprouted spores of ferns.",
     "creature_image_url": "assets/creatures/fern.png",
     "resource": "Spores",
-    "resource_image_url": "assets/resources/fern.png"
+    "resource_image_url": "assets/resources/fern.png",
+    "wonders": "Golden Fern"
   },
   {
     "url": null,
@@ -95,7 +101,8 @@
     "creature_description": "Rock Beetle shells are very heavy and sturdy, so these creatures have strong bodies. They hate sunshine, preferring to hide in their shells.",
     "creature_image_url": "assets/creatures/stone.png",
     "resource": "Stones",
-    "resource_image_url": "assets/resources/stone.png"
+    "resource_image_url": "assets/resources/stone.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -109,7 +116,8 @@
     "creature_description": "Golden Andrew possesses an extremely high level of artificial intelligence. It can comprehend and produce 43 different languages throughout the universe. It can survive in any kind of inhospitable environment.",
     "creature_image_url": "assets/creatures/gear.png",
     "resource": "Gears",
-    "resource_image_url": "assets/resources/gear.png"
+    "resource_image_url": "assets/resources/gear.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -123,7 +131,8 @@
     "creature_description": "Snowmen like to live in cold places, and they are totally obsessed with snow. Blizzards are to them as sunny days are to humans.",
     "creature_image_url": "assets/creatures/snow.png",
     "resource": "Snow",
-    "resource_image_url": "assets/resources/snow.png"
+    "resource_image_url": "assets/resources/snow.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -137,7 +146,8 @@
     "creature_description": "Just like its planet, the Golden Poring's stomach is filled with the extra virgin olive oil, so through its transparent skin, you can see the olive oil sloshing around.",
     "creature_image_url": "assets/creatures/olive.png",
     "resource": "Oil",
-    "resource_image_url": "assets/resources/olive.png"
+    "resource_image_url": "assets/resources/olive.png",
+    "wonders": "Sweet Osmanthus"
   },
   {
     "url": null,
@@ -151,7 +161,8 @@
     "creature_description": "The Little Helper's job is to sweep the stars on the planet's surface into the right position according to planet's phases.",
     "creature_image_url": "assets/creatures/star.png",
     "resource": "Aerolite",
-    "resource_image_url": "assets/resources/star.png"
+    "resource_image_url": "assets/resources/star.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -165,7 +176,8 @@
     "creature_image_url": "assets/creatures/iceberg.png",
     "creature_description": "Ice Slime creatures have transparent, fragile skins and frequently turn into ice cubes to protect themselves.",
     "resource": "Ice",
-    "resource_image_url": "assets/resources/iceberg.png"
+    "resource_image_url": "assets/resources/iceberg.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -179,7 +191,8 @@
     "creature_description": "The chubby Chick-Chick is cute and vivacious. They love bouncing around like ping-pong balls around their mothers.",
     "creature_image_url": "assets/creatures/nest.png",
     "resource": "Eggs",
-    "resource_image_url": "assets/resources/nest.png"
+    "resource_image_url": "assets/resources/nest.png",
+    "wonders": "Prince Chic"
   },
   {
     "url": null,
@@ -193,7 +206,8 @@
     "creature_description": "Jelly Slime’s rubbery skin has a light fruity aroma. It's wobbly when it walks, almost like it's about to fall down at any time.",
     "creature_image_url": "assets/creatures/jelly.png",
     "resource": "Jelly",
-    "resource_image_url": "assets/resources/jelly.png"
+    "resource_image_url": "assets/resources/jelly.png",
+    "wonders": "Orange Castle"
   },
   {
     "url": null,
@@ -207,7 +221,8 @@
     "creature_image_url": "assets/creatures/bubble.png",
     "creature_description": "Air Porings look like soft puffs of air, their skin as bouncy as the surface of a balloon. People say their voices sound like air escaping from a tire.",
     "resource": "Air",
-    "resource_image_url": "assets/resources/bubble.png"
+    "resource_image_url": "assets/resources/bubble.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -221,7 +236,8 @@
     "creature_description": "The Spiky Beetle has very sharp needles on its back, and disguises itself as a pineapple to attract Dr. Evil. When he comes near, it's time to attack!",
     "creature_image_url": "assets/creatures/pineapple.png",
     "resource": "Pineapples",
-    "resource_image_url": "assets/resources/pineapple.png"
+    "resource_image_url": "assets/resources/pineapple.png",
+    "wonders": "Pineapple House"
   },
   {
     "url": null,
@@ -235,7 +251,8 @@
     "creature_description": "This petite pink bee is a bit clumsy when flying, and its main staple is strawberries. The Princess Bee also occasionally enjoys soaking in butter for a nice nap.",
     "creature_image_url": "assets/creatures/strawberry.png",
     "resource": "Strawberries",
-    "resource_image_url": "assets/resources/strawberry.png"
+    "resource_image_url": "assets/resources/strawberry.png",
+    "wonders": "Strawberry Carriage"
   },
   {
     "url": null,
@@ -249,7 +266,8 @@
     "creature_description": "Metal Andrew is an inexpensive robotic imitation of Golden Andrew. Despite this, it is still highly capable of performing general work, and rarely complains.",
     "creature_image_url": "assets/creatures/iron.png",
     "resource": "Screws",
-    "resource_image_url": "assets/resources/iron.png"
+    "resource_image_url": "assets/resources/iron.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -263,7 +281,8 @@
     "creature_description": "Fruit Bees have round butts, and when they fly, they tend to wobble. They enjoy working together to harvest melon juice and turn it into honey.",
     "creature_image_url": "assets/creatures/hami.png",
     "resource": "Hami Melons",
-    "resource_image_url": "assets/resources/hami.png"
+    "resource_image_url": "assets/resources/hami.png",
+    "wonders": "Fruit Temple"
   },
   {
     "url": null,
@@ -277,7 +296,8 @@
     "creature_description": "Azure Fish live in a vacuum. Their bodies have special fins which enable them to swim through the universe, and they make wonderful companions for space travels.",
     "creature_image_url": "assets/creatures/coral.png",
     "resource": "Coral",
-    "resource_image_url": "assets/resources/coral.png"
+    "resource_image_url": "assets/resources/coral.png",
+    "wonders": "Pearl Mussel"
   },
   {
     "url": null,
@@ -291,7 +311,8 @@
     "creature_description": "The special scales on the Sandworms' bodies enable them to swim freely in the sand. Though they look fierce, in fact they only feed on small cacti.",
     "creature_image_url": "assets/creatures/sand.png",
     "resource": "Soil",
-    "resource_image_url": "assets/resources/sand.png"
+    "resource_image_url": "assets/resources/sand.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -305,7 +326,8 @@
     "creature_description": "The Trident Hunter is an expert swimmer and loves to eat octopus. They are skilled at harpooning prey at great speed from the seabed, turning the catch into tasty seafood delicacies.",
     "creature_image_url": "assets/creatures/octopus.png",
     "resource": "Octopus",
-    "resource_image_url": "assets/resources/octopus.png"
+    "resource_image_url": "assets/resources/octopus.png",
+    "wonders": "Octopus Prison"
   },
   {
     "url": null,
@@ -319,7 +341,8 @@
     "creature_description": "Viscous Tako has a very gentle personality and moves as slowly as sloth. The viscous substance on its body helps it to immobilize its natural predator, the crocodile.",
     "creature_image_url": "assets/creatures/swamp.png",
     "resource": "Gas",
-    "resource_image_url": "assets/resources/swamp.png"
+    "resource_image_url": "assets/resources/swamp.png",
+    "wonders": "Froggy Campfire"
   },
   {
     "url": null,
@@ -333,7 +356,8 @@
     "creature_description": "The Gassy Tako is very lightweight but also quite timid. At the slightest jolt, they go into hiding by turning into steam. When they speak, they sound like boiling water vapor.",
     "creature_image_url": "assets/creatures/smoky.png",
     "resource": "Steam",
-    "resource_image_url": "assets/resources/smoky.png"
+    "resource_image_url": "assets/resources/smoky.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -347,7 +371,8 @@
     "creature_description": "The Fiery Tako’s movements are very swift and agile, but they often worry about the fact that they accidentally scorch objects that they touch.",
     "creature_image_url": "assets/creatures/lava.png",
     "resource": "Fossils",
-    "resource_image_url": "assets/resources/lava.png"
+    "resource_image_url": "assets/resources/lava.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -361,7 +386,8 @@
     "creature_description": "The backside of the Noctiluca exudes a soft light. They enjoy gathering in swarms and flying around in the twilight, making them look as beautiful as a floating galaxy.",
     "creature_image_url": "assets/creatures/mushroom.png",
     "resource": "Mushrooms",
-    "resource_image_url": "assets/resources/mushroom.png"
+    "resource_image_url": "assets/resources/mushroom.png",
+    "wonders": "Mushroom Lattern"
   },
   {
     "url": null,
@@ -375,7 +401,8 @@
     "creature_description": "The Fat Slime became overweight because it ate too many sweets. It moves extremely slowly and loves to eat. When not eating, the Fat Slime can be found sleeping.",
     "creature_image_url": "assets/creatures/banana.png",
     "resource": "Sundaes",
-    "resource_image_url": "assets/resources/banana.png"
+    "resource_image_url": "assets/resources/banana.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -389,7 +416,8 @@
     "creature_description": "The White Treant is extremely rare and can only be found on planets in the Northern Quadrant. They are highly adept at collecting bark, and thus have been exploited by the Queen of Cheats for ages.",
     "creature_image_url": "assets/creatures/deer.png",
     "resource": "Leather",
-    "resource_image_url": "assets/resources/deer.png"
+    "resource_image_url": "assets/resources/deer.png",
+    "wonders": "Christmas Reindeer"
   },
   {
     "url": null,
@@ -403,7 +431,8 @@
     "creature_image_url": "assets/creatures/candy.png",
     "creature_description": "The Cane Tako wears red and white stripes and looooooooves sweets. It won't eat anything that isn't covered in powdered sugar.",
     "resource": "Candy",
-    "resource_image_url": "assets/resources/candy.png"
+    "resource_image_url": "assets/resources/candy.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -417,7 +446,8 @@
     "creature_description": "The Tater Crab's right claw is a large clamp, allowing it to crush a potato into mashed potatoes in a single motion, after which it likes to bring the snack back to a cave to enjoy.",
     "creature_image_url": "assets/creatures/potato.png",
     "resource": "Taters",
-    "resource_image_url": "assets/resources/potato.png"
+    "resource_image_url": "assets/resources/potato.png",
+    "wonders": "Space Crispy Bacon"
   },
   {
     "url": null,
@@ -431,7 +461,8 @@
     "creature_description": "Kitty Longlegs has fantastic sewing skills. Their sophisticated and intricate weaving is famous throughout the galaxy.",
     "creature_image_url": "assets/creatures/cat.png",
     "resource": "Cloth",
-    "resource_image_url": "assets/resources/cat.png"
+    "resource_image_url": "assets/resources/cat.png",
+    "wonders": "The King of Cats"
   },
   {
     "url": null,
@@ -445,7 +476,8 @@
     "creature_description": "The Radiant Beetle is a unique nocturnal species. The crystals on the beetle's back absorb daylight during the day, then emit magnificent colorful rays at night.",
     "creature_image_url": "assets/creatures/crystal.png",
     "resource": "Crystal",
-    "resource_image_url": "assets/resources/crystal.png"
+    "resource_image_url": "assets/resources/crystal.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -459,7 +491,8 @@
     "creature_description": "The thorns on a Cactus Slime’s head look sharp, but they are actually quite soft. They like to disguise themselves as real cacti and just sort of space out in the desert.",
     "creature_image_url": "assets/creatures/cactus.png",
     "resource": "Jus de Cactus",
-    "resource_image_url": "assets/resources/cactus.png"
+    "resource_image_url": "assets/resources/cactus.png",
+    "wonders": "Golden Lion"
   },
   {
     "url": null,
@@ -473,7 +506,8 @@
     "creature_description": "The cubelike Sugar Cuber seems happy every day, and loves to roll to and fro, messing around with the members of the tribe.",
     "creature_image_url": "assets/creatures/donut.png",
     "resource": "Sugar",
-    "resource_image_url": "assets/resources/donut.png"
+    "resource_image_url": "assets/resources/donut.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -487,7 +521,8 @@
     "creature_description": "The different colors on the Color Bee come from different flowers. Brilliant in appearance, these bees love to dance with the flowers.",
     "creature_image_url": "assets/creatures/flower.png",
     "resource": "Flowers",
-    "resource_image_url": "assets/resources/flower.png"
+    "resource_image_url": "assets/resources/flower.png",
+    "wonders": "Flower Parasol"
   },
   {
     "url": null,
@@ -501,7 +536,8 @@
     "creature_description": "Shapeshifters are magical creatures who can transform into other shapes for a short period of time. When they move, they are really malleable and actually kind of cute.",
     "creature_image_url": "assets/creatures/virus.png",
     "resource": "Virus",
-    "resource_image_url": "assets/resources/virus.png"
+    "resource_image_url": "assets/resources/virus.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -515,7 +551,8 @@
     "creature_description": "Pepper Crabs love to sleep. They are only awake for 4 hours a day, with the rest of the day spent sleeping in the hollowed center of their floating pepper planet.",
     "creature_image_url": "assets/creatures/pepper.png",
     "resource": "Bell Pepper",
-    "resource_image_url": "assets/resources/pepper.png"
+    "resource_image_url": "assets/resources/pepper.png",
+    "wonders": "Crab King"
   },
   {
     "url": null,
@@ -529,7 +566,8 @@
     "creature_description": "Zombies are immortal and don't have any senses. Their greatest desire is to regain the ability to taste delicious food and feel the temperature of their environments.",
     "creature_image_url": "assets/creatures/brain.png",
     "resource": "Blood",
-    "resource_image_url": "assets/resources/brain.png"
+    "resource_image_url": "assets/resources/brain.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -543,7 +581,8 @@
     "creature_description": "Observed from afar, the red spots on the Fire Beetle's back appear to be a pair of large, terrifying eyes. These timid creatures rely on this trick to avoid harm from their natural predators.",
     "creature_image_url": "assets/creatures/beetle.png",
     "resource": "Dye",
-    "resource_image_url": "assets/resources/beetle.png"
+    "resource_image_url": "assets/resources/beetle.png",
+    "wonders": "Beetle Bot"
   },
   {
     "url": null,
@@ -557,7 +596,8 @@
     "creature_description": "Musical Andrew is a robot repurposed from a music box. The huge winding key on their backs propels them forward, and their soft music has a comforting effect.",
     "creature_image_url": "assets/creatures/music.png",
     "resource": "Notes",
-    "resource_image_url": "assets/resources/music.png"
+    "resource_image_url": "assets/resources/music.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -571,7 +611,8 @@
     "creature_description": "Scarecrows only have one leg. They don't move and rarely eat, so they like it when sparrows rest on them and sing a sweet melody.",
     "creature_image_url": "assets/creatures/wheat.png",
     "resource": "Wheat",
-    "resource_image_url": "assets/resources/wheat.png"
+    "resource_image_url": "assets/resources/wheat.png",
+    "wonders": "Harvest Warehouse"
   },
   {
     "url": null,
@@ -585,7 +626,8 @@
     "creature_description": "Farmers work hard every day. They rise with the sun and go to bed with the moon, living as one with nature.",
     "creature_image_url": "assets/creatures/grass.png",
     "resource": "Spices",
-    "resource_image_url": "assets/resources/grass.png"
+    "resource_image_url": "assets/resources/grass.png",
+    "wonders": "Dragon Vine"
   },
   {
     "url": null,
@@ -599,7 +641,8 @@
     "creature_description": "Ebony Bats are the witch's minions. They like sleeping upside down on tree branches and dream of growing up one day to become mythical vampires.",
     "creature_image_url": "assets/creatures/witch.png",
     "resource": "Pumpkins",
-    "resource_image_url": "assets/resources/witch.png"
+    "resource_image_url": "assets/resources/witch.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -613,7 +656,8 @@
     "creature_description": "Electric Andrew always emits a weak blue light, and they are experts in industrial work. People who accidentally touch them risk electrocution.",
     "creature_image_url": "assets/creatures/circuit.png",
     "resource": "Chips",
-    "resource_image_url": "assets/resources/circuit.png"
+    "resource_image_url": "assets/resources/circuit.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -627,7 +671,8 @@
     "creature_description": "The Golden Treant spreads across the gold mine absorbing nutrients all year long, giving it golden leaves and a thick, silvery skin.",
     "creature_image_url": "assets/creatures/mine.png",
     "resource": "Metal",
-    "resource_image_url": "assets/resources/mine.png"
+    "resource_image_url": "assets/resources/mine.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -641,7 +686,8 @@
     "creature_description": "A Fire Poring’s body looks like a ball of transparent flame, so they don’t require other light sources. The only problem is that they remain really bright even at bedtime.",
     "creature_image_url": "assets/creatures/flame.png",
     "resource": "Fire",
-    "resource_image_url": "assets/resources/flame.png"
+    "resource_image_url": "assets/resources/flame.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -655,7 +701,8 @@
     "creature_description": "With huge, bright twin tusks, the Wild Boar hunts prey quickly and mercilessly. It's impossible to track the boar's movements with the naked eye.",
     "creature_image_url": "assets/creatures/pig.png",
     "resource": "Meat",
-    "resource_image_url": "assets/resources/pig.png"
+    "resource_image_url": "assets/resources/pig.png",
+    "wonders": "Pig King Castle"
   },
   {
     "url": null,
@@ -669,7 +716,8 @@
     "creature_description": "The Shaggy Bat likes to hide in sheep's wool. They feed on small insects hiding in the wool, which also helps keep the sheep clean, something the sheep really appreciate!",
     "creature_image_url": "assets/creatures/sheep.png",
     "resource": "Wool",
-    "resource_image_url": "assets/resources/sheep.png"
+    "resource_image_url": "assets/resources/sheep.png",
+    "wonders": "Giant Bell"
   },
   {
     "url": null,
@@ -683,7 +731,8 @@
     "creature_description": "Crabbermelons love eating watermelons. They hoard the watermelons that they find in caves, or use pierce the fruit with with mouths to enjoy its delectable juice.",
     "creature_image_url": "assets/creatures/watermelon.png",
     "resource": "Watermelons",
-    "resource_image_url": "assets/resources/watermelon.png"
+    "resource_image_url": "assets/resources/watermelon.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -697,7 +746,8 @@
     "creature_description": "Treants have naturally peaceful personalities, though their thick skins have a rough bark-like texture. They love playing hide and seek in the woods, and their greatest fear is fire.",
     "creature_image_url": "assets/creatures/forest.png",
     "resource": "Wood",
-    "resource_image_url": "assets/resources/forest.png"
+    "resource_image_url": "assets/resources/forest.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -711,7 +761,8 @@
     "creature_description": "The Choco Crabs born along the Chocolate River have very strong right claws. Their white shells make them look like shimmering stars when they wander in groups along the river.",
     "creature_image_url": "assets/creatures/chocolate.png",
     "resource": "Chocolate",
-    "resource_image_url": "assets/resources/chocolate.png"
+    "resource_image_url": "assets/resources/chocolate.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -725,7 +776,8 @@
     "creature_description": "Chinese Dolls are terrified of the New Year Beast. They carry firecrackers with them every day. When something causes them to be afraid, they take out the firecrackers to intimidate people. But they often target the wrong people.",
     "creature_image_url": "assets/creatures/newyear.png",
     "resource": "Ingot",
-    "resource_image_url": "assets/resources/newyear.png"
+    "resource_image_url": "assets/resources/newyear.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -739,7 +791,8 @@
     "creature_description": "Once it comes of age, a couple beetle must find another beetle with whom to partner. They are together 24 hours a day, 365 days a year, and never wish to part for the rest of their lives.",
     "creature_image_url": "assets/creatures/valentine.png",
     "resource": "Diamond",
-    "resource_image_url": "assets/resources/valentine.png"
+    "resource_image_url": "assets/resources/valentine.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -753,7 +806,8 @@
     "creature_description": "Nutcracker loves to play with children. They are very good at minding many children at once and love best to hear the sounds of joyful frolicking.",
     "creature_image_url": "assets/creatures/childfes.png",
     "resource": "Toy",
-    "resource_image_url": "assets/resources/childfes.png"
+    "resource_image_url": "assets/resources/childfes.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -767,7 +821,8 @@
     "creature_description": "Easter Bunnies are very vivacious. They love to gather around the multicolored rocks and while away a leisurely afternoon lying and rolling on the soft grass.",
     "creature_image_url": "assets/creatures/easter.png",
     "resource": "Color",
-    "resource_image_url": "assets/resources/easter.png"
+    "resource_image_url": "assets/resources/easter.png",
+    "wonders": "Giant Easter Eggs"
   },
   {
     "url": null,
@@ -781,7 +836,8 @@
     "creature_description": "Mom Andrew wears a fluffy wig. When she does domestic chores, she is fast and tidy. A favorite thing for the children is to gather around and rest beside Mom Andrew.",
     "creature_image_url": "assets/creatures/mother.png",
     "resource": "Love",
-    "resource_image_url": "assets/resources/mother.png"
+    "resource_image_url": "assets/resources/mother.png",
+    "wonders": "Mountain Bread"
   },
   {
     "url": null,
@@ -795,7 +851,8 @@
     "creature_description": "Poet is a creature who keeps himself amused. Every day he lies beside the lake, starring at the water and looking up the sky, and revels in his own literary world.",
     "creature_image_url": "assets/creatures/dragonboat.png",
     "resource": "Leaf",
-    "resource_image_url": "assets/resources/dragonboat.png"
+    "resource_image_url": "assets/resources/dragonboat.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -809,7 +866,8 @@
     "creature_description": "Jiangshi's bodies are usually stiff all over and can only move forward by way of hopping. On being frightened, however, they can dash forward at an unexpectedly fast pace.",
     "creature_image_url": "assets/creatures/ghostfes.png",
     "resource": "Spirit",
-    "resource_image_url": "assets/resources/ghostfes.png"
+    "resource_image_url": "assets/resources/ghostfes.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -823,7 +881,8 @@
     "creature_description": "Dad Andrew works hard every day. He enjoys exhaling white smoke rings and is happiest spending time with his family on the sofa.",
     "creature_image_url": "assets/creatures/father.png",
     "resource": "Button",
-    "resource_image_url": "assets/resources/father.png"
+    "resource_image_url": "assets/resources/father.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -837,7 +896,8 @@
     "creature_description": "The rabbits' favorite thing to do is to rest beside the lake and watch the moonlight at the bottom of the lake. They get their bodies wet by rolling beside the lake and have to spend an entire afternoon sunbathing themselves dry.",
     "creature_image_url": "assets/creatures/moonfes.png",
     "resource": "Light",
-    "resource_image_url": "assets/resources/moonfes.png"
+    "resource_image_url": "assets/resources/moonfes.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -851,7 +911,8 @@
     "creature_description": "Little ghosts usually drift here and there with nothing much to do. They love to hide in the shadows and scare children who pass by. They derive satisfaction from the sounds of screaming.",
     "creature_image_url": "assets/creatures/halloween.png",
     "resource": "Screaming",
-    "resource_image_url": "assets/resources/halloween.png"
+    "resource_image_url": "assets/resources/halloween.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -865,7 +926,8 @@
     "creature_description": "Jumpers like to hop around a meal table and gobble up food by stealth. People would often find turkeys, cakes and other food gone missing mysteriously.",
     "creature_image_url": "assets/creatures/thanksgiving.png",
     "resource": "Chicken",
-    "resource_image_url": "assets/resources/thanksgiving.png"
+    "resource_image_url": "assets/resources/thanksgiving.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -879,7 +941,8 @@
     "creature_description": "Santa Clauses like to gather in groups in the cold forest. Every December they ride their sleigh spacecraft and distribute presents to well-behaved little children.",
     "creature_image_url": "assets/creatures/christmas.png",
     "resource": "Jingle",
-    "resource_image_url": "assets/resources/christmas.png"
+    "resource_image_url": "assets/resources/christmas.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -893,7 +956,8 @@
     "creature_description": "Goldfish love to hide in the aquarium's deepest regions, where the rich oxygen and plentiful food source enable them to live every day happily.",
     "creature_image_url": "assets/creatures/fishpot.png",
     "resource": "Fishbone",
-    "resource_image_url": "assets/resources/fishpot.png"
+    "resource_image_url": "assets/resources/fishpot.png",
+    "wonders": "Elder Whale"
   },
   {
     "url": null,
@@ -907,7 +971,8 @@
     "creature_description": "Legend says the wisps were the pets of the ancient aliens; other sources say they are the remaining consciousness of the aliens. But the truth remains unknown to humanity.",
     "creature_image_url": "assets/creatures/artifact.png",
     "resource": "Conscious",
-    "resource_image_url": "assets/resources/artifact.png"
+    "resource_image_url": "assets/resources/artifact.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -921,7 +986,8 @@
     "creature_description": "The tail of the bulbee glows with a faint light. It is said that catching ten bulbees will lead to an endless supply of creative inspiration.",
     "creature_image_url": "assets/creatures/bulb.png",
     "resource": "Idea",
-    "resource_image_url": "assets/resources/bulb.png"
+    "resource_image_url": "assets/resources/bulb.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -935,7 +1001,8 @@
     "creature_description": "When soccer referees mean business, they get really serious. But most of the time they are actually hiding in the rest area and taking surreptitious naps.",
     "creature_image_url": "assets/creatures/soccer.png",
     "resource": "Passion",
-    "resource_image_url": "assets/resources/soccer.png"
+    "resource_image_url": "assets/resources/soccer.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -949,7 +1016,8 @@
     "creature_description": "Invisible Polly cannot see one another. They often collide inadvertently and get tangled up into a ball. But they really like the feeling of sleeping and nesting together.",
     "creature_image_url": "assets/creatures/invisible.png",
     "resource": "Invisibility",
-    "resource_image_url": "assets/resources/invisible.png"
+    "resource_image_url": "assets/resources/invisible.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -963,7 +1031,8 @@
     "creature_description": "Tiny Cutie loves to eat hamburgers. He loves to make a doona out of warm cheese and have a siesta on the soft hamburger hill.",
     "creature_image_url": "assets/creatures/burger.png",
     "resource": "Fries",
-    "resource_image_url": "assets/resources/burger.png"
+    "resource_image_url": "assets/resources/burger.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -977,7 +1046,8 @@
     "creature_description": "The bodies of Butterling give off a delicious aroma. Even from far away places, you can smell their bodies' aroma. They are very alluring.",
     "creature_image_url": "assets/creatures/popcorn.png",
     "resource": "Popcorn",
-    "resource_image_url": "assets/resources/popcorn.png"
+    "resource_image_url": "assets/resources/popcorn.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -991,7 +1061,8 @@
     "creature_description": "Frisbees are fondest of dogs. They love the feeling of flying in front of a dog and being chased. They also love to sleep while curled up in a blanket with a dog.",
     "creature_image_url": "assets/creatures/bone.png",
     "resource": "Tooth",
-    "resource_image_url": "assets/resources/bone.png"
+    "resource_image_url": "assets/resources/bone.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1005,7 +1076,8 @@
     "creature_description": "The resonance from the flapping of the Gray Bats' wings can help stabilise the planet's weather. They sleep during the day, come out during the night, and make the nights quiet and peaceful.",
     "creature_image_url": "assets/creatures/cloud.png",
     "resource": "Cloud",
-    "resource_image_url": "assets/resources/cloud.png"
+    "resource_image_url": "assets/resources/cloud.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1019,7 +1091,8 @@
     "creature_description": "Racing Andrew is one of the indispensable stalwarts during the S1 car race. They work as referees, repairmen, rescue officers and race-car drivers.",
     "creature_image_url": "assets/creatures/racing.png",
     "resource": "Hurray",
-    "resource_image_url": "assets/resources/racing.png"
+    "resource_image_url": "assets/resources/racing.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1033,7 +1106,8 @@
     "creature_description": "In the bodies of the Romans flow the blood of ancient heroes. They are brave, fierce and fearless, and watch over their ancestors' spirits to eternity.",
     "creature_image_url": "assets/creatures/roman.png",
     "resource": "Soul",
-    "resource_image_url": "assets/resources/roman.png"
+    "resource_image_url": "assets/resources/roman.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1047,7 +1121,8 @@
     "creature_description": "Colossus is the spiritual essence of an ancient legacy. It is said that these beings made up of stones and machines possess emotions and cognitive faculty.",
     "creature_image_url": "assets/creatures/ruins.png",
     "resource": "Rune",
-    "resource_image_url": "assets/resources/ruins.png"
+    "resource_image_url": "assets/resources/ruins.png",
+    "wonders": "Brave Explorer"
   },
   {
     "url": null,
@@ -1061,7 +1136,8 @@
     "creature_description": "Viking Beetles love to hide in helmets and pretend to be brave. Actually, they are the most timid creature in the universe.",
     "creature_image_url": "assets/creatures/viking.png",
     "resource": "Copper",
-    "resource_image_url": "assets/resources/viking.png"
+    "resource_image_url": "assets/resources/viking.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1075,7 +1151,8 @@
     "creature_description": "Tiny Dinos are hungry every day. They clamour for meat, but no amount of food can satisfy their hunger.",
     "creature_image_url": "assets/creatures/stoneage.png",
     "resource": "Plate",
-    "resource_image_url": "assets/resources/stoneage.png"
+    "resource_image_url": "assets/resources/stoneage.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1089,7 +1166,8 @@
     "creature_description": "Tiny Knight's mission in life is to slay the dragon. Nevertheless, all he does every day is scratch the dragon and help him catch fleas.",
     "creature_image_url": "assets/creatures/dragon.png",
     "resource": "Dragonclaw",
-    "resource_image_url": "assets/resources/dragon.png"
+    "resource_image_url": "assets/resources/dragon.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1103,7 +1181,8 @@
     "creature_description": "Black Tako hides next to the Panda and is very difficult to detect. They love to eat leftovers from the Panda's bamboo.",
     "creature_image_url": "assets/creatures/panda.png",
     "resource": "Bamboo",
-    "resource_image_url": "assets/resources/panda.png"
+    "resource_image_url": "assets/resources/panda.png",
+    "wonders": "Panda Jr."
   },
   {
     "url": null,
@@ -1117,7 +1196,8 @@
     "creature_description": "Librarian Andrew is clever and nimble. It takes only 30 seconds for him to find any book you are looking for.",
     "creature_image_url": "assets/creatures/library.png",
     "resource": "Knowledge",
-    "resource_image_url": "assets/resources/library.png"
+    "resource_image_url": "assets/resources/library.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1131,7 +1211,8 @@
     "creature_description": "Ghost Fire floats soundlessly in the graveyard. Their laughter sounds like crying; their crying sounds like laughter. It is very confusing for people.",
     "creature_image_url": "assets/creatures/tomb.png",
     "resource": "Bone",
-    "resource_image_url": "assets/resources/tomb.png"
+    "resource_image_url": "assets/resources/tomb.png",
+    "wonders": "Best Friend's Party"
   },
   {
     "url": null,
@@ -1145,7 +1226,8 @@
     "creature_description": "Super Andrew is said to be the product of another world. They can suddenly disappear before your eyes and appear immediately in the distance.",
     "creature_image_url": "assets/creatures/portal.png",
     "resource": "Superpower",
-    "resource_image_url": "assets/resources/portal.png"
+    "resource_image_url": "assets/resources/portal.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1159,7 +1241,8 @@
     "creature_description": "Ocean Poring was born in the big ocean. Their constituent element is water. You can't see them when they are hiding in the water.",
     "creature_image_url": "assets/creatures/ocean.png",
     "resource": "Salt",
-    "resource_image_url": "assets/resources/ocean.png"
+    "resource_image_url": "assets/resources/ocean.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1173,7 +1256,8 @@
     "creature_description": "The cute little Dreamcatchers love to eat sweet dreams. If they inadvertently taste a nightmare, they would scuttle away in fright.",
     "creature_image_url": "assets/creatures/fluffy.png",
     "resource": "Dream",
-    "resource_image_url": "assets/resources/fluffy.png"
+    "resource_image_url": "assets/resources/fluffy.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1187,7 +1271,8 @@
     "creature_description": "The neon fish have hidden for 400 years in this game of hide-and-seek. They keep humming the words: where do you think we are hiding?",
     "creature_image_url": "assets/creatures/seaweed.png",
     "resource": "Sea Weed",
-    "resource_image_url": "assets/resources/seaweed.png"
+    "resource_image_url": "assets/resources/seaweed.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1201,7 +1286,8 @@
     "creature_description": "The resident werefish pray to their fish prophets every day in the hope that peace and harmony in the world can continue to last.",
     "creature_image_url": "assets/creatures/pond.png",
     "resource": "Lotus Seed",
-    "resource_image_url": "assets/resources/pond.png"
+    "resource_image_url": "assets/resources/pond.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1215,7 +1301,8 @@
     "creature_description": "The neon warm love to twist and turn their bodies. By nature, they are crazy about dancing. Their glowing bodies always make them the center of every dancing party.",
     "creature_image_url": "assets/creatures/neon.png",
     "resource": "Neon",
-    "resource_image_url": "assets/resources/neon.png"
+    "resource_image_url": "assets/resources/neon.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1229,7 +1316,8 @@
     "creature_description": "The clown has developed many skills to show the visitors so that everyone will get an entertainment worthy of the price of admission.",
     "creature_image_url": "assets/creatures/circus.png",
     "resource": "Ticket",
-    "resource_image_url": "assets/resources/circus.png"
+    "resource_image_url": "assets/resources/circus.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1243,7 +1331,8 @@
     "creature_description": "The flying fish is an old friend as well as the surfing instructor of the whale. He has been teaching the whale how to play in the water.",
     "creature_image_url": "assets/creatures/whale.png",
     "resource": "Wave",
-    "resource_image_url": "assets/resources/whale.png"
+    "resource_image_url": "assets/resources/whale.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1257,7 +1346,8 @@
     "creature_description": "Under the protection of the king of the beasts, the masker is very successful in his hunt. But it is said that if the hunter fails to bring an offering to the king, the king will get angry.",
     "creature_image_url": "assets/creatures/aborigine.png",
     "resource": "Symbol",
-    "resource_image_url": "assets/resources/aborigine.png"
+    "resource_image_url": "assets/resources/aborigine.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1271,7 +1361,8 @@
     "creature_description": "The small hedgehogs love to use their quills to scratch the big hedgehog. They are very happy to see the satisfied expression on her face.",
     "creature_image_url": "assets/creatures/hedgehog.png",
     "resource": "Poison String",
-    "resource_image_url": "assets/resources/hedgehog.png"
+    "resource_image_url": "assets/resources/hedgehog.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1285,7 +1376,8 @@
     "creature_description": "The vendor here love to greet tourists cordially in the hope that they will leave this place carrying a multitude of souvenirs.",
     "creature_image_url": "assets/creatures/jiufen.png",
     "resource": "Lantern",
-    "resource_image_url": "assets/resources/jiufen.png"
+    "resource_image_url": "assets/resources/jiufen.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1299,7 +1391,8 @@
     "creature_description": "Cowboys love to get their hair all gray and dusty in this stretch of dusty wilderness. The only thing on their mind is who will find the treasure first.",
     "creature_image_url": "assets/creatures/cowboy.png",
     "resource": "Start Badge",
-    "resource_image_url": "assets/resources/cowboy.png"
+    "resource_image_url": "assets/resources/cowboy.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1313,7 +1406,8 @@
     "creature_description": "As the Hun sees daily that the wall he is building gets longer and longer, he also feels that his land is getting smaller and smaller. This makes him very anxious.",
     "creature_image_url": "assets/creatures/greatwall.png",
     "resource": "Brick",
-    "resource_image_url": "assets/resources/greatwall.png"
+    "resource_image_url": "assets/resources/greatwall.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1327,7 +1421,8 @@
     "creature_description": "The fairy foxes are the faithful admirers of the cherry blossom fairies. But at the sight of the fairies, they become shy and motionless.",
     "creature_image_url": "assets/creatures/sakura.png",
     "resource": "Sakura",
-    "resource_image_url": "assets/resources/sakura.png"
+    "resource_image_url": "assets/resources/sakura.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1341,7 +1436,8 @@
     "creature_description": "The olive treant break off into pairs and mated for life. They can produce quite a few verdant new generations.",
     "creature_image_url": "assets/creatures/mediterranean.png",
     "resource": "Olive",
-    "resource_image_url": "assets/resources/mediterranean.png"
+    "resource_image_url": "assets/resources/mediterranean.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1355,7 +1451,8 @@
     "creature_description": "Bobs are the managers here. Their job is to rescue those who are unable to get up after sliding down.",
     "creature_image_url": "assets/creatures/bubblegum.png",
     "resource": "Bubble Gum",
-    "resource_image_url": "assets/resources/bubblegum.png"
+    "resource_image_url": "assets/resources/bubblegum.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1369,7 +1466,8 @@
     "creature_description": "For a long time, the seahorse have been blown about by the grievous puffs of the puffer fish. They have been quietly putting up with their fate as the puffer fish's punching bags.",
     "creature_image_url": "assets/creatures/pufferfish.png",
     "resource": "Angry",
-    "resource_image_url": "assets/resources/pufferfish.png"
+    "resource_image_url": "assets/resources/pufferfish.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1383,7 +1481,8 @@
     "creature_description": "The cabbages are very troubled by the arrival of the rabbits. Their originally peaceful life has changed its tenor.",
     "creature_image_url": "assets/creatures/rabbit.png",
     "resource": "Carrot",
-    "resource_image_url": "assets/resources/rabbit.png"
+    "resource_image_url": "assets/resources/rabbit.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1397,7 +1496,8 @@
     "creature_description": "All magicians who have passed their graduation exams are sent here to keep watch. To them, this is the highest honor.",
     "creature_image_url": "assets/creatures/seal.png",
     "resource": "Seal",
-    "resource_image_url": "assets/resources/seal.png"
+    "resource_image_url": "assets/resources/seal.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1411,7 +1511,8 @@
     "creature_description": "Bone fish are the tiny creatures that have fallen from the skeleton bird's body. They have been quietly keeping her company here.",
     "creature_image_url": "assets/creatures/cage.png",
     "resource": "Evilbone",
-    "resource_image_url": "assets/resources/cage.png"
+    "resource_image_url": "assets/resources/cage.png",
+    "wonders": ""
   },
   {
     "url": null,
@@ -1425,6 +1526,7 @@
     "creature_description": "The jumpy musk deer are residents here. Since ancient times, they have been bathing in the bottle. The more they bathe, the more fragrant the pool becomes.",
     "creature_image_url": "assets/creatures/perfume.png",
     "resource": "Musk",
-    "resource_image_url": "assets/resources/perfume.png"
+    "resource_image_url": "assets/resources/perfume.png",
+    "wonders": ""
   }
 ]
