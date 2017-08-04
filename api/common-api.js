@@ -26,7 +26,7 @@ module.exports = {
     }, {});
   },
   getBasePrice(index) {
-    return { coins: 300 * Math.pow(index, 2) - 150 * (index - 3), cubes: undefined, time: undefined };
+    return { coins: 300 * Math.pow(index, 2) - 150 * (index - 3), cubes: undefined };
   },
   getUpgradePrice(basePrice, level) {
     return {

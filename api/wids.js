@@ -62,13 +62,21 @@ module.exports = function (router) {
             });
 
             if (discovery.planet.name !== 'Earth') {
+              /* Discovery */
               discovery.discovery.time = 90 * Math.pow(discovery.index, 2) + 1710 * discovery.index;
+              discovery.discovery.boost = {
+                energy: discovery.discovery.time / 6 * 10,
+                cubes: discovery.discovery.time / 180
+              };
+
+              /* Upgrading */
               discovery.upgrade = {
                 base_price: CommonApi.getBasePrice(discovery.index),
                 time: discovery.discovery.time
               };
               discovery.upgrade.next_price = discovery.level == 7 ? null : CommonApi.getUpgradePrice(discovery.upgrade.base_price, discovery.level);
 
+              /* Production */
               discovery.production = {
                 requirements: discovery.planet.name == 'Earth' ? null : {
                   name: 'food',
