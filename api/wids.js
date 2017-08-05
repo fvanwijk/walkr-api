@@ -54,7 +54,7 @@ module.exports = function (router) {
         function (err, item) {
           CommonApi.catchWrapper(err, item, res, function (res, item) {
 
-            item.planets.sort((a, b) => a.distance < b.distance ? -1 : 1);
+            item.planets.sort((a, b) => a.discovery.distance < b.discovery.distance ? -1 : 1);
 
             const discovery = item.planets.find((discovery, i) => {
               discovery.index = i;

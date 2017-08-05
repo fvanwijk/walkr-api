@@ -16,8 +16,8 @@
           "name": "Earth",
           "url": "http://localhost:1337/api/planets/1"
         },
-        "distance": 0,
         "discovery": {
+          "distance": 0,
           "date": null
         },
         "level": null
@@ -32,8 +32,8 @@
           "name": "Colossal Pepper",
           "url": "http://localhost:1337/api/planets/37"
         },
-        "distance": 319,
         "discovery": {
+          "distance": 319,
           "date": "2016-04-02T22:00:00.000Z"
         },
         "level": 7
@@ -48,8 +48,8 @@
           "name": "Desert Breeze",
           "url": "http://localhost:1337/api/planets/33"
         },
-        "distance": 1165,
         "discovery": {
+          "distance": 1165,
           "date": "2016-04-02T22:00:00.000Z"
         },
         "level": 7
@@ -64,8 +64,8 @@
           "name": "Luminous Fungus",
           "url": "http://localhost:1337/api/planets/26"
         },
-        "distance": 1637,
         "discovery": {
+          "distance": 1637,
           "date": "2016-04-02T22:00:00.000Z"
         },
         "level": 7
@@ -80,8 +80,8 @@
           "name": "Golden Gusher",
           "url": "http://localhost:1337/api/planets/10"
         },
-        "distance": 1998,
         "discovery": {
+          "distance": 1998,
           "date": "2016-04-02T22:00:00.000Z"
         },
         "level": 7
@@ -96,8 +96,8 @@
           "name": "Ancient Worldtree",
           "url": "http://localhost:1337/api/planets/75"
         },
-        "distance": 2306,
         "discovery": {
+          "distance": 2306,
           "date": "2016-04-03T22:00:00.000Z"
         },
         "level": 7
@@ -112,8 +112,8 @@
           "name": "Rainbow Eggs",
           "url": "http://localhost:1337/api/planets/55"
         },
-        "distance": 2721,
         "discovery": {
+          "distance": 2721,
           "date": "2016-04-03T22:00:00.000Z"
         },
         "level": 7
@@ -128,8 +128,8 @@
           "name": "Swamp of Crocs",
           "url": "http://localhost:1337/api/planets/23"
         },
-        "distance": 3575,
         "discovery": {
+          "distance": 3575,
           "date": "2016-04-04T22:00:00.000Z"
         },
         "level": 7
@@ -144,8 +144,8 @@
           "name": "Tater Tower",
           "url": "http://localhost:1337/api/planets/30"
         },
-        "distance": 4070,
         "discovery": {
+          "distance": 4070,
           "date": "2016-04-04T22:00:00.000Z"
         },
         "level": 7
@@ -160,8 +160,8 @@
           "name": "Fossil Fern",
           "url": "http://localhost:1337/api/planets/6"
         },
-        "distance": 4577,
         "discovery": {
+          "distance": 4577,
           "date": "2016-04-05T22:00:00.000Z"
         },
         "level": 7
@@ -176,8 +176,8 @@
           "name": "Botanical Garden",
           "url": "http://localhost:1337/api/planets/35"
         },
-        "distance": 5269,
         "discovery": {
+          "distance": 5269,
           "date": "2016-04-06T22:00:00.000Z"
         },
         "level": 7
@@ -192,8 +192,8 @@
           "name": "Peaceful Prairie",
           "url": "http://localhost:1337/api/planets/42"
         },
-        "distance": 5638,
         "discovery": {
+          "distance": 5638,
           "date": "2016-04-07T22:00:00.000Z"
         },
         "level": 7
@@ -208,8 +208,8 @@
           "name": "Sunset Savanna",
           "url": "http://localhost:1337/api/planets/41"
         },
-        "distance": 6172,
         "discovery": {
+          "distance": 6172,
           "date": "2016-04-07T22:00:00.000Z"
         },
         "level": 7
@@ -224,8 +224,8 @@
           "name": "Boar Tribe",
           "url": "http://localhost:1337/api/planets/47"
         },
-        "distance": 6524,
         "discovery": {
+          "distance": 6524,
           "date": "2016-04-08T22:00:00.000Z"
         },
         "level": 7
@@ -240,8 +240,8 @@
           "name": "Cat's Play",
           "url": "http://localhost:1337/api/planets/31"
         },
-        "distance": 6998,
         "discovery": {
+          "distance": 6998,
           "date": "2016-04-09T22:00:00.000Z"
         },
         "level": 7
@@ -256,8 +256,8 @@
           "name": "Black & White",
           "url": "http://localhost:1337/api/planets/79"
         },
-        "distance": 7451,
         "discovery": {
+          "distance": 7451,
           "date": "2016-04-09T22:00:00.000Z"
         },
         "level": 7
@@ -272,8 +272,8 @@
           "name": "Woolly Peak",
           "url": "http://localhost:1337/api/planets/48"
         },
-        "distance": 8324,
         "discovery": {
+          "distance": 8324,
           "date": "2016-04-10T22:00:00.000Z"
         },
         "level": 7
@@ -288,8 +288,8 @@
           "name": "Coral Reef",
           "url": "http://localhost:1337/api/planets/20"
         },
-        "distance": 8683,
         "discovery": {
+          "distance": 8683,
           "date": "2016-04-11T22:00:00.000Z"
         },
         "level": 7
@@ -304,8 +304,8 @@
           "name": "Eagle's Nest",
           "url": "http://localhost:1337/api/planets/13"
         },
-        "distance": 9174,
         "discovery": {
+          "distance": 9174,
           "date": "2016-04-12T22:00:00.000Z"
         },
         "level": 6
@@ -320,8 +320,8 @@
           "name": "Honeycomb",
           "url": "http://localhost:1337/api/planets/3"
         },
-        "distance": 9524,
         "discovery": {
+          "distance": 9524,
           "date": "2016-04-13T22:00:00.000Z"
         },
         "level": 6
@@ -336,8 +336,8 @@
           "name": "King of Cows",
           "url": "http://localhost:1337/api/planets/4"
         },
-        "distance": 9934,
         "discovery": {
+          "distance": 9934,
           "date": "2016-04-15T22:00:00.000Z"
         },
         "level": 6
@@ -352,8 +352,8 @@
           "name": "Red Crater",
           "url": "http://localhost:1337/api/planets/39"
         },
-        "distance": 10727,
         "discovery": {
+          "distance": 10727,
           "date": "2016-04-17T22:00:00.000Z"
         },
         "level": 6
@@ -368,8 +368,8 @@
           "name": "Antler Ravine",
           "url": "http://localhost:1337/api/planets/28"
         },
-        "distance": 11235,
         "discovery": {
+          "distance": 11235,
           "date": "2016-04-18T22:00:00.000Z"
         },
         "level": 6
@@ -384,8 +384,8 @@
           "name": "Octopus Cavern",
           "url": "http://localhost:1337/api/planets/22"
         },
-        "distance": 11722,
         "discovery": {
+          "distance": 11722,
           "date": "2016-04-20T22:00:00.000Z"
         },
         "level": 6
@@ -400,8 +400,8 @@
           "name": "Deep-Sea Aquarium",
           "url": "http://localhost:1337/api/planets/64"
         },
-        "distance": 12554,
         "discovery": {
+          "distance": 12554,
           "date": "2016-04-21T22:00:00.000Z"
         },
         "level": 6
@@ -416,8 +416,8 @@
           "name": "Caramel Apple",
           "url": "http://localhost:1337/api/planets/2"
         },
-        "distance": 13464,
         "discovery": {
+          "distance": 13464,
           "date": "2016-04-23T22:00:00.000Z"
         },
         "level": 6
@@ -432,8 +432,8 @@
           "name": "Strawberry Cookies",
           "url": "http://localhost:1337/api/planets/17"
         },
-        "distance": 14001,
         "discovery": {
+          "distance": 14001,
           "date": "2016-04-25T22:00:00.000Z"
         },
         "level": 5
@@ -448,8 +448,8 @@
           "name": "Peaceful Graveyard",
           "url": "http://localhost:1337/api/planets/81"
         },
-        "distance": 14418,
         "discovery": {
+          "distance": 14418,
           "date": "2016-04-27T22:00:00.000Z"
         },
         "level": 5
@@ -464,8 +464,8 @@
           "name": "Housework Factory",
           "url": "http://localhost:1337/api/planets/56"
         },
-        "distance": 15396,
         "discovery": {
+          "distance": 15396,
           "date": "2016-04-30T22:00:00.000Z"
         },
         "level": 5
@@ -480,8 +480,8 @@
           "name": "Citrus Trampoline",
           "url": "http://localhost:1337/api/planets/14"
         },
-        "distance": 15857,
         "discovery": {
+          "distance": 15857,
           "date": "2016-05-03T22:00:00.000Z"
         },
         "level": 5
@@ -496,8 +496,8 @@
           "name": "Pineapple Foothills",
           "url": "http://localhost:1337/api/planets/16"
         },
-        "distance": 16251,
         "discovery": {
+          "distance": 16251,
           "date": "2016-05-05T22:00:00.000Z"
         },
         "level": 5
@@ -512,8 +512,8 @@
           "name": "Snow Berry",
           "url": "http://localhost:1337/api/planets/19"
         },
-        "distance": 16618,
         "discovery": {
+          "distance": 16618,
           "date": "2016-05-07T22:00:00.000Z"
         },
         "level": 5
@@ -528,8 +528,8 @@
           "name": "Sweet Donut",
           "url": "http://localhost:1337/api/planets/34"
         },
-        "distance": 17334,
         "discovery": {
+          "distance": 17334,
           "date": "2016-05-10T22:00:00.000Z"
         },
         "level": 5
@@ -544,8 +544,8 @@
           "name": "Chocolate River",
           "url": "http://localhost:1337/api/planets/51"
         },
-        "distance": 17731,
         "discovery": {
+          "distance": 17731,
           "date": "2016-05-12T22:00:00.000Z"
         },
         "level": 5
@@ -560,8 +560,8 @@
           "name": "Watermelon Canyon",
           "url": "http://localhost:1337/api/planets/49"
         },
-        "distance": 18121,
         "discovery": {
+          "distance": 18121,
           "date": "2016-05-15T22:00:00.000Z"
         },
         "level": 5
@@ -576,8 +576,8 @@
           "name": "Sugar Rush",
           "url": "http://localhost:1337/api/planets/29"
         },
-        "distance": 18592,
         "discovery": {
+          "distance": 18592,
           "date": "2016-05-18T22:00:00.000Z"
         },
         "level": 5
@@ -592,8 +592,8 @@
           "name": "Banana Boat",
           "url": "http://localhost:1337/api/planets/27"
         },
-        "distance": 18968,
         "discovery": {
+          "distance": 18968,
           "date": "2016-05-21T22:00:00.000Z"
         },
         "level": 4
@@ -608,8 +608,8 @@
           "name": "Bubble Gum",
           "url": "http://localhost:1337/api/planets/15"
         },
-        "distance": 19919,
         "discovery": {
+          "distance": 19919,
           "date": "2016-05-23T22:00:00.000Z"
         },
         "level": 4
@@ -624,8 +624,8 @@
           "name": "Meteor Adrift",
           "url": "http://localhost:1337/api/planets/7"
         },
-        "distance": 20427,
         "discovery": {
+          "distance": 20427,
           "date": "2016-05-27T22:00:00.000Z"
         },
         "level": 4
@@ -640,8 +640,8 @@
           "name": "Amazon Rainforest",
           "url": "http://localhost:1337/api/planets/50"
         },
-        "distance": 20849,
         "discovery": {
+          "distance": 20849,
           "date": "2016-05-29T22:00:00.000Z"
         },
         "level": 4
@@ -656,8 +656,8 @@
           "name": "River of Dragon",
           "url": "http://localhost:1337/api/planets/57"
         },
-        "distance": 21281,
         "discovery": {
+          "distance": 21281,
           "date": "2016-06-01T22:00:00.000Z"
         },
         "level": 4
@@ -672,8 +672,8 @@
           "name": "Molten Lava",
           "url": "http://localhost:1337/api/planets/25"
         },
-        "distance": 22055,
         "discovery": {
+          "distance": 22055,
           "date": "2016-06-04T22:00:00.000Z"
         },
         "level": 4
@@ -688,8 +688,8 @@
           "name": "Burger Mountain",
           "url": "http://localhost:1337/api/planets/69"
         },
-        "distance": 22540,
         "discovery": {
+          "distance": 22540,
           "date": "2016-06-07T22:00:00.000Z"
         },
         "level": 4
@@ -704,8 +704,8 @@
           "name": "Neon Party",
           "url": "http://localhost:1337/api/planets/87"
         },
-        "distance": 22950,
         "discovery": {
+          "distance": 22950,
           "date": "2016-06-10T22:00:00.000Z"
         },
         "level": 4
@@ -720,8 +720,8 @@
           "name": "Invisible Base",
           "url": "http://localhost:1337/api/planets/68"
         },
-        "distance": 23780,
         "discovery": {
+          "distance": 23780,
           "date": "2016-06-15T22:00:00.000Z"
         },
         "level": 4
@@ -736,8 +736,8 @@
           "name": "Popcorn Prison",
           "url": "http://localhost:1337/api/planets/70"
         },
-        "distance": 24285,
         "discovery": {
+          "distance": 24285,
           "date": "2016-06-21T22:00:00.000Z"
         },
         "level": 4
@@ -752,8 +752,8 @@
           "name": "Vault of Secrets",
           "url": "http://localhost:1337/api/planets/45"
         },
-        "distance": 24740,
         "discovery": {
+          "distance": 24740,
           "date": "2016-06-24T22:00:00.000Z"
         },
         "level": 4
@@ -768,8 +768,8 @@
           "name": "The Light of Ideas",
           "url": "http://localhost:1337/api/planets/66"
         },
-        "distance": 25592,
         "discovery": {
+          "distance": 25592,
           "date": "2016-04-29T22:00:00.000Z"
         },
         "level": 4
@@ -784,8 +784,8 @@
           "name": "Peace River",
           "url": "http://localhost:1337/api/planets/58"
         },
-        "distance": 26004,
         "discovery": {
+          "distance": 26004,
           "date": "2016-07-04T22:00:00.000Z"
         },
         "level": 4
@@ -800,8 +800,8 @@
           "name": "Rome Arena",
           "url": "http://localhost:1337/api/planets/74"
         },
-        "distance": 26393,
         "discovery": {
+          "distance": 26393,
           "date": "2016-07-07T22:00:00.000Z"
         },
         "level": 4
@@ -816,8 +816,8 @@
           "name": "Ice Age",
           "url": "http://localhost:1337/api/planets/12"
         },
-        "distance": 26727,
         "discovery": {
+          "distance": 26727,
           "date": "2016-07-10T22:00:00.000Z"
         },
         "level": 4
@@ -832,8 +832,8 @@
           "name": "Water World",
           "url": "http://localhost:1337/api/planets/5"
         },
-        "distance": 27591,
         "discovery": {
+          "distance": 27591,
           "date": "2016-07-15T22:00:00.000Z"
         },
         "level": 3
@@ -848,8 +848,8 @@
           "name": "Snow World",
           "url": "http://localhost:1337/api/planets/9"
         },
-        "distance": 28114,
         "discovery": {
+          "distance": 28114,
           "date": "2016-07-19T22:00:00.000Z"
         },
         "level": 3
@@ -864,8 +864,8 @@
           "name": "Waving Ocean",
           "url": "http://localhost:1337/api/planets/83"
         },
-        "distance": 28416,
         "discovery": {
+          "distance": 28416,
           "date": "2016-07-23T22:00:00.000Z"
         },
         "level": 3
@@ -880,8 +880,8 @@
           "name": "Lonely Dune",
           "url": "http://localhost:1337/api/planets/21"
         },
-        "distance": 28741,
         "discovery": {
+          "distance": 28741,
           "date": "2016-07-27T22:00:00.000Z"
         },
         "level": 3
@@ -896,8 +896,8 @@
           "name": "Busy City",
           "url": "http://localhost:1337/api/planets/59"
         },
-        "distance": 29690,
         "discovery": {
+          "distance": 29690,
           "date": "2016-07-31T22:00:00.000Z"
         },
         "level": 3
@@ -912,8 +912,8 @@
           "name": "Viking Warship",
           "url": "http://localhost:1337/api/planets/76"
         },
-        "distance": 29994,
         "discovery": {
+          "distance": 29994,
           "date": "2016-08-05T22:00:00.000Z"
         },
         "level": 3
@@ -928,8 +928,8 @@
           "name": "Heart of Flames",
           "url": "http://localhost:1337/api/planets/46"
         },
-        "distance": 30417,
         "discovery": {
+          "distance": 30417,
           "date": "2016-08-09T22:00:00.000Z"
         },
         "level": 3
@@ -944,8 +944,8 @@
           "name": "Aquatic Wonderland",
           "url": "http://localhost:1337/api/planets/85"
         },
-        "distance": 31310,
         "discovery": {
+          "distance": 31310,
           "date": "2016-08-14T22:00:00.000Z"
         },
         "level": 3
@@ -960,8 +960,8 @@
           "name": "Lotus Lake",
           "url": "http://localhost:1337/api/planets/86"
         },
-        "distance": 31793,
         "discovery": {
+          "distance": 31793,
           "date": "2016-08-20T22:00:00.000Z"
         },
         "level": 3
@@ -976,8 +976,8 @@
           "name": "Stone Age",
           "url": "http://localhost:1337/api/planets/77"
         },
-        "distance": 32202,
         "discovery": {
+          "distance": 32202,
           "date": "2016-08-25T22:00:00.000Z"
         },
         "level": 3
@@ -992,8 +992,8 @@
           "name": "Great Whale",
           "url": "http://localhost:1337/api/planets/89"
         },
-        "distance": 33108,
         "discovery": {
+          "distance": 33108,
           "date": "2016-08-30T22:00:00.000Z"
         },
         "level": 3
@@ -1008,8 +1008,8 @@
           "name": "Moon Lake",
           "url": "http://localhost:1337/api/planets/60"
         },
-        "distance": 33441,
         "discovery": {
+          "distance": 33441,
           "date": "2016-06-04T22:00:00.000Z"
         },
         "level": 3
@@ -1024,8 +1024,8 @@
           "name": "Raining Cloud",
           "url": "http://localhost:1337/api/planets/72"
         },
-        "distance": 33878,
         "discovery": {
+          "distance": 33878,
           "date": "2016-09-10T22:00:00.000Z"
         },
         "level": 3
@@ -1040,8 +1040,8 @@
           "name": "Ocean City",
           "url": "http://localhost:1337/api/planets/96"
         },
-        "distance": 34381,
         "discovery": {
+          "distance": 34381,
           "date": "2016-09-15T22:00:00.000Z"
         },
         "level": 3
@@ -1056,8 +1056,8 @@
           "name": "Infinite Racing",
           "url": "http://localhost:1337/api/planets/73"
         },
-        "distance": 35061,
         "discovery": {
+          "distance": 35061,
           "date": "2016-09-21T22:00:00.000Z"
         },
         "level": 3
@@ -1072,8 +1072,8 @@
           "name": "Baby Hedgehog",
           "url": "http://localhost:1337/api/planets/91"
         },
-        "distance": 35557,
         "discovery": {
+          "distance": 35557,
           "date": "2016-09-27T22:00:00.000Z"
         },
         "level": 3
@@ -1088,8 +1088,8 @@
           "name": "Scary Pumpkin",
           "url": "http://localhost:1337/api/planets/61"
         },
-        "distance": 35898,
         "discovery": {
+          "distance": 35898,
           "date": "2016-10-03T22:00:00.000Z"
         },
         "level": 3
@@ -1104,8 +1104,8 @@
           "name": "Doggii's Home",
           "url": "http://localhost:1337/api/planets/71"
         },
-        "distance": 36645,
         "discovery": {
+          "distance": 36645,
           "date": "2016-10-09T22:00:00.000Z"
         },
         "level": 3
@@ -1120,8 +1120,8 @@
           "name": "Golden Town",
           "url": "http://localhost:1337/api/planets/93"
         },
-        "distance": 36804,
         "discovery": {
+          "distance": 36804,
           "date": "2016-10-28T22:00:00.000Z"
         },
         "level": 3
@@ -1136,8 +1136,8 @@
           "name": "Soccer Sphere",
           "url": "http://localhost:1337/api/planets/67"
         },
-        "distance": 36952,
         "discovery": {
+          "distance": 36952,
           "date": "2016-10-15T22:00:00.000Z"
         },
         "level": 3
@@ -1152,8 +1152,8 @@
           "name": "Lantern City",
           "url": "http://localhost:1337/api/planets/92"
         },
-        "distance": 37433,
         "discovery": {
+          "distance": 37433,
           "date": "2016-10-21T22:00:00.000Z"
         },
         "level": 3
@@ -1168,8 +1168,8 @@
           "name": "Many Givings",
           "url": "http://localhost:1337/api/planets/62"
         },
-        "distance": 38698,
         "discovery": {
+          "distance": 38698,
           "date": "2016-11-04T23:00:00.000Z"
         },
         "level": 3
@@ -1184,8 +1184,8 @@
           "name": "Angry Dragon",
           "url": "http://localhost:1337/api/planets/78"
         },
-        "distance": 39000,
         "discovery": {
+          "distance": 39000,
           "date": "2016-11-11T23:00:00.000Z"
         },
         "level": 2
@@ -1200,8 +1200,8 @@
           "name": "Dreamland",
           "url": "http://localhost:1337/api/planets/84"
         },
-        "distance": 39539,
         "discovery": {
+          "distance": 39539,
           "date": "2016-11-18T23:00:00.000Z"
         },
         "level": 2
@@ -1216,8 +1216,8 @@
           "name": "Smokey Secret",
           "url": "http://localhost:1337/api/planets/24"
         },
-        "distance": 39737,
         "discovery": {
+          "distance": 39737,
           "date": "2016-11-25T23:00:00.000Z"
         },
         "level": 2
@@ -1232,8 +1232,8 @@
           "name": "Star Portal",
           "url": "http://localhost:1337/api/planets/82"
         },
-        "distance": 40460,
         "discovery": {
+          "distance": 40460,
           "date": "2016-11-29T23:00:00.000Z"
         },
         "level": 2
@@ -1248,8 +1248,8 @@
           "name": "Ring Forest",
           "url": "http://localhost:1337/api/planets/63"
         },
-        "distance": 40910,
         "discovery": {
+          "distance": 40910,
           "date": null
         },
         "level": 1

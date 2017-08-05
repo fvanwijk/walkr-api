@@ -7,8 +7,8 @@ var DiscoverySchema = new Schema({
   planet: { name: String, url: String },
   index: Number,
   level: Number,
-  distance: Number,
   discovery: {
+    distance: Number,
     date: Date,
     time: Number, // seconds
     boost: { cubes: Number, energy: Number },
