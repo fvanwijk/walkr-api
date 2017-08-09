@@ -72,7 +72,11 @@ module.exports = function (router) {
               /* Upgrading */
               discovery.upgrade = {
                 base_price: CommonApi.getBasePrice(discovery.index),
-                time: discovery.discovery.time
+                time: discovery.discovery.time,
+                boost: {
+                  energy: discovery.discovery.boost.energy,
+                  cubes: discovery.discovery.boost.cubes
+                }
               };
               discovery.upgrade.next_price = discovery.level == 7 ? null : CommonApi.getUpgradePrice(discovery.upgrade.base_price, discovery.level);
 

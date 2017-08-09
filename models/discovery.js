@@ -11,13 +11,14 @@ var DiscoverySchema = new Schema({
     distance: Number,
     date: Date,
     time: Number, // seconds
-    boost: { cubes: Number, energy: Number },
+    boost: { cubes: Number, energy: Number }, // For a total completion
     price: { coins: Number }
   },
   upgrade: {
     base_price: { coins: Number },
-    next_price: { coins: Number, cubes: Number },
-    time: Number
+    next_price: { coins: Number, cubes: Number, energy: Number },
+    time: Number,
+    boost: { cubes: Number, energy: Number } // For a total completion
   },
   production: {
     requirements: { name: String, quantity: Number }, // Food to start new harvest round
