@@ -9,7 +9,7 @@ module.exports = function (router) {
     .delete(CommonApi.deleteAll(Planet));
 
   router.route('/planets/:id')
-    .get(CommonApi.get(Planet))
+    .get(CommonApi.get(Planet, { 'satellites_l1._id': false, 'satellites_l2._id': false }))
     .post(CommonApi.post(Planet))
     .put(CommonApi.put(Planet))
     .delete(CommonApi.delete(Planet));

@@ -12,7 +12,9 @@
     "creature_image_url": "assets/creatures/human.png",
     "resource": "Garbage",
     "resource_image_url": "assets/resources/garbage.png",
-    "wonders": "Aurora"
+    "wonders": "Aurora",
+    "satellites_l1": [],
+    "satellites_l2": []
   },
   {
     "url": null,
@@ -27,7 +29,14 @@
     "creature_image_url": "assets/creatures/pombat.png",
     "resource": "Apple",
     "resource_image_url": "assets/resources/apples.png",
-    "wonders": "Giant Bowtie"
+    "wonders": "Giant Bowtie",
+    "satellites_l1": [],
+    "satellites_l2": [
+      {
+        "name": "Lolly",
+        "url": "http://localhost:1337/api/satellites/8"
+      }
+    ]
   },
   {
     "url": null,
@@ -42,7 +51,12 @@
     "creature_image_url": "assets/creatures/honey-bee.png",
     "resource": "Honey",
     "resource_image_url": "assets/resources/honey.png",
-    "wonders": "Honey Ring"
+    "wonders": "Honey Ring",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Honey Dipper",
+      "url": "http://localhost:1337/api/satellites/9"
+    }]
   },
   {
     "url": null,
@@ -57,7 +71,12 @@
     "creature_image_url": "assets/creatures/cow.png",
     "resource": "Milk",
     "resource_image_url": "assets/resources/cow.png",
-    "wonders": "Windy Cottages"
+    "wonders": "Windy Cottages",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Cheeeese",
+      "url": "http://localhost:1337/api/satellites/10"
+    }]
   },
   {
     "url": null,
@@ -72,7 +91,12 @@
     "creature_image_url": "assets/creatures/water.png",
     "resource": "Water",
     "resource_image_url": "assets/resources/water.png",
-    "wonders": ""
+    "wonders": "",
+   "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Letter in the Bottle",
+      "url": "http://localhost:1337/api/satellites/11"
+    }]
   },
   {
     "url": null,
@@ -87,7 +111,12 @@
     "creature_image_url": "assets/creatures/fern.png",
     "resource": "Spores",
     "resource_image_url": "assets/resources/fern.png",
-    "wonders": "Golden Fern"
+    "wonders": "Golden Fern",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Space Crud",
+      "url": "http://localhost:1337/api/satellites/12"
+    }]
   },
   {
     "url": null,
@@ -102,7 +131,12 @@
     "creature_image_url": "assets/creatures/stone.png",
     "resource": "Stones",
     "resource_image_url": "assets/resources/stone.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Artificial Satellite",
+      "url": "http://localhost:1337/api/satellites/13"
+    }]
   },
   {
     "url": null,
@@ -117,7 +151,12 @@
     "creature_image_url": "assets/creatures/gear.png",
     "resource": "Gears",
     "resource_image_url": "assets/resources/gear.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Gear",
+      "url": "http://localhost:1337/api/satellites/14"
+    }]
   },
   {
     "url": null,
@@ -132,7 +171,12 @@
     "creature_image_url": "assets/creatures/snow.png",
     "resource": "Snow",
     "resource_image_url": "assets/resources/snow.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Snowball",
+      "url": "http://localhost:1337/api/satellites/15"
+    }]
   },
   {
     "url": null,
@@ -147,7 +191,12 @@
     "creature_image_url": "assets/creatures/olive.png",
     "resource": "Oil",
     "resource_image_url": "assets/resources/olive.png",
-    "wonders": "Sweet Osmanthus"
+    "wonders": "Sweet Osmanthus",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Olive Sapling",
+      "url": "http://localhost:1337/api/satellites/16"
+    }]
   },
   {
     "url": null,
@@ -162,7 +211,12 @@
     "creature_image_url": "assets/creatures/star.png",
     "resource": "Aerolite",
     "resource_image_url": "assets/resources/star.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Christmas Star",
+      "url": "http://localhost:1337/api/satellites/17"
+    }]
   },
   {
     "url": null,
@@ -177,7 +231,12 @@
     "creature_description": "Ice Slime creatures have transparent, fragile skins and frequently turn into ice cubes to protect themselves.",
     "resource": "Ice",
     "resource_image_url": "assets/resources/iceberg.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Flake",
+      "url": "http://localhost:1337/api/satellites/18"
+    }]
   },
   {
     "url": null,
@@ -192,7 +251,12 @@
     "creature_image_url": "assets/creatures/nest.png",
     "resource": "Eggs",
     "resource_image_url": "assets/resources/nest.png",
-    "wonders": "Prince Chic"
+    "wonders": "Prince Chic",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Feather Pom",
+      "url": "http://localhost:1337/api/satellites/19"
+    }]
   },
   {
     "url": null,
@@ -207,7 +271,12 @@
     "creature_image_url": "assets/creatures/jelly.png",
     "resource": "Jelly",
     "resource_image_url": "assets/resources/jelly.png",
-    "wonders": "Orange Castle"
+    "wonders": "Orange Castle",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Ice Lolly",
+      "url": "http://localhost:1337/api/satellites/20"
+    }]
   },
   {
     "url": null,
@@ -222,7 +291,12 @@
     "creature_description": "Air Porings look like soft puffs of air, their skin as bouncy as the surface of a balloon. People say their voices sound like air escaping from a tire.",
     "resource": "Air",
     "resource_image_url": "assets/resources/bubble.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Rainbow Orb",
+      "url": "http://localhost:1337/api/satellites/21"
+    }]
   },
   {
     "url": null,
@@ -237,7 +311,12 @@
     "creature_image_url": "assets/creatures/pineapple.png",
     "resource": "Pineapples",
     "resource_image_url": "assets/resources/pineapple.png",
-    "wonders": "Pineapple House"
+    "wonders": "Pineapple House",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Yellow Juicer",
+      "url": "http://localhost:1337/api/satellites/22"
+    }]
   },
   {
     "url": null,
@@ -252,7 +331,12 @@
     "creature_image_url": "assets/creatures/strawberry.png",
     "resource": "Strawberries",
     "resource_image_url": "assets/resources/strawberry.png",
-    "wonders": "Strawberry Carriage"
+    "wonders": "Strawberry Carriage",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Dairy Juice",
+      "url": "http://localhost:1337/api/satellites/23"
+    }]
   },
   {
     "url": null,
@@ -267,7 +351,12 @@
     "creature_image_url": "assets/creatures/iron.png",
     "resource": "Screws",
     "resource_image_url": "assets/resources/iron.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Probe",
+      "url": "http://localhost:1337/api/satellites/24"
+    }]
   },
   {
     "url": null,
@@ -282,7 +371,12 @@
     "creature_image_url": "assets/creatures/hami.png",
     "resource": "Hami Melons",
     "resource_image_url": "assets/resources/hami.png",
-    "wonders": "Fruit Temple"
+    "wonders": "Fruit Temple",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Green Juicer",
+      "url": "http://localhost:1337/api/satellites/25"
+    }]
   },
   {
     "url": null,
@@ -297,7 +391,12 @@
     "creature_image_url": "assets/creatures/coral.png",
     "resource": "Coral",
     "resource_image_url": "assets/resources/coral.png",
-    "wonders": "Pearl Mussel"
+    "wonders": "Pearl Mussel",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Pearl of Wisdom",
+      "url": "http://localhost:1337/api/satellites/26"
+    }]
   },
   {
     "url": null,
@@ -312,7 +411,12 @@
     "creature_image_url": "assets/creatures/sand.png",
     "resource": "Soil",
     "resource_image_url": "assets/resources/sand.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Magic Stone",
+      "url": "http://localhost:1337/api/satellites/27"
+    }]
   },
   {
     "url": null,
@@ -327,7 +431,12 @@
     "creature_image_url": "assets/creatures/octopus.png",
     "resource": "Octopus",
     "resource_image_url": "assets/resources/octopus.png",
-    "wonders": "Octopus Prison"
+    "wonders": "Octopus Prison",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Shipwreck",
+      "url": "http://localhost:1337/api/satellites/28"
+    }]
   },
   {
     "url": null,
@@ -342,7 +451,12 @@
     "creature_image_url": "assets/creatures/swamp.png",
     "resource": "Gas",
     "resource_image_url": "assets/resources/swamp.png",
-    "wonders": "Froggy Campfire"
+    "wonders": "Froggy Campfire",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Fisheye",
+      "url": "http://localhost:1337/api/satellites/29"
+    }]
   },
   {
     "url": null,
@@ -357,7 +471,12 @@
     "creature_image_url": "assets/creatures/smoky.png",
     "resource": "Steam",
     "resource_image_url": "assets/resources/smoky.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Space Pirate Battleship",
+      "url": "http://localhost:1337/api/satellites/30"
+    }]
   },
   {
     "url": null,
@@ -372,7 +491,12 @@
     "creature_image_url": "assets/creatures/lava.png",
     "resource": "Fossils",
     "resource_image_url": "assets/resources/lava.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Galactic Drill",
+      "url": "http://localhost:1337/api/satellites/31"
+    }]
   },
   {
     "url": null,
@@ -387,7 +511,12 @@
     "creature_image_url": "assets/creatures/mushroom.png",
     "resource": "Mushrooms",
     "resource_image_url": "assets/resources/mushroom.png",
-    "wonders": "Mushroom Lattern"
+    "wonders": "Mushroom Lattern",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Sapphire",
+      "url": "http://localhost:1337/api/satellites/32"
+    }]
   },
   {
     "url": null,
@@ -402,7 +531,12 @@
     "creature_image_url": "assets/creatures/banana.png",
     "resource": "Sundaes",
     "resource_image_url": "assets/resources/banana.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Tiny Parasol",
+      "url": "http://localhost:1337/api/satellites/33"
+    }]
   },
   {
     "url": null,
@@ -417,7 +551,12 @@
     "creature_image_url": "assets/creatures/deer.png",
     "resource": "Leather",
     "resource_image_url": "assets/resources/deer.png",
-    "wonders": "Christmas Reindeer"
+    "wonders": "Christmas Reindeer",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Mossy",
+      "url": "http://localhost:1337/api/satellites/34"
+    }]
   },
   {
     "url": null,
@@ -432,7 +571,12 @@
     "creature_description": "The Cane Tako wears red and white stripes and looooooooves sweets. It won't eat anything that isn't covered in powdered sugar.",
     "resource": "Candy",
     "resource_image_url": "assets/resources/candy.png",
-    "wonders": ""
+    "wonders": "Canndy House",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Candy Cane",
+      "url": "http://localhost:1337/api/satellites/35"
+    }]
   },
   {
     "url": null,
@@ -447,7 +591,12 @@
     "creature_image_url": "assets/creatures/potato.png",
     "resource": "Taters",
     "resource_image_url": "assets/resources/potato.png",
-    "wonders": "Space Crispy Bacon"
+    "wonders": "Space Crispy Bacon",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Snackysnacks",
+      "url": "http://localhost:1337/api/satellites/36"
+    }]
   },
   {
     "url": null,
@@ -462,7 +611,12 @@
     "creature_image_url": "assets/creatures/cat.png",
     "resource": "Cloth",
     "resource_image_url": "assets/resources/cat.png",
-    "wonders": "The King of Cats"
+    "wonders": "The King of Cats",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Rattykin",
+      "url": "http://localhost:1337/api/satellites/37"
+    }]
   },
   {
     "url": null,
@@ -477,7 +631,12 @@
     "creature_image_url": "assets/creatures/crystal.png",
     "resource": "Crystal",
     "resource_image_url": "assets/resources/crystal.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Amber",
+      "url": "http://localhost:1337/api/satellites/38"
+    }]
   },
   {
     "url": null,
@@ -492,7 +651,12 @@
     "creature_image_url": "assets/creatures/cactus.png",
     "resource": "Jus de Cactus",
     "resource_image_url": "assets/resources/cactus.png",
-    "wonders": "Golden Lion"
+    "wonders": "Golden Lion",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Ball o' Sun",
+      "url": "http://localhost:1337/api/satellites/39"
+    }]
   },
   {
     "url": null,
@@ -507,7 +671,12 @@
     "creature_image_url": "assets/creatures/donut.png",
     "resource": "Sugar",
     "resource_image_url": "assets/resources/donut.png",
-    "wonders": ""
+    "wonders": "Chocolate Spring",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Macaron",
+      "url": "http://localhost:1337/api/satellites/40"
+    }]
   },
   {
     "url": null,
@@ -522,7 +691,12 @@
     "creature_image_url": "assets/creatures/flower.png",
     "resource": "Flowers",
     "resource_image_url": "assets/resources/flower.png",
-    "wonders": "Flower Parasol"
+    "wonders": "Flower Parasol",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Blue Orb",
+      "url": "http://localhost:1337/api/satellites/41"
+    }]
   },
   {
     "url": null,
@@ -537,7 +711,12 @@
     "creature_image_url": "assets/creatures/virus.png",
     "resource": "Virus",
     "resource_image_url": "assets/resources/virus.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Spacecraft of Dr. Evil",
+      "url": "http://localhost:1337/42pi/satellites/42"
+    }]
   },
   {
     "url": null,
@@ -552,7 +731,12 @@
     "creature_image_url": "assets/creatures/pepper.png",
     "resource": "Bell Pepper",
     "resource_image_url": "assets/resources/pepper.png",
-    "wonders": "Crab King"
+    "wonders": "Crab King",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Ruby",
+      "url": "http://localhost:1337/api/satellites/43"
+    }]
   },
   {
     "url": null,
@@ -567,7 +751,12 @@
     "creature_image_url": "assets/creatures/brain.png",
     "resource": "Blood",
     "resource_image_url": "assets/resources/brain.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Drippy Dropper",
+      "url": "http://localhost:1337/api/satellites/44"
+    }]
   },
   {
     "url": null,
@@ -582,7 +771,12 @@
     "creature_image_url": "assets/creatures/beetle.png",
     "resource": "Dye",
     "resource_image_url": "assets/resources/beetle.png",
-    "wonders": "Beetle Bot"
+    "wonders": "Beetle Bot",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Gumbear",
+      "url": "http://localhost:1337/api/satellites/45"
+    }]
   },
   {
     "url": null,
@@ -597,7 +791,12 @@
     "creature_image_url": "assets/creatures/music.png",
     "resource": "Notes",
     "resource_image_url": "assets/resources/music.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Ding-Donger",
+      "url": "http://localhost:1337/api/satellites/46"
+    }]
   },
   {
     "url": null,
@@ -612,7 +811,12 @@
     "creature_image_url": "assets/creatures/wheat.png",
     "resource": "Wheat",
     "resource_image_url": "assets/resources/wheat.png",
-    "wonders": "Harvest Warehouse"
+    "wonders": "Harvest Warehouse",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Scarecrow",
+      "url": "http://localhost:1337/api/satellites/47"
+    }]
   },
   {
     "url": null,
@@ -627,7 +831,12 @@
     "creature_image_url": "assets/creatures/grass.png",
     "resource": "Spices",
     "resource_image_url": "assets/resources/grass.png",
-    "wonders": "Dragon Vine"
+    "wonders": "Dragon Vine",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Emerald",
+      "url": "http://localhost:1337/api/satellites/48"
+    }]
   },
   {
     "url": null,
@@ -642,7 +851,12 @@
     "creature_image_url": "assets/creatures/witch.png",
     "resource": "Pumpkins",
     "resource_image_url": "assets/resources/witch.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Bat",
+      "url": "http://localhost:1337/api/satellites/49"
+    }]
   },
   {
     "url": null,
@@ -657,7 +871,12 @@
     "creature_image_url": "assets/creatures/circuit.png",
     "resource": "Chips",
     "resource_image_url": "assets/resources/circuit.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Energizer",
+      "url": "http://localhost:1337/api/satellites/50"
+    }]
   },
   {
     "url": null,
@@ -672,7 +891,12 @@
     "creature_image_url": "assets/creatures/mine.png",
     "resource": "Metal",
     "resource_image_url": "assets/resources/mine.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Diamond",
+      "url": "http://localhost:1337/api/satellites/51"
+    }]
   },
   {
     "url": null,
@@ -687,7 +911,12 @@
     "creature_image_url": "assets/creatures/flame.png",
     "resource": "Fire",
     "resource_image_url": "assets/resources/flame.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Fireball",
+      "url": "http://localhost:1337/api/satellites/52"
+    }]
   },
   {
     "url": null,
@@ -702,7 +931,12 @@
     "creature_image_url": "assets/creatures/pig.png",
     "resource": "Meat",
     "resource_image_url": "assets/resources/pig.png",
-    "wonders": "Pig King Castle"
+    "wonders": "Pig King Castle",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Hami Ham",
+      "url": "http://localhost:1337/api/satellites/53"
+    }]
   },
   {
     "url": null,
@@ -717,7 +951,12 @@
     "creature_image_url": "assets/creatures/sheep.png",
     "resource": "Wool",
     "resource_image_url": "assets/resources/sheep.png",
-    "wonders": "Giant Bell"
+    "wonders": "Giant Bell",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Ball o' Yarn",
+      "url": "http://localhost:1337/api/satellites/54"
+    }]
   },
   {
     "url": null,
@@ -732,7 +971,12 @@
     "creature_image_url": "assets/creatures/watermelon.png",
     "resource": "Watermelons",
     "resource_image_url": "assets/resources/watermelon.png",
-    "wonders": ""
+    "wonders": "High-Tech Digger",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Red Juicer",
+      "url": "http://localhost:1337/api/satellites/55"
+    }]
   },
   {
     "url": null,
@@ -747,7 +991,12 @@
     "creature_image_url": "assets/creatures/forest.png",
     "resource": "Wood",
     "resource_image_url": "assets/resources/forest.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Florb",
+      "url": "http://localhost:1337/api/satellites/56"
+    }]
   },
   {
     "url": null,
@@ -762,7 +1011,12 @@
     "creature_image_url": "assets/creatures/chocolate.png",
     "resource": "Chocolate",
     "resource_image_url": "assets/resources/chocolate.png",
-    "wonders": ""
+    "wonders": "Mountain Cream",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Cottony Candy",
+      "url": "http://localhost:1337/api/satellites/57"
+    }]
   },
   {
     "url": null,
@@ -777,7 +1031,12 @@
     "creature_image_url": "assets/creatures/newyear.png",
     "resource": "Ingot",
     "resource_image_url": "assets/resources/newyear.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Chinese Dragon",
+      "url": "http://localhost:1337/api/satellites/58"
+    }]
   },
   {
     "url": null,
@@ -792,7 +1051,12 @@
     "creature_image_url": "assets/creatures/valentine.png",
     "resource": "Diamond",
     "resource_image_url": "assets/resources/valentine.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Love Letter",
+      "url": "http://localhost:1337/api/satellites/59"
+    }]
   },
   {
     "url": null,
@@ -807,7 +1071,12 @@
     "creature_image_url": "assets/creatures/childfes.png",
     "resource": "Toy",
     "resource_image_url": "assets/resources/childfes.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Toy Blocks",
+      "url": "http://localhost:1337/api/satellites/60"
+    }]
   },
   {
     "url": null,
@@ -822,7 +1091,12 @@
     "creature_image_url": "assets/creatures/easter.png",
     "resource": "Color",
     "resource_image_url": "assets/resources/easter.png",
-    "wonders": "Giant Easter Eggs"
+    "wonders": "Giant Easter Eggs",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Easter Egg",
+      "url": "http://localhost:1337/api/satellites/61"
+    }]
   },
   {
     "url": null,
@@ -837,7 +1111,12 @@
     "creature_image_url": "assets/creatures/mother.png",
     "resource": "Love",
     "resource_image_url": "assets/resources/mother.png",
-    "wonders": "Mountain Bread"
+    "wonders": "Mountain Bread",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Sweet Heart",
+      "url": "http://localhost:1337/api/satellites/62"
+    }]
   },
   {
     "url": null,
@@ -852,7 +1131,12 @@
     "creature_image_url": "assets/creatures/dragonboat.png",
     "resource": "Leaf",
     "resource_image_url": "assets/resources/dragonboat.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Sachet",
+      "url": "http://localhost:1337/api/satellites/63"
+    }]
   },
   {
     "url": null,
@@ -867,7 +1151,12 @@
     "creature_image_url": "assets/creatures/ghostfes.png",
     "resource": "Spirit",
     "resource_image_url": "assets/resources/ghostfes.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Magic Rune",
+      "url": "http://localhost:1337/api/satellites/64"
+    }]
   },
   {
     "url": null,
@@ -882,7 +1171,12 @@
     "creature_image_url": "assets/creatures/father.png",
     "resource": "Button",
     "resource_image_url": "assets/resources/father.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Pipe",
+      "url": "http://localhost:1337/api/satellites/65"
+    }]
   },
   {
     "url": null,
@@ -897,7 +1191,12 @@
     "creature_image_url": "assets/creatures/moonfes.png",
     "resource": "Light",
     "resource_image_url": "assets/resources/moonfes.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Moon Cake",
+      "url": "http://localhost:1337/api/satellites/66"
+    }]
   },
   {
     "url": null,
@@ -912,7 +1211,12 @@
     "creature_image_url": "assets/creatures/halloween.png",
     "resource": "Screaming",
     "resource_image_url": "assets/resources/halloween.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Magic Circle",
+      "url": "http://localhost:1337/api/satellites/67"
+    }]
   },
   {
     "url": null,
@@ -927,7 +1231,12 @@
     "creature_image_url": "assets/creatures/thanksgiving.png",
     "resource": "Chicken",
     "resource_image_url": "assets/resources/thanksgiving.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Turkey Feather",
+      "url": "http://localhost:1337/api/satellites/68"
+    }]
   },
   {
     "url": null,
@@ -942,7 +1251,12 @@
     "creature_image_url": "assets/creatures/christmas.png",
     "resource": "Jingle",
     "resource_image_url": "assets/resources/christmas.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "X'mas Gift",
+      "url": "http://localhost:1337/api/satellites/69"
+    }]
   },
   {
     "url": null,
@@ -957,7 +1271,12 @@
     "creature_image_url": "assets/creatures/fishpot.png",
     "resource": "Fishbone",
     "resource_image_url": "assets/resources/fishpot.png",
-    "wonders": "Elder Whale"
+    "wonders": "Elder Whale",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Buccinnidae",
+      "url": "http://localhost:1337/api/satellites/70"
+    }]
   },
   {
     "url": null,
@@ -972,7 +1291,12 @@
     "creature_image_url": "assets/creatures/artifact.png",
     "resource": "Conscious",
     "resource_image_url": "assets/resources/artifact.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Scoutship",
+      "url": "http://localhost:1337/api/satellites/71"
+    }]
   },
   {
     "url": null,
@@ -987,7 +1311,12 @@
     "creature_image_url": "assets/creatures/bulb.png",
     "resource": "Idea",
     "resource_image_url": "assets/resources/bulb.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Plug",
+      "url": "http://localhost:1337/api/satellites/72"
+    }]
   },
   {
     "url": null,
@@ -1002,7 +1331,12 @@
     "creature_image_url": "assets/creatures/soccer.png",
     "resource": "Passion",
     "resource_image_url": "assets/resources/soccer.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Soccer",
+      "url": "http://localhost:1337/api/satellites/73"
+    }]
   },
   {
     "url": null,
@@ -1017,7 +1351,12 @@
     "creature_image_url": "assets/creatures/invisible.png",
     "resource": "Invisibility",
     "resource_image_url": "assets/resources/invisible.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Invisible Walkr",
+      "url": "http://localhost:1337/api/satellites/74"
+    }]
   },
   {
     "url": null,
@@ -1032,7 +1371,12 @@
     "creature_image_url": "assets/creatures/burger.png",
     "resource": "Fries",
     "resource_image_url": "assets/resources/burger.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Coke",
+      "url": "http://localhost:1337/api/satellites/75"
+    }]
   },
   {
     "url": null,
@@ -1047,7 +1391,12 @@
     "creature_image_url": "assets/creatures/popcorn.png",
     "resource": "Popcorn",
     "resource_image_url": "assets/resources/popcorn.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "DVD",
+      "url": "http://localhost:1337/api/satellites/76"
+    }]
   },
   {
     "url": null,
@@ -1062,7 +1411,12 @@
     "creature_image_url": "assets/creatures/bone.png",
     "resource": "Tooth",
     "resource_image_url": "assets/resources/bone.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Dog Bowl",
+      "url": "http://localhost:1337/api/satellites/77"
+    }]
   },
   {
     "url": null,
@@ -1077,7 +1431,12 @@
     "creature_image_url": "assets/creatures/cloud.png",
     "resource": "Cloud",
     "resource_image_url": "assets/resources/cloud.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Raven",
+      "url": "http://localhost:1337/api/satellites/78"
+    }]
   },
   {
     "url": null,
@@ -1092,7 +1451,12 @@
     "creature_image_url": "assets/creatures/racing.png",
     "resource": "Hurray",
     "resource_image_url": "assets/resources/racing.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Tire",
+      "url": "http://localhost:1337/api/satellites/79"
+    }]
   },
   {
     "url": null,
@@ -1107,7 +1471,12 @@
     "creature_image_url": "assets/creatures/roman.png",
     "resource": "Soul",
     "resource_image_url": "assets/resources/roman.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Roman Helmet",
+      "url": "http://localhost:1337/api/satellites/80"
+    }]
   },
   {
     "url": null,
@@ -1122,7 +1491,12 @@
     "creature_image_url": "assets/creatures/ruins.png",
     "resource": "Rune",
     "resource_image_url": "assets/resources/ruins.png",
-    "wonders": "Brave Explorer"
+    "wonders": "Brave Explorer",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Rune Stone",
+      "url": "http://localhost:1337/api/satellites/81"
+    }]
   },
   {
     "url": null,
@@ -1137,7 +1511,12 @@
     "creature_image_url": "assets/creatures/viking.png",
     "resource": "Copper",
     "resource_image_url": "assets/resources/viking.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Horn",
+      "url": "http://localhost:1337/api/satellites/82"
+    }]
   },
   {
     "url": null,
@@ -1152,7 +1531,12 @@
     "creature_image_url": "assets/creatures/stoneage.png",
     "resource": "Plate",
     "resource_image_url": "assets/resources/stoneage.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Rune Plate",
+      "url": "http://localhost:1337/api/satellites/83"
+    }]
   },
   {
     "url": null,
@@ -1167,7 +1551,12 @@
     "creature_image_url": "assets/creatures/dragon.png",
     "resource": "Dragonclaw",
     "resource_image_url": "assets/resources/dragon.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Knight Shield",
+      "url": "http://localhost:1337/api/satellites/84"
+    }]
   },
   {
     "url": null,
@@ -1182,7 +1571,12 @@
     "creature_image_url": "assets/creatures/panda.png",
     "resource": "Bamboo",
     "resource_image_url": "assets/resources/panda.png",
-    "wonders": "Panda Jr."
+    "wonders": "Panda Jr.",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Bamboo",
+      "url": "http://localhost:1337/api/satellites/85"
+    }]
   },
   {
     "url": null,
@@ -1197,7 +1591,12 @@
     "creature_image_url": "assets/creatures/library.png",
     "resource": "Knowledge",
     "resource_image_url": "assets/resources/library.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Dictionary",
+      "url": "http://localhost:1337/api/satellites/86"
+    }]
   },
   {
     "url": null,
@@ -1212,7 +1611,12 @@
     "creature_image_url": "assets/creatures/tomb.png",
     "resource": "Bone",
     "resource_image_url": "assets/resources/tomb.png",
-    "wonders": "Best Friend's Party"
+    "wonders": "Best Friend's Party",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Monument",
+      "url": "http://localhost:1337/api/satellites/87"
+    }]
   },
   {
     "url": null,
@@ -1227,7 +1631,12 @@
     "creature_image_url": "assets/creatures/portal.png",
     "resource": "Superpower",
     "resource_image_url": "assets/resources/portal.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Energy Stone",
+      "url": "http://localhost:1337/api/satellites/88"
+    }]
   },
   {
     "url": null,
@@ -1242,7 +1651,12 @@
     "creature_image_url": "assets/creatures/ocean.png",
     "resource": "Salt",
     "resource_image_url": "assets/resources/ocean.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Bilge Plug",
+      "url": "http://localhost:1337/api/satellites/89"
+    }]
   },
   {
     "url": null,
@@ -1257,7 +1671,12 @@
     "creature_image_url": "assets/creatures/fluffy.png",
     "resource": "Dream",
     "resource_image_url": "assets/resources/fluffy.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Malayan Tapir",
+      "url": "http://localhost:1337/api/satellites/90"
+    }]
   },
   {
     "url": null,
@@ -1272,7 +1691,12 @@
     "creature_image_url": "assets/creatures/seaweed.png",
     "resource": "Sea Weed",
     "resource_image_url": "assets/resources/seaweed.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Starfish",
+      "url": "http://localhost:1337/api/satellites/91"
+    }]
   },
   {
     "url": null,
@@ -1287,7 +1711,12 @@
     "creature_image_url": "assets/creatures/pond.png",
     "resource": "Lotus Seed",
     "resource_image_url": "assets/resources/pond.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Shower",
+      "url": "http://localhost:1337/api/satellites/92"
+    }]
   },
   {
     "url": null,
@@ -1302,7 +1731,12 @@
     "creature_image_url": "assets/creatures/neon.png",
     "resource": "Neon",
     "resource_image_url": "assets/resources/neon.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Neon Lights",
+      "url": "http://localhost:1337/api/satellites/93"
+    }]
   },
   {
     "url": null,
@@ -1317,7 +1751,12 @@
     "creature_image_url": "assets/creatures/circus.png",
     "resource": "Ticket",
     "resource_image_url": "assets/resources/circus.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Fire Ring Lion",
+      "url": "http://localhost:1337/api/satellites/94"
+    }]
   },
   {
     "url": null,
@@ -1332,7 +1771,12 @@
     "creature_image_url": "assets/creatures/whale.png",
     "resource": "Wave",
     "resource_image_url": "assets/resources/whale.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Tropical Fish",
+      "url": "http://localhost:1337/api/satellites/95"
+    }]
   },
   {
     "url": null,
@@ -1347,7 +1791,12 @@
     "creature_image_url": "assets/creatures/aborigine.png",
     "resource": "Symbol",
     "resource_image_url": "assets/resources/aborigine.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Djembe",
+      "url": "http://localhost:1337/api/satellites/96"
+    }]
   },
   {
     "url": null,
@@ -1362,7 +1811,12 @@
     "creature_image_url": "assets/creatures/hedgehog.png",
     "resource": "Poison String",
     "resource_image_url": "assets/resources/hedgehog.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Heating Light Bulbs",
+      "url": "http://localhost:1337/api/satellites/97"
+    }]
   },
   {
     "url": null,
@@ -1377,7 +1831,12 @@
     "creature_image_url": "assets/creatures/jiufen.png",
     "resource": "Lantern",
     "resource_image_url": "assets/resources/jiufen.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Red Lantern",
+      "url": "http://localhost:1337/api/satellites/98"
+    }]
   },
   {
     "url": null,
@@ -1392,7 +1851,12 @@
     "creature_image_url": "assets/creatures/cowboy.png",
     "resource": "Start Badge",
     "resource_image_url": "assets/resources/cowboy.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Cowboy Hat",
+      "url": "http://localhost:1337/api/satellites/99"
+    }]
   },
   {
     "url": null,
@@ -1407,7 +1871,12 @@
     "creature_image_url": "assets/creatures/greatwall.png",
     "resource": "Brick",
     "resource_image_url": "assets/resources/greatwall.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Feathered Arrow",
+      "url": "http://localhost:1337/api/satellites/100"
+    }]
   },
   {
     "url": null,
@@ -1422,7 +1891,12 @@
     "creature_image_url": "assets/creatures/sakura.png",
     "resource": "Sakura",
     "resource_image_url": "assets/resources/sakura.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Picture Horse",
+      "url": "http://localhost:1337/api/satellites/101"
+    }]
   },
   {
     "url": null,
@@ -1437,7 +1911,12 @@
     "creature_image_url": "assets/creatures/mediterranean.png",
     "resource": "Olive",
     "resource_image_url": "assets/resources/mediterranean.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Pepper",
+      "url": "http://localhost:1337/api/satellites/102"
+    }]
   },
   {
     "url": null,
@@ -1452,7 +1931,12 @@
     "creature_image_url": "assets/creatures/bubblegum.png",
     "resource": "Bubble Gum",
     "resource_image_url": "assets/resources/bubblegum.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Token",
+      "url": "http://localhost:1337/api/satellites/103"
+    }]
   },
   {
     "url": null,
@@ -1467,7 +1951,12 @@
     "creature_image_url": "assets/creatures/pufferfish.png",
     "resource": "Angry",
     "resource_image_url": "assets/resources/pufferfish.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Fish Food",
+      "url": "http://localhost:1337/api/satellites/104"
+    }]
   },
   {
     "url": null,
@@ -1482,7 +1971,12 @@
     "creature_image_url": "assets/creatures/rabbit.png",
     "resource": "Carrot",
     "resource_image_url": "assets/resources/rabbit.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Pasture",
+      "url": "http://localhost:1337/api/satellites/105"
+    }]
   },
   {
     "url": null,
@@ -1497,7 +1991,12 @@
     "creature_image_url": "assets/creatures/seal.png",
     "resource": "Seal",
     "resource_image_url": "assets/resources/seal.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Gold Lock",
+      "url": "http://localhost:1337/api/satellites/106"
+    }]
   },
   {
     "url": null,
@@ -1512,7 +2011,12 @@
     "creature_image_url": "assets/creatures/cage.png",
     "resource": "Evilbone",
     "resource_image_url": "assets/resources/cage.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Skull",
+      "url": "http://localhost:1337/api/satellites/107"
+    }]
   },
   {
     "url": null,
@@ -1527,6 +2031,12 @@
     "creature_image_url": "assets/creatures/perfume.png",
     "resource": "Musk",
     "resource_image_url": "assets/resources/perfume.png",
-    "wonders": ""
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Orange Blossom",
+      "url": "http://localhost:1337/api/satellites/108"
+    }]
+
   }
 ]

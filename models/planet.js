@@ -1,5 +1,6 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
+const Satellite = require('./satellite');
 
 var PlanetSchema = new Schema({
   url: String,
@@ -13,7 +14,10 @@ var PlanetSchema = new Schema({
   creature_description: String,
   creature_image_url: String,
   resource: String,
-  resource_image_url: String
+  resource_image_url: String,
+  wonders: String,
+  satellites_l1: [Satellite.schema],
+  satellites_l2: [Satellite.schema]
 });
 
 var planet = mongoose.model('Planet', PlanetSchema);

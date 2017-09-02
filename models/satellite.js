@@ -9,8 +9,7 @@ var SatelliteSchema = new Schema({
   name: String,
   boost: String,
   level_1: String,
-  level_2: String,
-  planet: Planet.schema
+  level_2: String
 });
 
 var satellite = mongoose.model('Satellite', SatelliteSchema);

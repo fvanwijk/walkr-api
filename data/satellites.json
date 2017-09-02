@@ -610,7 +610,7 @@
   },
   {
     "id": 58,
-    "name": "Chinese�Dragon",
+    "name": "Chinese Dragon",
     "boost": "Increase Population",
     "level_1": "2",
     "level_2": "4",
@@ -1035,6 +1035,138 @@
     "planet": {
       "url": "http://localhost:1337/api/planets/90",
       "name": "Lion Land"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Heating Light Bulbs",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": {
+      "url": "http://localhost:1337/api/planets/91",
+      "name": "Baby Hedgehog"
+    }
+  },
+  {
+    "id": 98,
+    "name": "Red Lantern",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": {
+      "url": "http://localhost:1337/api/planets/92",
+      "name": "Lantern City"
+    }
+  },
+  {
+    "id": 99,
+    "name": "Cowboy Hat",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": {
+      "url": "http://localhost:1337/api/planets/93",
+      "name": "Lion Land"
+    }
+  },
+  {
+    "id": 100,
+    "name": "Feathered Arrow",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": {
+      "url": "http://localhost:1337/api/planets/94",
+      "name": "The Great Wall"
+    }
+  },
+  {
+    "id": 101,
+    "name": "Picture Horse",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": {
+      "url": "http://localhost:1337/api/planets/95",
+      "name": "Sakura Temple"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Pepper",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": {
+      "url": "http://localhost:1337/api/planets/96",
+      "name": "Ocean City"
+    }
+  },
+  {
+    "id": 103,
+    "name": "Token",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": {
+      "url": "http://localhost:1337/api/planets/97",
+      "name": "Bubble Gum"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Fish Food",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": {
+      "url": "http://localhost:1337/api/planets/98",
+      "name": "Angry Pufferfish"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Pasture",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": {
+      "url": "http://localhost:1337/api/planets/99",
+      "name": "Rabbit Burrow"
+    }
+  },
+  {
+    "id": 106,
+    "name": "Gold Lock",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": {
+      "url": "http://localhost:1337/api/planets/100",
+      "name": "Seal of Monster"
+    }
+  },
+  {
+    "id": 107,
+    "name": "Skull",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": {
+      "url": "http://localhost:1337/api/planets/101",
+      "name": "Bone Cage No. 11"
+    }
+  },
+  {
+    "id": 108,
+    "name": "Orange Blossom",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": {
+      "url": "http://localhost:1337/api/planets/102",
+      "name": "Perfume Bathhouse"
     }
   }
 ]
