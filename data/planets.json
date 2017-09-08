@@ -30,7 +30,20 @@
     "resource": "Apple",
     "resource_image_url": "assets/resources/apples.png",
     "wonders": "Giant Bowtie",
-    "satellites_l1": [],
+    "satellites_l1": [
+      { "name": "Green Juicer", "url": "http://localhost:1337/api/satellites/25" },
+      { "name": "Cottony Candy", "url": "http://localhost:1337/api/satellites/57" },
+      { "name": "Macaron", "url": "http://localhost:1337/api/satellites/40" },
+      { "name": "Red Juicer", "url": "http://localhost:1337/api/satellites/55" },
+      { "name": "Candy Cane", "url": "http://localhost:1337/api/satellites/35" },
+      { "name": "Tiny Parasol", "url": "http://localhost:1337/api/satellites/33" },
+      { "name": "Ice Lolly", "url": "http://localhost:1337/api/satellites/20" },
+      { "name": "DVD", "url": "http://localhost:1337/api/satellites/76" },
+      { "name": "Token", "url": "http://localhost:1337/api/satellites/103" },
+      { "name": "Red Bean Cakes", "url": "http://localhost:1337/api/satellites/" },
+      { "name": "Sweet Shrimp", "url": "http://localhost:1337/api/satellites/" },
+      { "name": "Straw Umbrella", "url": "http://localhost:1337/api/satellites/" }
+    ],
     "satellites_l2": [
       {
         "name": "Lolly",
