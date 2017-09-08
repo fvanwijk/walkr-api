@@ -6,7 +6,7 @@ var bodyParser = require('body-parser');
 var url = require('./api/url');
 
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://localhost:27017');
+mongoose.connect(process.env.NODE_ENV === 'production' ? process.env.MONGOLAB_URI : 'mongodb://localhost:27017');
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());

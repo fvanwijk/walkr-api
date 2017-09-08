@@ -4,7 +4,8 @@
   "description": "REST API for Walkr",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon ./server"
+    "start": "NODE_ENV=production node ./server",
+    "start-dev": "nodemon ./server"
   },
   "keywords": [],
   "author": "Frank van Wijk <fvanwijk@xebia.com> (http://www.frankvanwijk.nl)",
