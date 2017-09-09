@@ -6,9 +6,10 @@ var MissionSchema = new Schema({
   id: String,
   name: String,
   resources: [{
-    resource: String,
+    name: String,
     quantity: Number
-  }]
+  }],
+  cubes: Number
 });
 
 var mission = mongoose.model('Mission', MissionSchema);
