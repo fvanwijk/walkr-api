@@ -7,14 +7,14 @@
     "population": 872,
     "planets": [
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/1",
+        "url": "/api/wids/y1mGy1QTqtD/planets/1",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Earth",
-          "url": "http://localhost:1337/api/planets/1"
+          "url": "/api/planets/1"
         },
         "discovery": {
           "distance": 0,
@@ -23,14 +23,14 @@
         "level": null
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/37",
+        "url": "/api/wids/y1mGy1QTqtD/planets/37",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Colossal Pepper",
-          "url": "http://localhost:1337/api/planets/37"
+          "url": "/api/planets/37"
         },
         "discovery": {
           "distance": 319,
@@ -39,14 +39,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/33",
+        "url": "/api/wids/y1mGy1QTqtD/planets/33",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Desert Breeze",
-          "url": "http://localhost:1337/api/planets/33"
+          "url": "/api/planets/33"
         },
         "discovery": {
           "distance": 1165,
@@ -55,14 +55,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/26",
+        "url": "/api/wids/y1mGy1QTqtD/planets/26",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Luminous Fungus",
-          "url": "http://localhost:1337/api/planets/26"
+          "url": "/api/planets/26"
         },
         "discovery": {
           "distance": 1637,
@@ -71,14 +71,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/10",
+        "url": "/api/wids/y1mGy1QTqtD/planets/10",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Golden Gusher",
-          "url": "http://localhost:1337/api/planets/10"
+          "url": "/api/planets/10"
         },
         "discovery": {
           "distance": 1998,
@@ -87,14 +87,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/75",
+        "url": "/api/wids/y1mGy1QTqtD/planets/75",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Ancient Worldtree",
-          "url": "http://localhost:1337/api/planets/75"
+          "url": "/api/planets/75"
         },
         "discovery": {
           "distance": 2306,
@@ -103,14 +103,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/55",
+        "url": "/api/wids/y1mGy1QTqtD/planets/55",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Rainbow Eggs",
-          "url": "http://localhost:1337/api/planets/55"
+          "url": "/api/planets/55"
         },
         "discovery": {
           "distance": 2721,
@@ -119,14 +119,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/23",
+        "url": "/api/wids/y1mGy1QTqtD/planets/23",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Swamp of Crocs",
-          "url": "http://localhost:1337/api/planets/23"
+          "url": "/api/planets/23"
         },
         "discovery": {
           "distance": 3575,
@@ -135,14 +135,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/30",
+        "url": "/api/wids/y1mGy1QTqtD/planets/30",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Tater Tower",
-          "url": "http://localhost:1337/api/planets/30"
+          "url": "/api/planets/30"
         },
         "discovery": {
           "distance": 4070,
@@ -151,14 +151,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/6",
+        "url": "/api/wids/y1mGy1QTqtD/planets/6",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Fossil Fern",
-          "url": "http://localhost:1337/api/planets/6"
+          "url": "/api/planets/6"
         },
         "discovery": {
           "distance": 4577,
@@ -167,14 +167,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/35",
+        "url": "/api/wids/y1mGy1QTqtD/planets/35",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Botanical Garden",
-          "url": "http://localhost:1337/api/planets/35"
+          "url": "/api/planets/35"
         },
         "discovery": {
           "distance": 5269,
@@ -183,14 +183,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/42",
+        "url": "/api/wids/y1mGy1QTqtD/planets/42",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Peaceful Prairie",
-          "url": "http://localhost:1337/api/planets/42"
+          "url": "/api/planets/42"
         },
         "discovery": {
           "distance": 5638,
@@ -199,14 +199,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/41",
+        "url": "/api/wids/y1mGy1QTqtD/planets/41",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Sunset Savanna",
-          "url": "http://localhost:1337/api/planets/41"
+          "url": "/api/planets/41"
         },
         "discovery": {
           "distance": 6172,
@@ -215,14 +215,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/47",
+        "url": "/api/wids/y1mGy1QTqtD/planets/47",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Boar Tribe",
-          "url": "http://localhost:1337/api/planets/47"
+          "url": "/api/planets/47"
         },
         "discovery": {
           "distance": 6524,
@@ -231,14 +231,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/31",
+        "url": "/api/wids/y1mGy1QTqtD/planets/31",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Cat's Play",
-          "url": "http://localhost:1337/api/planets/31"
+          "url": "/api/planets/31"
         },
         "discovery": {
           "distance": 6998,
@@ -247,14 +247,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/79",
+        "url": "/api/wids/y1mGy1QTqtD/planets/79",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Black & White",
-          "url": "http://localhost:1337/api/planets/79"
+          "url": "/api/planets/79"
         },
         "discovery": {
           "distance": 7451,
@@ -263,14 +263,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/48",
+        "url": "/api/wids/y1mGy1QTqtD/planets/48",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Woolly Peak",
-          "url": "http://localhost:1337/api/planets/48"
+          "url": "/api/planets/48"
         },
         "discovery": {
           "distance": 8324,
@@ -279,14 +279,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/20",
+        "url": "/api/wids/y1mGy1QTqtD/planets/20",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Coral Reef",
-          "url": "http://localhost:1337/api/planets/20"
+          "url": "/api/planets/20"
         },
         "discovery": {
           "distance": 8683,
@@ -295,14 +295,14 @@
         "level": 7
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/13",
+        "url": "/api/wids/y1mGy1QTqtD/planets/13",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Eagle's Nest",
-          "url": "http://localhost:1337/api/planets/13"
+          "url": "/api/planets/13"
         },
         "discovery": {
           "distance": 9174,
@@ -311,14 +311,14 @@
         "level": 6
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/3",
+        "url": "/api/wids/y1mGy1QTqtD/planets/3",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Honeycomb",
-          "url": "http://localhost:1337/api/planets/3"
+          "url": "/api/planets/3"
         },
         "discovery": {
           "distance": 9524,
@@ -327,14 +327,14 @@
         "level": 6
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/4",
+        "url": "/api/wids/y1mGy1QTqtD/planets/4",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "King of Cows",
-          "url": "http://localhost:1337/api/planets/4"
+          "url": "/api/planets/4"
         },
         "discovery": {
           "distance": 9934,
@@ -343,14 +343,14 @@
         "level": 6
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/39",
+        "url": "/api/wids/y1mGy1QTqtD/planets/39",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Red Crater",
-          "url": "http://localhost:1337/api/planets/39"
+          "url": "/api/planets/39"
         },
         "discovery": {
           "distance": 10727,
@@ -359,14 +359,14 @@
         "level": 6
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/28",
+        "url": "/api/wids/y1mGy1QTqtD/planets/28",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Antler Ravine",
-          "url": "http://localhost:1337/api/planets/28"
+          "url": "/api/planets/28"
         },
         "discovery": {
           "distance": 11235,
@@ -375,14 +375,14 @@
         "level": 6
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/22",
+        "url": "/api/wids/y1mGy1QTqtD/planets/22",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Octopus Cavern",
-          "url": "http://localhost:1337/api/planets/22"
+          "url": "/api/planets/22"
         },
         "discovery": {
           "distance": 11722,
@@ -391,14 +391,14 @@
         "level": 6
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/64",
+        "url": "/api/wids/y1mGy1QTqtD/planets/64",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Deep-Sea Aquarium",
-          "url": "http://localhost:1337/api/planets/64"
+          "url": "/api/planets/64"
         },
         "discovery": {
           "distance": 12554,
@@ -407,14 +407,14 @@
         "level": 6
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/2",
+        "url": "/api/wids/y1mGy1QTqtD/planets/2",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Caramel Apple",
-          "url": "http://localhost:1337/api/planets/2"
+          "url": "/api/planets/2"
         },
         "discovery": {
           "distance": 13464,
@@ -423,14 +423,14 @@
         "level": 6
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/17",
+        "url": "/api/wids/y1mGy1QTqtD/planets/17",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Strawberry Cookies",
-          "url": "http://localhost:1337/api/planets/17"
+          "url": "/api/planets/17"
         },
         "discovery": {
           "distance": 14001,
@@ -439,14 +439,14 @@
         "level": 5
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/81",
+        "url": "/api/wids/y1mGy1QTqtD/planets/81",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Peaceful Graveyard",
-          "url": "http://localhost:1337/api/planets/81"
+          "url": "/api/planets/81"
         },
         "discovery": {
           "distance": 14418,
@@ -455,14 +455,14 @@
         "level": 5
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/56",
+        "url": "/api/wids/y1mGy1QTqtD/planets/56",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Housework Factory",
-          "url": "http://localhost:1337/api/planets/56"
+          "url": "/api/planets/56"
         },
         "discovery": {
           "distance": 15396,
@@ -471,14 +471,14 @@
         "level": 5
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/14",
+        "url": "/api/wids/y1mGy1QTqtD/planets/14",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Citrus Trampoline",
-          "url": "http://localhost:1337/api/planets/14"
+          "url": "/api/planets/14"
         },
         "discovery": {
           "distance": 15857,
@@ -487,14 +487,14 @@
         "level": 5
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/16",
+        "url": "/api/wids/y1mGy1QTqtD/planets/16",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Pineapple Foothills",
-          "url": "http://localhost:1337/api/planets/16"
+          "url": "/api/planets/16"
         },
         "discovery": {
           "distance": 16251,
@@ -503,14 +503,14 @@
         "level": 5
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/19",
+        "url": "/api/wids/y1mGy1QTqtD/planets/19",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Snow Berry",
-          "url": "http://localhost:1337/api/planets/19"
+          "url": "/api/planets/19"
         },
         "discovery": {
           "distance": 16618,
@@ -519,14 +519,14 @@
         "level": 5
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/34",
+        "url": "/api/wids/y1mGy1QTqtD/planets/34",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Sweet Donut",
-          "url": "http://localhost:1337/api/planets/34"
+          "url": "/api/planets/34"
         },
         "discovery": {
           "distance": 17334,
@@ -535,14 +535,14 @@
         "level": 5
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/51",
+        "url": "/api/wids/y1mGy1QTqtD/planets/51",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Chocolate River",
-          "url": "http://localhost:1337/api/planets/51"
+          "url": "/api/planets/51"
         },
         "discovery": {
           "distance": 17731,
@@ -551,14 +551,14 @@
         "level": 5
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/49",
+        "url": "/api/wids/y1mGy1QTqtD/planets/49",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Watermelon Canyon",
-          "url": "http://localhost:1337/api/planets/49"
+          "url": "/api/planets/49"
         },
         "discovery": {
           "distance": 18121,
@@ -567,14 +567,14 @@
         "level": 5
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/29",
+        "url": "/api/wids/y1mGy1QTqtD/planets/29",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Sugar Rush",
-          "url": "http://localhost:1337/api/planets/29"
+          "url": "/api/planets/29"
         },
         "discovery": {
           "distance": 18592,
@@ -583,14 +583,14 @@
         "level": 5
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/27",
+        "url": "/api/wids/y1mGy1QTqtD/planets/27",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Banana Boat",
-          "url": "http://localhost:1337/api/planets/27"
+          "url": "/api/planets/27"
         },
         "discovery": {
           "distance": 18968,
@@ -599,14 +599,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/15",
+        "url": "/api/wids/y1mGy1QTqtD/planets/15",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Bubble Gum",
-          "url": "http://localhost:1337/api/planets/15"
+          "url": "/api/planets/15"
         },
         "discovery": {
           "distance": 19919,
@@ -615,14 +615,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/7",
+        "url": "/api/wids/y1mGy1QTqtD/planets/7",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Meteor Adrift",
-          "url": "http://localhost:1337/api/planets/7"
+          "url": "/api/planets/7"
         },
         "discovery": {
           "distance": 20427,
@@ -631,14 +631,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/50",
+        "url": "/api/wids/y1mGy1QTqtD/planets/50",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Amazon Rainforest",
-          "url": "http://localhost:1337/api/planets/50"
+          "url": "/api/planets/50"
         },
         "discovery": {
           "distance": 20849,
@@ -647,14 +647,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/57",
+        "url": "/api/wids/y1mGy1QTqtD/planets/57",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "River of Dragon",
-          "url": "http://localhost:1337/api/planets/57"
+          "url": "/api/planets/57"
         },
         "discovery": {
           "distance": 21281,
@@ -663,14 +663,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/25",
+        "url": "/api/wids/y1mGy1QTqtD/planets/25",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Molten Lava",
-          "url": "http://localhost:1337/api/planets/25"
+          "url": "/api/planets/25"
         },
         "discovery": {
           "distance": 22055,
@@ -679,14 +679,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/69",
+        "url": "/api/wids/y1mGy1QTqtD/planets/69",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Burger Mountain",
-          "url": "http://localhost:1337/api/planets/69"
+          "url": "/api/planets/69"
         },
         "discovery": {
           "distance": 22540,
@@ -695,14 +695,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/87",
+        "url": "/api/wids/y1mGy1QTqtD/planets/87",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Neon Party",
-          "url": "http://localhost:1337/api/planets/87"
+          "url": "/api/planets/87"
         },
         "discovery": {
           "distance": 22950,
@@ -711,14 +711,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/68",
+        "url": "/api/wids/y1mGy1QTqtD/planets/68",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Invisible Base",
-          "url": "http://localhost:1337/api/planets/68"
+          "url": "/api/planets/68"
         },
         "discovery": {
           "distance": 23780,
@@ -727,14 +727,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/70",
+        "url": "/api/wids/y1mGy1QTqtD/planets/70",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Popcorn Prison",
-          "url": "http://localhost:1337/api/planets/70"
+          "url": "/api/planets/70"
         },
         "discovery": {
           "distance": 24285,
@@ -743,14 +743,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/45",
+        "url": "/api/wids/y1mGy1QTqtD/planets/45",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Vault of Secrets",
-          "url": "http://localhost:1337/api/planets/45"
+          "url": "/api/planets/45"
         },
         "discovery": {
           "distance": 24740,
@@ -759,14 +759,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/66",
+        "url": "/api/wids/y1mGy1QTqtD/planets/66",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "The Light of Ideas",
-          "url": "http://localhost:1337/api/planets/66"
+          "url": "/api/planets/66"
         },
         "discovery": {
           "distance": 25592,
@@ -775,14 +775,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/58",
+        "url": "/api/wids/y1mGy1QTqtD/planets/58",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Peace River",
-          "url": "http://localhost:1337/api/planets/58"
+          "url": "/api/planets/58"
         },
         "discovery": {
           "distance": 26004,
@@ -791,14 +791,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/74",
+        "url": "/api/wids/y1mGy1QTqtD/planets/74",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Rome Arena",
-          "url": "http://localhost:1337/api/planets/74"
+          "url": "/api/planets/74"
         },
         "discovery": {
           "distance": 26393,
@@ -807,14 +807,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/12",
+        "url": "/api/wids/y1mGy1QTqtD/planets/12",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Ice Age",
-          "url": "http://localhost:1337/api/planets/12"
+          "url": "/api/planets/12"
         },
         "discovery": {
           "distance": 26727,
@@ -823,14 +823,14 @@
         "level": 4
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/5",
+        "url": "/api/wids/y1mGy1QTqtD/planets/5",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Water World",
-          "url": "http://localhost:1337/api/planets/5"
+          "url": "/api/planets/5"
         },
         "discovery": {
           "distance": 27591,
@@ -839,14 +839,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/9",
+        "url": "/api/wids/y1mGy1QTqtD/planets/9",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Snow World",
-          "url": "http://localhost:1337/api/planets/9"
+          "url": "/api/planets/9"
         },
         "discovery": {
           "distance": 28114,
@@ -855,14 +855,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/83",
+        "url": "/api/wids/y1mGy1QTqtD/planets/83",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Waving Ocean",
-          "url": "http://localhost:1337/api/planets/83"
+          "url": "/api/planets/83"
         },
         "discovery": {
           "distance": 28416,
@@ -871,14 +871,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/21",
+        "url": "/api/wids/y1mGy1QTqtD/planets/21",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Lonely Dune",
-          "url": "http://localhost:1337/api/planets/21"
+          "url": "/api/planets/21"
         },
         "discovery": {
           "distance": 28741,
@@ -887,14 +887,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/59",
+        "url": "/api/wids/y1mGy1QTqtD/planets/59",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Busy City",
-          "url": "http://localhost:1337/api/planets/59"
+          "url": "/api/planets/59"
         },
         "discovery": {
           "distance": 29690,
@@ -903,14 +903,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/76",
+        "url": "/api/wids/y1mGy1QTqtD/planets/76",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Viking Warship",
-          "url": "http://localhost:1337/api/planets/76"
+          "url": "/api/planets/76"
         },
         "discovery": {
           "distance": 29994,
@@ -919,14 +919,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/46",
+        "url": "/api/wids/y1mGy1QTqtD/planets/46",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Heart of Flames",
-          "url": "http://localhost:1337/api/planets/46"
+          "url": "/api/planets/46"
         },
         "discovery": {
           "distance": 30417,
@@ -935,14 +935,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/85",
+        "url": "/api/wids/y1mGy1QTqtD/planets/85",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Aquatic Wonderland",
-          "url": "http://localhost:1337/api/planets/85"
+          "url": "/api/planets/85"
         },
         "discovery": {
           "distance": 31310,
@@ -951,14 +951,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/86",
+        "url": "/api/wids/y1mGy1QTqtD/planets/86",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Lotus Lake",
-          "url": "http://localhost:1337/api/planets/86"
+          "url": "/api/planets/86"
         },
         "discovery": {
           "distance": 31793,
@@ -967,14 +967,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/77",
+        "url": "/api/wids/y1mGy1QTqtD/planets/77",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Stone Age",
-          "url": "http://localhost:1337/api/planets/77"
+          "url": "/api/planets/77"
         },
         "discovery": {
           "distance": 32202,
@@ -983,14 +983,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/89",
+        "url": "/api/wids/y1mGy1QTqtD/planets/89",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Great Whale",
-          "url": "http://localhost:1337/api/planets/89"
+          "url": "/api/planets/89"
         },
         "discovery": {
           "distance": 33108,
@@ -999,14 +999,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/60",
+        "url": "/api/wids/y1mGy1QTqtD/planets/60",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Moon Lake",
-          "url": "http://localhost:1337/api/planets/60"
+          "url": "/api/planets/60"
         },
         "discovery": {
           "distance": 33441,
@@ -1015,14 +1015,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/72",
+        "url": "/api/wids/y1mGy1QTqtD/planets/72",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Raining Cloud",
-          "url": "http://localhost:1337/api/planets/72"
+          "url": "/api/planets/72"
         },
         "discovery": {
           "distance": 33878,
@@ -1031,14 +1031,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/96",
+        "url": "/api/wids/y1mGy1QTqtD/planets/96",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Ocean City",
-          "url": "http://localhost:1337/api/planets/96"
+          "url": "/api/planets/96"
         },
         "discovery": {
           "distance": 34381,
@@ -1047,14 +1047,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/73",
+        "url": "/api/wids/y1mGy1QTqtD/planets/73",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Infinite Racing",
-          "url": "http://localhost:1337/api/planets/73"
+          "url": "/api/planets/73"
         },
         "discovery": {
           "distance": 35061,
@@ -1063,14 +1063,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/91",
+        "url": "/api/wids/y1mGy1QTqtD/planets/91",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Baby Hedgehog",
-          "url": "http://localhost:1337/api/planets/91"
+          "url": "/api/planets/91"
         },
         "discovery": {
           "distance": 35557,
@@ -1079,14 +1079,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/61",
+        "url": "/api/wids/y1mGy1QTqtD/planets/61",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Scary Pumpkin",
-          "url": "http://localhost:1337/api/planets/61"
+          "url": "/api/planets/61"
         },
         "discovery": {
           "distance": 35898,
@@ -1095,14 +1095,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/71",
+        "url": "/api/wids/y1mGy1QTqtD/planets/71",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Doggii's Home",
-          "url": "http://localhost:1337/api/planets/71"
+          "url": "/api/planets/71"
         },
         "discovery": {
           "distance": 36645,
@@ -1111,14 +1111,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/93",
+        "url": "/api/wids/y1mGy1QTqtD/planets/93",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Golden Town",
-          "url": "http://localhost:1337/api/planets/93"
+          "url": "/api/planets/93"
         },
         "discovery": {
           "distance": 36804,
@@ -1127,14 +1127,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/67",
+        "url": "/api/wids/y1mGy1QTqtD/planets/67",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Soccer Sphere",
-          "url": "http://localhost:1337/api/planets/67"
+          "url": "/api/planets/67"
         },
         "discovery": {
           "distance": 36952,
@@ -1143,14 +1143,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/92",
+        "url": "/api/wids/y1mGy1QTqtD/planets/92",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Lantern City",
-          "url": "http://localhost:1337/api/planets/92"
+          "url": "/api/planets/92"
         },
         "discovery": {
           "distance": 37433,
@@ -1159,14 +1159,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/62",
+        "url": "/api/wids/y1mGy1QTqtD/planets/62",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Many Givings",
-          "url": "http://localhost:1337/api/planets/62"
+          "url": "/api/planets/62"
         },
         "discovery": {
           "distance": 38698,
@@ -1175,14 +1175,14 @@
         "level": 3
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/78",
+        "url": "/api/wids/y1mGy1QTqtD/planets/78",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Angry Dragon",
-          "url": "http://localhost:1337/api/planets/78"
+          "url": "/api/planets/78"
         },
         "discovery": {
           "distance": 39000,
@@ -1191,14 +1191,14 @@
         "level": 2
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/84",
+        "url": "/api/wids/y1mGy1QTqtD/planets/84",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Dreamland",
-          "url": "http://localhost:1337/api/planets/84"
+          "url": "/api/planets/84"
         },
         "discovery": {
           "distance": 39539,
@@ -1207,14 +1207,14 @@
         "level": 2
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/24",
+        "url": "/api/wids/y1mGy1QTqtD/planets/24",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Smokey Secret",
-          "url": "http://localhost:1337/api/planets/24"
+          "url": "/api/planets/24"
         },
         "discovery": {
           "distance": 39737,
@@ -1223,14 +1223,14 @@
         "level": 2
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/82",
+        "url": "/api/wids/y1mGy1QTqtD/planets/82",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Star Portal",
-          "url": "http://localhost:1337/api/planets/82"
+          "url": "/api/planets/82"
         },
         "discovery": {
           "distance": 40460,
@@ -1239,14 +1239,14 @@
         "level": 2
       },
       {
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/planets/63",
+        "url": "/api/wids/y1mGy1QTqtD/planets/63",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "planet": {
           "name": "Ring Forest",
-          "url": "http://localhost:1337/api/planets/63"
+          "url": "/api/planets/63"
         },
         "discovery": {
           "distance": 40910,
@@ -1258,294 +1258,294 @@
     "dfrs": [
       {
         "id": 1,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/1",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/1",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Rice Cooker",
-          "url": "http://localhost:1337/api/dfrs/D"
+          "url": "/api/dfrs/D"
         },
         "distance": 3122,
         "level": 8
       },
       {
         "id": 2,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/2",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/2",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Ultrasound Juicer",
-          "url": "http://localhost:1337/api/dfrs/C"
+          "url": "/api/dfrs/C"
         },
         "distance": 4882,
         "level": 8
       },
       {
         "id": 3,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/3",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/3",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Sonic Toaster",
-          "url": "http://localhost:1337/api/dfrs/E"
+          "url": "/api/dfrs/E"
         },
         "distance": 7972,
         "level": 8
       },
       {
         "id": 4,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/4",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/4",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Rice Cooker",
-          "url": "http://localhost:1337/api/dfrs/D"
+          "url": "/api/dfrs/D"
         },
         "distance": 10293,
         "level": 8
       },
       {
         "id": 5,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/5",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/5",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Space Percolator",
-          "url": "http://localhost:1337/api/dfrs/B"
+          "url": "/api/dfrs/B"
         },
         "distance": 12151,
         "level": 8
       },
       {
         "id": 6,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/6",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/6",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Super Blender",
-          "url": "http://localhost:1337/api/dfrs/A"
+          "url": "/api/dfrs/A"
         },
         "distance": 13033,
         "level": 8
       },
       {
         "id": 7,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/7",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/7",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Space Percolator",
-          "url": "http://localhost:1337/api/dfrs/B"
+          "url": "/api/dfrs/B"
         },
         "distance": 14922,
         "level": 8
       },
       {
         "id": 8,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/8",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/8",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Super Blender",
-          "url": "http://localhost:1337/api/dfrs/A"
+          "url": "/api/dfrs/A"
         },
         "distance": 1693,
         "level": 8
       },
       {
         "id": 9,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/9",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/9",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Rice Cooker",
-          "url": "http://localhost:1337/api/dfrs/D"
+          "url": "/api/dfrs/D"
         },
         "distance": 19437,
         "level": 8
       },
       {
         "id": 10,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/10",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/10",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Ultrasound Juicer",
-          "url": "http://localhost:1337/api/dfrs/C"
+          "url": "/api/dfrs/C"
         },
         "distance": 21742,
         "level": 8
       },
       {
         "id": 11,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/11",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/11",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Rice Cooker",
-          "url": "http://localhost:1337/api/dfrs/D"
+          "url": "/api/dfrs/D"
         },
         "distance": 23367,
         "level": 8
       },
       {
         "id": 12,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/12",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/12",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Space Percolator",
-          "url": "http://localhost:1337/api/dfrs/B"
+          "url": "/api/dfrs/B"
         },
         "distance": 25058,
         "level": 8
       },
       {
         "id": 13,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/13",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/13",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Rice Cooker",
-          "url": "http://localhost:1337/api/dfrs/D"
+          "url": "/api/dfrs/D"
         },
         "distance": 27228,
         "level": 8
       },
       {
         "id": 14,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/14",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/14",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Coffee Supplier",
-          "url": "http://localhost:1337/api/dfrs/F"
+          "url": "/api/dfrs/F"
         },
         "distance": 28741,
         "level": 8
       },
       {
         "id": 15,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/15",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/15",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Super Blender",
-          "url": "http://localhost:1337/api/dfrs/A"
+          "url": "/api/dfrs/A"
         },
         "distance": 30897,
         "level": 8
       },
       {
         "id": 16,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/16",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/16",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Rice Cooker",
-          "url": "http://localhost:1337/api/dfrs/D"
+          "url": "/api/dfrs/D"
         },
         "distance": 30897,
         "level": 8
       },
       {
         "id": 17,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/17",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/17",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Rice Cooker",
-          "url": "http://localhost:1337/api/dfrs/D"
+          "url": "/api/dfrs/D"
         },
         "distance": 30897,
         "level": 8
       },
       {
         "id": 18,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/18",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/18",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Rice Cooker",
-          "url": "http://localhost:1337/api/dfrs/D"
+          "url": "/api/dfrs/D"
         },
         "distance": 30897,
         "level": 8
       },
       {
         "id": 19,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/19",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/19",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Sonic Toaster",
-          "url": "http://localhost:1337/api/dfrs/E"
+          "url": "/api/dfrs/E"
         },
         "distance": 30897,
         "level": 8
       },
       {
         "id": 20,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/20",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/20",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Super Blender",
-          "url": "http://localhost:1337/api/dfrs/A"
+          "url": "/api/dfrs/A"
         },
         "distance": 727,
         "level": 8
       },
       {
         "id": 21,
-        "url": "http://localhost:1337/api/wids/y1mGy1QTqtD/dfrs/21",
+        "url": "/api/wids/y1mGy1QTqtD/dfrs/21",
         "wid": {
-          "url": "http://localhost:1337/api/wids/y1mGy1QTqtD",
+          "url": "/api/wids/y1mGy1QTqtD",
           "name": "Frank van Wijk"
         },
         "dfr": {
           "name": "Sonic Toaster",
-          "url": "http://localhost:1337/api/dfrs/E"
+          "url": "/api/dfrs/E"
         },
         "distance": 40078,
         "level": 8
@@ -1554,363 +1554,363 @@
     "missions": [
       {
         "name": "Chinese Garden",
-        "url": "http://localhost:1337/api/missions/1"
+        "url": "/api/missions/1"
       },
       {
         "name": "Aerodynamics",
-        "url": "http://localhost:1337/api/missions/3"
+        "url": "/api/missions/3"
       },
       {
         "name": "Pineapple Milk",
-        "url": "http://localhost:1337/api/missions/6"
+        "url": "/api/missions/6"
       },
       {
         "name": "Poached Egg",
-        "url": "http://localhost:1337/api/missions/7"
+        "url": "/api/missions/7"
       },
       {
         "name": "Hami Jelly",
-        "url": "http://localhost:1337/api/missions/8"
+        "url": "/api/missions/8"
       },
       {
         "name": "Flying Fish",
-        "url": "http://localhost:1337/api/missions/9"
+        "url": "/api/missions/9"
       },
       {
         "name": "Hami Candy",
-        "url": "http://localhost:1337/api/missions/10"
+        "url": "/api/missions/10"
       },
       {
         "name": "Red Dye",
-        "url": "http://localhost:1337/api/missions/12"
+        "url": "/api/missions/12"
       },
       {
         "name": "Fruit with Leaf",
-        "url": "http://localhost:1337/api/missions/13"
+        "url": "/api/missions/13"
       },
       {
         "name": "Bookcase",
-        "url": "http://localhost:1337/api/missions/15"
+        "url": "/api/missions/15"
       },
       {
         "name": "Botanical Garden",
-        "url": "http://localhost:1337/api/missions/18"
+        "url": "/api/missions/18"
       },
       {
         "name": "Colorful Leaf",
-        "url": "http://localhost:1337/api/missions/19"
+        "url": "/api/missions/19"
       },
       {
         "name": "Afternoon Tea",
-        "url": "http://localhost:1337/api/missions/21"
+        "url": "/api/missions/21"
       },
       {
         "name": "Sweaters",
-        "url": "http://localhost:1337/api/missions/23"
+        "url": "/api/missions/23"
       },
       {
         "name": "Toxic Weapon",
-        "url": "http://localhost:1337/api/missions/24"
+        "url": "/api/missions/24"
       },
       {
         "name": "Davenport",
-        "url": "http://localhost:1337/api/missions/25"
+        "url": "/api/missions/25"
       },
       {
         "name": "Weather Forecast",
-        "url": "http://localhost:1337/api/missions/27"
+        "url": "/api/missions/27"
       },
       {
         "name": "Snowflake Ice",
-        "url": "http://localhost:1337/api/missions/29"
+        "url": "/api/missions/29"
       },
       {
         "name": "Diving Tank",
-        "url": "http://localhost:1337/api/missions/30"
+        "url": "/api/missions/30"
       },
       {
         "name": "Watermelon Slush",
-        "url": "http://localhost:1337/api/missions/31"
+        "url": "/api/missions/31"
       },
       {
         "name": "Hot Cocoa",
-        "url": "http://localhost:1337/api/missions/36"
+        "url": "/api/missions/36"
       },
       {
         "name": "BBQ",
-        "url": "http://localhost:1337/api/missions/37"
+        "url": "/api/missions/37"
       },
       {
         "name": "Kite",
-        "url": "http://localhost:1337/api/missions/39"
+        "url": "/api/missions/39"
       },
       {
         "name": "Gas Burner",
-        "url": "http://localhost:1337/api/missions/40"
+        "url": "/api/missions/40"
       },
       {
         "name": "Alien Salad",
-        "url": "http://localhost:1337/api/missions/42"
+        "url": "/api/missions/42"
       },
       {
         "name": "Sukiyaki",
-        "url": "http://localhost:1337/api/missions/45"
+        "url": "/api/missions/45"
       },
       {
         "name": "Energy Drink",
-        "url": "http://localhost:1337/api/missions/46"
+        "url": "/api/missions/46"
       },
       {
         "name": "Petroleum",
-        "url": "http://localhost:1337/api/missions/47"
+        "url": "/api/missions/47"
       },
       {
         "name": "Takoyaki",
-        "url": "http://localhost:1337/api/missions/48"
+        "url": "/api/missions/48"
       },
       {
         "name": "Suit",
-        "url": "http://localhost:1337/api/missions/49"
+        "url": "/api/missions/49"
       },
       {
         "name": "Potato Chips",
-        "url": "http://localhost:1337/api/missions/50"
+        "url": "/api/missions/50"
       },
       {
         "name": "Soul of Brave",
-        "url": "http://localhost:1337/api/missions/51"
+        "url": "/api/missions/51"
       },
       {
         "name": "Cinema Set",
-        "url": "http://localhost:1337/api/missions/52"
+        "url": "/api/missions/52"
       },
       {
         "name": "Invisible Jelly",
-        "url": "http://localhost:1337/api/missions/54"
+        "url": "/api/missions/54"
       },
       {
         "name": "Oxygen Canister",
-        "url": "http://localhost:1337/api/missions/55"
+        "url": "/api/missions/55"
       },
       {
         "name": "Fragrant Hairball",
-        "url": "http://localhost:1337/api/missions/57"
+        "url": "/api/missions/57"
       },
       {
         "name": "Xmas Decor",
-        "url": "http://localhost:1337/api/missions/58"
+        "url": "/api/missions/58"
       },
       {
         "name": "The Great Cactus",
-        "url": "http://localhost:1337/api/missions/60"
+        "url": "/api/missions/60"
       },
       {
         "name": "Mini Dino",
-        "url": "http://localhost:1337/api/missions/63"
+        "url": "/api/missions/63"
       },
       {
         "name": "Victory",
-        "url": "http://localhost:1337/api/missions/65"
+        "url": "/api/missions/65"
       },
       {
         "name": "Pot O' Choc",
-        "url": "http://localhost:1337/api/missions/66"
+        "url": "/api/missions/66"
       },
       {
         "name": "Picking Lotus",
-        "url": "http://localhost:1337/api/missions/68"
+        "url": "/api/missions/68"
       },
       {
         "name": "French Fries",
-        "url": "http://localhost:1337/api/missions/69"
+        "url": "/api/missions/69"
       },
       {
         "name": "Greatcoat",
-        "url": "http://localhost:1337/api/missions/70"
+        "url": "/api/missions/70"
       },
       {
         "name": "Exorcism",
-        "url": "http://localhost:1337/api/missions/72"
+        "url": "/api/missions/72"
       },
       {
         "name": "Watermelon Juice",
-        "url": "http://localhost:1337/api/missions/74"
+        "url": "/api/missions/74"
       },
       {
         "name": "Crispy Pork",
-        "url": "http://localhost:1337/api/missions/75"
+        "url": "/api/missions/75"
       },
       {
         "name": "Pineapple Pork",
-        "url": "http://localhost:1337/api/missions/76"
+        "url": "/api/missions/76"
       },
       {
         "name": "Apple Juice",
-        "url": "http://localhost:1337/api/missions/77"
+        "url": "/api/missions/77"
       },
       {
         "name": "Bell Pepper Jelly",
-        "url": "http://localhost:1337/api/missions/81"
+        "url": "/api/missions/81"
       },
       {
         "name": "Watermelon Drop",
-        "url": "http://localhost:1337/api/missions/82"
+        "url": "/api/missions/82"
       },
       {
         "name": "Fishbone Salad",
-        "url": "http://localhost:1337/api/missions/83"
+        "url": "/api/missions/83"
       },
       {
         "name": "Venus Flytrap",
-        "url": "http://localhost:1337/api/missions/84"
+        "url": "/api/missions/84"
       },
       {
         "name": "Purple Button",
-        "url": "http://localhost:1337/api/missions/88"
+        "url": "/api/missions/88"
       },
       {
         "name": "Hawaiian Salad",
-        "url": "http://localhost:1337/api/missions/89"
+        "url": "/api/missions/89"
       },
       {
         "name": "Rune Copper",
-        "url": "http://localhost:1337/api/missions/90"
+        "url": "/api/missions/90"
       },
       {
         "name": "Color Bubble",
-        "url": "http://localhost:1337/api/missions/93"
+        "url": "/api/missions/93"
       },
       {
         "name": "Ancient Ceremony",
-        "url": "http://localhost:1337/api/missions/94"
+        "url": "/api/missions/94"
       },
       {
         "name": "Coral Earrings",
-        "url": "http://localhost:1337/api/missions/98"
+        "url": "/api/missions/98"
       },
       {
         "name": "Hot Sauce",
-        "url": "http://localhost:1337/api/missions/101"
+        "url": "/api/missions/101"
       },
       {
         "name": "Strawberry Slush",
-        "url": "http://localhost:1337/api/missions/102"
+        "url": "/api/missions/102"
       },
       {
         "name": "Valentine Sundae",
-        "url": "http://localhost:1337/api/missions/103"
+        "url": "/api/missions/103"
       },
       {
         "name": "Jurassic Park",
-        "url": "http://localhost:1337/api/missions/105"
+        "url": "/api/missions/105"
       },
       {
         "name": "Torch",
-        "url": "http://localhost:1337/api/missions/106"
+        "url": "/api/missions/106"
       },
       {
         "name": "Aquarium",
-        "url": "http://localhost:1337/api/missions/107"
+        "url": "/api/missions/107"
       },
       {
         "name": "Sausage",
-        "url": "http://localhost:1337/api/missions/109"
+        "url": "/api/missions/109"
       },
       {
         "name": "Quilt",
-        "url": "http://localhost:1337/api/missions/111"
+        "url": "/api/missions/111"
       },
       {
         "name": "Bonsai",
-        "url": "http://localhost:1337/api/missions/112"
+        "url": "/api/missions/112"
       },
       {
         "name": "Invisible Fishbone",
-        "url": "http://localhost:1337/api/missions/113"
+        "url": "/api/missions/113"
       },
       {
         "name": "Shining Chick",
-        "url": "http://localhost:1337/api/missions/122"
+        "url": "/api/missions/122"
       },
       {
         "name": "T-Shirt",
-        "url": "http://localhost:1337/api/missions/123"
+        "url": "/api/missions/123"
       },
       {
         "name": "Honey Pudding",
-        "url": "http://localhost:1337/api/missions/125"
+        "url": "/api/missions/125"
       },
       {
         "name": "Finished Seafood",
-        "url": "http://localhost:1337/api/missions/126"
+        "url": "/api/missions/126"
       },
       {
         "name": "Honey Jelly",
-        "url": "http://localhost:1337/api/missions/129"
+        "url": "/api/missions/129"
       },
       {
         "name": "Beer",
-        "url": "http://localhost:1337/api/missions/131"
+        "url": "/api/missions/131"
       },
       {
         "name": "Dispersive Prism",
-        "url": "http://localhost:1337/api/missions/132"
+        "url": "/api/missions/132"
       },
       {
         "name": "Honey Bread",
-        "url": "http://localhost:1337/api/missions/133"
+        "url": "/api/missions/133"
       },
       {
         "name": "Cactus Sundae",
-        "url": "http://localhost:1337/api/missions/135"
+        "url": "/api/missions/135"
       },
       {
         "name": "Love Love",
-        "url": "http://localhost:1337/api/missions/138"
+        "url": "/api/missions/138"
       },
       {
         "name": "Seafood Salad",
-        "url": "http://localhost:1337/api/missions/139"
+        "url": "/api/missions/139"
       },
       {
         "name": "Poison Mushroom",
-        "url": "http://localhost:1337/api/missions/142"
+        "url": "/api/missions/142"
       },
       {
         "name": "Sugar Apple",
-        "url": "http://localhost:1337/api/missions/143"
+        "url": "/api/missions/143"
       },
       {
         "name": "Pop",
-        "url": "http://localhost:1337/api/missions/153"
+        "url": "/api/missions/153"
       },
       {
         "name": "Butter",
-        "url": "http://localhost:1337/api/missions/155"
+        "url": "/api/missions/155"
       },
       {
         "name": "Brekkie",
-        "url": "http://localhost:1337/api/missions/157"
+        "url": "/api/missions/157"
       },
       {
         "name": "Steak Set",
-        "url": "http://localhost:1337/api/missions/154"
+        "url": "/api/missions/154"
       },
       {
         "name": "Gift Basket",
-        "url": "http://localhost:1337/api/missions/147"
+        "url": "/api/missions/147"
       },
       {
         "name": "Chocolate Sunday",
-        "url": "http://localhost:1337/api/missions/150"
+        "url": "/api/missions/150"
       },
       {
         "name": "Fish and Chips",
-        "url": "http://localhost:1337/api/missions/151"
+        "url": "/api/missions/151"
       },
       {
         "name": "Submarine Relic",
-        "url": "http://localhost:1337/api/missions/152"
+        "url": "/api/missions/152"
       }
     ]
   }

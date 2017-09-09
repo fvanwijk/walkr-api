@@ -1,4 +1,5 @@
 var mongoose = require('mongoose');
+var url = require('../api/url');
 var Schema = mongoose.Schema;
 
 var ShipSchema = new Schema({
@@ -33,6 +34,10 @@ var ship = mongoose.model('Ship', ShipSchema);
 ship.slug = 'ships';
 ship.identifierField = 'id';
 ship.nameField = 'name';
+ship.resultMapper = ship => {
+  ship.variants.forEach(url.addHostToUrl.bind(url));
+  return ship;
+};
 
 module.exports = {
   model: ship,

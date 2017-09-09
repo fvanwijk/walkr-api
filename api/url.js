@@ -5,5 +5,9 @@ module.exports = {
   port: process.env.PORT || 1337,
   create() {
     return `${this.host}:${this.port}` + path.join.apply(this, ['/api', ...Array.prototype.slice.call(arguments).map(arg => arg.toString())]);
+  },
+  addHostToUrl(item) {
+    item.url = `${this.host}:${this.port}${item.url}`;
+    return item;
   }
 };

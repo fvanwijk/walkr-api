@@ -31,23 +31,23 @@
     "resource_image_url": "assets/resources/apples.png",
     "wonders": "Giant Bowtie",
     "satellites_l1": [
-      { "name": "Green Juicer", "url": "http://localhost:1337/api/satellites/25" },
-      { "name": "Cottony Candy", "url": "http://localhost:1337/api/satellites/57" },
-      { "name": "Macaron", "url": "http://localhost:1337/api/satellites/40" },
-      { "name": "Red Juicer", "url": "http://localhost:1337/api/satellites/55" },
-      { "name": "Candy Cane", "url": "http://localhost:1337/api/satellites/35" },
-      { "name": "Tiny Parasol", "url": "http://localhost:1337/api/satellites/33" },
-      { "name": "Ice Lolly", "url": "http://localhost:1337/api/satellites/20" },
-      { "name": "DVD", "url": "http://localhost:1337/api/satellites/76" },
-      { "name": "Token", "url": "http://localhost:1337/api/satellites/103" },
-      { "name": "Red Bean Cakes", "url": "http://localhost:1337/api/satellites/" },
-      { "name": "Sweet Shrimp", "url": "http://localhost:1337/api/satellites/" },
-      { "name": "Straw Umbrella", "url": "http://localhost:1337/api/satellites/" }
+      { "name": "Green Juicer", "url": "/api/satellites/25" },
+      { "name": "Cottony Candy", "url": "/api/satellites/57" },
+      { "name": "Macaron", "url": "/api/satellites/40" },
+      { "name": "Red Juicer", "url": "/api/satellites/55" },
+      { "name": "Candy Cane", "url": "/api/satellites/35" },
+      { "name": "Tiny Parasol", "url": "/api/satellites/33" },
+      { "name": "Ice Lolly", "url": "/api/satellites/20" },
+      { "name": "DVD", "url": "/api/satellites/76" },
+      { "name": "Token", "url": "/api/satellites/103" },
+      { "name": "Red Bean Cakes", "url": "/api/satellites/" },
+      { "name": "Sweet Shrimp", "url": "/api/satellites/" },
+      { "name": "Straw Umbrella", "url": "/api/satellites/" }
     ],
     "satellites_l2": [
       {
         "name": "Lolly",
-        "url": "http://localhost:1337/api/satellites/8"
+        "url": "/api/satellites/8"
       }
     ]
   },
@@ -68,7 +68,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Honey Dipper",
-      "url": "http://localhost:1337/api/satellites/9"
+      "url": "/api/satellites/9"
     }]
   },
   {
@@ -88,7 +88,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Cheeeese",
-      "url": "http://localhost:1337/api/satellites/10"
+      "url": "/api/satellites/10"
     }]
   },
   {
@@ -108,7 +108,7 @@
    "satellites_l1": [],
     "satellites_l2": [{
       "name": "Letter in the Bottle",
-      "url": "http://localhost:1337/api/satellites/11"
+      "url": "/api/satellites/11"
     }]
   },
   {
@@ -128,7 +128,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Space Crud",
-      "url": "http://localhost:1337/api/satellites/12"
+      "url": "/api/satellites/12"
     }]
   },
   {
@@ -148,7 +148,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Artificial Satellite",
-      "url": "http://localhost:1337/api/satellites/13"
+      "url": "/api/satellites/13"
     }]
   },
   {
@@ -168,7 +168,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Gear",
-      "url": "http://localhost:1337/api/satellites/14"
+      "url": "/api/satellites/14"
     }]
   },
   {
@@ -188,7 +188,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Snowball",
-      "url": "http://localhost:1337/api/satellites/15"
+      "url": "/api/satellites/15"
     }]
   },
   {
@@ -208,7 +208,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Olive Sapling",
-      "url": "http://localhost:1337/api/satellites/16"
+      "url": "/api/satellites/16"
     }]
   },
   {
@@ -228,7 +228,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Christmas Star",
-      "url": "http://localhost:1337/api/satellites/17"
+      "url": "/api/satellites/17"
     }]
   },
   {
@@ -248,7 +248,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Flake",
-      "url": "http://localhost:1337/api/satellites/18"
+      "url": "/api/satellites/18"
     }]
   },
   {
@@ -268,7 +268,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Feather Pom",
-      "url": "http://localhost:1337/api/satellites/19"
+      "url": "/api/satellites/19"
     }]
   },
   {
@@ -288,7 +288,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Ice Lolly",
-      "url": "http://localhost:1337/api/satellites/20"
+      "url": "/api/satellites/20"
     }]
   },
   {
@@ -308,7 +308,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Rainbow Orb",
-      "url": "http://localhost:1337/api/satellites/21"
+      "url": "/api/satellites/21"
     }]
   },
   {
@@ -328,7 +328,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Yellow Juicer",
-      "url": "http://localhost:1337/api/satellites/22"
+      "url": "/api/satellites/22"
     }]
   },
   {
@@ -348,7 +348,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Dairy Juice",
-      "url": "http://localhost:1337/api/satellites/23"
+      "url": "/api/satellites/23"
     }]
   },
   {
@@ -368,7 +368,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Probe",
-      "url": "http://localhost:1337/api/satellites/24"
+      "url": "/api/satellites/24"
     }]
   },
   {
@@ -388,7 +388,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Green Juicer",
-      "url": "http://localhost:1337/api/satellites/25"
+      "url": "/api/satellites/25"
     }]
   },
   {
@@ -408,7 +408,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Pearl of Wisdom",
-      "url": "http://localhost:1337/api/satellites/26"
+      "url": "/api/satellites/26"
     }]
   },
   {
@@ -428,7 +428,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Magic Stone",
-      "url": "http://localhost:1337/api/satellites/27"
+      "url": "/api/satellites/27"
     }]
   },
   {
@@ -448,7 +448,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Shipwreck",
-      "url": "http://localhost:1337/api/satellites/28"
+      "url": "/api/satellites/28"
     }]
   },
   {
@@ -468,7 +468,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Fisheye",
-      "url": "http://localhost:1337/api/satellites/29"
+      "url": "/api/satellites/29"
     }]
   },
   {
@@ -488,7 +488,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Space Pirate Battleship",
-      "url": "http://localhost:1337/api/satellites/30"
+      "url": "/api/satellites/30"
     }]
   },
   {
@@ -508,7 +508,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Galactic Drill",
-      "url": "http://localhost:1337/api/satellites/31"
+      "url": "/api/satellites/31"
     }]
   },
   {
@@ -528,7 +528,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Sapphire",
-      "url": "http://localhost:1337/api/satellites/32"
+      "url": "/api/satellites/32"
     }]
   },
   {
@@ -548,7 +548,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Tiny Parasol",
-      "url": "http://localhost:1337/api/satellites/33"
+      "url": "/api/satellites/33"
     }]
   },
   {
@@ -568,7 +568,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Mossy",
-      "url": "http://localhost:1337/api/satellites/34"
+      "url": "/api/satellites/34"
     }]
   },
   {
@@ -588,7 +588,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Candy Cane",
-      "url": "http://localhost:1337/api/satellites/35"
+      "url": "/api/satellites/35"
     }]
   },
   {
@@ -608,7 +608,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Snackysnacks",
-      "url": "http://localhost:1337/api/satellites/36"
+      "url": "/api/satellites/36"
     }]
   },
   {
@@ -628,7 +628,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Rattykin",
-      "url": "http://localhost:1337/api/satellites/37"
+      "url": "/api/satellites/37"
     }]
   },
   {
@@ -648,7 +648,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Amber",
-      "url": "http://localhost:1337/api/satellites/38"
+      "url": "/api/satellites/38"
     }]
   },
   {
@@ -668,7 +668,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Ball o' Sun",
-      "url": "http://localhost:1337/api/satellites/39"
+      "url": "/api/satellites/39"
     }]
   },
   {
@@ -688,7 +688,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Macaron",
-      "url": "http://localhost:1337/api/satellites/40"
+      "url": "/api/satellites/40"
     }]
   },
   {
@@ -708,7 +708,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Blue Orb",
-      "url": "http://localhost:1337/api/satellites/41"
+      "url": "/api/satellites/41"
     }]
   },
   {
@@ -728,7 +728,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Spacecraft of Dr. Evil",
-      "url": "http://localhost:1337/42pi/satellites/42"
+      "url": "/42pi/satellites/42"
     }]
   },
   {
@@ -748,7 +748,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Ruby",
-      "url": "http://localhost:1337/api/satellites/43"
+      "url": "/api/satellites/43"
     }]
   },
   {
@@ -768,7 +768,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Drippy Dropper",
-      "url": "http://localhost:1337/api/satellites/44"
+      "url": "/api/satellites/44"
     }]
   },
   {
@@ -788,7 +788,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Gumbear",
-      "url": "http://localhost:1337/api/satellites/45"
+      "url": "/api/satellites/45"
     }]
   },
   {
@@ -808,7 +808,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Ding-Donger",
-      "url": "http://localhost:1337/api/satellites/46"
+      "url": "/api/satellites/46"
     }]
   },
   {
@@ -828,7 +828,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Scarecrow",
-      "url": "http://localhost:1337/api/satellites/47"
+      "url": "/api/satellites/47"
     }]
   },
   {
@@ -848,7 +848,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Emerald",
-      "url": "http://localhost:1337/api/satellites/48"
+      "url": "/api/satellites/48"
     }]
   },
   {
@@ -868,7 +868,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Bat",
-      "url": "http://localhost:1337/api/satellites/49"
+      "url": "/api/satellites/49"
     }]
   },
   {
@@ -888,7 +888,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Energizer",
-      "url": "http://localhost:1337/api/satellites/50"
+      "url": "/api/satellites/50"
     }]
   },
   {
@@ -908,7 +908,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Diamond",
-      "url": "http://localhost:1337/api/satellites/51"
+      "url": "/api/satellites/51"
     }]
   },
   {
@@ -928,7 +928,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Fireball",
-      "url": "http://localhost:1337/api/satellites/52"
+      "url": "/api/satellites/52"
     }]
   },
   {
@@ -948,7 +948,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Hami Ham",
-      "url": "http://localhost:1337/api/satellites/53"
+      "url": "/api/satellites/53"
     }]
   },
   {
@@ -968,7 +968,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Ball o' Yarn",
-      "url": "http://localhost:1337/api/satellites/54"
+      "url": "/api/satellites/54"
     }]
   },
   {
@@ -988,7 +988,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Red Juicer",
-      "url": "http://localhost:1337/api/satellites/55"
+      "url": "/api/satellites/55"
     }]
   },
   {
@@ -1008,7 +1008,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Florb",
-      "url": "http://localhost:1337/api/satellites/56"
+      "url": "/api/satellites/56"
     }]
   },
   {
@@ -1028,7 +1028,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Cottony Candy",
-      "url": "http://localhost:1337/api/satellites/57"
+      "url": "/api/satellites/57"
     }]
   },
   {
@@ -1048,7 +1048,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Chinese Dragon",
-      "url": "http://localhost:1337/api/satellites/58"
+      "url": "/api/satellites/58"
     }]
   },
   {
@@ -1068,7 +1068,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Love Letter",
-      "url": "http://localhost:1337/api/satellites/59"
+      "url": "/api/satellites/59"
     }]
   },
   {
@@ -1088,7 +1088,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Toy Blocks",
-      "url": "http://localhost:1337/api/satellites/60"
+      "url": "/api/satellites/60"
     }]
   },
   {
@@ -1108,7 +1108,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Easter Egg",
-      "url": "http://localhost:1337/api/satellites/61"
+      "url": "/api/satellites/61"
     }]
   },
   {
@@ -1128,7 +1128,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Sweet Heart",
-      "url": "http://localhost:1337/api/satellites/62"
+      "url": "/api/satellites/62"
     }]
   },
   {
@@ -1148,7 +1148,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Sachet",
-      "url": "http://localhost:1337/api/satellites/63"
+      "url": "/api/satellites/63"
     }]
   },
   {
@@ -1168,7 +1168,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Magic Rune",
-      "url": "http://localhost:1337/api/satellites/64"
+      "url": "/api/satellites/64"
     }]
   },
   {
@@ -1188,7 +1188,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Pipe",
-      "url": "http://localhost:1337/api/satellites/65"
+      "url": "/api/satellites/65"
     }]
   },
   {
@@ -1208,7 +1208,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Moon Cake",
-      "url": "http://localhost:1337/api/satellites/66"
+      "url": "/api/satellites/66"
     }]
   },
   {
@@ -1228,7 +1228,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Magic Circle",
-      "url": "http://localhost:1337/api/satellites/67"
+      "url": "/api/satellites/67"
     }]
   },
   {
@@ -1248,7 +1248,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Turkey Feather",
-      "url": "http://localhost:1337/api/satellites/68"
+      "url": "/api/satellites/68"
     }]
   },
   {
@@ -1268,7 +1268,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "X'mas Gift",
-      "url": "http://localhost:1337/api/satellites/69"
+      "url": "/api/satellites/69"
     }]
   },
   {
@@ -1288,7 +1288,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Buccinnidae",
-      "url": "http://localhost:1337/api/satellites/70"
+      "url": "/api/satellites/70"
     }]
   },
   {
@@ -1308,7 +1308,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Scoutship",
-      "url": "http://localhost:1337/api/satellites/71"
+      "url": "/api/satellites/71"
     }]
   },
   {
@@ -1328,7 +1328,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Plug",
-      "url": "http://localhost:1337/api/satellites/72"
+      "url": "/api/satellites/72"
     }]
   },
   {
@@ -1348,7 +1348,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Soccer",
-      "url": "http://localhost:1337/api/satellites/73"
+      "url": "/api/satellites/73"
     }]
   },
   {
@@ -1368,7 +1368,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Invisible Walkr",
-      "url": "http://localhost:1337/api/satellites/74"
+      "url": "/api/satellites/74"
     }]
   },
   {
@@ -1388,7 +1388,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Coke",
-      "url": "http://localhost:1337/api/satellites/75"
+      "url": "/api/satellites/75"
     }]
   },
   {
@@ -1408,7 +1408,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "DVD",
-      "url": "http://localhost:1337/api/satellites/76"
+      "url": "/api/satellites/76"
     }]
   },
   {
@@ -1428,7 +1428,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Dog Bowl",
-      "url": "http://localhost:1337/api/satellites/77"
+      "url": "/api/satellites/77"
     }]
   },
   {
@@ -1448,7 +1448,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Raven",
-      "url": "http://localhost:1337/api/satellites/78"
+      "url": "/api/satellites/78"
     }]
   },
   {
@@ -1468,7 +1468,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Tire",
-      "url": "http://localhost:1337/api/satellites/79"
+      "url": "/api/satellites/79"
     }]
   },
   {
@@ -1488,7 +1488,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Roman Helmet",
-      "url": "http://localhost:1337/api/satellites/80"
+      "url": "/api/satellites/80"
     }]
   },
   {
@@ -1508,7 +1508,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Rune Stone",
-      "url": "http://localhost:1337/api/satellites/81"
+      "url": "/api/satellites/81"
     }]
   },
   {
@@ -1528,7 +1528,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Horn",
-      "url": "http://localhost:1337/api/satellites/82"
+      "url": "/api/satellites/82"
     }]
   },
   {
@@ -1548,7 +1548,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Rune Plate",
-      "url": "http://localhost:1337/api/satellites/83"
+      "url": "/api/satellites/83"
     }]
   },
   {
@@ -1568,7 +1568,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Knight Shield",
-      "url": "http://localhost:1337/api/satellites/84"
+      "url": "/api/satellites/84"
     }]
   },
   {
@@ -1588,7 +1588,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Bamboo",
-      "url": "http://localhost:1337/api/satellites/85"
+      "url": "/api/satellites/85"
     }]
   },
   {
@@ -1608,7 +1608,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Dictionary",
-      "url": "http://localhost:1337/api/satellites/86"
+      "url": "/api/satellites/86"
     }]
   },
   {
@@ -1628,7 +1628,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Monument",
-      "url": "http://localhost:1337/api/satellites/87"
+      "url": "/api/satellites/87"
     }]
   },
   {
@@ -1648,7 +1648,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Energy Stone",
-      "url": "http://localhost:1337/api/satellites/88"
+      "url": "/api/satellites/88"
     }]
   },
   {
@@ -1668,7 +1668,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Bilge Plug",
-      "url": "http://localhost:1337/api/satellites/89"
+      "url": "/api/satellites/89"
     }]
   },
   {
@@ -1688,7 +1688,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Malayan Tapir",
-      "url": "http://localhost:1337/api/satellites/90"
+      "url": "/api/satellites/90"
     }]
   },
   {
@@ -1708,7 +1708,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Starfish",
-      "url": "http://localhost:1337/api/satellites/91"
+      "url": "/api/satellites/91"
     }]
   },
   {
@@ -1728,7 +1728,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Shower",
-      "url": "http://localhost:1337/api/satellites/92"
+      "url": "/api/satellites/92"
     }]
   },
   {
@@ -1748,7 +1748,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Neon Lights",
-      "url": "http://localhost:1337/api/satellites/93"
+      "url": "/api/satellites/93"
     }]
   },
   {
@@ -1768,7 +1768,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Fire Ring Lion",
-      "url": "http://localhost:1337/api/satellites/94"
+      "url": "/api/satellites/94"
     }]
   },
   {
@@ -1788,7 +1788,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Tropical Fish",
-      "url": "http://localhost:1337/api/satellites/95"
+      "url": "/api/satellites/95"
     }]
   },
   {
@@ -1808,7 +1808,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Djembe",
-      "url": "http://localhost:1337/api/satellites/96"
+      "url": "/api/satellites/96"
     }]
   },
   {
@@ -1828,7 +1828,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Heating Light Bulbs",
-      "url": "http://localhost:1337/api/satellites/97"
+      "url": "/api/satellites/97"
     }]
   },
   {
@@ -1848,7 +1848,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Red Lantern",
-      "url": "http://localhost:1337/api/satellites/98"
+      "url": "/api/satellites/98"
     }]
   },
   {
@@ -1868,7 +1868,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Cowboy Hat",
-      "url": "http://localhost:1337/api/satellites/99"
+      "url": "/api/satellites/99"
     }]
   },
   {
@@ -1888,7 +1888,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Feathered Arrow",
-      "url": "http://localhost:1337/api/satellites/100"
+      "url": "/api/satellites/100"
     }]
   },
   {
@@ -1908,7 +1908,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Picture Horse",
-      "url": "http://localhost:1337/api/satellites/101"
+      "url": "/api/satellites/101"
     }]
   },
   {
@@ -1928,7 +1928,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Pepper",
-      "url": "http://localhost:1337/api/satellites/102"
+      "url": "/api/satellites/102"
     }]
   },
   {
@@ -1948,7 +1948,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Token",
-      "url": "http://localhost:1337/api/satellites/103"
+      "url": "/api/satellites/103"
     }]
   },
   {
@@ -1968,7 +1968,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Fish Food",
-      "url": "http://localhost:1337/api/satellites/104"
+      "url": "/api/satellites/104"
     }]
   },
   {
@@ -1988,7 +1988,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Pasture",
-      "url": "http://localhost:1337/api/satellites/105"
+      "url": "/api/satellites/105"
     }]
   },
   {
@@ -2008,7 +2008,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Gold Lock",
-      "url": "http://localhost:1337/api/satellites/106"
+      "url": "/api/satellites/106"
     }]
   },
   {
@@ -2028,7 +2028,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Skull",
-      "url": "http://localhost:1337/api/satellites/107"
+      "url": "/api/satellites/107"
     }]
   },
   {
@@ -2048,7 +2048,7 @@
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Orange Blossom",
-      "url": "http://localhost:1337/api/satellites/108"
+      "url": "/api/satellites/108"
     }]
 
   }

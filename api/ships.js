@@ -21,7 +21,8 @@ module.exports = function (router) {
         { 'variants._id': false },
         function (err, item) {
           CommonApi.catchWrapper(err, item, res, function (res, item) {
-            res.json(item.variants.find(variant => { return variant.id === req.params.variant }));
+            item = item.variants.find(variant => { return variant.id === req.params.variant });
+            res.json(Ship.resultMapper(item));
           });
         }
       );

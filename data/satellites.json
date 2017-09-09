@@ -54,7 +54,7 @@
     "level_1": null,
     "level_2": null,
     "planet": {
-      "url": "http://localhost:1337/api/planets/1",
+      "url": "/api/planets/1",
       "name": "Earth"
     }
   },
@@ -65,7 +65,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/2",
+      "url": "/api/planets/2",
       "name": "Caramel Apple"
     }
   },
@@ -76,7 +76,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/3",
+      "url": "/api/planets/3",
       "name": "Honeycomb"
     }
   },
@@ -87,7 +87,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/4",
+      "url": "/api/planets/4",
       "name": "King of Cows"
     }
   },
@@ -98,7 +98,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/5",
+      "url": "/api/planets/5",
       "name": "Water World"
     }
   },
@@ -109,7 +109,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/6",
+      "url": "/api/planets/6",
       "name": "Fossil Fern"
     }
   },
@@ -120,7 +120,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/7",
+      "url": "/api/planets/7",
       "name": "Meteor Adrift"
     }
   },
@@ -131,7 +131,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/8",
+      "url": "/api/planets/8",
       "name": "Ventricular Machine"
     }
   },
@@ -142,7 +142,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/9",
+      "url": "/api/planets/9",
       "name": "Snow World"
     }
   },
@@ -153,7 +153,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/10",
+      "url": "/api/planets/10",
       "name": "Golden Gusher"
     }
   },
@@ -164,7 +164,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/11",
+      "url": "/api/planets/11",
       "name": "Moon Athena"
     }
   },
@@ -175,7 +175,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/12",
+      "url": "/api/planets/12",
       "name": "Ice Age"
     }
   },
@@ -186,7 +186,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/13",
+      "url": "/api/planets/13",
       "name": "Eagle's Nest"
     }
   },
@@ -197,7 +197,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/14",
+      "url": "/api/planets/14",
       "name": "Citrus Trampoline"
     }
   },
@@ -208,7 +208,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/15",
+      "url": "/api/planets/15",
       "name": "Bubble Gum"
     }
   },
@@ -219,7 +219,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/16",
+      "url": "/api/planets/16",
       "name": "Pineapple Foothills"
     }
   },
@@ -230,7 +230,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/17",
+      "url": "/api/planets/17",
       "name": "Strawberry Cookies"
     }
   },
@@ -241,7 +241,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/18",
+      "url": "/api/planets/18",
       "name": "Steam Age"
     }
   },
@@ -252,7 +252,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/19",
+      "url": "/api/planets/19",
       "name": "Snow Berry"
     }
   },
@@ -263,7 +263,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/20",
+      "url": "/api/planets/20",
       "name": "Coral Reef"
     }
   },
@@ -274,7 +274,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/21",
+      "url": "/api/planets/21",
       "name": "Lonely Dune"
     }
   },
@@ -285,7 +285,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/22",
+      "url": "/api/planets/22",
       "name": "Octopus Cavern"
     }
   },
@@ -296,7 +296,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/23",
+      "url": "/api/planets/23",
       "name": "Swamp of Crocs"
     }
   },
@@ -307,7 +307,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/24",
+      "url": "/api/planets/24",
       "name": "Smoky Secret"
     }
   },
@@ -318,7 +318,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/25",
+      "url": "/api/planets/25",
       "name": "Molten Lava"
     }
   },
@@ -329,7 +329,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/26",
+      "url": "/api/planets/26",
       "name": "Luminous Fungus"
     }
   },
@@ -340,7 +340,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/27",
+      "url": "/api/planets/27",
       "name": "Banana Boat"
     }
   },
@@ -351,7 +351,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/28",
+      "url": "/api/planets/28",
       "name": "Antler Ravine"
     }
   },
@@ -362,7 +362,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/29",
+      "url": "/api/planets/29",
       "name": "Sugar Rush"
     }
   },
@@ -373,7 +373,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/30",
+      "url": "/api/planets/30",
       "name": "Tater Tower"
     }
   },
@@ -384,7 +384,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/31",
+      "url": "/api/planets/31",
       "name": "Cat's Play"
     }
   },
@@ -395,7 +395,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/32",
+      "url": "/api/planets/32",
       "name": "Crystalline"
     }
   },
@@ -406,7 +406,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/33",
+      "url": "/api/planets/33",
       "name": "Desert Breeze"
     }
   },
@@ -417,7 +417,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/34",
+      "url": "/api/planets/34",
       "name": "Sweet Donut"
     }
   },
@@ -428,7 +428,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/35",
+      "url": "/api/planets/35",
       "name": "Botanical Garden"
     }
   },
@@ -439,7 +439,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/36",
+      "url": "/api/planets/36",
       "name": "HA42N55"
     }
   },
@@ -450,7 +450,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/37",
+      "url": "/api/planets/37",
       "name": "Colossal Pepper"
     }
   },
@@ -461,7 +461,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/38",
+      "url": "/api/planets/38",
       "name": "Zombie Cortex"
     }
   },
@@ -472,7 +472,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/39",
+      "url": "/api/planets/39",
       "name": "Red Crater"
     }
   },
@@ -483,7 +483,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/40",
+      "url": "/api/planets/40",
       "name": "Cello Valley"
     }
   },
@@ -494,7 +494,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/41",
+      "url": "/api/planets/41",
       "name": "Sunset Savanna"
     }
   },
@@ -505,7 +505,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/42",
+      "url": "/api/planets/42",
       "name": "Peaceful Prairie"
     }
   },
@@ -516,7 +516,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/43",
+      "url": "/api/planets/43",
       "name": "Witch's Den"
     }
   },
@@ -527,7 +527,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/44",
+      "url": "/api/planets/44",
       "name": "Circuit City"
     }
   },
@@ -538,7 +538,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/45",
+      "url": "/api/planets/45",
       "name": "Vault of Secrets"
     }
   },
@@ -549,7 +549,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/46",
+      "url": "/api/planets/46",
       "name": "Heart of Flames"
     }
   },
@@ -560,7 +560,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/47",
+      "url": "/api/planets/47",
       "name": "Boar Tribe"
     }
   },
@@ -571,7 +571,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/48",
+      "url": "/api/planets/48",
       "name": "Woolly Peak"
     }
   },
@@ -582,7 +582,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/49",
+      "url": "/api/planets/49",
       "name": "Watermelon Canyon"
     }
   },
@@ -593,7 +593,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/50",
+      "url": "/api/planets/50",
       "name": "Amazon Rainforest"
     }
   },
@@ -604,7 +604,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/51",
+      "url": "/api/planets/51",
       "name": "Chocolate River"
     }
   },
@@ -615,7 +615,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/52",
+      "url": "/api/planets/52",
       "name": "China Town"
     }
   },
@@ -626,7 +626,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/53",
+      "url": "/api/planets/53",
       "name": "The Two Mountains"
     }
   },
@@ -637,7 +637,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/54",
+      "url": "/api/planets/54",
       "name": "City of Children"
     }
   },
@@ -648,7 +648,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/55",
+      "url": "/api/planets/55",
       "name": "Rainbow Eggs"
     }
   },
@@ -659,7 +659,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/56",
+      "url": "/api/planets/56",
       "name": "Housework Factory"
     }
   },
@@ -670,7 +670,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/57",
+      "url": "/api/planets/57",
       "name": "River of Dragon"
     }
   },
@@ -681,7 +681,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/58",
+      "url": "/api/planets/58",
       "name": "Peace River"
     }
   },
@@ -692,7 +692,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/59",
+      "url": "/api/planets/59",
       "name": "Busy City"
     }
   },
@@ -703,7 +703,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/60",
+      "url": "/api/planets/60",
       "name": "Moon Lake"
     }
   },
@@ -714,7 +714,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/61",
+      "url": "/api/planets/61",
       "name": "Scary Pumpkin"
     }
   },
@@ -725,7 +725,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/62",
+      "url": "/api/planets/62",
       "name": "Many Givings"
     }
   },
@@ -736,7 +736,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/63",
+      "url": "/api/planets/63",
       "name": "Ring Forest"
     }
   },
@@ -747,7 +747,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/64",
+      "url": "/api/planets/64",
       "name": "Deep-Sea Aquarium"
     }
   },
@@ -758,7 +758,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/65",
+      "url": "/api/planets/65",
       "name": "The Legacy Gate"
     }
   },
@@ -769,7 +769,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/66",
+      "url": "/api/planets/66",
       "name": "The Light of Ideas"
     }
   },
@@ -780,7 +780,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/67",
+      "url": "/api/planets/67",
       "name": "Soccer Sphere"
     }
   },
@@ -791,7 +791,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/68",
+      "url": "/api/planets/68",
       "name": "Invisible Base"
     }
   },
@@ -802,7 +802,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/69",
+      "url": "/api/planets/69",
       "name": "Burger Mountain"
     }
   },
@@ -813,7 +813,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/70",
+      "url": "/api/planets/70",
       "name": "Popcorn Prison"
     }
   },
@@ -824,7 +824,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/71",
+      "url": "/api/planets/71",
       "name": "Doggii's Home"
     }
   },
@@ -835,7 +835,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/72",
+      "url": "/api/planets/72",
       "name": "Raining Cloud"
     }
   },
@@ -846,7 +846,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/73",
+      "url": "/api/planets/73",
       "name": "Infinite Racing"
     }
   },
@@ -857,7 +857,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/74",
+      "url": "/api/planets/74",
       "name": "Rome Arena"
     }
   },
@@ -868,7 +868,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/75",
+      "url": "/api/planets/75",
       "name": "Ancient Worldtree"
     }
   },
@@ -879,7 +879,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/76",
+      "url": "/api/planets/76",
       "name": "Viking Warship"
     }
   },
@@ -890,7 +890,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/77",
+      "url": "/api/planets/77",
       "name": "Stone Age"
     }
   },
@@ -901,7 +901,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/78",
+      "url": "/api/planets/78",
       "name": "Angry Dragon"
     }
   },
@@ -912,7 +912,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/79",
+      "url": "/api/planets/79",
       "name": "Black & White"
     }
   },
@@ -923,7 +923,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/80",
+      "url": "/api/planets/80",
       "name": "Floating Library"
     }
   },
@@ -934,7 +934,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/81",
+      "url": "/api/planets/81",
       "name": "Peaceful Graveyard"
     }
   },
@@ -945,7 +945,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/82",
+      "url": "/api/planets/82",
       "name": "Star Portal"
     }
   },
@@ -956,7 +956,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/83",
+      "url": "/api/planets/83",
       "name": "Waving Ocean"
     }
   },
@@ -967,7 +967,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/84",
+      "url": "/api/planets/84",
       "name": "Dreamland"
     }
   },
@@ -978,7 +978,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/85",
+      "url": "/api/planets/85",
       "name": "Aquatic Wonderland"
     }
   },
@@ -989,7 +989,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/86",
+      "url": "/api/planets/86",
       "name": "Lotus Lake"
     }
   },
@@ -1000,7 +1000,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/87",
+      "url": "/api/planets/87",
       "name": "Neon Party"
     }
   },
@@ -1011,7 +1011,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/88",
+      "url": "/api/planets/88",
       "name": "Crown Circus"
     }
   },
@@ -1022,7 +1022,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/89",
+      "url": "/api/planets/89",
       "name": "Great Whale"
     }
   },
@@ -1033,7 +1033,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/90",
+      "url": "/api/planets/90",
       "name": "Lion Land"
     }
   },
@@ -1044,7 +1044,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/91",
+      "url": "/api/planets/91",
       "name": "Baby Hedgehog"
     }
   },
@@ -1055,7 +1055,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/92",
+      "url": "/api/planets/92",
       "name": "Lantern City"
     }
   },
@@ -1066,7 +1066,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/93",
+      "url": "/api/planets/93",
       "name": "Lion Land"
     }
   },
@@ -1077,7 +1077,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/94",
+      "url": "/api/planets/94",
       "name": "The Great Wall"
     }
   },
@@ -1088,7 +1088,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/95",
+      "url": "/api/planets/95",
       "name": "Sakura Temple"
     }
   },
@@ -1099,7 +1099,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/96",
+      "url": "/api/planets/96",
       "name": "Ocean City"
     }
   },
@@ -1110,7 +1110,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/97",
+      "url": "/api/planets/97",
       "name": "Bubble Gum"
     }
   },
@@ -1121,7 +1121,7 @@
     "level_1": "50%",
     "level_2": "100%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/98",
+      "url": "/api/planets/98",
       "name": "Angry Pufferfish"
     }
   },
@@ -1132,7 +1132,7 @@
     "level_1": "2",
     "level_2": "4",
     "planet": {
-      "url": "http://localhost:1337/api/planets/99",
+      "url": "/api/planets/99",
       "name": "Rabbit Burrow"
     }
   },
@@ -1143,7 +1143,7 @@
     "level_1": "5",
     "level_2": "10",
     "planet": {
-      "url": "http://localhost:1337/api/planets/100",
+      "url": "/api/planets/100",
       "name": "Seal of Monster"
     }
   },
@@ -1154,7 +1154,7 @@
     "level_1": "5%",
     "level_2": "10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/101",
+      "url": "/api/planets/101",
       "name": "Bone Cage No. 11"
     }
   },
@@ -1165,7 +1165,7 @@
     "level_1": "-5%",
     "level_2": "-10%",
     "planet": {
-      "url": "http://localhost:1337/api/planets/102",
+      "url": "/api/planets/102",
       "name": "Perfume Bathhouse"
     }
   }

@@ -5,7 +5,7 @@
     "variants": [
       {
         "id": "red-white",
-        "url": "http://localhost:1337/api/ships/1/red-white",
+        "url": "/api/ships/1/red-white",
         "paint": "Red / white",
         "speed": 200,
         "boost": 400,
@@ -19,7 +19,7 @@
       },
       {
         "id": "gold",
-        "url": "http://localhost:1337/api/ships/1/gold",
+        "url": "/api/ships/1/gold",
         "paint": "Gold",
         "speed": 260,
         "boost": 660,
@@ -35,7 +35,7 @@
       },
       {
         "id": "black-red",
-        "url": "http://localhost:1337/api/ships/1/black-red",
+        "url": "/api/ships/1/black-red",
         "paint": "Black / red",
         "speed": 320,
         "boost": 520,
@@ -49,7 +49,7 @@
       },
       {
         "id": "blue",
-        "url": "http://localhost:1337/api/ships/1/blue",
+        "url": "/api/ships/1/blue",
         "paint": "Blue",
         "speed": 260,
         "boost": 520,
@@ -69,7 +69,7 @@
     "variants": [
       {
         "id": "grey",
-        "url": "http://localhost:1337/api/ships/2/grey",
+        "url": "/api/ships/2/grey",
         "paint": "Grey",
         "speed": 230,
         "boost": 520,
@@ -83,7 +83,7 @@
       },
       {
         "id": "red-white",
-        "url": "http://localhost:1337/api/ships/2/red-white",
+        "url": "/api/ships/2/red-white",
         "paint": "Red / white",
         "speed": 230,
         "boost": 520,
@@ -97,7 +97,7 @@
       },
       {
         "id": "blue-white",
-        "url": "http://localhost:1337/api/ships/2/blue-white",
+        "url": "/api/ships/2/blue-white",
         "paint": "Blue / white",
         "speed": 230,
         "boost": 520,
@@ -111,7 +111,7 @@
       },
       {
         "id": "green-white",
-        "url": "http://localhost:1337/api/ships/2/green-white",
+        "url": "/api/ships/2/green-white",
         "paint": "Green / white",
         "speed": 230,
         "boost": 520,
@@ -131,7 +131,7 @@
     "variants": [
       {
         "id": "black",
-        "url": "http://localhost:1337/api/ships/3/black",
+        "url": "/api/ships/3/black",
         "paint": "Black",
         "speed": 260,
         "boost": 660,
@@ -148,7 +148,7 @@
       },
       {
         "id": "green-white",
-        "url": "http://localhost:1337/api/ships/3/green-white",
+        "url": "/api/ships/3/green-white",
         "paint": "Green / white",
         "speed": 260,
         "boost": 660,
@@ -165,7 +165,7 @@
       },
       {
         "id": "white",
-        "url": "http://localhost:1337/api/ships/3/white",
+        "url": "/api/ships/3/white",
         "paint": "White",
         "speed": 300,
         "boost": 800,
@@ -179,7 +179,7 @@
       },
       {
         "id": "transparent",
-        "url": "http://localhost:1337/api/ships/3/transparent",
+        "url": "/api/ships/3/transparent",
         "paint": "Transparent",
         "speed": 300,
         "boost": 800,
@@ -199,7 +199,7 @@
     "variants": [
       {
         "id": "red",
-        "url": "http://localhost:1337/api/ships/4/red",
+        "url": "/api/ships/4/red",
         "paint": "Red",
         "speed": 260,
         "boost": 460,
@@ -213,7 +213,7 @@
       },
       {
         "id": "yellow",
-        "url": "http://localhost:1337/api/ships/4/yellow",
+        "url": "/api/ships/4/yellow",
         "paint": "Yellow",
         "speed": 260,
         "boost": 460,
@@ -227,7 +227,7 @@
       },
       {
         "id": "cow",
-        "url": "http://localhost:1337/api/ships/4/cow",
+        "url": "/api/ships/4/cow",
         "paint": "Cow",
         "speed": 260,
         "boost": 460,
@@ -241,7 +241,7 @@
       },
       {
         "id": "watermelon",
-        "url": "http://localhost:1337/api/ships/4/watermelon",
+        "url": "/api/ships/4/watermelon",
         "paint": "Watermelon",
         "speed": 260,
         "boost": 460,
@@ -261,7 +261,7 @@
     "variants": [
       {
         "id": "red-white-squares",
-        "url": "http://localhost:1337/api/ships/5/red-white-squares",
+        "url": "/api/ships/5/red-white-squares",
         "paint": "Red / white squares",
         "speed": 260,
         "boost": 660,
@@ -275,7 +275,7 @@
       },
       {
         "id": "red-white-stripes",
-        "url": "http://localhost:1337/api/ships/5/red-white-stripes",
+        "url": "/api/ships/5/red-white-stripes",
         "paint": "Red / white stripes",
         "speed": 260,
         "boost": 660,
@@ -289,7 +289,7 @@
       },
       {
         "id": "red-white-text",
-        "url": "http://localhost:1337/api/ships/5/red-white-text",
+        "url": "/api/ships/5/red-white-text",
         "paint": "Red / white text",
         "speed": 260,
         "boost": 660,
@@ -303,7 +303,7 @@
       },
       {
         "id": "red-orange-flames",
-        "url": "http://localhost:1337/api/ships/5/red-orange-flames",
+        "url": "/api/ships/5/red-orange-flames",
         "paint": "Red / orange flames",
         "speed": 260,
         "boost": 660,
@@ -323,7 +323,7 @@
     "variants": [
       {
         "id": "grey",
-        "url": "http://localhost:1337/api/ships/6/grey",
+        "url": "/api/ships/6/grey",
         "paint": "Grey",
         "speed": 230,
         "boost": 460,
@@ -337,7 +337,7 @@
       },
       {
         "id": "blue",
-        "url": "http://localhost:1337/api/ships/6/blue",
+        "url": "/api/ships/6/blue",
         "paint": "Blue",
         "speed": 230,
         "boost": 460,
@@ -354,7 +354,7 @@
       },
       {
         "id": "red-yellow",
-        "url": "http://localhost:1337/api/ships/6/red-yellow",
+        "url": "/api/ships/6/red-yellow",
         "paint": "Red / yellow",
         "speed": 230,
         "boost": 460,
@@ -368,7 +368,7 @@
       },
       {
         "id": "transparent",
-        "url": "http://localhost:1337/api/ships/6/transparent",
+        "url": "/api/ships/6/transparent",
         "paint": "Transparent",
         "speed": 230,
         "boost": 460,
@@ -388,7 +388,7 @@
     "variants": [
       {
         "id": "light grey",
-        "url": "http://localhost:1337/api/ships/7/light grey",
+        "url": "/api/ships/7/light grey",
         "paint": "Light grey",
         "speed": 320,
         "boost": 520,
@@ -402,7 +402,7 @@
       },
       {
         "id": "red",
-        "url": "http://localhost:1337/api/ships/7/red",
+        "url": "/api/ships/7/red",
         "paint": "Red",
         "speed": 320,
         "boost": 520,
@@ -416,7 +416,7 @@
       },
       {
         "id": "blue",
-        "url": "http://localhost:1337/api/ships/7/blue",
+        "url": "/api/ships/7/blue",
         "paint": "Blue",
         "speed": 320,
         "boost": 520,
@@ -430,7 +430,7 @@
       },
       {
         "id": "gold camouflage",
-        "url": "http://localhost:1337/api/ships/7/gold camouflage",
+        "url": "/api/ships/7/gold camouflage",
         "paint": "Gold camouflage",
         "skill": null,
         "costs": {
@@ -447,7 +447,7 @@
     "variants": [
       {
         "id": "newspaper",
-        "url": "http://localhost:1337/api/ships/8/newspaper",
+        "url": "/api/ships/8/newspaper",
         "paint": "Newspaper",
         "speed": 260,
         "boost": 520,
@@ -464,7 +464,7 @@
       },
       {
         "id": "blue-white",
-        "url": "http://localhost:1337/api/ships/8/blue-white",
+        "url": "/api/ships/8/blue-white",
         "paint": "Blue / white",
         "speed": 260,
         "boost": 520,
@@ -481,7 +481,7 @@
       },
       {
         "id": "white",
-        "url": "http://localhost:1337/api/ships/8/white",
+        "url": "/api/ships/8/white",
         "paint": "White",
         "speed": 300,
         "boost": 600,
@@ -495,7 +495,7 @@
       },
       {
         "id": "gold",
-        "url": "http://localhost:1337/api/ships/8/gold",
+        "url": "/api/ships/8/gold",
         "paint": "Gold",
         "speed": 300,
         "boost": 600,
@@ -517,7 +517,7 @@
     "variants": [
       {
         "id": "black-white",
-        "url": "http://localhost:1337/api/ships/9/black-white",
+        "url": "/api/ships/9/black-white",
         "paint": "Black / white",
         "speed": 260,
         "boost": 520,
@@ -531,7 +531,7 @@
       },
       {
         "id": "light-grey-green",
-        "url": "http://localhost:1337/api/ships/9/light-grey-green",
+        "url": "/api/ships/9/light-grey-green",
         "paint": "Light grey / green",
         "speed": 260,
         "boost": 520,
@@ -545,7 +545,7 @@
       },
       {
         "id": "blue",
-        "url": "http://localhost:1337/api/ships/9/blue",
+        "url": "/api/ships/9/blue",
         "paint": "Blue",
         "speed": 260,
         "boost": 520,
@@ -559,7 +559,7 @@
       },
       {
         "id": "giraffe",
-        "url": "http://localhost:1337/api/ships/9/giraffe",
+        "url": "/api/ships/9/giraffe",
         "paint": "Giraffe",
         "speed": 260,
         "boost": 520,
@@ -579,7 +579,7 @@
     "variants": [
       {
         "id": "transparent-yellow",
-        "url": "http://localhost:1337/api/ships/10/transparent-yellow",
+        "url": "/api/ships/10/transparent-yellow",
         "paint": "Transparent / yellow",
         "speed": 320,
         "boost": 520,
@@ -596,7 +596,7 @@
       },
       {
         "id": "green-grey",
-        "url": "http://localhost:1337/api/ships/10/green-grey",
+        "url": "/api/ships/10/green-grey",
         "paint": "Green / grey",
         "speed": 320,
         "boost": 520,
@@ -613,7 +613,7 @@
       },
       {
         "id": "light-grey-green",
-        "url": "http://localhost:1337/api/ships/10/light-grey-green",
+        "url": "/api/ships/10/light-grey-green",
         "paint": "Light grey / green",
         "speed": 400,
         "boost": 600,
@@ -627,7 +627,7 @@
       },
       {
         "id": "gold",
-        "url": "http://localhost:1337/api/ships/10/gold",
+        "url": "/api/ships/10/gold",
         "paint": "Gold",
         "speed": 400,
         "boost": 600,
@@ -649,7 +649,7 @@
     "variants": [
       {
         "id": "yellow",
-        "url": "http://localhost:1337/api/ships/11/yellow",
+        "url": "/api/ships/11/yellow",
         "paint": "Yellow",
         "speed": 230,
         "boost": 460,
@@ -663,7 +663,7 @@
       },
       {
         "id": "grey/white",
-        "url": "http://localhost:1337/api/ships/11/grey/white",
+        "url": "/api/ships/11/grey/white",
         "paint": "Grey/white",
         "speed": 230,
         "boost": 460,
@@ -677,7 +677,7 @@
       },
       {
         "id": "tiger",
-        "url": "http://localhost:1337/api/ships/11/tiger",
+        "url": "/api/ships/11/tiger",
         "paint": "Tiger",
         "speed": 230,
         "boost": 460,
@@ -691,7 +691,7 @@
       },
       {
         "id": "white",
-        "url": "http://localhost:1337/api/ships/11/white",
+        "url": "/api/ships/11/white",
         "paint": "White",
         "speed": 230,
         "boost": 460,
@@ -711,7 +711,7 @@
     "variants": [
       {
         "id": "yellow",
-        "url": "http://localhost:1337/api/ships/12/yellow",
+        "url": "/api/ships/12/yellow",
         "paint": "Yellow",
         "speed": 260,
         "boost": 900,
@@ -725,7 +725,7 @@
       },
       {
         "id": "yellow",
-        "url": "http://localhost:1337/api/ships/12/yellow",
+        "url": "/api/ships/12/yellow",
         "paint": "Yellow",
         "speed": 260,
         "boost": 900,
@@ -739,7 +739,7 @@
       },
       {
         "id": "dark grey-red",
-        "url": "http://localhost:1337/api/ships/12/dark grey-red",
+        "url": "/api/ships/12/dark grey-red",
         "paint": "Dark grey / red",
         "speed": 260,
         "boost": 900,
@@ -753,7 +753,7 @@
       },
       {
         "id": "dark grey-blue",
-        "url": "http://localhost:1337/api/ships/12/dark grey-blue",
+        "url": "/api/ships/12/dark grey-blue",
         "paint": "Dark grey / blue",
         "speed": 260,
         "boost": 900,
@@ -773,7 +773,7 @@
     "variants": [
       {
         "id": "blue",
-        "url": "http://localhost:1337/api/ships/13/blue",
+        "url": "/api/ships/13/blue",
         "paint": "Blue",
         "speed": 400,
         "boost": 600,
@@ -787,7 +787,7 @@
       },
       {
         "id": "red",
-        "url": "http://localhost:1337/api/ships/13/red",
+        "url": "/api/ships/13/red",
         "paint": "Red",
         "speed": 400,
         "boost": 600,
@@ -801,7 +801,7 @@
       },
       {
         "id": "green",
-        "url": "http://localhost:1337/api/ships/13/green",
+        "url": "/api/ships/13/green",
         "paint": "Green",
         "speed": 400,
         "boost": 600,
@@ -815,7 +815,7 @@
       },
       {
         "id": "black",
-        "url": "http://localhost:1337/api/ships/13/black",
+        "url": "/api/ships/13/black",
         "paint": "Black",
         "speed": 400,
         "boost": 600,
@@ -835,7 +835,7 @@
     "variants": [
       {
         "id": "white-red",
-        "url": "http://localhost:1337/api/ships/14/white-red",
+        "url": "/api/ships/14/white-red",
         "paint": "White / red",
         "speed": 230,
         "boost": 520,
@@ -852,7 +852,7 @@
       },
       {
         "id": "cow",
-        "url": "http://localhost:1337/api/ships/14/cow",
+        "url": "/api/ships/14/cow",
         "paint": "Cow",
         "speed": 230,
         "boost": 520,
@@ -869,7 +869,7 @@
       },
       {
         "id": "oranges",
-        "url": "http://localhost:1337/api/ships/14/oranges",
+        "url": "/api/ships/14/oranges",
         "paint": "Oranges",
         "skill": {
           "unit": "food",
@@ -883,7 +883,7 @@
       },
       {
         "id": "white-brown",
-        "url": "http://localhost:1337/api/ships/14/white-brown",
+        "url": "/api/ships/14/white-brown",
         "paint": "White / brown",
         "speed": 230,
         "boost": 520,
@@ -906,7 +906,7 @@
     "variants": [
       {
         "id": "brown",
-        "url": "http://localhost:1337/api/ships/15/brown",
+        "url": "/api/ships/15/brown",
         "paint": "Brown",
         "speed": 260,
         "boost": 660,
@@ -923,7 +923,7 @@
       },
       {
         "id": "brown-blue",
-        "url": "http://localhost:1337/api/ships/15/brown-blue",
+        "url": "/api/ships/15/brown-blue",
         "paint": "Brown / blue",
         "speed": 260,
         "boost": 660,
@@ -940,7 +940,7 @@
       },
       {
         "id": "gold",
-        "url": "http://localhost:1337/api/ships/15/gold",
+        "url": "/api/ships/15/gold",
         "paint": "Gold",
         "speed": 260,
         "boost": 660,
@@ -957,7 +957,7 @@
       },
       {
         "id": "orange-blue",
-        "url": "http://localhost:1337/api/ships/15/orange-blue",
+        "url": "/api/ships/15/orange-blue",
         "paint": "Orange / blue",
         "speed": 260,
         "boost": 660,
@@ -980,7 +980,7 @@
     "variants": [
       {
         "id": "brown-white",
-        "url": "http://localhost:1337/api/ships/16/brown-white",
+        "url": "/api/ships/16/brown-white",
         "paint": "Brown / white",
         "speed": 260,
         "boost": 520,
@@ -997,7 +997,7 @@
       },
       {
         "id": "red-black",
-        "url": "http://localhost:1337/api/ships/16/red-black",
+        "url": "/api/ships/16/red-black",
         "paint": "Red / black",
         "speed": 260,
         "boost": 520,
@@ -1014,7 +1014,7 @@
       },
       {
         "id": "red-beige",
-        "url": "http://localhost:1337/api/ships/16/red-beige",
+        "url": "/api/ships/16/red-beige",
         "paint": "Red / beige",
         "speed": 260,
         "boost": 520,
@@ -1031,7 +1031,7 @@
       },
       {
         "id": "blue-white",
-        "url": "http://localhost:1337/api/ships/16/blue-white",
+        "url": "/api/ships/16/blue-white",
         "paint": "Blue / white",
         "speed": 260,
         "boost": 520,
@@ -1054,7 +1054,7 @@
     "variants": [
       {
         "id": "red",
-        "url": "http://localhost:1337/api/ships/17/red",
+        "url": "/api/ships/17/red",
         "paint": "Red",
         "speed": 400,
         "boost": 600,
@@ -1071,7 +1071,7 @@
       },
       {
         "id": "blue",
-        "url": "http://localhost:1337/api/ships/17/blue",
+        "url": "/api/ships/17/blue",
         "paint": "Blue",
         "speed": 400,
         "boost": 600,
@@ -1088,7 +1088,7 @@
       },
       {
         "id": "yellow-green",
-        "url": "http://localhost:1337/api/ships/17/yellow-green",
+        "url": "/api/ships/17/yellow-green",
         "paint": "Yellow / green",
         "speed": 400,
         "boost": 600,
@@ -1105,7 +1105,7 @@
       },
       {
         "id": "black-yellow",
-        "url": "http://localhost:1337/api/ships/17/black-yellow",
+        "url": "/api/ships/17/black-yellow",
         "paint": "Black / yellow",
         "speed": 400,
         "boost": 600,
@@ -1128,7 +1128,7 @@
     "variants": [
       {
         "id": "white",
-        "url": "http://localhost:1337/api/ships/18/white",
+        "url": "/api/ships/18/white",
         "paint": "White",
         "speed": 300,
         "boost": 640,
@@ -1145,7 +1145,7 @@
       },
       {
         "id": "blue",
-        "url": "http://localhost:1337/api/ships/18/blue",
+        "url": "/api/ships/18/blue",
         "paint": "Blue",
         "speed": 300,
         "boost": 640,
@@ -1162,7 +1162,7 @@
       },
       {
         "id": "transparent",
-        "url": "http://localhost:1337/api/ships/18/transparent",
+        "url": "/api/ships/18/transparent",
         "paint": "Transparent",
         "speed": 300,
         "boost": 640,
@@ -1179,7 +1179,7 @@
       },
       {
         "id": "yellow",
-        "url": "http://localhost:1337/api/ships/18/yellow",
+        "url": "/api/ships/18/yellow",
         "paint": "Yellow",
         "speed": 300,
         "boost": 640,
@@ -1202,7 +1202,7 @@
     "variants": [
       {
         "id": "white",
-        "url": "http://localhost:1337/api/ships/19/white",
+        "url": "/api/ships/19/white",
         "paint": "White",
         "speed": 260,
         "boost": 900,
@@ -1219,7 +1219,7 @@
       },
       {
         "id": "red",
-        "url": "http://localhost:1337/api/ships/19/red",
+        "url": "/api/ships/19/red",
         "paint": "Red",
         "speed": 260,
         "boost": 900,
@@ -1236,7 +1236,7 @@
       },
       {
         "id": "green",
-        "url": "http://localhost:1337/api/ships/19/green",
+        "url": "/api/ships/19/green",
         "paint": "Green",
         "speed": 260,
         "boost": 900,
@@ -1253,7 +1253,7 @@
       },
       {
         "id": "yellow",
-        "url": "http://localhost:1337/api/ships/19/yellow",
+        "url": "/api/ships/19/yellow",
         "paint": "Yellow",
         "speed": 260,
         "boost": 900,

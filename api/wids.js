@@ -28,7 +28,7 @@ module.exports = function (router) {
     .get(function (req, res) {
       WID.findOne({ [WID.identifierField]: req.params.id }).then(wid => {
         const upgrades = wid.planets
-          .filter(discovery => discovery.planet.name != 'Earth')
+          .filter(discovery => discovery.planet.name !== 'Earth')
           .map((discovery, index) => {
             const prices = [1,2,3,4,5,6,7].map(level => {
               return Object.assign({ level }, CommonApi.getUpgradePrice(CommonApi.getBasePrice(index + 1), level));

@@ -89,8 +89,10 @@ module.exports = {
       Model.findOne(
         { [Model.identifierField]: req.params.id },
         projection,
-        function (err, items) {
-          return commonApi.catchWrapper(err, items, res);
+        function (err, item) {
+          return commonApi.catchWrapper(err, item, res, (res, item) => {
+            res.json(Model.resultMapper ? Model.resultMapper(item) : item);
+          });
         }
       );
     }
