@@ -22,7 +22,7 @@ module.exports = function (router) {
         function (err, item) {
           CommonApi.catchWrapper(err, item, res, function (res, item) {
             item = item.variants.find(variant => { return variant.id === req.params.variant });
-            res.json(Ship.resultMapper(item));
+            res.json(Ship.variant.resultMapper(item));
           });
         }
       );

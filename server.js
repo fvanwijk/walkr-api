@@ -21,5 +21,5 @@ mongoose.connect(config.mongoUrl, {
   console.info(`Connecting with Mongo database on ${config.mongoUrl}`);
   console.info(`Running Walkr API on port ${url.port}`);
 }, () => {
-  console.error(`Could not connect with Mongo database on ${config.mongoUrl}`);
+  console.error(`Could not connect with Mongo database on ${config.mongoUrl} (user: ${process.env.MONGOLAB_USER})`);
 });

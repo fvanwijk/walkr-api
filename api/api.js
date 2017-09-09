@@ -1,6 +1,6 @@
 var router = require('../router');
 var url = require('./url');
-var baseUrl = `${url.host}:${url.port}/api`;
+var baseUrl = url.addHostToUrl.bind(url)('/api');
 
 module.exports = function (router) {
   router.route('/')

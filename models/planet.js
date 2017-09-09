@@ -26,8 +26,10 @@ planet.slug = 'planets';
 planet.identifierField = 'code';
 planet.nameField = 'name';
 planet.resultMapper = planet => {
-  planet.satellites_l1.forEach(url.addHostToUrl.bind(url));
-  planet.satellites_l2.forEach(url.addHostToUrl.bind(url));
+  const addHost = url.addHostToUrl.bind(url);
+  planet.url = addHost(planet.url);
+  planet.satellites_l1.forEach(satellite => satellite.url = addHost(satellite.url));
+  planet.satellites_l2.forEach(satellite => satellite.url = addHost(satellite.url));
   return planet;
 };
 

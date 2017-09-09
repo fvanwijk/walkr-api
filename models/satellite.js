@@ -1,4 +1,4 @@
-const Planet = require('./planet');
+const url = require('../api/url');
 
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
@@ -16,6 +16,10 @@ var satellite = mongoose.model('Satellite', SatelliteSchema);
 satellite.slug = 'satellites';
 satellite.identifierField = 'id';
 satellite.nameField = 'name';
+satellite.resultMapper = satellite => {
+  satellite.url = url.addHostToUrl(satellite.url);
+  return satellite;
+};
 
 module.exports = {
   model: satellite,

@@ -34,9 +34,21 @@ var ship = mongoose.model('Ship', ShipSchema);
 ship.slug = 'ships';
 ship.identifierField = 'id';
 ship.nameField = 'name';
+
+const addHost = url.addHostToUrl.bind(url);
+
 ship.resultMapper = ship => {
-  ship.variants.forEach(url.addHostToUrl.bind(url));
+  ship.url = addHost(ship.url);
+  ship.variants.forEach(variant => {
+    variant.url = addHost(variant.url);
+  });
   return ship;
+};
+ship.variant = {
+  resultMapper: variant => {
+    variant.url = addHost(variant.url);
+    return variant;
+  }
 };
 
 module.exports = {

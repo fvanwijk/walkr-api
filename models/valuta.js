@@ -1,4 +1,5 @@
 var mongoose = require('mongoose');
+var url = require('../api/url');
 var Schema = mongoose.Schema;
 
 var ValutaSchema = new Schema({
@@ -12,6 +13,10 @@ var valuta = mongoose.model('Valuta', ValutaSchema);
 valuta.slug = 'valuta';
 valuta.identifierField = 'id';
 valuta.nameField = 'name';
+valuta.resultMapper = valuta => {
+  valuta.url = url.addHostToUrl(valuta.url);
+  return valuta;
+};
 
 module.exports = {
   model: valuta,

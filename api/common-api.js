@@ -42,7 +42,7 @@ module.exports = {
         count: items.length,
         results: items.map((item) => ({
           [Model.nameField]: item[Model.nameField],
-          url: item.url
+          url: url.addHostToUrl(item.url)
         }))
       });
     };

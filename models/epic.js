@@ -1,6 +1,7 @@
-const Planet = require('./planet');
-
 var mongoose = require('mongoose');
+
+var url = require('../api/url');
+const Planet = require('./planet');
 var Schema = mongoose.Schema;
 
 var EpicSchema = new Schema({
@@ -41,6 +42,10 @@ var epic = mongoose.model('Epic', EpicSchema);
 epic.slug = 'epics';
 epic.identifierField = 'id';
 epic.nameField = 'name';
+epic.resultMapper = epic => {
+  epic.url = url.addHostToUrl(epic.url);
+  return epic;
+};
 
 module.exports = {
   model: epic,
