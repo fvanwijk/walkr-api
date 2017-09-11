@@ -11,6 +11,12 @@ mongoose.connect(config.mongoUrl, {
   user: process.env.MONGOLAB_USER,
   pass: process.env.MONGOLAB_PASSWORD,
 }).then(() => {
+  app.use(function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    next();
+  });
+
   app.use(bodyParser.urlencoded({ extended: true }));
   app.use(bodyParser.json());
   app.use('/api', router);
