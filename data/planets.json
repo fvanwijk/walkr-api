@@ -104,7 +104,7 @@
     "creature_image_url": "assets/creatures/water.png",
     "resource": "Water",
     "resource_image_url": "assets/resources/water.png",
-    "wonders": "",
+    "wonders": "Water Castle",
    "satellites_l1": [],
     "satellites_l2": [{
       "name": "Letter in the Bottle",
@@ -144,7 +144,7 @@
     "creature_image_url": "assets/creatures/stone.png",
     "resource": "Stones",
     "resource_image_url": "assets/resources/stone.png",
-    "wonders": "",
+    "wonders": "Silent Stonework",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Artificial Satellite",
@@ -164,7 +164,7 @@
     "creature_image_url": "assets/creatures/gear.png",
     "resource": "Gears",
     "resource_image_url": "assets/resources/gear.png",
-    "wonders": "",
+    "wonders": "The Weird Clock",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Gear",
@@ -184,7 +184,7 @@
     "creature_image_url": "assets/creatures/snow.png",
     "resource": "Snow",
     "resource_image_url": "assets/resources/snow.png",
-    "wonders": "",
+    "wonders": "Freezing Snow House",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Snowball",
@@ -244,7 +244,7 @@
     "creature_description": "Ice Slime creatures have transparent, fragile skins and frequently turn into ice cubes to protect themselves.",
     "resource": "Ice",
     "resource_image_url": "assets/resources/iceberg.png",
-    "wonders": "",
+    "wonders": "Crystal Ice Castle",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Flake",
@@ -304,7 +304,7 @@
     "creature_description": "Air Porings look like soft puffs of air, their skin as bouncy as the surface of a balloon. People say their voices sound like air escaping from a tire.",
     "resource": "Air",
     "resource_image_url": "assets/resources/bubble.png",
-    "wonders": "",
+    "wonders": "Rainbow Ring",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Rainbow Orb",
@@ -364,7 +364,7 @@
     "creature_image_url": "assets/creatures/iron.png",
     "resource": "Screws",
     "resource_image_url": "assets/resources/iron.png",
-    "wonders": "",
+    "wonders": "Steam Container",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Probe",
@@ -424,7 +424,7 @@
     "creature_image_url": "assets/creatures/sand.png",
     "resource": "Soil",
     "resource_image_url": "assets/resources/sand.png",
-    "wonders": "",
+    "wonders": "Sand Castle",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Magic Stone",
@@ -484,7 +484,7 @@
     "creature_image_url": "assets/creatures/smoky.png",
     "resource": "Steam",
     "resource_image_url": "assets/resources/smoky.png",
-    "wonders": "",
+    "wonders": "Giant's Kettle",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Space Pirate Battleship",
@@ -504,7 +504,7 @@
     "creature_image_url": "assets/creatures/lava.png",
     "resource": "Fossils",
     "resource_image_url": "assets/resources/lava.png",
-    "wonders": "",
+    "wonders": "Bone Dragon",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Galactic Drill",
@@ -544,7 +544,7 @@
     "creature_image_url": "assets/creatures/banana.png",
     "resource": "Sundaes",
     "resource_image_url": "assets/resources/banana.png",
-    "wonders": "",
+    "wonders": "Banana Boat",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Tiny Parasol",
@@ -584,7 +584,7 @@
     "creature_description": "The Cane Tako wears red and white stripes and looooooooves sweets. It won't eat anything that isn't covered in powdered sugar.",
     "resource": "Candy",
     "resource_image_url": "assets/resources/candy.png",
-    "wonders": "Canndy House",
+    "wonders": "Candy House",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Candy Cane",
@@ -644,7 +644,7 @@
     "creature_image_url": "assets/creatures/crystal.png",
     "resource": "Crystal",
     "resource_image_url": "assets/resources/crystal.png",
-    "wonders": "",
+    "wonders": "Diamonds Castle",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Amber",
@@ -724,7 +724,7 @@
     "creature_image_url": "assets/creatures/virus.png",
     "resource": "Virus",
     "resource_image_url": "assets/resources/virus.png",
-    "wonders": "",
+    "wonders": "Spore Meteor Shower",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Spacecraft of Dr. Evil",
@@ -764,7 +764,7 @@
     "creature_image_url": "assets/creatures/brain.png",
     "resource": "Blood",
     "resource_image_url": "assets/resources/brain.png",
-    "wonders": "",
+    "wonders": "Voodoo Monument",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Drippy Dropper",
@@ -804,7 +804,7 @@
     "creature_image_url": "assets/creatures/music.png",
     "resource": "Notes",
     "resource_image_url": "assets/resources/music.png",
-    "wonders": "",
+    "wonders": "Musical Patterns",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Ding-Donger",
@@ -884,7 +884,7 @@
     "creature_image_url": "assets/creatures/circuit.png",
     "resource": "Chips",
     "resource_image_url": "assets/resources/circuit.png",
-    "wonders": "",
+    "wonders": "Cooling Device",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Energizer",
@@ -904,7 +904,7 @@
     "creature_image_url": "assets/creatures/mine.png",
     "resource": "Metal",
     "resource_image_url": "assets/resources/mine.png",
-    "wonders": "",
+    "wonders": "Diamond Heart",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Diamond",
@@ -924,7 +924,7 @@
     "creature_image_url": "assets/creatures/flame.png",
     "resource": "Fire",
     "resource_image_url": "assets/resources/flame.png",
-    "wonders": "",
+    "wonders": "Secret Booster",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Fireball",
@@ -1004,7 +1004,7 @@
     "creature_image_url": "assets/creatures/forest.png",
     "resource": "Wood",
     "resource_image_url": "assets/resources/forest.png",
-    "wonders": "",
+    "wonders": "Golden Castle",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Florb",
@@ -1044,7 +1044,7 @@
     "creature_image_url": "assets/creatures/newyear.png",
     "resource": "Ingot",
     "resource_image_url": "assets/resources/newyear.png",
-    "wonders": "",
+    "wonders": "Shang Yun Temple",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Chinese Dragon",
@@ -1064,7 +1064,7 @@
     "creature_image_url": "assets/creatures/valentine.png",
     "resource": "Diamond",
     "resource_image_url": "assets/resources/valentine.png",
-    "wonders": "",
+    "wonders": "Hot Spring Meal",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Love Letter",
@@ -1084,7 +1084,7 @@
     "creature_image_url": "assets/creatures/childfes.png",
     "resource": "Toy",
     "resource_image_url": "assets/resources/childfes.png",
-    "wonders": "",
+    "wonders": "Happy Castle",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Toy Blocks",
@@ -1264,7 +1264,7 @@
     "creature_image_url": "assets/creatures/christmas.png",
     "resource": "Jingle",
     "resource_image_url": "assets/resources/christmas.png",
-    "wonders": "",
+    "wonders": "Christmas Giftbox",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "X'mas Gift",
@@ -1304,7 +1304,7 @@
     "creature_image_url": "assets/creatures/artifact.png",
     "resource": "Conscious",
     "resource_image_url": "assets/resources/artifact.png",
-    "wonders": "",
+    "wonders": "Mystery Lifestone",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Scoutship",
@@ -1324,7 +1324,7 @@
     "creature_image_url": "assets/creatures/bulb.png",
     "resource": "Idea",
     "resource_image_url": "assets/resources/bulb.png",
-    "wonders": "",
+    "wonders": "Creative Flash",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Plug",
@@ -1364,7 +1364,7 @@
     "creature_image_url": "assets/creatures/invisible.png",
     "resource": "Invisibility",
     "resource_image_url": "assets/resources/invisible.png",
-    "wonders": "",
+    "wonders": "Invisible Fighter",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Invisible Walkr",
@@ -1384,7 +1384,7 @@
     "creature_image_url": "assets/creatures/burger.png",
     "resource": "Fries",
     "resource_image_url": "assets/resources/burger.png",
-    "wonders": "",
+    "wonders": "Mountain Chips",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Coke",
@@ -1524,7 +1524,7 @@
     "creature_image_url": "assets/creatures/viking.png",
     "resource": "Copper",
     "resource_image_url": "assets/resources/viking.png",
-    "wonders": "",
+    "wonders": "Dragonslayer's Shield",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Horn",
@@ -1604,7 +1604,7 @@
     "creature_image_url": "assets/creatures/library.png",
     "resource": "Knowledge",
     "resource_image_url": "assets/resources/library.png",
-    "wonders": "",
+    "wonders": "Secret Scholar",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Dictionary",
@@ -1644,7 +1644,7 @@
     "creature_image_url": "assets/creatures/portal.png",
     "resource": "Superpower",
     "resource_image_url": "assets/resources/portal.png",
-    "wonders": "",
+    "wonders": "Galaxy Transporter",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Energy Stone",
@@ -1664,7 +1664,7 @@
     "creature_image_url": "assets/creatures/ocean.png",
     "resource": "Salt",
     "resource_image_url": "assets/resources/ocean.png",
-    "wonders": "",
+    "wonders": "Giant Kraken",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Bilge Plug",
@@ -1684,7 +1684,7 @@
     "creature_image_url": "assets/creatures/fluffy.png",
     "resource": "Dream",
     "resource_image_url": "assets/resources/fluffy.png",
-    "wonders": "",
+    "wonders": "Dream Tapestry",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Malayan Tapir",
@@ -1704,7 +1704,7 @@
     "creature_image_url": "assets/creatures/seaweed.png",
     "resource": "Sea Weed",
     "resource_image_url": "assets/resources/seaweed.png",
-    "wonders": "",
+    "wonders": "Shy Purple Crab",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Starfish",
@@ -1744,7 +1744,7 @@
     "creature_image_url": "assets/creatures/neon.png",
     "resource": "Neon",
     "resource_image_url": "assets/resources/neon.png",
-    "wonders": "",
+    "wonders": "Carousel Stage",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Neon Lights",
@@ -1784,7 +1784,7 @@
     "creature_image_url": "assets/creatures/whale.png",
     "resource": "Wave",
     "resource_image_url": "assets/resources/whale.png",
-    "wonders": "",
+    "wonders": "Golden Whale Wing",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Tropical Fish",
@@ -1804,7 +1804,7 @@
     "creature_image_url": "assets/creatures/aborigine.png",
     "resource": "Symbol",
     "resource_image_url": "assets/resources/aborigine.png",
-    "wonders": "",
+    "wonders": "Lion Earrings",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Djembe",
@@ -1824,7 +1824,7 @@
     "creature_image_url": "assets/creatures/hedgehog.png",
     "resource": "Poison String",
     "resource_image_url": "assets/resources/hedgehog.png",
-    "wonders": "",
+    "wonders": "Tiny Cute Sting",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Heating Light Bulbs",
@@ -1844,7 +1844,7 @@
     "creature_image_url": "assets/creatures/jiufen.png",
     "resource": "Lantern",
     "resource_image_url": "assets/resources/jiufen.png",
-    "wonders": "",
+    "wonders": "Lantern Festival",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Red Lantern",
@@ -1884,7 +1884,7 @@
     "creature_image_url": "assets/creatures/greatwall.png",
     "resource": "Brick",
     "resource_image_url": "assets/resources/greatwall.png",
-    "wonders": "",
+    "wonders": "Storm Protection",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Feathered Arrow",
@@ -1904,7 +1904,7 @@
     "creature_image_url": "assets/creatures/sakura.png",
     "resource": "Sakura",
     "resource_image_url": "assets/resources/sakura.png",
-    "wonders": "",
+    "wonders": "Sakura Temple",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Picture Horse",
@@ -1924,7 +1924,7 @@
     "creature_image_url": "assets/creatures/mediterranean.png",
     "resource": "Olive",
     "resource_image_url": "assets/resources/mediterranean.png",
-    "wonders": "",
+    "wonders": "Wedding Bell",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Pepper",
@@ -1944,7 +1944,7 @@
     "creature_image_url": "assets/creatures/bubblegum.png",
     "resource": "Bubble Gum",
     "resource_image_url": "assets/resources/bubblegum.png",
-    "wonders": "",
+    "wonders": "Bubblegum V3",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Token",
@@ -1964,7 +1964,7 @@
     "creature_image_url": "assets/creatures/pufferfish.png",
     "resource": "Angry",
     "resource_image_url": "assets/resources/pufferfish.png",
-    "wonders": "",
+    "wonders": "Poison Sting",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Fish Food",
@@ -1984,7 +1984,7 @@
     "creature_image_url": "assets/creatures/rabbit.png",
     "resource": "Carrot",
     "resource_image_url": "assets/resources/rabbit.png",
-    "wonders": "",
+    "wonders": "Scarf Forest",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Pasture",
@@ -2024,7 +2024,7 @@
     "creature_image_url": "assets/creatures/cage.png",
     "resource": "Evilbone",
     "resource_image_url": "assets/resources/cage.png",
-    "wonders": "",
+    "wonders": "Underworld Tattoo",
     "satellites_l1": [],
     "satellites_l2": [{
       "name": "Skull",
