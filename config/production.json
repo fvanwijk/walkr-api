@@ -1,4 +1,4 @@
 {
   "mongoUrl": "mongodb://ds157320.mlab.com:57320/walkr",
-  "webHostname": "http://walkr-api.herokuapp.com"
+  "webHostname": "https://walkr-api.herokuapp.com"
 }
