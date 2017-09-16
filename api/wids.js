@@ -61,6 +61,10 @@ module.exports = function (router) {
               return discovery.url === discoveryUrl
             });
 
+            discovery.url = url.addHostToUrl(discovery.url);
+            discovery.planet.url = url.addHostToUrl(discovery.planet.url);
+            discovery.wid.url = url.addHostToUrl(discovery.wid.url);
+
             if (discovery.planet.name !== 'Earth') {
               /* Discovery */
               discovery.discovery.time = 90 * Math.pow(discovery.index, 2) + 1710 * discovery.index;
@@ -117,6 +121,11 @@ module.exports = function (router) {
         function (err, item) {
           CommonApi.catchWrapper(err, item, res, function (res, item) {
             const discovery = item.dfrs.find(discovery => { return discovery.id == req.params.dfrid });
+
+            discovery.url = url.addHostToUrl(discovery.url);
+            discovery.dfr.url = url.addHostToUrl(discovery.dfr.url);
+            discovery.wid.url = url.addHostToUrl(discovery.wid.url);
+
             discovery.production = {
               resources: {
                 name: 'food',
