@@ -1168,5 +1168,60 @@
       "url": "/api/planets/102",
       "name": "Perfume Bathhouse"
     }
+  },
+  {
+    "id": 109,
+    "name": "Red Bean Cakes",
+    "boost": "Extend Happy Time",
+    "level_1": "50%",
+    "level_2": "100%",
+    "planet": {
+      "url": "/api/planets/103",
+      "name": "Bean Saturn"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Straw Umbrella",
+    "boost": "Increase Production",
+    "level_1": "5",
+    "level_2": "10",
+    "planet": {
+      "url": "/api/planets/104",
+      "name": "Coconut Valley"
+    }
+  },
+  {
+    "id": 111,
+    "name": "Sweet Shrimp",
+    "boost": "Increase Population",
+    "level_1": "2",
+    "level_2": "4",
+    "planet": {
+      "url": "/api/planets/105",
+      "name": "Sushi Mountain"
+    }
+  },
+  {
+    "id": 112,
+    "name": "Knife and Fork",
+    "boost": "Extend Production Time",
+    "level_1": "5%",
+    "level_2": "10%",
+    "planet": {
+      "url": "/api/planets/106",
+      "name": "Source of Tomato"
+    }
+  },
+  {
+    "id": 113,
+    "name": "",
+    "boost": "Decrease Food Requirements",
+    "level_1": "-5%",
+    "level_2": "-10%",
+    "planet": {
+      "url": "/api/planets/107",
+      "name": "Unexpected Visitor"
+    }
   }
 ]

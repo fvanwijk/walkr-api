@@ -2051,5 +2051,110 @@
       "url": "/api/satellites/108"
     }]
 
+  },
+  {
+    "url": null,
+    "code": 103,
+    "name": "Bean Saturn",
+    "image_url": "assets/planets/cakewheel.png",
+    "description": "The creamy center hidden deep inside the earth is the source of this planet's energy. Only when a large crowd of red bean people gather together can the cream be extracted.",
+    "type": "Cuisine",
+    "gravity": "4.51G",
+    "creature": "Bean Man",
+    "creature_description": "The bodies of the bean men are sticky all over. Soft bean paste is their favorite.",
+    "creature_image_url": "assets/creatures/cakewheel.png",
+    "resource": "Bean",
+    "resource_image_url": "assets/resources/cakewheel.png",
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Red Bean",
+      "url": "/api/satellites/109"
+    }]
+
+  },
+  {
+    "url": null,
+    "code": 104,
+    "name": "Coconut Valley",
+    "image_url": "assets/planets/coconut.png",
+    "description": "This was originally an intact continental crust. After thousands of years of erosion by the river current, a huge milky lake has been formed at the bottom of the cliffs.",
+    "type": "Cuisine",
+    "gravity": "2.01G",
+    "creature": "Berry Treant",
+    "creature_description": "The berry treant love to drink the coconut milk here. When they are drunk, they spend the whole day giggling at people.",
+    "creature_image_url": "assets/creatures/coconut.png",
+    "resource": "Coconut",
+    "resource_image_url": "assets/resources/coconut.png",
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Straw Umbrella",
+      "url": "/api/satellites/110"
+    }]
+
+  },
+  {
+    "url": null,
+    "code": 105,
+    "name": "Sushi Mountain",
+    "image_url": "assets/planets/ebisushi.png",
+    "description": "Tens of thousands of years ago, four courageous shrimps sacrifice themselves to save the planet from disintegration. Even now, the residents still cherish the memory of their heroes.",
+    "type": "Cuisine",
+    "gravity": "5.12G",
+    "creature": "Salmon Roe",
+    "creature_description": "The little shrimp children sing and dance in honor of their heroes in the hope that their legendary story will continue to pass down in history.",
+    "creature_image_url": "assets/creatures/ebisushi.png",
+    "resource": "Musk",
+    "resource_image_url": "assets/resources/ebisushi.png",
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Sweet Shrimp",
+      "url": "/api/satellites/111"
+    }]
+
+  },
+  {
+    "url": null,
+    "code": 106,
+    "name": "Source of Tomato",
+    "image_url": "assets/planets/tomato.png",
+    "description": "Inside the giant tomato, there is said to be an ancient elaborate maze. Those who have gone inside and come out again are said to be very few in number.",
+    "type": "Plant",
+    "gravity": "3.01G",
+    "creature": "Mozarellan",
+    "creature_description": "The Mozzarellan use the distinctive smell on their bodies to leave markings on the walls. They are masters of escape who can navigate freely through the maze.",
+    "creature_image_url": "assets/creatures/tomato.png",
+    "resource": "Half Tomato",
+    "resource_image_url": "assets/resources/tomato.png",
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "Knife and Fork",
+      "url": "/api/satellites/112"
+    }]
+
+  },
+  {
+    "url": null,
+    "code": 107,
+    "name": "Unexpected Visitor",
+    "image_url": "assets/planets/ufo.png",
+    "description": "An earthling has tired of his current life and has decided to create his own spacecraft to embark on a space journey. However, he seems to have lost hi",
+    "type": "Special",
+    "gravity": "2.19G",
+    "creature": "Alien",
+    "creature_description": "The aliens have found the lost Earthling. They talk and talk outside their spaceship to try to give him directions, but the Earthling doesn't seem to understand their language.",
+    "creature_image_url": "assets/creatures/ufo.png",
+    "resource": "Fluorescent",
+    "resource_image_url": "assets/resources/ufo.png",
+    "wonders": "",
+    "satellites_l1": [],
+    "satellites_l2": [{
+      "name": "",
+      "url": "/api/satellites/113"
+    }]
+
   }
 ]
