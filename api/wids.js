@@ -7,6 +7,14 @@ var Mission = require('../models/mission').model;
 var CommonApi = require('./common-api');
 var url = require('./url');
 
+
+function byUrl(discoveryUrl) {
+  return (discovery, i) => {
+    discovery.index = i;
+    return discovery.url === discoveryUrl
+  }
+}
+
 module.exports = function (router) {
   router.route('/wids')
     .get(CommonApi.getAll(WID))
@@ -49,68 +57,44 @@ module.exports = function (router) {
     .get(function (req, res) {
       const discoveryUrl = url.create('wids', req.params.id, 'planets', req.params.planetid);
       WID.findOne(
-        { 'planets.url': discoveryUrl },
-        { 'planets._id': false, 'planets.__v': false },
-        function (err, item) {
-          CommonApi.catchWrapper(err, item, res, function (res, item) {
+        { 'planets.url': discoveryUrl }, // Still returns the whole WID
+        { 'planets._id': false, 'planets.__v': false }
+      , (err, item) => {
+        CommonApi.catchWrapper(err, item, res, function (res, item) {
 
-            item.planets.sort((a, b) => a.discovery.distance < b.discovery.distance ? -1 : 1);
-
-            const discovery = item.planets.find((discovery, i) => {
-              discovery.index = i;
-              return discovery.url === discoveryUrl
-            });
-
-            discovery.url = url.addHostToUrl(discovery.url);
-            discovery.planet.url = url.addHostToUrl(discovery.planet.url);
-            discovery.wid.url = url.addHostToUrl(discovery.wid.url);
-
-            if (discovery.planet.name !== 'Earth') {
-              /* Discovery */
-              discovery.discovery.time = 90 * Math.pow(discovery.index, 2) + 1710 * discovery.index;
-              discovery.discovery.boost = {
-                energy: discovery.discovery.time / 6 * 10,
-                cubes: discovery.discovery.time / 180
-              };
-
-              /* Upgrading */
-              discovery.upgrade = {
-                base_price: CommonApi.getBasePrice(discovery.index),
-                time: discovery.discovery.time,
-                boost: {
-                  energy: discovery.discovery.boost.energy,
-                  cubes: discovery.discovery.boost.cubes
-                }
-              };
-              discovery.upgrade.next_price = discovery.level == 7 ? null : CommonApi.getUpgradePrice(discovery.upgrade.base_price, discovery.level);
-
-              /* Production */
-              discovery.production = {
-                requirements: discovery.planet.name == 'Earth' ? null : {
-                  name: 'food',
-                  quantity: 100 + 20 * discovery.index
-                }
-              };
-              const totalResources = Math.round(discovery.production.requirements.quantity * 6 * Math.pow(1.1, discovery.level - 1));
-              discovery.production.resources = {
-                name: null, // To be filled below
-                quantity: totalResources
-              };
-              discovery.production.time = 3 * totalResources;
-
-              discovery.population = 2 + 2 * discovery.level; // TODO: add additional population for correct satellite match
-            } else {
-              // discovery.population = Math.min(16, Math.floor(core.friends.length / 5));
-            }
-
-            Planet.findOne({ code: req.params.planetid }, function (err, planet) {
-              discovery.production.resources.name = planet.resource;
-
-              res.json(discovery);
-            });
+          let discovery = item.planets.find((discovery, i) => {
+            discovery.index = i;
+            return discovery.url === discoveryUrl
           });
-        }
-      );
+
+          discovery = Discovery.resultMapper(discovery);
+
+          Planet.findOne({ code: req.params.planetid }, function (err, planet) {
+            discovery.production.resources.name = planet.resource;
+
+            res.json(discovery);
+          });
+        });
+      });
+    })
+    .put((req, res) => {
+      const discoveryUrl = url.create('wids', req.params.id, 'planets', req.params.planetid);
+      return WID.findOne(
+        { 'planets.url': discoveryUrl }, // Still returns the whole WID
+        { 'planets._id': false, 'planets.__v': false }
+          , (err, wid) => {
+        return CommonApi.catchWrapper(err, wid, res, function (res, item) {
+          const discovery = item.planets.find(byUrl(discoveryUrl));
+
+          discovery.level = req.body.level;
+
+          wid.save((err, savedWid) => {
+            const savedDiscovery = savedWid.planets.find(byUrl(discoveryUrl));
+
+            res.json(Discovery.resultMapper(savedDiscovery));
+          });
+        });
+      });
     });
 
   router.route('/wids/:id/dfrs/:dfrid')
@@ -120,26 +104,12 @@ module.exports = function (router) {
         { 'dfrs._id': false, 'dfrs.__v': false },
         function (err, item) {
           CommonApi.catchWrapper(err, item, res, function (res, item) {
-            const discovery = item.dfrs.find(discovery => { return discovery.id == req.params.dfrid });
 
-            discovery.url = url.addHostToUrl(discovery.url);
-            discovery.dfr.url = url.addHostToUrl(discovery.dfr.url);
-            discovery.wid.url = url.addHostToUrl(discovery.wid.url);
+            let discovery = item.dfrs.find(discovery => {
+              return discovery.id === +req.params.dfrid;
+            });
 
-            discovery.production = {
-              resources: {
-                name: 'food',
-                quantity: Math.round(351 * Math.pow(1.25, discovery.level - 1))
-              }
-            };
-            discovery.production.time = discovery.production.resources.quantity * 6;
-            discovery.upgrade = {
-              base_price: {
-                coins: 2000
-              }
-            };
-            discovery.upgrade.next_price = CommonApi.getUpgradePrice(discovery.upgrade.base_price, discovery.level);
-
+            discovery = DFRDiscovery.resultMapper(discovery);
             res.json(discovery);
           });
         }

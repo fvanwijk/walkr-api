@@ -25,16 +25,6 @@ module.exports = {
       return acc;
     }, {});
   },
-  getBasePrice(index) {
-    return { coins: 300 * Math.pow(index, 2) - 150 * (index - 3), cubes: undefined };
-  },
-  getUpgradePrice(basePrice, level) {
-    return {
-      coins: basePrice.coins * Math.pow(2, level - 1),
-      cubes: undefined, // TODO: determine formula,
-      energy: level * 30000, // Labs
-    };
-  },
   getAll: function (Model) {
     const commonApi = this;
     const successCb = function (res, items) {

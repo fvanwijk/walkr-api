@@ -16,8 +16,6 @@ module.exports = function (router) {
   router.route('/core/:id')
     .get((req, res) => {
       const level = +req.params.id;
-      console.log('Core created', url.create(Core.slug, req.params.id));
-      console.log('Core with host', url.addHostToUrl.bind(url)(url.create(Core.slug, req.params.id)));
       res.json(new Core({
         url: url.addHostToUrl.bind(url)(url.create(Core.slug, req.params.id)),
         level: level,

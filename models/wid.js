@@ -21,21 +21,10 @@ wid.slug = 'wids';
 wid.identifierField = 'wid';
 wid.nameField = 'name';
 wid.resultMapper = wid => {
-  const addHost = url.addHostToUrl.bind(url);
-  wid.url = addHost(wid.url);
-  wid.missions.forEach(mission => {
-    mission.url = addHost(mission.url)
-  });
-  wid.dfrs.forEach(dfrDiscovery => {
-    dfrDiscovery.url = addHost(dfrDiscovery.url);
-    dfrDiscovery.dfr.url = addHost(dfrDiscovery.dfr.url);
-    dfrDiscovery.wid.url = addHost(dfrDiscovery.wid.url);
-  });
-  wid.planets.forEach(discovery => {
-    discovery.url = addHost(discovery.url);
-    discovery.planet.url = addHost(discovery.planet.url);
-    discovery.wid.url = addHost(discovery.wid.url);
-  });
+  wid.url = url.addHostToUrl(wid.url);
+  wid.missions.forEach(Mission.model.resultMapper);
+  wid.dfrs.forEach(DFRDiscovery.model.resultMapper);
+  wid.planets.forEach(Discovery.model.resultMapper);
   return wid;
 };
 
