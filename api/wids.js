@@ -86,7 +86,11 @@ module.exports = function (router) {
         return CommonApi.catchWrapper(err, wid, res, function (res, item) {
           const discovery = item.planets.find(byUrl(discoveryUrl));
 
+          // For now only allow to modify some properties
+          discovery.index = req.body.index;
           discovery.level = req.body.level;
+          discovery.discovery.date = req.body.discovery.date;
+          discovery.discovery.distance = req.body.discovery.distance;
 
           wid.save((err, savedWid) => {
             const savedDiscovery = savedWid.planets.find(byUrl(discoveryUrl));
