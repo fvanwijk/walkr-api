@@ -10,11 +10,12 @@
   "keywords": [],
   "author": "Frank van Wijk <fvanwijk@xebia.com> (http://www.frankvanwijk.nl)",
   "license": "MIT",
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "1.12.1"
+  },
   "dependencies": {
-    "body-parser": "1.15.2",
-    "express": "4.14.0",
-    "mongoose": "4.5.8",
-    "nodemon": "1.11.0"
+    "body-parser": "1.18.1",
+    "express": "4.15.4",
+    "mongoose": "4.11.11"
   }
 }
