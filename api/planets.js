@@ -6,6 +6,7 @@ module.exports = function (router) {
   router.route('/planets')
     .get(CommonApi.getAll(Planet))
     .post(CommonApi.postAll(Planet, 'planets.json'))
+    .put(CommonApi.putAll(Planet, 'planets.json'))
     .delete(CommonApi.deleteAll(Planet));
 
   router.route('/planets/:id')

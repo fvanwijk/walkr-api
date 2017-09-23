@@ -19,6 +19,7 @@ module.exports = function (router) {
   router.route('/wids')
     .get(CommonApi.getAll(WID))
     .post(CommonApi.postAll(WID, 'wids.json'))
+    .put(CommonApi.putAll(WID, 'wids.json'))
     .delete(CommonApi.deleteAll(WID));
 
   router.route('/wids/:id')

@@ -6,6 +6,7 @@ module.exports = function (router) {
   router.route('/dfrs')
     .get(CommonApi.getAll(DFR))
     .post(CommonApi.postAll(DFR, 'dfrs.json'))
+    .put(CommonApi.putAll(DFR, 'dfrs.json'))
     .delete(CommonApi.deleteAll(DFR));
 
   router.route('/dfrs/:id')

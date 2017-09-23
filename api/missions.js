@@ -6,6 +6,7 @@ module.exports = function (router) {
   router.route('/missions')
     .get(CommonApi.getAll(Mission))
     .post(CommonApi.postAll(Mission, 'missions.json'))
+    .put(CommonApi.putAll(Mission, 'missions.json'))
     .delete(CommonApi.deleteAll(Mission));
 
   router.route('/missions/:id')

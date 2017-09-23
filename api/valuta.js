@@ -6,6 +6,7 @@ module.exports = function (router) {
   router.route('/valuta')
     .get(CommonApi.getAll(valuta))
     .post(CommonApi.postAll(valuta, 'valuta.json'))
+    .put(CommonApi.putAll(valuta, 'valuta.json'))
     .delete(CommonApi.deleteAll(valuta));
 
   router.route('/valuta/:id')

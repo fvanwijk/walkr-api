@@ -3,23 +3,6 @@ const url = require('./url');
 const filter = { '_id': false, '__v': false };
 
 module.exports = {
-  /**
-   * @param res Object response
-   * @param err Object error
-   * @param item Object that is returned by Mongoose
-   * @param successCb optional callback to set a different response than the item in JSON
-   * @deprecated use next()
-   */
-  catchWrapper: function (err, item, res, successCb) {
-    if (err) {
-      res.send(err);
-    }
-    if (item) {
-      successCb ? successCb(res, item) : res.json(item);
-    } else {
-      res.sendStatus(404);
-    }
-  },
   projectionMapper: function (schemaKeys, excludeKeys, collectionKey) {
     return schemaKeys.concat('_id', '__v').reduce((acc, field) => {
       if (excludeKeys.indexOf(field) === -1) {
@@ -28,53 +11,64 @@ module.exports = {
       return acc;
     }, {});
   },
+  // Get collection
   getAll: function (Model) {
-    const commonApi = this;
-    const successCb = function (res, items) {
-      res.json({
-        count: items.length,
-        results: items.map((item) => ({
-          [Model.nameField]: item[Model.nameField],
-          url: url.addHostToUrl(item.url)
-        }))
-      });
-    };
-
-    return function (req, res) {
-      Model.find(function (err, items) {
-        return commonApi.catchWrapper(err, items, res, successCb);
-      });
+    return function (req, res, next) {
+      Model.find().exec()
+        .then(items => {
+          res.json({
+            count: items.length,
+            results: items.map((item) => ({
+              [Model.nameField]: item[Model.nameField],
+              url: url.addHostToUrl(item.url)
+            }))
+          });
+        })
+        .catch(next);
     };
   },
+  // Add collection to existing collection
   postAll: function (Model, filename) {
-    return function (req, res) {
-      Model.remove({}, function (err) {
-        if (err) {
-          res.send(err);
-        }
+    return function (req, res, next) {
+      // Temporary post items from file instead if there is no body
+      const items = req.body || require(`../data/${filename}`).map(item => {
+        return ({
+          ...item, url: url.create(Model.slug, item[Model.identifierField])
+        });
       });
-      var items = require(`../data/${filename}`).map(item => {
-        item.url = url.create(Model.slug, item[Model.identifierField]);
-        return item;
-      });
-      Model.insertMany(items, function (err) {
-        if (err) {
-          res.send(err);
-        }
-        res.sendStatus(200);
-      });
+
+      Model.insertMany(items)
+        .then(() => {
+          res.sendStatus(204);
+        })
+        .catch(next);
+    };
+  },
+  // Replace collection with new collection
+  putAll: function (Model, filename) {
+    return (req, res, next) => {
+      Model.remove({}).exec()
+        .then(() => {
+          this.postAll(Model, filename)(req, res, next);
+        });
     }
   },
+  // Delete collection
+  // If collection does not exist, return 404
   deleteAll: function (Model) {
-    return function (req, res) {
-      Model.remove({}, function (err) {
-        if (err) {
-          res.send(err);
-        }
-        res.sendStatus(200);
-      });
-    }
+    return function (req, res, next) {
+      Model.remove({}).exec()
+        .then((summary) => {
+          if (!summary.result.n) {
+            next({ status: 404 });
+          } else {
+            res.sendStatus(204);
+          }
+        })
+        .catch(next);
+    };
   },
+  // Get an item with ID from collection
   get: function (Model, projection) {
     return function (req, res, next) {
       Model.findOne(

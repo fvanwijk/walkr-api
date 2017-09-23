@@ -7,6 +7,7 @@ module.exports = function (router) {
   router.route('/epics')
     .get(CommonApi.getAll(epic))
     .post(CommonApi.postAll(epic, 'epics.json'))
+    .put(CommonApi.putAll(epic, 'epics.json'))
     .delete(CommonApi.deleteAll(epic));
 
   const projectionMap = Object.assign({
