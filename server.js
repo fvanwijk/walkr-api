@@ -8,7 +8,7 @@ var config = require(`./config/${process.env.NODE_ENV === 'production' ? 'produc
 
 mongoose.Promise = global.Promise;
 const mongoUser = process.env.MONGOLAB_USER;
-mongoose.connect(`mongodb://${mongoUser && mongoUser + ':' + process.env.MONGOLAB_PASSWORD}@${config.mongoUrl}`, {
+mongoose.connect(`mongodb://${mongoUser && mongoUser + ':' + process.env.MONGOLAB_PASSWORD}@${config.mongoUrl}/walkr`, {
   useMongoClient: true
 }).then(() => {
   app.use(function(req, res, next) {
