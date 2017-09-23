@@ -24,6 +24,12 @@ mongoose.connect(`mongodb://${mongoUser && mongoUser + ':' + process.env.MONGOLA
   app.use(bodyParser.urlencoded({ extended: true }));
   app.use(bodyParser.json());
   app.use('/api', router);
+  app.use(function (err, req, res, next) {
+    if (res.headersSent) {
+      next(err);
+    }
+    res.status(err.status || 500).json(err.message && { error: err.message });
+  });
   app.get('*', function(req, res){
     res.sendStatus(404);
   });
