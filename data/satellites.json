@@ -1215,7 +1215,7 @@
   },
   {
     "id": 113,
-    "name": "",
+    "name": "Bicycle",
     "boost": "Decrease Food Requirements",
     "level_1": "-5%",
     "level_2": "-10%",
