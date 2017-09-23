@@ -7,9 +7,9 @@ var url = require('./api/url');
 var config = require(`./config/${process.env.NODE_ENV === 'production' ? 'production' : 'develop'}.json`);
 
 mongoose.Promise = global.Promise;
-mongoose.connect(config.mongoUrl, {
-  user: process.env.MONGOLAB_USER,
-  pass: process.env.MONGOLAB_PASSWORD,
+const mongoUser = process.env.MONGOLAB_USER;
+mongoose.connect(`mongodb://${mongoUser && mongoUser + ':' + process.env.MONGOLAB_PASSWORD}@${config.mongoUrl}`, {
+  useMongoClient: true
 }).then(() => {
   app.use(function(req, res, next) {
     res.header('Access-Control-Allow-Origin', '*');
