@@ -1,4 +1,6 @@
-var url = require('./url');
+const url = require('./url');
+
+const filter = { '_id': false, '__v': false };
 
 module.exports = {
   /**
@@ -6,6 +8,7 @@ module.exports = {
    * @param err Object error
    * @param item Object that is returned by Mongoose
    * @param successCb optional callback to set a different response than the item in JSON
+   * @deprecated use next()
    */
   catchWrapper: function (err, item, res, successCb) {
     if (err) {
@@ -73,52 +76,84 @@ module.exports = {
     }
   },
   get: function (Model, projection) {
-    const commonApi = this;
-    return function (req, res) {
-      projection = Object.assign({ '_id': false, '__v': false }, projection || {});
+    return function (req, res, next) {
       Model.findOne(
         { [Model.identifierField]: req.params.id },
-        projection,
-        function (err, item) {
-          return commonApi.catchWrapper(err, item, res, (res, item) => {
+        { ...filter, ...projection }
+      ).exec()
+        .then(item => {
+          if (item === null) {
+            next({ status: 404 });
+          } else {
             res.json(Model.resultMapper ? Model.resultMapper(item) : item);
-          });
-        }
-      );
+          }
+        })
+        .catch(next);
     }
   },
+  // Create new doc if not exists and return the new doc
+  // If the doc already exists, return 409
   post: function (Model) {
-    const commonApi = this;
-    return function (req, res) {
-      req.body.url = req.body.url || url.create(Model.slug, req.body[Model.identifierField]);
-      Model.create(
-        req.body,
-        function (err, item) {
-          return commonApi.catchWrapper(err, item, res);
-        }
-      );
+    return function (req, res, next) {
+      const select = { [Model.identifierField]: req.params.id };
+      Model.findOne(select)
+        .then(item => {
+          if (item === null) {
+            new Model({ ...req.body, ...select, url: req.originalUrl })
+              .save() // Does return all fields
+              .then(() => {
+                return Model.findOne(select, filter)
+                  .then(savedItem => {
+                    res.json(Model.resultMapper ? Model.resultMapper(savedItem) : savedItem);
+                  });
+              })
+              .catch(next);
+          } else {
+            next({ status: 409, message: 'Item with same ID already exists' })
+          }
+        })
+        .catch(next);
+
     }
   },
+  // Update doc if exists and return the updated doc
+  // If the doc does not exist, return 404
   put: function (Model) {
-    const commonApi = this;
-    return function(req, res) {
+    return function(req, res, next) {
       Model.findOneAndUpdate(
         { [Model.identifierField]: req.params.id },
         req.body,
-        { new: true },
-        function (err, item) {
-          return commonApi.catchWrapper(err, item, res);
-        }
-      );
+        { new: true, fields: filter }
+      ).exec()
+        .then(item => {
+          if (item === null) {
+            next({ status: 404 })
+          } else {
+            res.json(Model.resultMapper ? Model.resultMapper(item) : item)
+          }
+        })
+        .catch(next);
     }
   },
+  // Delete doc if exists and return the deleted doc
+  // If the doc does not exist, return 404
   delete: function (Model) {
-    const commonApi = this;
-    const successCb = function (res) { res.sendStatus(200); };
-    return function (req, res) {
-      Model.remove({ [Model.identifierField]: req.params.id }, function (err, item) {
-        commonApi.catchWrapper(err, item, res, successCb);
-      });
+    return function (req, res, next) {
+      Model.findOneAndRemove(
+        { [Model.identifierField]: req.params.id }
+      ).exec()
+        .then(item => {
+          if (item === null) {
+            next({ status: 404 })
+          } else {
+            // Remove fields because projection is not possible
+            item = item.toObject();
+            item._id = undefined;
+            item.__v = undefined;
+            res.json(Model.resultMapper ? Model.resultMapper(item) : item);
+          }
+        })
+        .catch(next);
     }
   }
 };
