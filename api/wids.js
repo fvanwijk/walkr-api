@@ -120,4 +120,27 @@ module.exports = function (router) {
         }
       );
     });
+
+  router.route('/wids/:id/rewards')
+    .get(function (req, res) {
+      res.json(rewards.map(row => {
+        const energy = row.energy * 41.86242;
+        const coins = row.coins * 1.04566;
+        const food = row.food * 20.91321;
+        const resources = row.resources * 20.91321;
+        const total = energy + coins + food + resources;
+
+        return ({
+          ...row,
+          reward: {
+            energy,
+            coins,
+            food,
+            resources,
+            total
+          },
+          percentage: total / 30000000 * 100
+        });
+      }));
+    });
 };

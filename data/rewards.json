@@ -1,0 +1,968 @@
+[
+  {
+    "completion_date": "2016-12-29T00:00:00.000Z",
+    "energy": 41250,
+    "coins": 400000,
+    "food": 149500,
+    "resources": 43887
+  },
+  {
+    "completion_date": "2017-01-01T00:00:00.000Z",
+    "energy": 54000,
+    "coins": 1893750,
+    "food": 147750,
+    "resources": 45635
+  },
+  {
+    "completion_date": "2017-01-04T00:00:00.000Z",
+    "energy": 8000,
+    "coins": 1784375,
+    "food": 192406,
+    "resources": 43839
+  },
+  {
+    "completion_date": "2017-01-06T00:00:00.000Z",
+    "energy": 27000,
+    "coins": 100000,
+    "food": 185472,
+    "resources": 44477
+  },
+  {
+    "completion_date": "2017-01-09T00:00:00.000Z",
+    "energy": 26625,
+    "coins": 2112500,
+    "food": 158725,
+    "resources": 64136
+  },
+  {
+    "completion_date": "2017-01-12T00:00:00.000Z",
+    "energy": 48000,
+    "coins": 406250,
+    "food": 171188,
+    "resources": 49540
+  },
+  {
+    "completion_date": "2017-01-14T00:00:00.000Z",
+    "energy": 18000,
+    "coins": 0,
+    "food": 261303,
+    "resources": 60527
+  },
+  {
+    "completion_date": "2017-01-17T00:00:00.000Z",
+    "energy": 28969,
+    "coins": 0,
+    "food": 304703,
+    "resources": 61543
+  },
+  {
+    "completion_date": "2017-01-20T00:00:00.000Z",
+    "energy": 33157,
+    "coins": 1443750,
+    "food": 244437,
+    "resources": 55741
+  },
+  {
+    "completion_date": "2017-01-27T00:00:00.000Z",
+    "energy": 81375,
+    "coins": 406250,
+    "food": 157286,
+    "resources": 39261
+  },
+  {
+    "completion_date": "2017-01-29T00:00:00.000Z",
+    "energy": 49797,
+    "coins": 1082812,
+    "food": 237500,
+    "resources": 62227
+  },
+  {
+    "completion_date": "2017-02-03T00:00:00.000Z",
+    "energy": 38750,
+    "coins": 1925000,
+    "food": 255710,
+    "resources": 38535
+  },
+  {
+    "completion_date": "2017-02-05T00:00:00.000Z",
+    "energy": 65625,
+    "coins": 1108593,
+    "food": 289276,
+    "resources": 62105
+  },
+  {
+    "completion_date": "2017-02-08T00:00:00.000Z",
+    "energy": 73875,
+    "coins": 275000,
+    "food": 171688,
+    "resources": 52098
+  },
+  {
+    "completion_date": "2017-02-11T00:00:00.000Z",
+    "energy": 27000,
+    "coins": 275000,
+    "food": 139668,
+    "resources": 17853
+  },
+  {
+    "completion_date": "2017-02-13T00:00:00.000Z",
+    "energy": 44000,
+    "coins": 0,
+    "food": 189668,
+    "resources": 40080
+  },
+  {
+    "completion_date": "2017-02-16T00:00:00.000Z",
+    "energy": 32000,
+    "coins": 1654921,
+    "food": 212625,
+    "resources": 52537
+  },
+  {
+    "completion_date": "2017-02-18T00:00:00.000Z",
+    "energy": 53000,
+    "coins": 2021875,
+    "food": 239932,
+    "resources": 76585
+  },
+  {
+    "completion_date": "2017-02-21T00:00:00.000Z",
+    "energy": 49000,
+    "coins": 2000000,
+    "food": 278776,
+    "resources": 56142
+  },
+  {
+    "completion_date": "2017-02-24T00:00:00.000Z",
+    "energy": 26000,
+    "coins": 1538282,
+    "food": 182000,
+    "resources": 45423
+  },
+  {
+    "completion_date": "2017-02-27T00:00:00.000Z",
+    "energy": 38000,
+    "coins": 275000,
+    "food": 206766,
+    "resources": 56041
+  },
+  {
+    "completion_date": "2017-03-01T00:00:00.000Z",
+    "energy": 60250,
+    "coins": 50000,
+    "food": 417000,
+    "resources": 45758
+  },
+  {
+    "completion_date": "2017-03-04T00:00:00.000Z",
+    "energy": 47125,
+    "coins": 2018750,
+    "food": 153311,
+    "resources": 36334
+  },
+  {
+    "completion_date": "2017-03-07T00:00:00.000Z",
+    "energy": 66000,
+    "coins": 1443750,
+    "food": 90306,
+    "resources": 38948
+  },
+  {
+    "completion_date": "2017-03-09T00:00:00.000Z",
+    "energy": 106500,
+    "coins": 393750,
+    "food": 147000,
+    "resources": 70631
+  },
+  {
+    "completion_date": "2017-03-12T00:00:00.000Z",
+    "energy": 68250,
+    "coins": 275000,
+    "food": 182000,
+    "resources": 44199
+  },
+  {
+    "completion_date": "2017-03-15T00:00:00.000Z",
+    "energy": 44343,
+    "coins": 1650000,
+    "food": 275770,
+    "resources": 61666
+  },
+  {
+    "completion_date": "2017-03-17T00:00:00.000Z",
+    "energy": 60000,
+    "coins": 1925000,
+    "food": 355867,
+    "resources": 64232
+  },
+  {
+    "completion_date": "2017-03-21T00:00:00.000Z",
+    "energy": 93000,
+    "coins": 1650000,
+    "food": 220852,
+    "resources": 65718
+  },
+  {
+    "completion_date": "2017-03-23T00:00:00.000Z",
+    "energy": 47656,
+    "coins": 1925000,
+    "food": 180852,
+    "resources": 64341
+  },
+  {
+    "completion_date": "2017-03-26T00:00:00.000Z",
+    "energy": 21000,
+    "coins": 1650000,
+    "food": 152313,
+    "resources": 52558
+  },
+  {
+    "completion_date": "2017-03-29T00:00:00.000Z",
+    "energy": 61375,
+    "coins": 0,
+    "food": 186000,
+    "resources": 63743
+  },
+  {
+    "completion_date": "2017-03-31T00:00:00.000Z",
+    "energy": 39192,
+    "coins": 2143750,
+    "food": 154500,
+    "resources": 43358
+  },
+  {
+    "completion_date": "2017-04-03T00:00:00.000Z",
+    "energy": 33562,
+    "coins": 0,
+    "food": 142000,
+    "resources": 42043
+  },
+  {
+    "completion_date": "2017-04-08T00:00:00.000Z",
+    "energy": 108627,
+    "coins": 1850000,
+    "food": 402776,
+    "resources": 73176
+  },
+  {
+    "completion_date": "2017-04-10T00:00:00.000Z",
+    "energy": 71250,
+    "coins": 1925000,
+    "food": 362000,
+    "resources": 66825
+  },
+  {
+    "completion_date": "2017-04-13T00:00:00.000Z",
+    "energy": 114562,
+    "coins": 1650000,
+    "food": 355774,
+    "resources": 47744
+  },
+  {
+    "completion_date": "2017-04-16T00:00:00.000Z",
+    "energy": 66000,
+    "coins": 1650000,
+    "food": 257748,
+    "resources": 42083
+  },
+  {
+    "completion_date": "2017-04-18T00:00:00.000Z",
+    "energy": 63000,
+    "coins": 275000,
+    "food": 284000,
+    "resources": 67192
+  },
+  {
+    "completion_date": "2017-04-21T00:00:00.000Z",
+    "energy": 100875,
+    "coins": 100000,
+    "food": 200000,
+    "resources": 44074
+  },
+  {
+    "completion_date": "2017-04-23T00:00:00.000Z",
+    "energy": 85250,
+    "coins": 2056250,
+    "food": 128094,
+    "resources": 41404
+  },
+  {
+    "completion_date": "2017-04-26T00:00:00.000Z",
+    "energy": 76500,
+    "coins": 1650000,
+    "food": 279444,
+    "resources": 57416
+  },
+  {
+    "completion_date": "2017-04-28T00:00:00.000Z",
+    "energy": 65500,
+    "coins": 2450000,
+    "food": 310000,
+    "resources": 48960
+  },
+  {
+    "completion_date": "2017-05-01T00:00:00.000Z",
+    "energy": 57500,
+    "coins": 2056250,
+    "food": 301235,
+    "resources": 90977
+  },
+  {
+    "completion_date": "2017-05-04T00:00:00.000Z",
+    "energy": 87000,
+    "coins": 431250,
+    "food": 192000,
+    "resources": 66565
+  },
+  {
+    "completion_date": "2017-05-06T00:00:00.000Z",
+    "energy": 63000,
+    "coins": 0,
+    "food": 205781,
+    "resources": 49798
+  },
+  {
+    "completion_date": "2017-05-09T00:00:00.000Z",
+    "energy": 98000,
+    "coins": 0,
+    "food": 242000,
+    "resources": 57568
+  },
+  {
+    "completion_date": "2017-05-11T00:00:00.000Z",
+    "energy": 67000,
+    "coins": 1925000,
+    "food": 293386,
+    "resources": 67791
+  },
+  {
+    "completion_date": "2017-05-13T00:00:00.000Z",
+    "energy": 90000,
+    "coins": 1650000,
+    "food": 308106,
+    "resources": 56146
+  },
+  {
+    "completion_date": "2017-05-16T00:00:00.000Z",
+    "energy": 55000,
+    "coins": 1650000,
+    "food": 278000,
+    "resources": 54911
+  },
+  {
+    "completion_date": "2017-05-19T00:00:00.000Z",
+    "energy": 132000,
+    "coins": 450000,
+    "food": 162000,
+    "resources": 49859
+  },
+  {
+    "completion_date": "2017-05-21T00:00:00.000Z",
+    "energy": 99000,
+    "coins": 0,
+    "food": 130000,
+    "resources": 58922
+  },
+  {
+    "completion_date": "2017-05-24T00:00:00.000Z",
+    "energy": 33000,
+    "coins": 0,
+    "food": 120000,
+    "resources": 52296
+  },
+  {
+    "completion_date": "2017-05-27T00:00:00.000Z",
+    "energy": 97125,
+    "coins": 1925000,
+    "food": 270000,
+    "resources": 58310
+  },
+  {
+    "completion_date": "2017-05-30T00:00:00.000Z",
+    "energy": 135750,
+    "coins": 2056250,
+    "food": 302000,
+    "resources": 80025
+  },
+  {
+    "completion_date": "2017-06-01T00:00:00.000Z",
+    "energy": 85500,
+    "coins": 1650000,
+    "food": 322000,
+    "resources": 30571
+  },
+  {
+    "completion_date": "2017-06-03T00:00:00.000Z",
+    "energy": 99000,
+    "coins": 800000,
+    "food": 142000,
+    "resources": 49491
+  },
+  {
+    "completion_date": "2017-06-06T00:00:00.000Z",
+    "energy": 71500,
+    "coins": 275000,
+    "food": 152000,
+    "resources": 65930
+  },
+  {
+    "completion_date": "2017-06-08T00:00:00.000Z",
+    "energy": 97125,
+    "coins": 275000,
+    "food": 152000,
+    "resources": 62037
+  },
+  {
+    "completion_date": "2017-06-10T00:00:00.000Z",
+    "energy": 96000,
+    "coins": 1925000,
+    "food": 344000,
+    "resources": 48098
+  },
+  {
+    "completion_date": "2017-06-12T00:00:00.000Z",
+    "energy": 83000,
+    "coins": 2056250,
+    "food": 332000,
+    "resources": 101005
+  },
+  {
+    "completion_date": "2017-06-15T00:00:00.000Z",
+    "energy": 118000,
+    "coins": 1925000,
+    "food": 372000,
+    "resources": 75906
+  },
+  {
+    "completion_date": "2017-06-17T00:00:00.000Z",
+    "energy": 90000,
+    "coins": 275000,
+    "food": 260000,
+    "resources": 99573
+  },
+  {
+    "completion_date": "2017-06-20T00:00:00.000Z",
+    "energy": 75000,
+    "coins": 1925000,
+    "food": 244500,
+    "resources": 57993
+  },
+  {
+    "completion_date": "2017-06-22T00:00:00.000Z",
+    "energy": 90000,
+    "coins": 275000,
+    "food": 162000,
+    "resources": 51852
+  },
+  {
+    "completion_date": "2017-06-25T00:00:00.000Z",
+    "energy": 107000,
+    "coins": 1925000,
+    "food": 332000,
+    "resources": 43052
+  },
+  {
+    "completion_date": "2017-06-27T00:00:00.000Z",
+    "energy": 94500,
+    "coins": 1925000,
+    "food": 332000,
+    "resources": 113038
+  },
+  {
+    "completion_date": "2017-06-30T00:00:00.000Z",
+    "energy": 78000,
+    "coins": 2056250,
+    "food": 400000,
+    "resources": 77471
+  },
+  {
+    "completion_date": "2017-07-02T00:00:00.000Z",
+    "energy": 102000,
+    "coins": 0,
+    "food": 52000,
+    "resources": 85257
+  },
+  {
+    "completion_date": "2017-07-05T00:00:00.000Z",
+    "energy": 91000,
+    "coins": 0,
+    "food": 102000,
+    "resources": 90701
+  },
+  {
+    "completion_date": "2017-07-08T00:00:00.000Z",
+    "energy": 88000,
+    "coins": 800000,
+    "food": 309000,
+    "resources": 92779
+  },
+  {
+    "completion_date": "2017-07-10T00:00:00.000Z",
+    "energy": 106865,
+    "coins": 1650000,
+    "food": 411000,
+    "resources": 67134
+  },
+  {
+    "completion_date": "2017-07-12T00:00:00.000Z",
+    "energy": 146973,
+    "coins": 2450000,
+    "food": 442000,
+    "resources": 83596
+  },
+  {
+    "completion_date": "2017-07-15T00:00:00.000Z",
+    "energy": 111938,
+    "coins": 2056250,
+    "food": 404000,
+    "resources": 80664
+  },
+  {
+    "completion_date": "2017-07-17T00:00:00.000Z",
+    "energy": 93500,
+    "coins": 275000,
+    "food": 170000,
+    "resources": 82580
+  },
+  {
+    "completion_date": "2017-07-19T00:00:00.000Z",
+    "energy": 106875,
+    "coins": 206250,
+    "food": 248500,
+    "resources": 87451
+  },
+  {
+    "completion_date": "2017-07-22T00:00:00.000Z",
+    "energy": 114437,
+    "coins": 275000,
+    "food": 237219,
+    "resources": 74904
+  },
+  {
+    "completion_date": "2017-07-24T00:00:00.000Z",
+    "energy": 93000,
+    "coins": 2056250,
+    "food": 262000,
+    "resources": 54616
+  },
+  {
+    "completion_date": "2017-07-29T00:00:00.000Z",
+    "energy": 99000,
+    "coins": 2050000,
+    "food": 414000,
+    "resources": 49687
+  },
+  {
+    "completion_date": "2017-08-01T00:00:00.000Z",
+    "energy": 81234,
+    "coins": 200000,
+    "food": 207000,
+    "resources": 86910
+  },
+  {
+    "completion_date": "2017-08-03T00:00:00.000Z",
+    "energy": 68343,
+    "coins": 0,
+    "food": 102000,
+    "resources": 58214
+  },
+  {
+    "completion_date": "2017-08-06T00:00:00.000Z",
+    "energy": 110625,
+    "coins": 0,
+    "food": 74500,
+    "resources": 71707
+  },
+  {
+    "completion_date": "2017-08-09T00:00:00.000Z",
+    "energy": 91000,
+    "coins": 1850000,
+    "food": 242000,
+    "resources": 102271
+  },
+  {
+    "completion_date": "2017-08-11T00:00:00.000Z",
+    "energy": 108938,
+    "coins": 1650000,
+    "food": 322000,
+    "resources": 68027
+  },
+  {
+    "completion_date": "2017-08-13T00:00:00.000Z",
+    "energy": 92240,
+    "coins": 1650000,
+    "food": 282000,
+    "resources": 99284
+  },
+  {
+    "completion_date": "2017-08-16T00:00:00.000Z",
+    "energy": 94125,
+    "coins": 406250,
+    "food": 92000,
+    "resources": 50165
+  },
+  {
+    "completion_date": "2017-08-18T00:00:00.000Z",
+    "energy": 69000,
+    "coins": 0,
+    "food": 180000,
+    "resources": 80666
+  },
+  {
+    "completion_date": "2017-08-21T00:00:00.000Z",
+    "energy": 86250,
+    "coins": 200000,
+    "food": 110000,
+    "resources": 71890
+  },
+  {
+    "completion_date": "2017-08-23T00:00:00.000Z",
+    "energy": 80438,
+    "coins": 1925000,
+    "food": 420000,
+    "resources": 91546
+  },
+  {
+    "completion_date": "2017-08-25T00:00:00.000Z",
+    "energy": 81000,
+    "coins": 1925000,
+    "food": 358000,
+    "resources": 47800
+  },
+  {
+    "completion_date": "2017-08-28T00:00:00.000Z",
+    "energy": 77500,
+    "coins": 1925000,
+    "food": 298000,
+    "resources": 10587
+  },
+  {
+    "completion_date": "2017-08-30T00:00:00.000Z",
+    "energy": 124625,
+    "coins": 275000,
+    "food": 240000,
+    "resources": 108400
+  },
+  {
+    "completion_date": "2017-09-02T00:00:00.000Z",
+    "energy": 120625,
+    "coins": 0,
+    "food": 180000,
+    "resources": 66728
+  },
+  {
+    "completion_date": "2017-09-04T00:00:00.000Z",
+    "energy": 106250,
+    "coins": 0,
+    "food": 94800,
+    "resources": 33445
+  },
+  {
+    "completion_date": "2017-09-07T00:00:00.000Z",
+    "energy": 103000,
+    "coins": 1650000,
+    "food": 332000,
+    "resources": 83188
+  },
+  {
+    "completion_date": "2017-09-09T00:00:00.000Z",
+    "energy": 108000,
+    "coins": 1650000,
+    "food": 300750,
+    "resources": 54483
+  },
+  {
+    "completion_date": "2017-09-12T00:00:00.000Z",
+    "energy": 120000,
+    "coins": 1650000,
+    "food": 332000,
+    "resources": 88125
+  },
+  {
+    "completion_date": "2017-09-14T00:00:00.000Z",
+    "energy": 148000,
+    "coins": 275000,
+    "food": 170000,
+    "resources": 92782
+  },
+  {
+    "completion_date": "2017-09-16T00:00:00.000Z",
+    "energy": 114000,
+    "coins": 0,
+    "food": 200000,
+    "resources": 75834
+  },
+  {
+    "completion_date": "2017-09-18T00:00:00.000Z",
+    "energy": 63000,
+    "coins": 0,
+    "food": 230000,
+    "resources": 52608
+  },
+  {
+    "completion_date": "2017-09-20T00:00:00.000Z",
+    "energy": 74063,
+    "coins": 1650000,
+    "food": 405250,
+    "resources": 37944
+  },
+  {
+    "completion_date": "2017-09-23T00:00:00.000Z",
+    "energy": 96000,
+    "coins": 1650000,
+    "food": 310000,
+    "resources": 92145
+  },
+  {
+    "completion_date": "2017-09-25T00:00:00.000Z",
+    "energy": 116500,
+    "coins": 1650000,
+    "food": 382000,
+    "resources": 50457
+  },
+  {
+    "completion_date": "2017-09-28T00:00:00.000Z",
+    "energy": 85500,
+    "coins": 225000,
+    "food": 180000,
+    "resources": 89980
+  },
+  {
+    "completion_date": "2017-09-30T00:00:00.000Z",
+    "energy": 102188,
+    "coins": 100000,
+    "food": 180000,
+    "resources": 83225
+  },
+  {
+    "completion_date": "2017-10-03T00:00:00.000Z",
+    "energy": 114000,
+    "coins": 275000,
+    "food": 140000,
+    "resources": 89970
+  },
+  {
+    "completion_date": "2017-10-05T00:00:00.000Z",
+    "energy": 105000,
+    "coins": 1925000,
+    "food": 372000,
+    "resources": 70080
+  },
+  {
+    "completion_date": "2017-10-07T00:00:00.000Z",
+    "energy": 75000,
+    "coins": 1650000,
+    "food": 290000,
+    "resources": 81320
+  },
+  {
+    "completion_date": "2017-10-09T00:00:00.000Z",
+    "energy": 123282,
+    "coins": 1650000,
+    "food": 322000,
+    "resources": 52169
+  },
+  {
+    "completion_date": "2017-10-11T00:00:00.000Z",
+    "energy": 129000,
+    "coins": 800000,
+    "food": 152000,
+    "resources": 39457
+  },
+  {
+    "completion_date": "2017-10-14T00:00:00.000Z",
+    "energy": 117063,
+    "coins": 0,
+    "food": 130000,
+    "resources": 71992
+  },
+  {
+    "completion_date": "2017-10-16T00:00:00.000Z",
+    "energy": 75000,
+    "coins": 275000,
+    "food": 200000,
+    "resources": 27731
+  },
+  {
+    "completion_date": "2017-10-19T00:00:00.000Z",
+    "energy": 104750,
+    "coins": 1650000,
+    "food": 332000,
+    "resources": 82132
+  },
+  {
+    "completion_date": "2017-10-21T00:00:00.000Z",
+    "energy": 144668,
+    "coins": 1650000,
+    "food": 321000,
+    "resources": 71220
+  },
+  {
+    "completion_date": "2017-10-24T00:00:00.000Z",
+    "energy": 94500,
+    "coins": 1650000,
+    "food": 282000,
+    "resources": 82659
+  },
+  {
+    "completion_date": "2017-10-26T00:00:00.000Z",
+    "energy": 78750,
+    "coins": 0,
+    "food": 150000,
+    "resources": 67882
+  },
+  {
+    "completion_date": "2017-10-29T00:00:00.000Z",
+    "energy": 109875,
+    "coins": 0,
+    "food": 230000,
+    "resources": 58384
+  },
+  {
+    "completion_date": "2017-10-31T00:00:00.000Z",
+    "energy": 109250,
+    "coins": 0,
+    "food": 140000,
+    "resources": 82131
+  },
+  {
+    "completion_date": "2017-11-02T00:00:00.000Z",
+    "energy": 127500,
+    "coins": 1925000,
+    "food": 376000,
+    "resources": 112811
+  },
+  {
+    "completion_date": "2017-11-04T00:00:00.000Z",
+    "energy": 120000,
+    "coins": 1925000,
+    "food": 382000,
+    "resources": 89178
+  },
+  {
+    "completion_date": "2017-11-07T00:00:00.000Z",
+    "energy": 125578,
+    "coins": 1925000,
+    "food": 370000,
+    "resources": 69618
+  },
+  {
+    "completion_date": "2017-11-09T00:00:00.000Z",
+    "energy": 111219,
+    "coins": 0,
+    "food": 140000,
+    "resources": 78297
+  },
+  {
+    "completion_date": "2017-11-12T00:00:00.000Z",
+    "energy": 46000,
+    "coins": 800000,
+    "food": 80000,
+    "resources": 72424
+  },
+  {
+    "completion_date": "2017-11-15T00:00:00.000Z",
+    "energy": 122625,
+    "coins": 275000,
+    "food": 152000,
+    "resources": 35227
+  },
+  {
+    "completion_date": "2017-11-17T00:00:00.000Z",
+    "energy": 24000,
+    "coins": 1650000,
+    "food": 200000,
+    "resources": 49273
+  },
+  {
+    "completion_date": "2017-11-19T00:00:00.000Z",
+    "energy": 103875,
+    "coins": 1900000,
+    "food": 362000,
+    "resources": 114404
+  },
+  {
+    "completion_date": "2017-11-22T00:00:00.000Z",
+    "energy": 95875,
+    "coins": 1650000,
+    "food": 222000,
+    "resources": 83016
+  },
+  {
+    "completion_date": "2017-11-24T00:00:00.000Z",
+    "energy": 66500,
+    "coins": 0,
+    "food": 115074,
+    "resources": 67221
+  },
+  {
+    "completion_date": "2017-11-26T00:00:00.000Z",
+    "energy": 84000,
+    "coins": 275000,
+    "food": 140000,
+    "resources": 29253
+  },
+  {
+    "completion_date": "2017-11-29T00:00:00.000Z",
+    "energy": 57000,
+    "coins": 0,
+    "food": 158000,
+    "resources": 44219
+  },
+  {
+    "completion_date": "2017-12-01T00:00:00.000Z",
+    "energy": 81376,
+    "coins": 1650000,
+    "food": 306800,
+    "resources": 99843
+  },
+  {
+    "completion_date": "2017-12-03T00:00:00.000Z",
+    "energy": 93000,
+    "coins": 1925000,
+    "food": 202000,
+    "resources": 62759
+  },
+  {
+    "completion_date": "2017-12-06T00:00:00.000Z",
+    "energy": 100500,
+    "coins": 1925000,
+    "food": 314000,
+    "resources": 49349
+  },
+  {
+    "completion_date": "2017-12-08T00:00:00.000Z",
+    "energy": 46456,
+    "coins": 275000,
+    "food": 194500,
+    "resources": 111347
+  },
+  {
+    "completion_date": "2017-12-10T00:00:00.000Z",
+    "energy": 107000,
+    "coins": 0,
+    "food": 217000,
+    "resources": 73295
+  },
+  {
+    "completion_date": "2017-12-12T00:00:00.000Z",
+    "energy": 163875,
+    "coins": 406250,
+    "food": 240000,
+    "resources": 64733
+  },
+  {
+    "completion_date": "2017-12-15T00:00:00.000Z",
+    "energy": 126000,
+    "coins": 1650000,
+    "food": 380000,
+    "resources": 103280
+  },
+  {
+    "completion_date": "2017-12-17T00:00:00.000Z",
+    "energy": 70500,
+    "coins": 1650000,
+    "food": 252000,
+    "resources": 85691
+  }
+]
